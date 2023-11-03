@@ -1,0 +1,14 @@
+firstName: Sarah
+lastName: Hsu
+role: Site Reliability Engineer
+organization: Goldman Sachs
+languages: 
+  - English
+pronoun: She/Her
+country: United Kingdom
+city: London
+bio: Sarah is a Site Reliability Engineer with Goldman Sachs working on Consolidated Trade Ledger. She is the organisation lead for Goldman Sachs with the Green Software Foundation and the chair of the Principle’s project. She would like to see Green Software becoming an integral part of the educational curriculum for anyone learning to code.
+type: normal
+social:
+  github: greenhsu123
+  linkedin: sarah-hsu-b19a19108

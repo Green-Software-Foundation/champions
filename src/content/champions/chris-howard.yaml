@@ -1,0 +1,18 @@
+firstName: Chris
+lastName: Howard
+role: Lead Open Source Program Manager
+organization: EPAM
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: Manchester
+bio: | 
+ Chris has over 10 years’ experience consulting for a broad spectrum of organisations in devising and delivering corporate transformation programmes. At EPAM Systems he leads the Open Source Program Office supporting employees and clients with their consumption, contribution and maturity in Open Source.
+ He is engaged in a number of wider industry initiatives including leading a non-profit organisation, Intertech, promoting diversity in technology where he has been awarded a number of accolades for his advocacy in this area. Chris is Chief Learning Officer of OpenUK and a member of the FINOS diversity and inclusion special interest group. He is also Chair of a Federation of primary schools in Hackney and sits on a number of advisory boards focused on increasing access to technology for young and diverse individuals.
+ He has a keen interest in the overlaps between open source and sustainability and talks on this topic regularly.
+type: normal
+social:
+  github: cm-howard
+  linkedin: chrishowarduk
+  twitter: chris_howard

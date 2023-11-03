@@ -1,0 +1,74 @@
+firstName: Dr. Anubha
+lastName: Jain
+role: Director
+organization: School of CS & IT, IIS (Deemed to be University)
+languages: 
+  - English
+  - Hindi
+country: India
+city: Jaipur
+bio: Dr. Anubha Jain is working as a Director, School of Computer Science & IT at IIS (Deemed to be University) located in Jaipur, India. An academician for the last 23 years, she has actively contributed in teaching, industry and R&D. She completed her PhD in the field of Information Retrieval and Information Architecture. Her research interests include Soft Computing, Computational Studies, Deep Learning and Software Testing. She has authored nine books and has contributed many chapters in edited books. She has also published a number of papers at national as well as international level. She is a reviewer for many journals and leading book houses and is associated with different academic bodies in diverse capacities including being the convener of Board of Studies, member of Academic Council, Curriculum Committees, etc. She has led a diverse team and has been instrumental in starting new courses both at the Undergraduate and postgraduate levels. Being an advocate of green practices, she is one of the speakers at the International speakers’ bureau, Green Software Foundation. She is a regular speaker at national and international conferences, workshops and seminars. Internationally, she has presented her paper on “Green IOT – towards a sustainable, smarter and safer world” in 2022 at QA&Test, Bilbao. Earlier, she has presented on the topics “Searching Lost QA in DevOps World” and “Internet of Things – Testing the Experience” in the same conference in 2018 and 2016 respectively. Recently in 2023, she has talked on "measuring the greenness in GIoT" at Hustef, Budapest and QA&Test, Bilbao.
+type: normal
+social:
+  github: anubhajain0409
+  linkedin: dr-Anubha-jain-14054117
+  website: https://www.facebook.com/anubha.sunshine
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-20
+    title: Measuring the greenness of GIoT
+    subtitle: QA&TEST Embedded 2023
+    description: Green IoT has the potential to revolutionize the way we interact with our surroundings and reduce the environmental impact of our activities. However, to fully realize the potential of Green IoT, it is essential to measure its “greenness” and evaluate its impact on the environment. Measuring the greenness of Green IoT requires a holistic approach that takes into account various factors such as energy consumption, environmental impact, and user satisfaction. Measuring the greenness of Green IoT is a critical step in ensuring its success and sustainability. By using a holistic approach and appropriate testing techniques, we can evaluate its impact on the environment and make informed decisions.
+    url: https://embedded.qatest.org/anubha-jain/?lang=en
+    relatedEvent: 22nd International Conference on Embedded Software Testing, Bilbao, Spain
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-10-03
+    dateTo: 2023-10-04
+    title: Measuring the greenness of GIoT
+    subtitle: HUSTEF 2023
+    description: Green IoT has the potential to revolutionize the way we interact with our surroundings and reduce the environmental impact of our activities. However, to fully realize the potential of Green IoT, it is essential to measure its “greenness” and evaluate its impact on the environment. Measuring the greenness of Green IoT requires a holistic approach that takes into account various factors such as energy consumption, environmental impact, and user satisfaction.  To measure the greenness of Green IoT, it is also important to use appropriate testing techniques and tools. This can include using energy profiling tools to monitor the energy consumption of the system, simulating different usage scenarios to evaluate its performance under different conditions, and performing user testing to evaluate its usability and effectiveness.
+    url: https://hustef.hu/anubha_jain/
+    relatedEvent: Hungarian Software Testing Forum
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: online-talk
+    dateFrom: 2023-09-18
+    dateTo: 2023-10-05
+    title: Green IoT and Responsible AI for Sustainable Development
+    subtitle: UGC-HRD-RC
+    description: Green IoT is an emerging technology that combines the principles of environmental sustainability and energy efficiency with the Internet of Things (IoT). With the increasing demand for environmentally conscious products and services, Green IoT has the potential to revolutionize the way we interact with our surroundings and reduce the environmental impact of our activities.  The talk was on how Green IoT and Responsible AI can lead to a sustainable society.
+    relatedEvent: Refresher Course in Information Technology and Computer Science, Aursangabad
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-06-16
+    dateTo: 2023-06-17
+    title: "Go Green with Blue:  Technology for a Sustainable World"
+    subtitle: IDBA ACM-WIR 2023
+    description: An invited talk in the conference discussing how judicious use of technology can help in sustainability. 
+    url: https://indore.hosting.acm.org/acmwir2023/SpeakerInfo.htm
+    relatedEvent: RInternational Conference on Data Science and Big Data Analysis (ACM-WIR)
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-06-15
+    dateTo: 2023-06-15
+    title:  The Power of Sustainable Technology for a Greener World
+    description: Article highlighting the Green Solutions for sustainability in a Spanish Technical Magazine
+    url: https://www.tecnonews.info/opiniones/el_poder_de_la_tecnologia_sostenible_para_un_mundo_mas_verde
+    relatedEvent: tecnonews
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: keynote
+    dateFrom: 2022-12-15
+    dateTo: 2022-12-16
+    title: "Go Green with Blue: Mantra for a Sustainable World"
+    subtitle:  ICRACMT-2022
+    description: The keynote address discussed the dire need to  go green (build sustainable Solutions) with Blue (Technology) in order to have a sustainable and safer world.
+    relatedEvent: International Conference on Recent Advancements in Commerce, Management and Technology, Bangalore
+    url: https://www.youtube.com/watch?v=Z0dnvSM059A

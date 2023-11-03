@@ -1,0 +1,42 @@
+firstName: Mike
+lastName: Gifford
+role: Senior Strategist
+organization: CivicActions
+languages: 
+  - English
+pronoun: He/Him
+country: Canada
+city: Ottawa
+bio: |
+ Mike Gifford is a Senior Strategist at CivicActions and a thought leader on digital accessibility in the public sector. He is also a W3C Invited Expert and recognized authoring tool accessibility expert.
+ Previously, he was the Founder and President of OpenConcept Consulting Inc., a web development agency specializing in building open source solutions for the open web. OpenConcept was an impact driven company and Certified B Corporation. Like CivicActions, OpenConcept worked extensively with the Drupal CMS. Mike was also part of the Government of Canada's Open Source Advisory Board.
+ Mike has spearheaded accessibility improvements in Drupal since 2008, and has served as a Drupal Core Accessibility Maintainer in 2012.
+ As a long-term environmentalist, Mike has found ways to integrate his passions for the web and the planet. His most significant contributions have been in the development of the Sustainable Web Manifesto and adding an open source perspective to Tim Frick’s book Designing for Sustainability. 
+type: normal
+social:
+  github: mgifford
+  linkedin: mgifford
+  twitter: mgifford
+  website: https://mastodon.social/@mgifford
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: meetup-talk
+    dateFrom: 2023-09-26
+    dateTo: 2023-09-26
+    title: Simple is Green and Accessible presentation
+    description: Presented on web accessibility, open source and need to be more thoughtful about how we build the web. 
+    url: https://www.meetup.com/gsf-ottawa/events/294807126/
+    relatedEvent: Green Software Foundation Ottawa Meetup
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-03-25
+    dateTo: 2023-03-25
+    title: Making Tech Work for Everyone - Podcast
+    description: |
+     Unlike in the private sector, governments don’t choose their users. That’s why even more important in the public sector to make sure that technology and digital transformation efforts work for everyone. It doesn’t matter how innovative or efficient digital technology can be for public institutions if the implementation of those actively exclude people from accessing and benefiting from public services and assets.
+     That’s why principles like accessibility, sustainability and openness are so important when we think about digital transformation.
+     Joining Ryan to talk about this is Mike Gifford, an Associate with Think Digital, and a Senior Strategist at CivicActions, a technology consultancy that helps government deliver better public services through modern technology and design.
+    url: https://thinkdigital.ca/podcast/making-tech-work-for-everyone/
+    relatedEvent: Let's Think Digital Podcast

@@ -1,0 +1,28 @@
+firstName: Davide
+lastName: Bianchi
+role: Technical Leader
+organization: Mia-Platform
+languages: 
+  - English
+  - Italian
+pronoun: He/Him
+country: Italy
+city: Milan
+bio: |
+ I am a Technical Lead at Mia-Platform. Passionate of open source and green software in the cloud native world.
+ Go and NodeJS expert, I'm working for years to create applications on Kubernetes and projects to make them more accessible. 
+ Creator of kube-green.
+type: normal
+social:
+  github: davidebianchi
+  linkedin: davide-bianchi-929a74b9
+  twitter: dbianchi92
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-06-08
+    dateTo: 2023-06-08
+    title: "kube-green: How-to reduce your CO2 fingerprint on k8s"
+    url: https://platformcon.com/talks/kube-green-increase-cloud-software-sustainability-reducing-co2-footprint
+    relatedEvent: PlatformCon

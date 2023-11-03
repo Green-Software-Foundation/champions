@@ -1,0 +1,47 @@
+firstName: Gaël
+lastName: Duez
+role: Tech Sustainability Strategist - Speaker - Podcaster
+organization: Green I/O
+languages: 
+  - English
+  - French
+country: France
+city: Paris
+bio: |
+ Gaël Duez is the founder of the Green IO podcast 🎙️ which helps responsible technologists build a greener digital world, one byte at a time. 
+ Gaël has worked in the IT sector for 20 years. He is a former executive who has led Product & Tech teams and business units across 3 continents in sectors such as PropTech, Payment Service Providers, Industrial Maintenance, and the Document-Processing Industry. 
+ Gaël decided to focus full-time on Digital Sustainability in 2021, having witnessed first hand the benefits that digitalization can bring to people but also its contribution to climate change and other environmental crises. He now raises awareness via public speaking and creates positive impact through pro bono work with the W3C and Climate Action Tech communities. He helps Tech companies and their teams deploy sustainability strategies aligned with the Paris Agreement, leveraging Digital Tech in a responsible way.
+ Gaël enjoys building bridges between diverse communities & networks.  A long-time practitioner of collective intelligence and systemic thinking, Gaël is a certified trainer (and former Board member) for the Digital Collage workshop as well as a Climate Fresk workshop professional facilitator. 
+His 3 core values are: respect people, respect science and respect planet Earth. 
+type: normal
+social:
+  github: gaelduez
+  linkedin: gaelduez
+  twitter: gaelduez
+  website: https://gaelduez.com
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-10-17
+    dateTo: 2023-10-17
+    title: How to defuse the digital carbon bomb?
+    url: https://www.linkedin.com/posts/aps-group_webinar-how-to-defuse-the-digital-carbon-activity-7117758220588199936-NAUx?utm_source=share&utm_medium=member_desktop
+    relatedEvent: APS Group Public Webinar
+  - contributionType: hosting
+    linkedGSFProject: Community WG
+    subtype: all
+    dateFrom: 2023-09-14
+    dateTo: 2023-09-14
+    title: Sustainability track
+    subtitle: Organizing a full day sustainability track to gather green software advocates in London
+    url: https://www.apidays.global/london/
+    relatedEvent: Apidays London
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-06-08
+    dateTo: 2023-06-08
+    title: Comment désamorcer la bombe carbone du numérique
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7072545341186699264
+    relatedEvent: MEDEF Reunion COMEX 40

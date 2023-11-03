@@ -1,0 +1,44 @@
+firstName: Ioannis
+lastName: Kolaxis
+role: Principal Director, Technology Sustainability Innovation
+organization: Accenture
+languages: 
+  - English
+  - Greek
+pronoun: He/Him
+country: Greece
+city: Athens
+bio: Ioannis Kolaxis is a Principal Director at Accenture Technology Sustainability Innovation, focusing on Green Software innovations. He is the author of the Green Software book, an inventor, and a speaker. He has been previously developing software for Atos, IBM, and Siemens. He invented a novel way of working remotely, having filed five patents for software systems. He was awarded twice the first prize for coming up with the most innovative ideas at Atos Innovation Week 2020 and 2021. Ioannis frequently speaks at conferences and meetups, including GOTO Amsterdam 2022, Devoxx Ukraine 2021, and Oracle Code One 2019. Visit his website to learn more https://kolaxis.dev
+type: normal
+social:
+  github: ikolaxis
+  linkedin: ioannis-kolaxis
+  twitter: IoannisKolaxis
+  website: https://www.kolaxis.dev
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-10-19
+    dateTo: 2023-10-19
+    title: "Green Software: Rethinking how to develop software to save our planet"
+    subtitle: Conference in Basel, Switzerland
+    url: https://baselone.ch/speech.html?id=17C65456-1096-4180-AB21-EC50A89FEB97
+    relatedEvent: BaselOne 23
+  - contributionType: writing
+    linkedGSFProject: Real-Time Cloud
+    subtype: personal-blog-post
+    dateFrom: 2023-09-10
+    dateTo: 2023-09-10
+    title: How to measure software carbon emissions for actionable insights
+    description: What is the best way to measure the carbon emissions of a software application? What tools or methodologies should we use?
+    url: https://www.kolaxis.dev/measure-software-carbon-emissions-actionable-insights
+    relatedEvent: kolaxis.dev - A blog dedicated to building better software
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: personal-blog-post
+    dateFrom: 2023-04-30
+    dateTo: 2023-04-30
+    title: "Calling for a greener Internet: Decentralized with smaller data centers"
+    url: https://www.kolaxis.dev/greener-internet-decentralized-smaller-edge-data-centers
+    relatedEvent: kolaxis.dev - A blog dedicated to building better software

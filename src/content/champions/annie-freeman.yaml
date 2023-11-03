@@ -1,0 +1,29 @@
+firstName: Annie
+lastName: Freeman
+role: Platform Engineer at Xero, Enrolled Barrister and Solicitor
+organization: Xero
+languages: 
+  - English
+pronoun: She/Her
+country: USA
+city: Auckland
+bio: |
+ Annie is a platform software engineer at Xero in New Zealand. 
+ Since 2021 she has been captivated by how engineers can make a difference to the climate problem using green software practices. 
+ In particular, she is interested in building carbon aware software that dynamically runs in the least carbon intensive region or time period. 
+ Annie has speaking experience at conferences and meetups. 
+ Annie is also an enrolled barrister and solicitor in New Zealand and is interested in how software and law can intersect to find solutions to climate change.
+type: normal
+social:
+  github: ae-freeman
+  linkedin: annie-freeman-4b1008150
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-09-27
+    dateTo: 2023-09-27
+    title: Can Engineers Help Solve Climate Change?
+    description: I gave a lecture at the Grace Hopper Celebration in Orlando, Florida in September 2023, sharing ideas on how software engineers can help solve climate change.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7114392689298604033/
+    relatedEvent: Grace Hopper Celebration

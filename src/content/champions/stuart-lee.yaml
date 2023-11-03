@@ -1,0 +1,16 @@
+firstName: Stuart
+lastName: Lee
+role: Snr Director - Global Azure Platform COE lead
+organization: Avanade
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: York
+bio: |
+ I am an experienced leader in Azure Platform and cloud computing with a focus of my role on sustainable azure cloud.
+ I believe that consumption of our planets resources should be measured, and in addition we all therefore have a responsbility to have an efficient footprint as possible when we consume cloud servcies.
+type: normal
+social:
+  github: bigstulee
+  linkedin: stuartmlee

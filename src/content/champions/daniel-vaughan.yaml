@@ -1,0 +1,62 @@
+firstName: Daniel
+lastName: Vaughan
+role: Cloud Native Software Architect
+organization: Mastercard
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: Cambridge
+bio: Daniel Vaughan is a Cloud Native Architect and Green Software Foundation Community Working Group member. With a lengthy background in software development and experience in multiple industries, Dan is passionate about creating software that makes both effective and sustainable use of cloud technologies in particular.
+type: normal
+social:
+  github: danielvaughan
+  linkedin: danielvaughan
+  twitter: danielvaughan
+  website: https://medium.com/@danielvaughan
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-10-19
+    dateTo: 2023-10-19
+    title: Sustainability and Green Engineering Discussion
+    description: "Facilitating group discussion on Sustainability and Green Engineering: Highlight the growing importance of sustainable engineering practices and how leaders can incorporate environmental considerations into their projects."
+    url: https://www.eventbrite.co.uk/e/making-waves-the-engineering-leaders-workshop-take-2-tickets-680783330267?aff=oddtdtcreator
+    relatedEvent: "Making Waves: The Engineering Leaders Workshop"
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: Green Software for a Sustainable Future
+    description: 30 minutes talk introducing Green Software concepts.
+    url: https://ibmzday2023-vconf.bemyapp.com/#/talks/65258a6a120f3ec7897bb8b6
+    relatedEvent: IBM Z Day
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: other
+    dateFrom: 2023-09-14
+    dateTo: 2023-09-14
+    title: Organising (venue)
+    description: Hosting Green London green code workshop
+    url: https://www.meetup.com/gsf-london/events/295976027/
+    relatedEvent: Code Green London - Green Coding Workshop
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-03-23
+    dateTo: 2023-03-23
+    title: Green Software Panel
+    description: Discussion panel member
+    url: https://www.meetup.com/gsf-london/events/292217696/
+    relatedEvent: Green Software Foundation London Meetup March
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2023-03-03
+    dateTo: 2023-03-03
+    title: Organising (venue)
+    description: Inaugural Green Software Foundation London meetup
+    url: https://www.meetup.com/gsf-london/events/292217696/
+    relatedEvent: Green Software Foundation London Meetup March

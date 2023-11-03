@@ -1,0 +1,15 @@
+firstName: Bill
+lastName: Johnson
+role: SDM, Worldwide Sustainability
+organization: Amazon
+languages: 
+  - English
+pronoun: He/Him
+country: USA
+city: Seattle
+bio: I love to teach in general and especially love to introduce green software concepts to people that otherwise wouldn't take them into account.
+type: normal
+social:
+  github: dubrie
+  linkedin: dubrie
+  twitter: dubrie

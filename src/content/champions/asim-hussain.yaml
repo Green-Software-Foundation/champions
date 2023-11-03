@@ -1,0 +1,37 @@
+firstName: Asim
+lastName: Hussain
+role: Chairperson & Executive Director
+organization: Green Software Foundation
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: London
+bio: Asim is a developer, author and champion with over 20 years experience working for organizations such as the European Space Agency, Google, Microsoft and now Intel, where he is the Director of Green Software and Ecosystems. He's also the Executive Director and Chairperson of the Green Software Foundation, a global industry consortium with a mission to create a trusted ecosystem of people, standards, tooling and best practices for building green software. He is available for keynote conference appearances.
+type: normal
+social:
+  github: jawache
+  linkedin: jawache
+  twitter: jawache
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2019-12-05
+    dateTo: 2019-12-06
+    title: JavaScript Saves the World
+    description: |
+     Data centers produce about 3% of the world's greenhouse gases and this is set to treble in the next 10 years. When building apps, we focus on minimizing costs, time to market, bugs, bundle size, application speed, SEO, but we spend almost no effort trying to minimize the damage our applications are making to the environment.
+     Asim discusses how to build a green sustainable web application with NestJS and Serverless.
+    url: https://www.youtube.com/watch?v=BRgP2NqvZWU&
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2019-06-26
+    dateTo: 2019-06-26
+    title: AI-powered JavaScript applications
+    description: |
+     There are many exciting things happening with AI, from which, until recently, JavaScript developers were largely shut out. But things are changing, if you can do `npm install @tensorflow/tfjs` or make an API call, you can now do AI. 
+     In this fast-paced talk, I'll open your mind to what's possible by demoing several AI-powered JavaScript apps and show you how they were built using either TensorFlow.js or easy to use AI powered APIs.
+     You don't need a PhD in Maths, you don't need years of experience, you just need imagination and the willingness to try.
+    url: https://www.youtube.com/watch?v=hMHyMj8A-EM&

@@ -1,0 +1,26 @@
+firstName: Pindy
+lastName: Bhullar
+role: ESG and Sustainable Technology Lead
+organization: UBS
+languages: 
+  - English
+  - Punjai
+pronoun: She/Her
+country: United Kingdom
+city: Potters Bar
+bio: Technologist and change leader with over twenty years’ experience driving efficiency and enhancing performance for global leader in investment banking. Possesses extensive knowledge of IT architecture and systems, programme and project leadership in business transformation, with particular expertise in building sustainable technology solutions and infrastructure in the drive for net zero.
+type: normal
+social:
+  github: PindyBhullar
+  linkedin: pindybhullar
+  twitter: PindyBhullar
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: conference-talk
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: The Green Software Revolution
+    description: https://www.linkedin.com/feed/update/urn:li:activity:7087136002229559296/
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7104779534989676544/
+    relatedEvent: Concave Summit

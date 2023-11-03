@@ -1,0 +1,16 @@
+firstName: Max
+lastName: Körbächer
+role: Founder & Cloud Native Advisor
+organization: Liquid Reply
+languages: 
+  - English
+  - German
+country: Germany
+city: Munich
+bio: Max is a Cloud Native Advocate and Open Source Ambassador. He is initiator and Co-Chair of the CNCF Environmental Sustainability Technical Advisory Group, CNCF Ambassador, Linux Foundation Europe Advisory Board member and organizes tech community events as the KCD Munich and the KCD Ukraine found raser. In his work, he advices enterprises on Cloud and Open Source matters, how to build sustainable systems and craft future oriented IT strategies.
+type: normal
+social:
+  github: mkorbi
+  linkedin: maxkoerbaecher
+  twitter: mkorbi
+  website: https://medium.com/@mkoerbi

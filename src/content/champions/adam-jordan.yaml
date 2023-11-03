@@ -1,0 +1,14 @@
+firstName: Adam
+lastName: Jordan
+role: Distinguished Software Engineer
+organization: Shell
+languages: 
+  - English
+pronoun: He/Him
+country: USA
+city: Houston
+bio: Passionate software engineer, computer scientist, data scientist, and application security expert. 20+ years delivering software solutions across a wide variety of business domains. A strong advocate for sustainable software solutions that are aligned to the global agenda. Outside of the office, I’m a father of 6 (soon to be 7) kids. Technology and family can describe my life 24/7.
+type: normal
+social:
+  github: xylamic
+  linkedin: xylamic

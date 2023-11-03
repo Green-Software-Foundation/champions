@@ -1,0 +1,78 @@
+firstName: Laurent
+lastName: Devernay Satyagraha
+role: Sustainable Software Consultant
+organization: Greenspector
+languages: 
+  - English
+  - French
+pronoun: He/Him
+country: France
+city: Saint-Gaudens
+bio: |
+ I've been working in the sustainable IT field for a few years now and contributed to some repositories of best practices (https://gr491.isit-europe.org/).
+ I also worked on the sustainability chapter for Web Almanac 2022 (https://almanac.httparchive.org/en/2022/sustainability), a MOOC (https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) and am part of the W3C working group on this topic (https://www.w3.org/community/sustyweb/). 
+ Sustainable Software is my full-time job and I also teach this to students in engineering schools. 
+ I am deeply convinced that sustainability can't be achieved without taking into account accessibility, inclusion, security, privacy and ethics as a whole.
+type: normal
+social:
+  github: ldevernay
+  linkedin: laurent-devernay-2610b85
+  twitter: ldevernay
+  website: https://ldevernay.github.io/
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: 3rd-party-article
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: Keeping tech sustainable
+    url: https://apolitical.co/solution-articles/en/keeping-tech-sustainable
+    relatedEvent: Apolitical
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-07-29
+    dateTo: 2023-07-29
+    title: A closer look
+    url: https://greenspector.com/en/a-closer-look/
+    relatedEvent: Greenspector Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-05-16
+    dateTo: 2023-05-16
+    title: "Best practice: optimizing fonts"
+    url: https://greenspector.com/en/best-practice-optimizing-fonts/
+    relatedEvent: Greenspector Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-04-12
+    dateTo: 2023-04-12
+    title: "Best Practice: Limit the number of third-party services"
+    description: https://greenspector.com/en/best-practice-limit-the-number-of-third-party-services/
+    relatedEvent: Greenspector Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-03-16
+    dateTo: 2023-03-16
+    title: Reading grid for environmental commitments of web hosting offers
+    url: https://greenspector.com/en/comparison-of-web-hosting-offers-selected-for-their-environmental-commitments/
+    relatedEvent: Greenspector Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-02-08
+    dateTo: 2023-02-08
+    title: Web hosts, impact and sobriety actions
+    url: https://greenspector.com/en/web-hosts-impact-and-sobriety-actions/
+    relatedEvent: Greenspector Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-01-11
+    dateTo: 2023-01-11
+    title: Optimising your website for print
+    url: https://greenspector.com/en/optimising-your-website-for-print/
+    relatedEvent: Greenspector Blog

@@ -1,0 +1,16 @@
+firstName: Aerin
+lastName: Booth
+role: Founder
+organization: Cloud Sustainably
+languages: 
+  - English
+pronoun: They/Them
+country: United Kingdom
+city: London
+bio: I am a Cloud Sustainability Advocate and neurodiverse founder in tech on a mission to help people understand the real impact that cloud computing has on the world. Did you know that internet and cloud computing contribute over 4% of annual carbon emissions? Twice that of the airline industry! I host Public Cloud for Public Good a podcast targeted towards developers and senior leaders in tech. I speak at conferences of all sizes from local meet ups to AWS re:invent. I regularly create content online from twitch streams, YouTube videos, blogs etc.
+type: normal
+social:
+  github: aerincloud
+  linkedin: aerincloud
+  twitter: aerincloud
+  website: https://linktr.ee/aerincloud

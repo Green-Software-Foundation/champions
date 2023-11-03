@@ -1,0 +1,35 @@
+---
+import TopLeaf from "@/assets/TopLeaf.svg";
+import BottomLeaf from "@/assets/BottomLeaf.svg";
+---
+
+<footer class="py-8 px-16 md:py-16 md:px-32 bg-primary-dark relative mt-32">
+  <div class="">
+    <img
+      src={TopLeaf.src}
+      class="w-20 md:w-fit absolute -top-10 md:-top-16 right-0 md:right-20 z-0"
+    />
+    <img
+      src={BottomLeaf.src}
+      class="w-20 md:w-fit absolute -bottom-10 md:-bottom-16 left-0 md:left-20 z-0"
+    />
+  </div>
+
+  <div
+    class="flex flex-col items-center justify-center text-center gap-6 text-white"
+  >
+    <h1 class="font-black text-2xl md:text-4xl z-10">Need Assistance?</h1>
+    <p class="text-sm md:text-base z-10">
+      We are more than happy to answer your question and hear your comments.
+      <br />
+       Please feel free to contact us.
+    </p>
+
+    <a
+    href="mailto:champs-team@greensoftware.foundation"
+      class="z-10 text-primary-contact-us bg-white font-extrabold rounded-lg py-2 px-10 hover:bg-white hover:text-primary-contact-us md:w-fit w-full"
+    >
+      Contact Us
+    </a>
+  </div>
+</footer>

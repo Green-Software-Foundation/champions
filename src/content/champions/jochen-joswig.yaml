@@ -1,0 +1,100 @@
+firstName: Jochen
+lastName: Joswig
+role: Senior Software Engineer
+organization: MaibornWolff GmbH
+languages: 
+  - English
+  - German
+  - French
+pronoun: He/Him
+country: Germany
+city: Hamburg
+bio: I studied in San Francisco (USA), Jena (Germany) and Hamburg (Germany). During my studies, I realized the enormous potential of software and ICT to solve even the toughest of challenges. Since 2020, I became captivated by two questions. 1. How can software be applied to solve various sustainability issues? 2. How can one make software itself sustainable? The latter is especially interesting to me since I am myself a Software Developer. Therefore, I have become a founding member of the Green Software Manifesto (www.greenmanifesto.de) and I am researching and sharing ideas related to Green Software.
+type: normal
+social:
+  github: by-d-sign
+  linkedin: jochen-joswig
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-06-27
+    dateTo: 2023-06-27
+    title: Nachhaltigkeit braucht feste Termine
+    url: https://www.linkedin.com/posts/datev-software-craft-community_datevcodingfestival-datevlernt-wirsinddatev-activity-7079457777563127808-7iNr?utm_source=share&utm_medium=member_desktop
+    relatedEvent: CodingFestival 2023 at DATEV
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2023-06-23
+    dateTo: 2023-06-23
+    title: CNCF Cloud Native Sustainability Landscape
+    description: I co-authored the cloud native sustainability landscape document of the Cloud Native Computing Foundation (CNCF) Technical Advisory Group (TAG) for environmental sustainability.
+    url: https://tag-env-sustainability.cncf.io/landscape/
+    relatedEvent: CNCF TAG Environmental Sustainability Website
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-05-12
+    dateTo: 2023-05-12
+    title: Nachhaltigkeit im agilen Projektalltag
+    description: During this talk I introduced ideas how any agile team can make sustainability an integral part of their software development process and how it helps develop better software.
+    url: https://www.linkedin.com/posts/qaware-gmbh_wissentransfer-cloudnative-platform-activity-7062822518050410496-3Ywx
+    relatedEvent: Engineering Camp 2023 by QAware
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-03-24
+    dateTo: 2023-03-24
+    title: Nachhaltigkeitsmeetings für mehr Softwarequalität und Erfolg
+    description: How and where do you make sure that sustainability is an integral part of the software you develop. How do you keep track of it? How does it align with agile practices? This an more is answered in my article for the SQ Magazin 03/2023.
+    url: https://sq-magazin.de/nachhaltigkeit/nachhaltigkeitsmeetings-fur-mehr-softwarequalitat-und-erfolg/
+    relatedEvent: SQ Magazin
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-03-14
+    dateTo: 2023-03-14
+    title: Wie transformiere ich meine Software-Entwicklung hin zu Nachhaltigkeit?
+    subtitle: How to green, agile Softwaredevelopment
+    description: In this talk I detailed how to transform agile software development projects into green and agile software development projects.
+    url: https://www.meetup.com/de-DE/green-software-development-karlsruhe/events/291359701/
+    relatedEvent: Green Software Development Karlsruhe
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-02-24
+    dateTo: 2023-02-24
+    title: Nachhaltigkeitsmeetings planen und umsetzen
+    subtitle: Nachhaltigkeit braucht feste Termine
+    description: How do you create awareness and make environmental sustainability a non-functional requirement? How can one adjust and build upon agile development practices to enable teams, to factor in the environmental sustainability of their decisions. My article published in the IT-Spektrum magazine (edition 02/2023) helps to answer those questions.
+    url: https://www.maibornwolff.de/wp-content/uploads/2023/03/Sonderdruck-ITS-2-2023_Cover1.pdf
+    relatedEvent: IT-Spektrum 02/2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-02-08
+    dateTo: 2023-02-08
+    title: Applying Green Software in the Real World
+    subtitle: "Track: SUSTAIN_ability – Responsible Steps into the Future"
+    description: I presented how software and IT influence the environment and how an approach I developed can enable teams to design, implement and operate greener software.
+    url: https://www.oop-konferenz.de/oop-2023/programm/speaker/sprecherdetails/jochen-joswig
+    relatedEvent: OOP Conference
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2022-11-24
+    dateTo: 2022-11-24
+    title: Green Software
+    description: There has been extensive research in recent years about Green Software. In my talk, I introduced some of the key ideas and methods from this research and made the matter of Green Software more accessible. Furthermore, I introduced some areas in which in my opinion research is still lacking and provided a personal view on how this could be changed.
+    url: https://www.meetup.com/de-DE/jug-hamburg/events/289812926/
+    relatedEvent: Java User Group Hamburg Meetup
+  - contributionType: mentoring
+    linkedGSFProject: Community WG
+    subtype: all
+    dateFrom: 2022-10-27
+    dateTo: 2023-01-20
+    title: Software Development Project at Elite Graduate Program Software Engineering
+    subtitle: How can software help with the green transformation
+    description: The Elite graduate Program Software Engineering is backed by the University of Augsburg, the Technical University of Munich and the Ludwig-Maximilians-Universität Munich (LMU). The students developed sustainability focused applications from the first idea to a working prototype. They were taught to consider not only the effects of using the software, but also the footprint of the software itself. Additionally, they were given the opportunity to learn more about sustainable leadership.
+    url: https://www.linkedin.com/posts/maibornwolff_students-workshop-about-green-it-activity-7003650187294318592-lVnY/

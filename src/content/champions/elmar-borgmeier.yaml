@@ -1,0 +1,64 @@
+firstName: Elmar
+lastName: Borgmeier
+role: Co-Founder and Principal Consultant Green Software, Member of the GSF Standards Group
+organization: Syngenio AG
+languages: 
+  - English
+  - German
+pronoun: He/Him
+country: Germany
+city: Stuttgart
+bio: I have been creating digital innovations through software for over 20 years. To this end, I co-founded Syngenio AG, Germany, in 2001. The focus of my work has mostly been the financial sector. Since 2007, I have been designing dedicated FinTech solutions with Syngenio and supporting banks in their digital transformation - through technology, but also through cultural change towards agile methods and lean startup approaches. I am also regularly invited to speak on these topics. Both at management events such as the Innovations For Banks conference, at sustainability events such as the Green World Tour or technology conferences such as W-JAX. In addition, I participate as keynote speaker in webinars of different companies. In the 2010s, I wrote the blog NextGenerationFinance, which was voted one of the ten most important finance blogs in Germany. Privately, I have always been climate-conscious and use car sharing, for example. That's why I was thrilled to be able to be part of the Green Software Design initiative. Here I communicate in particular on topics relevant to corporate management, sustainability officers and IT management.
+type: normal
+social:
+  github: ElmarBorgmeier
+  linkedin: elmar-borgmeier
+  twitter: ElmarBorgmeier
+  website: https://www.xing.com/profile/Elmar_Borgmeier/
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-meetup
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: Kickoff Green Software Development Stuttgart
+    description: Initiating the Meetup series.
+    url: https://www.meetup.com/de-DE/green-software-development-stuttgart/events/294435689/
+    relatedEvent: Meetup Green Software Development Stuttgart
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-05-17
+    dateTo: 2023-05-17
+    title: Klimaschutz mit Software – Green Software Design in die Praxis umsetzen
+    description: GSD umfasst Best Practices für die Optimierung von Anwendungen und kann dabei helfen, Geschäftsprozesse und IT-Lösungen sinnvoll mit ökologischen Faktoren zu kombinieren. Unternehmen verringern damit Ihren CO2-Ausstoß und sparen gleichzeitig Ressourcen und Geld. Das verbessert neben der Klimabilanz auch die Unternehmensbilanz. Als Gründer der GSD-Community und erstes europäisches Mitglied der weltweit tätigen Green Software Foundation, vermittelt Syngenio in diesem kostenlosen Webinar Cutting-Edge-Know-how, Analyse und Evaluierung sowie Handlungsempfehlungen und sofort einsetzbare Lösungen für Software-Architekten, Entwickler, Produkt- und Projektmanager.
+    url: https://syngenio.com/gsd-webinar
+    relatedEvent: Webinar by Syngenio AG
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-04-01
+    dateTo: 2023-04-01
+    title: Mit Green Software Design zur klimaschonenden Software
+    description: Green Software Design ist mehr als Green Coding. Es ist ein ganzheitlicher Ansatz mit dem Ziel, Software klimaschonender zu machen. Dabei wird Software nicht nur auf ihren Verbrauch hin untersucht und verbessert, sondern ihr ganzer Lebenszyklus spielt eine Rolle. 
+    url: https://entwickler.de/digitale-transformation/green-software-design
+    relatedEvent: Java Magazin
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-11-10
+    dateTo: 2022-11-10
+    title: Klimaschutz durch Software ist möglich
+    description: Klimaschutz bei Softwareanwendungen ist möglich. Wie? Mit Cutting-Edge-Know-how, Analyse und Evaluierung sowie Handlungsempfehlungen und sofort einsetzbaren Lösungen für Architekten, Entwickler, Produkt- und Projektmanager. Denn, wichtiger als Green Coding allein, sind Architektur, Design und Technologien. 
+    url: https://jax.de/software-architecture/klimaschutz-durch-software-ist-moeglich/
+    relatedEvent: W-Jax 2022
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-demo
+    dateFrom: 2022-10-28
+    dateTo: 2022-10-28
+    title: Green Software Design umsetzen – „Green Software am lebenden Objekt“
+    subtitle: How customer onboarding software became more carbon efficient
+    description: Green Software Design umfasst Best Practices für klima-optimierte Anwendungen. Methoden, Tools, verlässliche Messwerte und praktikables Vorgehen stehen dabei im Mittelpunkt. Das verbessert letztlich neben der Klimabilanz auch die Unternehmensbilanz. Denn GSD vermeidet Verschwendung konsequent. Nicht nur Strom wird gespart, sondern es wird auch Over Engineering verhindert und auf Langlebigkeit Wert gelegt.
+    url: https://syngenio.com/green-software-design-webinar
+    relatedEvent: Webinar Syngenio AG

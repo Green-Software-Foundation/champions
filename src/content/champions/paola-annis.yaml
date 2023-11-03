@@ -1,0 +1,16 @@
+firstName: Paola
+lastName: Annis
+role: Engineering Manager
+organization: Microsoft
+languages: 
+  - English
+  - Italian
+pronoun: She/Her
+country: Italy
+bio: Paola E. Annis has worked for over 25 years in IT. Currently at Microsoft enjoying the Azure cloud, she has extensive experience working on strategic customers, large migrations, and digital transformation projects. In her daily work, she advocates cost governance and sustainable software engineering, and women in tech’s communities. She lives in Milan with her kids, cats, and husband. In her spare time, she enjoys heavy metal music while embarking on improbable DIY projects for her country house.
+type: normal
+social:
+  github: pea-ms
+  linkedin: paolaeva
+  twitter: paolaannis
+  website: https://nevermindthedigital.com/

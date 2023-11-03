@@ -1,0 +1,17 @@
+firstName: David
+lastName: Mytton
+role: CEO
+organization: Console
+languages: 
+  - English
+country: United Kingdom
+city: London
+bio: |
+ Researching sustainable computing in the Department of Engineering Science at the University of Oxford. 
+ CEO of console.dev, the best tools and jobs for developers.
+type: normal
+social:
+  github: davidmytton
+  linkedin: davidmytton
+  twitter: davidmytton
+  website: https://davidmytton.blog

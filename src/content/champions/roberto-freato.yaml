@@ -1,0 +1,20 @@
+firstName: Roberto
+lastName: Freato
+role: Chief Technology Officer @Witailer | Book Author | Conference Speaker | Azure MVP
+organization: Witailer | Retex
+languages: 
+  - English
+pronoun: He/Him
+country: Italy
+city: Milan
+bio: |
+ After my MSc in computer science engineering with a thesis about consumer cloud computing I got specialization in Cloud and Azure. 
+ I wrote some books on Microsoft Azure, for K12 education and I train/speak for the developer community in Europe. 
+ I hold several technical certifications on various vendors and I am an Azure MVP since 2010. 
+ After 10 years working as a freelance consultant for major companies in Italy, I then co-launched ReStore as the CTO.
+ Now I'm the CTO of Witailer, part of Retex Group, a leading company in the Amazon and eMarketplace services for brands in Italy.
+type: normal
+social:
+  github: childotg
+  linkedin: robertofreato
+  twitter: childotg

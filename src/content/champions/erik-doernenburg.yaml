@@ -1,0 +1,22 @@
+firstName: Erik
+lastName: Doernenburg
+role: Head of Technology
+organization: Thoughtworks
+languages: 
+  - English
+  - German
+pronoun: He/Him
+country: Germany
+city: Hamburg
+bio: |
+ Erik is a software engineer and passionate technologist. 
+ On his 25 year journey through the tech industry Erik encountered an abundance of new technologies, always wanting to understand their potential, while bringing along proven engineering practices. 
+ As a technical director at Thoughtworks he helps clients make the most out of modern technologies, platforms, and practices. 
+ Erik is a regular speaker, contributed to a few books, and maintains several open source projects. 
+ He holds a degree in Informatics from the University of Dortmund and has studied Computer Science and Linguistics at University College Dublin.
+type: normal
+social:
+  github: erikdoe
+  linkedin: edoernenburg
+  twitter: erikdoe
+  website: https://erik.doernenburg.com/

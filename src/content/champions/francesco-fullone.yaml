@@ -1,0 +1,46 @@
+firstName: Francesco
+lastName: Fullone
+role: Business & Sustainability Designer
+organization: Daruma Consulting
+languages: 
+  - English
+  - Italian
+pronoun: He/Him
+country: Italy
+city: Faenza
+bio: I'm Francesco Fullone, a business designer, consultant, entrepreneur, and investor in technology companies focusing on sustainability or social impact. I help companies to better define their business propositions to create options to validate them, and I advise them to organize themselves better to reach their goals. I founded different companies - Apropos to help communities, companies, and local groups organize events and workshops; Digitiamo to create NLP and AI-related products; Ideato (sold), where I contributed to its growth for more than ten years, creating an innovative and quality reference for the development agencies in Italy. I'm the president of the GrUSP.org, a non-profit association that encourages best practices and inclusivity in web development since 2002.
+type: normal
+social:
+  github: fullo
+  linkedin: fullo
+  twitter: fullo
+  website: https://www.fullo.net
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-19
+    dateTo: 2023-10-19
+    title: Sostenibilità dell'IT, dall'impatto ambientale del software a quello sociale	
+    description: A talk about Sustainable and Green Software in one of the biggest ITC event in Italy
+    url: https://www.smau.it/milano/programma/sostenibilit-dell-it-dall-impatto-ambientale-del-software-a-quello-sociale
+    relatedEvent: SMAU
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: other
+    dateFrom: 2023-10-13
+    dateTo: 2023-12-16
+    title: Business Sustainability Master
+    subtitle: lectures about Green and Sustainable Software practices
+    description: Tutoring the students about (Digital) Business Design for Sustainability, I also held two lectures about Life Cycle Assessment of Digital Product, Green Software accounting and Corporate Digital Responsibility
+    url: https://talentgarden.org/it/innovation-school/business-innovation/business-sustainability-master/
+    relatedEvent: Green Web, Green Software and Sustainable Software
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-06-06
+    dateTo: 2023-06-06
+    title: Principles of Green Software Engineering
+    description: hands-on lesson about SCI and Green Software Practices
+    url: https://devromagna.org/
+    relatedEvent: DevRomagna Meetup

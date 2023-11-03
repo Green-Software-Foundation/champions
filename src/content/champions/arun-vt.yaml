@@ -1,0 +1,53 @@
+firstName: Arun
+lastName: VT
+role: Technology Sustainability Senior Manager
+organization: Accenture
+languages: 
+  - English
+country: Singapore
+bio: |
+ Arun is a Technology Sustainability Senior Manager with experiences in cloud first, sustainable technologies, green cloud advisory, enterprise architecture and digital transformation experience. 
+ Arun has an extensive knowledge of running large scale cloud enabled transformation programmes including green IT and sustainable enterprise architecture framework. 
+ In his tenure at Accenture, he has advised several clients from different industry groups across globally (UK, US and Singapore).
+type: normal
+social:
+  github: vtarunselvan
+  linkedin: arunvt
+activities:
+  - contributionType: hosting
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: all
+    dateFrom: 2023-09-01
+    dateTo: 2023-09-30
+    title: Chief Technology Engineer - Masterclass 
+    relatedEvent: Training Curriculum
+  - contributionType: mentoring
+    linkedGSFProject: Speakers
+    subtype: all
+    dateFrom: 2023-08-01
+    dateTo: 2023-08-31
+    title: Sustainability Innovation Challenge 2023
+    url: https://www.linkedin.com/posts/arunvt_accenture-sustainability-accenturesea-activity-7089430039011758080-gt3t?utm_source=share&utm_medium=member_desktop
+  - contributionType: organizing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: internal-green-software-event
+    dateFrom: 2023-05-01
+    dateTo: 2023-08-31
+    title: Green Software Masterclass
+    relatedEvent: Masterclass Series
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: internal-event-talk
+    dateFrom: 2023-01-01
+    dateTo: 2023-01-31
+    title: Green Software in Labs
+    url: https://www.linkedin.com/posts/arunvt_asis-sustainable-accenture-activity-7022142587549466624-IYBN?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Sustainable Lab Technologies
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: meetup-talk
+    dateFrom: 2022-11-01
+    dateTo: 2022-11-30
+    title: Green Tech Festival
+    url: https://www.linkedin.com/posts/arunvt_technology-technologysustainability-singapore-activity-7000279084521984000-XPPH?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Green Tech Festival

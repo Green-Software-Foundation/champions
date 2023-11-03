@@ -1,0 +1,23 @@
+firstName: Ismael
+lastName: Velasco
+role: Founder
+organization: Adora Foundation
+languages: 
+  - English
+  - Spanish
+  - French
+pronoun: He/Him
+country: Mexico
+city: Mérida
+bio: |
+ Social entrepreneur, performance storyteller and technologist with 30 years' track record. 
+ Software engineer and trainer for the International Software Architecture Qualification Board of Fortune 500 lead architects, staff engineers and senior developers. 
+ Academic researcher with over a dozen top tier, peer reviewed publications. Lead author of the State of Green Software report for the Green Software Foundation. 
+ Podcast writer and host for the Environment Variables series. Founding member of W3C's Sustainable Web Design Group and host of ClimateAction.tech's greener web, greener design and greener infrastructure communities. 
+ Ambassador for Ethical Business Building the Future.
+type: normal
+social:
+  github: Leamsi9
+  linkedin: IsmaelVelasco
+  twitter: DevOnAJourney
+  website: https://ismaelvelasco.dev/

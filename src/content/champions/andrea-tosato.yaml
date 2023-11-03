@@ -1,0 +1,19 @@
+firstName: Andrea
+lastName: Tosato
+role: Software Architect
+organization: Open Job Metis
+languages: 
+  - English
+  - Italian
+pronoun: He/Him
+country: Italy
+city: Verona
+bio: |
+ Andrea is Microsoft MVP in Azure and Developer tecnologies awards.
+ Andrea works as software architect in Italian company and develops software since 2010.
+ Andrea is Cloudgen Verona founder, a .NET community based in Verona.
+type: normal
+social:
+  github: andreatosato
+  linkedin: andreatosato
+  twitter: ATosato86

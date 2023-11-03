@@ -1,0 +1,55 @@
+firstName: Cameron
+lastName: Casher
+role: Senior Consultant Software Developer & Clean Tech Strategist
+organization: Thoughtworks
+languages: 
+  - English
+pronoun: He/Him
+country: USA
+city: Denver
+bio: I have been working as a software developer for 5+ years and working as a Clean Tech strategist for 2+ at Thoughtworks. I have had experience consulting for clients across many different domains and locations to help provide application modernization as well as advise on Clean Tech best practices for clients looking to mature their sustainability initiatives in cloud computing.
+type: normal
+social:
+  github: camcash17
+  linkedin: cameroncasher
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: online-talk
+    dateFrom: 2023-05-23
+    dateTo: 2023-05-23
+    title: "Clean Tech 101: Green Software Principles"
+    description: The Responsible Tech Lightning Talks are a way to educate both TWer’s and UN workers on principles and practices of Responsible Tech. They are a way to celebrate our passionate domain experts and spotlight their Thought Leadership!
+    url: https://thoughtworks.wistia.com/medias/g6t673xm2c
+    relatedEvent: UN Responsible Tech
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-02-01
+    dateTo: 2023-02-01
+    title: A Forecast of Green Clouds
+    url: https://www.thoughtworks.com/en-us/insights/articles/a-forecast-of-green-clouds
+    relatedEvent: Thoughtworks Website
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2022-09-14
+    dateTo: 2022-09-14
+    title: Green I/O Podcast
+    url: https://greenio.gaelduez.com/e/l8qrwk0n-7-b-cameron-casher-and-benjamin-davy-cloud-sustainability-beyond-carbon-emission
+    relatedEvent: Cloud Sustainability beyond carbon emission
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2022-09-06
+    dateTo: 2022-09-06
+    title: Green I/O Podcast
+    url: https://greenio.gaelduez.com/e/m849x5pn-7-cameron-casher-and-benjamin-davy-cloud-carbon-footprint-sustainability-aws-gcp-azure-vs-aws-azure-and-gcp-sustainability-dashboards
+    relatedEvent: Measuring the Carbon Footprint of Cloud computing from CCF to AWS, Azure and GCP sustainability dashboards
+  - contributionType: oss contribution
+    linkedGSFProject: Community WG
+    subtype: all
+    dateFrom: 2020-03-01
+    dateTo: 2020-03-01
+    title: Maintainer of Cloud Carbon Footprint
+    url: https://github.com/cloud-carbon-footprint/cloud-carbon-footprint

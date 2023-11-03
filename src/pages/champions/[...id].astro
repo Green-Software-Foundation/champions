@@ -1,0 +1,263 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { Image } from "astro:assets";
+import Badge from "@/components/Badge.tsx";
+import { Icon } from "astro-icon";
+import { Separator } from "@/components/ui/separator";
+import type { Activity, ContributionType } from "types";
+import ActivitiyCard from "@/components/ActivityCard.astro";
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const champions = await getCollection('champions');
+  return champions.map(champion => ({
+    params: { id: champion.id }, props: { champion },
+  }));
+}
+
+interface Props {
+  champion: CollectionEntry<'champions'>;
+}
+
+type ActivityByYear = {
+  [year: string]: {
+    [month: string]: {
+      [day: string]: Activity[];
+    };
+  };
+};
+
+const { champion }: Props = Astro.props;
+const { data: { firstName, lastName, role, organization, languages, pronoun, city, country, bio, type, social: { twitter, linkedin, github, website }, activities, notes } } = champion;
+
+const activitiesByYear = activities?.reduce((acc: ActivityByYear, activity: Activity) => {
+  const date = new Date(activity.dateFrom);
+  const year = date.getFullYear().toString();
+  const month = date.toLocaleString("default", { month: "short" });
+  const day = date.getDate().toString();
+
+  acc[year] = acc[year] || {};
+  //@ts-ignore
+  acc[year][month] = acc[year][month] || {};
+  //@ts-ignore
+  acc[year][month][day] = acc[year][month][day] || [];
+  //@ts-ignore
+  acc[year][month][day].push(activity);
+
+  return acc;
+}, {} as ActivityByYear);
+
+const isExpert = type === "expert";
+
+type ContributionIcon = {
+  [key in ContributionType]: string;
+}
+
+const contributionIcon: ContributionIcon = {
+  "speaking": "mic",
+  "writing": "pencil",
+  "organizing": "calendar",
+  "mentoring": "users",
+  "hosting": "home",
+  "gsf contribution": "tree-deciduous",
+  "gsf project leadership": "star",
+  "oss contribution": "code",
+}
+---
+<BaseLayout>
+  <div class="flex items-start my-16 md:my-16 gap-8 flex-col">
+    <a href="/" class="bg-gray-200 text-gray-500 flex items-center gap-2 py-2 px-4 rounded-full">
+      <Icon
+        pack="heroicons-solid"
+        name="arrow-left"
+        class="w-4 h-4 inline-block mr-2"
+      />
+       Back to Champions Directory</a
+    >
+    <div class="flex flex-col md:flex-row gap-8">
+      <!-- Content for div1 -->
+      <div class="flex flex-col gap-4 md:w-[450px] items-center md:items-start">
+        <div class="relative p-2 rounded-full inline-block">
+          {/* Gradient background */}
+          <div
+            class={`absolute -inset-px rounded-full  ${
+              isExpert
+                ? "bg-gradient-to-tr from-primary-gradient-dark to-primary-gradient-light"
+                : "bg-primary-default"
+            } z-0`}
+          >
+          </div>
+          <div class="relative">
+            <Image
+              class="rounded-full relative z-10 w-40 md:w-[232px]"
+              src={github? `https://github.com/${github}.png` :"/assets/not-found-avatar.png"}
+              width={232}
+              height={232}
+              alt={`${firstName} ${lastName} profile picture`}
+            />
+            {
+              isExpert && (
+                <Icon
+                  name="expert-star"
+                  class="w-10 md:w-12 h-10 md:h-12 bg-accent-lightest-2 absolute right-1 bottom-1 md:right-3 md:bottom-3 z-10 p-2 rounded-full"
+                />
+              )
+            }
+          </div>
+        </div>
+        <div class="text-center md:text-left">
+          <h1 class="text-2xl md:text-4xl font-bold text-primary-default mb-0">
+            {firstName}{" "}
+            {lastName}
+          </h1>
+
+          {pronoun && <p class="text-sm md:text-base font-normal text-primary-default">
+            ({pronoun})
+          </p>}
+        </div>
+        {isExpert && <Badge text="expert" />}
+
+        <!-- <div>
+          <button
+            class="text-primary-default rounded-md hover:bg-primary-dark hover:text-white bg-transparent border px-4 py-2.5 border-primary-default"
+          >
+            Contact {firstName}
+          </button>
+        </div> -->
+
+        <p class="text-gray-darker text-lg md:text-xl font-semibold">
+          {role}
+        </p>
+
+        <p class="text-gray-darker text-sm md:text-base font-semibold">
+          {organization}
+        </p>
+
+        <p class="text-black-default text-base font-semibold">
+          {city? `${city}, `: null} {country}
+        </p>
+
+        <p class="flex items-center gap-2">
+          Speaks:
+          {
+            languages.map((language: string) => (
+              <span class="text-xs py-1 px-2 bg-accent-light text-black-normal rounded-lg">
+                {language}
+              </span>
+            ))
+          }
+        </p>
+
+        <div class="flex items-center justify-start gap-4">
+          {
+            github && (
+              <a href={` https://github.com/${github}`}>
+                <Icon name="mdi:github" class="w-8 h-8 text-primary-default" />
+              </a>
+            )
+          }
+
+          {
+            twitter && (
+              <a href={`https://twitter.com/${twitter}`}>
+                <Icon name="mdi:twitter" class="w-8 h-8 text-primary-default" />
+              </a>
+            )
+          }
+          {
+            linkedin && (
+              <a href={`https://linkedin.com/in/${linkedin}`}>
+                <Icon
+                  name="mdi:linkedin"
+                  class="w-8 h-8 text-primary-default"
+                />
+              </a>
+            )
+          }
+          {
+            website && (
+              <a href={website}>
+                <Icon name="mdi:web" class="w-8 h-8 text-primary-default" />
+              </a>
+            )
+          }
+        </div>
+      </div>
+
+      <!-- Content for div2 -->
+      <div class="flex flex-col w-fit md:w-full">
+        <!-- Biography-->
+        <div class="flex flex-col gap-4">
+          <h1 class="text-2xl text-primary-default font-bold">Biography</h1>
+          <p class="text-base font-semibold text-gray-darker whitespace-break-spaces">
+            {bio}
+          </p>
+        </div>
+
+        <!-- Separator -->
+        <div class="my-10"><Separator className=" bg-gray-separator" /></div>
+
+        <!-- Activity History-->
+        {activitiesByYear &&<div>
+          <h2 class="text-2xl text-primary-default font-bold mb-8">
+            Activity History
+          </h2>
+          <!-- Year (Loop 1) -->
+          {
+            Object.keys(activitiesByYear)
+              .sort((a, b) => parseInt(b) - parseInt(a))
+              .map((year) => (
+                <div class="mb-2">
+                  <h3 class="md:ml-16 font-bold text-primary-darker mb-2 mt-4 md:mt-0">
+                    {year}
+                  </h3>
+                  {Object.keys(activitiesByYear[year]).map((month) =>
+                    Object.keys(activitiesByYear[year][month]).map((day) =>
+                      activitiesByYear[year][month][day].map((activity: Activity) => (
+                        <div class="md:grid md:grid-cols-[4rem_1fr] gap-4">
+                          <div class="mt-4">
+                            <p class="text-gray-500 text-sm font-normal">{`${month} ${day}`}</p>
+                          </div>
+                          <div class="md:pl-4 py-4 md:border-l-2 md:border-gray-200 border-b-2 md:border-b-0">
+                            <h4 class="text-lg font-semibold ">
+                              {activity.title}
+                            </h4>
+                            <h5 class="mb-2">{activity.subtitle}</h5>
+                            <div class="flex gap-3 flex-wrap  mb-4">
+                              <span class="px-2 py-1 bg-accent-light text-black-darkest font-black text-sm uppercase tracking-wider rounded-lg inline-flex items-center gap-2">
+                                <Icon
+                                  pack="lucide"
+                                  name={contributionIcon[activity.contributionType]}
+                                  class="w-4 h-4 inline-block"
+                                />
+                                {activity.contributionType}
+                              </span>
+
+                              {activity.relatedEvent && <span class="px-2 py-1 bg-gray-200 text-black-darkest font-extrabold text-xs  tracking-wide rounded-lg inline-flex items-center gap-2">
+                                {activity.relatedEvent}
+                              </span>}
+                            </div>
+                            <p class="text-gray-500 mb-2">
+                              {activity.description}
+                            </p>
+                            <ActivitiyCard activity={activity} />
+                          </div>
+                        </div>
+                      ))
+                    )
+                  )}
+                </div>
+              ))
+          }
+        </div>}
+        <!-- Other notes -->
+        {notes && <><div class="my-10"><Separator className=" bg-gray-separator" /></div><div>
+          <h1 class="text-2xl text-primary-default font-bold">Other notes</h1>
+          {notes}
+        </div></>}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+

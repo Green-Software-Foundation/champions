@@ -1,0 +1,25 @@
+firstName: Tammy
+lastName: McClellan
+role: Sr Cloud Solution Architect - Dev Advocate
+organization: Microsoft
+languages: 
+  - English
+pronoun: She/Her
+country: USA
+city: Michigan
+bio: Passionate around sustainability in agriculture and software development. Co-chair of the Community working group, member of Standards and OpenSource. Microsoft org lead for Microsoft.
+type: normal
+social:
+  github: tmcclell
+  linkedin: thetechgrandma
+  website: https://www.instagram.com/wonderfultinyfarm/
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2023-11-07
+    dateTo: 2023-11-07
+    title: Sustainability in the Cloud is not a mythical creature.
+    description: Keynote panel on Sustainability in the Cloud
+    url: https://kccncna2023.sched.com/overview/type/Keynote+Sessions?iframe=no
+    relatedEvent: KubeCon + Cloud Native Conference

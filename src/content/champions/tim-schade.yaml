@@ -1,0 +1,19 @@
+firstName: Tim
+lastName: Schade
+role: Software Architect
+organization: GFT
+languages: 
+  - English
+  - German
+country: Germany
+city: Cologne
+bio: |
+ Tim is a software architect and team lead. 
+ For around 15 years he has been responsible for the design and implementation of various software projects. 
+ His focus is on scalable Java applications. Other topics and fields of interest are AI, DevOps and Cloud.
+ He is an expert for GreenCoding, which aims to create software with low carbon emissions. 
+ He is an author and speaker on public tech conferences and meetups.
+type: normal
+social:
+  github: schaDev
+  linkedin: tim-schade-84b4a2160

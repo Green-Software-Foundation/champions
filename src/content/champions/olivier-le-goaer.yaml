@@ -1,0 +1,36 @@
+firstName: Olivier
+lastName: Le Goaër
+role: Green Software Advocate
+organization: University of Pau
+languages: 
+  - English
+  - French
+country: France
+city: Pau
+bio: |
+ My research work focuses on developer-centric methods, concepts and tools to create lower-carbon software. 
+ I supervise the development of the open source tool ecoCode, based on SonarQube. 
+ I also launched a summer school serie on green IT and a course on software sustainability for students at the master's level."
+type: normal
+social:
+  github: olegoaer
+  linkedin: olivierlegoaer
+  website: https://olegoaer.perso.univ-pau.fr/
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: keynote
+    dateFrom: 2023-10-03
+    dateTo: 2023-10-03
+    title: Keynote speech at Microsoft France headquarters
+    subtitle: The road to green code
+    url: https://olegoaer.perso.univ-pau.fr/works/The_road_to_green_code.pdf
+    relatedEvent: https://msevents.microsoft.com/event?id=1496731230
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-12-15
+    dateTo: 2022-12-15
+    title: ecoCode Mobile in a nutshell
+    url: https://speakerdeck.com/apidays/apidays-paris-2022-ecocode-mobile-in-a-nutshell-olivier-le-goaer-ecocode-dot-io
+    relatedEvent: APIDAYS 2022 (Paris)

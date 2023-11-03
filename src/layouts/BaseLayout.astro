@@ -1,0 +1,81 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Navbar from "@/components/Navbar.astro";
+import TopFrameLeft from "@/assets/TopFrameLeft.svg";
+import TopFrameRight from "@/assets/TopFrameRight.svg";
+import ExpertTopFrame from "@/assets/RightStar.svg";
+import AboveFooter from "@/components/AboveFooter.astro";
+
+const {
+  image,
+  title = SITE_TITLE,
+  description = SITE_DESCRIPTION,
+  leftPatternTop = 300,
+} = Astro.props;
+
+const isExpertPage = Astro.request.url.includes("/experts");
+const isProfilePage = Astro.request.url.includes("/profile");
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} image={image} />
+  </head>
+  <body>
+    <img
+      style={`top: ${leftPatternTop}px;`}
+      src={TopFrameLeft.src}
+      alt="Frame"
+      class="absolute left-0 w-[70%] md:w-fit -z-10"
+    />
+
+    {
+      isExpertPage ? (
+        <img
+          style={`top: ${leftPatternTop}px;`}
+          src={ExpertTopFrame.src}
+          alt="Expert Right Image"
+          class="absolute right-0 w-[30%] md:w-fit"
+        />
+      ) : null
+    }
+
+    <!-- Wrapper for main content and BottomFrame -->
+    <div class="relative">
+      <!-- Main content -->
+      <main class="max-w-7xl mx-auto p-8 md:p-0 md:mt-8 md:px-8 z-0">
+        <!-- <Navbar client:idle /> -->
+        <Navbar />
+        <slot />
+      </main>
+
+      <!-- BottomFrame positioned at the bottom of the wrapper -->
+      <!-- {
+        !isProfilePage ? (
+          <img
+            src={BottomFrameImage}
+            alt="Frame"
+            class={`absolute ${
+              isExpertPage ? "w-[30%]" : "w-[70%]"
+            } md:w-fit left-0 -bottom-32 -z-10`}
+          />
+        ) : null
+      } -->
+
+      <img
+        src={TopFrameRight.src}
+        alt="Frame"
+        class="absolute w-[70%] md:w-fit right-0 bottom-64 md:-bottom-64 -z-10"
+      />
+    </div>
+
+    <!-- Above Footer -->
+    {!isProfilePage ? <AboveFooter /> : null}
+
+    <!-- Footer -->
+    <Footer />
+  </body>
+</html>

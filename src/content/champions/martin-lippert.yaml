@@ -1,0 +1,16 @@
+firstName: Martin
+lastName: Lippert
+role: Spring Tools Lead & Sustainability Ambassador
+organization: VMware
+languages: 
+  - English
+  - German
+pronoun: He/Him
+country: Germany
+city: Hamburg
+bio: Martin works at VMware on developer tooling for the Spring framework and cloud platforms. He leads the team that ships all the Spring Tools for Eclipse, Visual Studio Code, and Theia, and is researching and implementing future cloud-based developer tooling. Beyond that, he is working on sustainability in software engineering to fight climate change and likes to spread the word about all the possibilities that software engineers have to make a difference.
+type: normal
+social:
+  github: martinlippert
+  linkedin: martin-lippert-9a1909
+  twitter: martinlippert

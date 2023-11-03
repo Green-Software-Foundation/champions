@@ -1,0 +1,95 @@
+---
+import { Icon } from "astro-icon";
+// Links are
+// [Foundation Wiki](https://grnsft.org/wiki)
+// [GSF Website](https://grnsft.org)
+// [Become a Champion](https://grnsft.org/champions/apply)
+const navLinks = [
+  { name: "Foundation Wiki", href: "https://grnsft.org/wiki" },
+  { name: "GSF Website", href: "https://grnsft.org" },
+];
+---
+
+<nav>
+  <div class="flex items-center justify-between">
+    <div class="flex space-x-7">
+      <!-- Logo -->
+      <div>
+        <a href="#" class="flex items-center">
+          <Icon name="champions-logo" class="h-14" />
+        </a>
+      </div>
+    </div>
+    <!-- Primary Navbar items -->
+    <div class="hidden md:flex items-center gap-4">
+      {
+        navLinks.map((link) => (
+          <a
+            href={link.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-gray-800 font-bold hover:text-primary-dark transition duration-300"
+          >
+            {link.name}
+          </a>
+        ))
+      }
+    </div>
+    <!-- CTA Button -->
+    <div class="hidden md:block">
+      <a
+        href="https://grnsft.org/champions/apply"
+        class="bg-primary-default px-6 py-4 rounded-lg text-sm font-extrabold leading-6 text-white"
+        >Become a Champion</a
+      >
+    </div>
+    <!-- Mobile menu button -->
+    <div class="md:hidden flex items-center">
+      <button
+        class="outline-none mobile-menu-button"
+        onclick="document.getElementById('mobile-menu').classList.toggle('hidden')"
+      >
+        <svg
+          class="w-6 h-6 text-gray-500 hover:text-green-500"
+          x-show="!showMenu"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path d="M4 6h16M4 12h16m-7 6h7"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <!-- Mobile menu -->
+  <div class="md:hidden hidden" id="mobile-menu">
+    {
+      navLinks.map((link) => (
+        <a
+          href={link.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="block py-2 px-4 text-sm hover:bg-green-500 transition duration-300"
+        >
+          {link.name}
+        </a>
+      ))
+    }
+    <a
+    href="https://grnsft.org/champions/apply"
+    class="bg-primary-default px-6 py-4 rounded-lg text-sm font-extrabold leading-6 text-white"
+    >Become a Champion</a
+  >
+  </div>
+</nav>
+<script>
+  const btn = document.querySelector("button.mobile-menu-button");
+  const menu = document.querySelector(".mobile-menu");
+
+  btn?.addEventListener("click", () => {
+    menu?.classList.toggle("hidden");
+  });
+</script>

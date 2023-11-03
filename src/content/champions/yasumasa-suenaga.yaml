@@ -1,0 +1,15 @@
+firstName: Yasumasa
+lastName: Suenaga
+role: Technical Lead
+organization: NTT DATA
+languages: 
+  - Japanese
+pronoun: He/Him
+country: Japan
+city: Tokyo
+bio: Yasumasa Suenaga is a developer, author, and speaker, especially in Java area. He has over 10 years experience in OpenJDK community, where he has a Reviewer role. He primarily contributes to diagnostic tools/frameworks in HotSpot JVM. He also has a lot of experiences in Japan and the U.S. speaking about Java. He wrote some articles about Java on websites and in magazines. Lately, he has been writing articles about Java x Green in a Japanese technical magazine. He works for green software engineering at NTT DATA to improve the energy efficiency of their enterprise applications.
+type: normal
+social:
+  github: YaSuenag
+  linkedin: yasumasa-suenaga-3b9b87143
+  twitter: YaSuenag

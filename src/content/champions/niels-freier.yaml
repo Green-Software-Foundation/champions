@@ -1,0 +1,15 @@
+firstName: Niels
+lastName: Freier
+role: Chair
+organization: Boston Consulting Group
+languages: 
+  - French
+  - English
+pronoun: He/Him
+country: France
+city: Paris
+bio: Niels Freier is an Associate Director in Software Engineering with the Boston Consulting Group (BCG) where he works on large projects around the world, helping clients to push to production AI and analytics use cases. Through his work as Chair at the Green Software Foundation, he is supporting efforts around raising awareness and pushing forward the usage of standards and tools with the goal to change the status quo.
+type: normal
+social:
+  github: stumpyfr
+  linkedin: nielsfreier

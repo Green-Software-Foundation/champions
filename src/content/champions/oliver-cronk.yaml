@@ -1,0 +1,19 @@
+firstName: Oliver
+lastName: Cronk
+role: Technology Director
+organization: Scott Logic
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: London
+bio: |
+ Technology generalist, strategist and strong communicator - Curious about science from a young age, Experience in various Programmer and Technology Architect Roles.
+ Solutions Architect at an Energy and Environmental Consultancy with projects for - Defra, DECC, Environment Agency and European Commission.
+ Architect at a European Energy Company. 
+ Lead the Architect Tomorrow Podcast - how do we architect a better tomorrow?
+ Now leading Scott Logic’s thinking on Sustainable Technology.
+type: normal
+social:
+  github: cronky
+  linkedin: cronky
