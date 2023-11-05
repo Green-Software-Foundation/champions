@@ -19,12 +19,12 @@ let data = filenames.map((filename) => {
     );
     const data = yaml.load(yamlContent);
     const url = filename.replace(/\.yaml$/, "");
-    if (!data?.activities) return null;
+    if (!data?.activities || !data?.social.github) return null;
     return {
       url,
       objectID: url,
       ...data,
-      image: `${data?.social?.github ? `https://github.com/${data.social.github}.png` : "/assets/not-found-avatar.png"}`,
+      image: `${`https://github.com/${data.social.github}.png`}`,
     };
   } catch (e) {
     console.log("Error: ", filename);

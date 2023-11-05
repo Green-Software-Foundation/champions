@@ -55,7 +55,9 @@ export async function GET({ props }: Props) {
                     {
                       type: "img",
                       props: {
-                        src: `https://github.com/${champion?.data?.social?.github || "not-found"}.png`,
+                        src: `https://github.com/${
+                          champion?.data?.social?.github || "not-found"
+                        }.png`,
                         tw: "w-64 h-64 rounded-full mb-4",
                       },
                     },
@@ -124,7 +126,9 @@ export async function GET({ props }: Props) {
 
 // to generate an image for each blog posts in a collection
 export async function getStaticPaths() {
-  const champions = await getCollection("champions");
+  const champions = await getCollection("champions", ({ data }) => {
+    return data.social.github && data.activities && data.activities.length > 0;
+  });
   return champions.map((champion) => ({
     params: { id: champion.id },
     props: { champion },

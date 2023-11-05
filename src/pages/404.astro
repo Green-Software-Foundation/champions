@@ -1,0 +1,20 @@
+---
+import Layout from "@/layouts/layout.astro";
+import { Icon } from "astro-icon";
+---
+
+<Layout
+  title="404 - Page not found"
+  description="Sorry, the page you were looking for doesn't exist."
+>
+  <div class="flex items-center justify-center flex-col py-40 gap-8">
+    <Icon name="404-illustration" class="w-full max-w-xl" />
+    <div class="flex flex-col gap-4 items-center justify-center">
+      <h1 class="text-lg md:text-2xl font-extrabold text-primary-dark">
+        Page not found
+      </h1>
+      <p class="text-gray-600">Sorry, the page you were looking for doesn't exist.</p>
+      <a class="text-primary-default" href="/">Go back home</a>
+    </div>
+  </div>
+</Layout>

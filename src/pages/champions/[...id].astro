@@ -10,7 +10,10 @@ import ActivitiyCard from "@/components/ActivityCard.astro";
 import type { CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
-  const champions = await getCollection('champions');
+  const champions = await getCollection('champions', ({data}) =>{
+    return data.social.github && data.activities && data.activities.length > 0;
+  });
+  
   return champions.map(champion => ({
     params: { id: champion.id }, props: { champion },
   }));
