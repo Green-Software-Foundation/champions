@@ -1,6 +1,7 @@
 ---
 import TopLeaf from "@/assets/TopLeaf.svg";
 import BottomLeaf from "@/assets/BottomLeaf.svg";
+import Button from "./ui/button.astro";
 ---
 
 <footer class="py-8 px-16 md:py-16 md:px-32 bg-primary-dark relative mt-32">
@@ -25,11 +26,8 @@ import BottomLeaf from "@/assets/BottomLeaf.svg";
        Please feel free to contact us.
     </p>
 
-    <a
-    href="mailto:champs-team@greensoftware.foundation"
-      class="z-10 text-primary-contact-us bg-white font-extrabold rounded-lg py-2 px-10 hover:bg-white hover:text-primary-contact-us md:w-fit w-full"
-    >
+    <Button href="mailto:champs-team@greensoftware.foundation" variant="primary-invert">
       Contact Us
-    </a>
+    </Button>
   </div>
 </footer>

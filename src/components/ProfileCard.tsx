@@ -17,11 +17,11 @@ const ProfileCard = ({
 
   return (
     <a
-      className="relative p-1 rounded-xl w-full overflow-hidden inline-block h-full"
+      className="relative p-1 rounded-xl w-full overflow-hidden inline-block h-full group"
       href={url}
     >
       {isExpert && <div className="absolute -inset-px rounded-xl bg-gradient-to-tr from-primary-gradient-dark to-primary-gradient-light z-0 w-full" />}
-      <div className="w-full h-full p-6 bg-white rounded-lg shadow relative z-10">
+      <div className="w-full h-full p-6 bg-white rounded-lg shadow group-hover:shadow-lg group-hover:-translate-y-[2px]  group-focus:-translate-y-[2px] transition-all  relative z-10">
         <div className="grid grid-rows-[1fr_auto_1fr] text-center h-full">
           <div>
             {isExpert && <div className="flex flex-row items-center justify-center gap-1">

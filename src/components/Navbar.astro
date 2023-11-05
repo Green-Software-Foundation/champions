@@ -1,9 +1,6 @@
 ---
 import { Icon } from "astro-icon";
-// Links are
-// [Foundation Wiki](https://grnsft.org/wiki)
-// [GSF Website](https://grnsft.org)
-// [Become a Champion](https://grnsft.org/champions/apply)
+import Button from "./ui/button.astro";
 const navLinks = [
   { name: "Foundation Wiki", href: "https://grnsft.org/wiki" },
   { name: "GSF Website", href: "https://grnsft.org" },
@@ -20,7 +17,6 @@ const navLinks = [
         </a>
       </div>
     </div>
-    <!-- Primary Navbar items -->
     <div class="hidden md:flex items-center gap-4">
       {
         navLinks.map((link) => (
@@ -35,13 +31,10 @@ const navLinks = [
         ))
       }
     </div>
-    <!-- CTA Button -->
     <div class="hidden md:block">
-      <a
-        href="https://grnsft.org/champions/apply"
-        class="bg-primary-default px-6 py-4 rounded-lg text-sm font-extrabold leading-6 text-white"
-        >Become a Champion</a
-      >
+      <Button href="https://grnsft.org/champions/apply">
+        Become a Champion
+      </Button>
     </div>
     <!-- Mobile menu button -->
     <div class="md:hidden flex items-center">
@@ -79,10 +72,10 @@ const navLinks = [
       ))
     }
     <a
-    href="https://grnsft.org/champions/apply"
-    class="bg-primary-default px-6 py-4 rounded-lg text-sm font-extrabold leading-6 text-white"
-    >Become a Champion</a
-  >
+      href="https://grnsft.org/champions/apply"
+      class="bg-primary-default px-6 py-4 rounded-lg text-sm font-extrabold leading-6 text-white"
+      >Become a Champion</a
+    >
   </div>
 </nav>
 <script>

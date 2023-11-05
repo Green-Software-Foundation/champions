@@ -1,30 +1,48 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection } from "astro:content";
 import Layout from "@/layouts/layout.astro";
 import { Image } from "astro:assets";
-import Badge from "@/components/Badge.tsx";
 import { Icon } from "astro-icon";
 import { Separator } from "@/components/ui/separator";
 import type { Activity, ContributionType } from "types";
 import ActivitiyCard from "@/components/ActivityCard.astro";
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
+import Button from "@/components/ui/button.astro";
 
 export async function getStaticPaths() {
-  const champions = await getCollection('champions', ({data}) =>{
+  const champions = await getCollection("champions", ({ data }) => {
     return data.social.github && data.activities && data.activities.length > 0;
   });
-  
-  return champions.map(champion => ({
-    params: { id: champion.id }, props: { champion },
+
+  return champions.map((champion) => ({
+    params: { id: champion.id },
+    props: { champion },
   }));
 }
 
 interface Props {
-  champion: CollectionEntry<'champions'>;
+  champion: CollectionEntry<"champions">;
 }
 
 const { champion }: Props = Astro.props;
-const { id, data: { firstName, lastName, role, organization, languages, pronoun, city, country, bio, type, social: { twitter, linkedin, github, website }, activities, notes } } = champion;
+const {
+  id,
+  data: {
+    firstName,
+    lastName,
+    role,
+    organization,
+    languages,
+    pronoun,
+    city,
+    country,
+    bio,
+    type,
+    social: { twitter, linkedin, github, website },
+    activities,
+    notes,
+  },
+} = champion;
 console.log(id);
 const activitiesByYear = activities?.reduce((acc, activity) => {
   const date = new Date(activity.dateFrom);
@@ -44,32 +62,36 @@ const isExpert = type === "expert";
 
 type ContributionIcon = {
   [key in ContributionType]: string;
-}
+};
 
 const contributionIcon: ContributionIcon = {
-  "speaking": "mic",
-  "writing": "pencil",
-  "organizing": "calendar",
-  "mentoring": "users",
-  "hosting": "home",
+  speaking: "mic",
+  writing: "pencil",
+  organizing: "calendar",
+  mentoring: "users",
+  hosting: "home",
   "gsf contribution": "tree-deciduous",
   "gsf project leadership": "star",
   "oss contribution": "code",
-}
+};
 ---
+
 <Layout
-  title={`${firstName} ${lastName} - ${role} at ${organization}`}
-  description={bio.length > 150? `${bio.slice(0, 150)}...` : bio}
+  title={`${firstName} ${lastName} - Green Software Champion`}
+  description={bio.length > 150 ? `${bio.slice(0, 150)}...` : bio}
   image={`/champions/${id}/og.png`}
 >
   <div class="flex items-start my-16 md:my-16 gap-8 flex-col">
-    <a href="/" class="bg-gray-200 text-gray-500 flex items-center gap-2 py-2 px-4 rounded-full">
+    <Button
+      href="/"
+      variant="secondary-rounded"
+    >
       <Icon
         pack="heroicons-solid"
         name="arrow-left"
         class="w-4 h-4 inline-block mr-2"
       />
-       Back to Champions Directory</a
+       Back to Champions Directory</Button
     >
     <div class="flex flex-col md:flex-row gap-8">
       <!-- Content for div1 -->
@@ -87,7 +109,9 @@ const contributionIcon: ContributionIcon = {
           <div class="relative">
             <Image
               class="rounded-full relative z-10 w-40 md:w-[232px]"
-              src={github? `https://github.com/${github}.png` :"/assets/not-found-avatar.png"}
+              src={github
+                ? `https://github.com/${github}.png`
+                : "/assets/not-found-avatar.png"}
               width={232}
               height={232}
               alt={`${firstName} ${lastName} profile picture`}
@@ -108,11 +132,21 @@ const contributionIcon: ContributionIcon = {
             {lastName}
           </h1>
 
-          {pronoun && <p class="text-sm md:text-base font-normal text-primary-default">
-            ({pronoun})
-          </p>}
+          {
+            pronoun && (
+              <p class="text-sm md:text-base font-normal text-primary-default">
+                ({pronoun})
+              </p>
+            )
+          }
         </div>
-        {isExpert && <Badge text="expert" />}
+        {
+          isExpert && (
+            <span class="uppercase w-fit text-white text-sm font-black bg-gradient-to-tr from-primary-gradient-dark to-primary-gradient-light px-2 py-1 rounded-lg">
+              Expert
+            </span>
+          )
+        }
 
         <!-- <div>
           <button
@@ -131,7 +165,8 @@ const contributionIcon: ContributionIcon = {
         </p>
 
         <p class="text-black-default text-base font-semibold">
-          {city? `${city}, `: null} {country}
+          {city ? `${city}, ` : null}
+          {country}
         </p>
 
         <p class="flex items-center gap-2">
@@ -184,70 +219,94 @@ const contributionIcon: ContributionIcon = {
       <div class="flex flex-col w-fit md:w-full">
         <div class="flex flex-col gap-4">
           <h1 class="text-2xl text-primary-default font-bold">Biography</h1>
-          <p class="text-base font-semibold text-gray-darker whitespace-break-spaces">
+          <p
+            class="text-base font-semibold text-gray-darker whitespace-break-spaces"
+          >
             {bio}
           </p>
         </div>
 
         <div class="my-10"><Separator className=" bg-gray-separator" /></div>
 
-        {activitiesByYear &&<div>
-          <h2 class="text-2xl text-primary-default font-bold mb-8">
-            Activity History
-          </h2>
-          {
-            Object.keys(activitiesByYear)
-              .sort((a, b) => parseInt(b) - parseInt(a))
-              .map((year) => (
-                <div class="mb-2">
-                  <h3 class="md:ml-16 font-bold text-primary-darker mb-2 mt-4 md:mt-0">
-                    {year}
-                  </h3>
-                  {Object.keys(activitiesByYear[year]).map((month) =>
-                    Object.keys(activitiesByYear[year][month]).map((day) =>
-                      activitiesByYear[year][month][day].map((activity: Activity) => (
-                        <div class="md:grid md:grid-cols-[4rem_1fr] gap-4">
-                          <div class="mt-4">
-                            <p class="text-gray-500 text-sm font-normal">{`${month} ${day}`}</p>
-                          </div>
-                          <div class="md:pl-4 py-4 md:border-l-2 md:border-gray-200 border-b-2 md:border-b-0">
-                            <h4 class="text-lg font-semibold ">
-                              {activity.title}
-                            </h4>
-                            <h5 class="mb-2">{activity.subtitle}</h5>
-                            <div class="flex gap-3 flex-wrap  mb-4">
-                              <span class="px-2 py-1 bg-accent-light text-black-darkest font-black text-sm uppercase tracking-wider rounded-lg inline-flex items-center gap-2">
-                                <Icon
-                                  pack="lucide"
-                                  name={contributionIcon[activity.contributionType]}
-                                  class="w-4 h-4 inline-block"
-                                />
-                                {activity.contributionType}
-                              </span>
+        {
+          activitiesByYear && (
+            <div>
+              <h2 class="text-2xl text-primary-default font-bold mb-8">
+                Activity History
+              </h2>
+              {Object.keys(activitiesByYear)
+                .sort((a, b) => parseInt(b) - parseInt(a))
+                .map((year) => (
+                  <div class="mb-2">
+                    <h3 class="md:ml-16 font-bold text-primary-darker mb-2 mt-4 md:mt-0">
+                      {year}
+                    </h3>
+                    {Object.keys(activitiesByYear[year]).map((month) =>
+                      Object.keys(activitiesByYear[year][month]).map((day) =>
+                        activitiesByYear[year][month][day].map(
+                          (activity: Activity) => (
+                            <div class="md:grid md:grid-cols-[4rem_1fr] gap-4">
+                              <div class="mt-4">
+                                <p class="text-gray-500 text-sm font-normal">{`${month} ${day}`}</p>
+                              </div>
+                              <div class="md:pl-4 py-4 md:border-l-2 md:border-gray-200 border-b-2 md:border-b-0">
+                                <h4 class="text-lg font-semibold ">
+                                  {activity.title}
+                                </h4>
+                                <h5 class="mb-2">{activity.subtitle}</h5>
+                                <div class="flex gap-3 flex-wrap  mb-4">
+                                  <span class="px-2 py-1 bg-accent-light text-black-darkest font-black text-sm uppercase tracking-wider rounded-lg inline-flex items-center gap-2">
+                                    <Icon
+                                      pack="lucide"
+                                      name={
+                                        contributionIcon[
+                                          activity.contributionType
+                                        ]
+                                      }
+                                      class="w-4 h-4 inline-block"
+                                    />
+                                    {activity.contributionType}
+                                  </span>
 
-                              {activity.relatedEvent && <span class="px-2 py-1 bg-gray-200 text-black-darkest font-extrabold text-xs  tracking-wide rounded-lg inline-flex items-center gap-2">
-                                {activity.relatedEvent}
-                              </span>}
+                                  {activity.relatedEvent && (
+                                    <span class="px-2 py-1 bg-gray-200 text-black-darkest font-extrabold text-xs  tracking-wide rounded-lg inline-flex items-center gap-2">
+                                      {activity.relatedEvent}
+                                    </span>
+                                  )}
+                                </div>
+                                <p class="text-gray-500 mb-2">
+                                  {activity.description}
+                                </p>
+                                <ActivitiyCard activity={activity} />
+                              </div>
                             </div>
-                            <p class="text-gray-500 mb-2">
-                              {activity.description}
-                            </p>
-                            <ActivitiyCard activity={activity} />
-                          </div>
-                        </div>
-                      ))
-                    )
-                  )}
+                          )
+                        )
+                      )
+                    )}
+                  </div>
+                ))}
+            </div>
+          )
+        }
+        {
+          notes && (
+            <>
+              <>
+                <div class="my-10">
+                  <Separator className=" bg-gray-separator" />
                 </div>
-              ))
-          }
-        </div>}
-        {notes && <><div class="my-10"><Separator className=" bg-gray-separator" /></div><div>
-          <h1 class="text-2xl text-primary-default font-bold">Other notes</h1>
-          {notes}
-        </div></>}
+                <div>
+                  <h1 class="text-2xl text-primary-default font-bold">
+                    Other notes
+                  </h1>
+                  {notes}
+                </div>
+              </>
+            </>
+          )
+        }
       </div>
     </div>
   </div>
-</BaseLayout>
-
+</Layout>

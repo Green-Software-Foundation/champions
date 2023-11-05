@@ -1,0 +1,25 @@
+---
+type Variant = "primary" | "primary-invert" | "secondary-rounded";
+type Variants = {
+  [key in Variant]: string;
+};
+type Props = {
+  href?: string;
+  variant?: Variant;
+};
+const { href, variant = "primary" } = Astro.props;
+
+const variants: Variants = {
+  primary:
+    "bg-primary-default hover:bg-primary-dark text-white rounded-lg focus:ring-primary-light focus:ring-offset-accent-lightest-1",
+  "primary-invert":
+    "bg-white hover:bg-gray-200 text-primary-default rounded-lg focus:ring-gray-200 focus:ring-offset-primary-default",
+  "secondary-rounded":
+    "bg-gray-200 hover:bg-gray-300 text-gray-500 hover:text-gray-600 rounded-full focus:ring-gray-400 focus:ring-offset-accent-lightest-1",
+};
+---
+
+<a
+  class={`focus:outline-none focus:ring-2 focus:ring-offset-2 font-semibold h-12 px-6 w-full flex items-center justify-center sm:w-auto transition-colors ${variants[variant]}`}
+  href={href}><slot /></a
+>

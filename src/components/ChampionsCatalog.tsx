@@ -1,13 +1,8 @@
 import ProfileCard from "./ProfileCard";
 import type { Champion } from "types";
-import { Search as SearchIcon, ChevronRight } from "lucide-react";
-
+import { Search as SearchIcon } from "lucide-react";
 import { SearchBox, PoweredBy, Hits, Pagination } from 'react-instantsearch';
 
-
-type Props = {
-  champions: Champion[];
-};
 
 const Hit = ({ hit }: {
   hit: Champion
