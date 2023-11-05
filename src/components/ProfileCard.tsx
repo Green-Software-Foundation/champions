@@ -37,7 +37,7 @@ const ProfileCard = ({
           </div>
           <div className="flex flex-row md:flex-col items-center justify-center gap-4">
             <img
-              className="w-24 h-24 mb-3 rounded-full ring-1 ring-primary-lightest-2  mt-4"
+              className="w-24 h-24 rounded-full ring-1 ring-primary-lightest-2  mt-4"
               src={image}
               alt={`${firstName} image`}
             />

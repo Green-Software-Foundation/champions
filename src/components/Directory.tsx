@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { InstantSearch, ClearRefinements, RefinementList, ToggleRefinement } from 'react-instantsearch';
+import { InstantSearch, ClearRefinements, RefinementList } from 'react-instantsearch';
 import algoliasearch from 'algoliasearch/lite';
 
 import {
@@ -49,7 +49,7 @@ const Directory = () => {
 
     return (
         <div className="md:grid grid-cols-[256px_auto] gap-12 mb-10 w-full relative">
-            <InstantSearch searchClient={searchClient} indexName="Champions" future={{  preserveSharedStateOnUnmount: true}}>
+            <InstantSearch searchClient={searchClient} indexName="Champions" future={{ preserveSharedStateOnUnmount: true }} routing={true} stalledSearchDelay={500}>
 
                 <div ref={sidebarRef} className={`fixed md:static p-8 md:p-0 shadow-md md:shadow-none bg-accent-lightest-1 md:bg-transparent left-0 top-0 h-full w-3/4 md:w-64 overflow-y-auto transform transition-transform ${isFilterOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 md:block z-50 `}>
                     <div className='mb-4'>
