@@ -12,13 +12,13 @@ const champions = defineCollection({
         country: z.string(),
         city: z.string().optional(),
         bio: z.string(),
-        profilePic: z.string().optional(),
+        type: z.enum(["normal", "expert", "inactive"]),
         social: z.object({
             github: z.string().optional(),
             linkedin: z.string().optional(),
             twitter: z.string().optional(),
             website: z.string().url().optional(),
-        }).optional(),
+        }),
         activities: z.array(z.object({
             contributionType: z.string(),
             linkedGSFProject: z.string(),

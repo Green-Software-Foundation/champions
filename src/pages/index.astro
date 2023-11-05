@@ -1,9 +1,9 @@
 ---
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import Layout from "@/layouts/layout.astro";
 import Directory from "@/components/Directory";
 ---
 
-<BaseLayout>
+<Layout>
   <!-- Hero -->
   <div class="relative isolate">
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-20">
@@ -21,4 +21,4 @@ import Directory from "@/components/Directory";
     </div>
   </div>
   <Directory client:load/>
-</BaseLayout>
+</Layout>

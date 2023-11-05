@@ -43,27 +43,12 @@ const isProfilePage = Astro.request.url.includes("/profile");
       ) : null
     }
 
-    <!-- Wrapper for main content and BottomFrame -->
     <div class="relative">
       <!-- Main content -->
       <main class="max-w-7xl mx-auto p-8 md:p-0 md:mt-8 md:px-8 z-0">
-        <!-- <Navbar client:idle /> -->
         <Navbar />
         <slot />
       </main>
-
-      <!-- BottomFrame positioned at the bottom of the wrapper -->
-      <!-- {
-        !isProfilePage ? (
-          <img
-            src={BottomFrameImage}
-            alt="Frame"
-            class={`absolute ${
-              isExpertPage ? "w-[30%]" : "w-[70%]"
-            } md:w-fit left-0 -bottom-32 -z-10`}
-          />
-        ) : null
-      } -->
 
       <img
         src={TopFrameRight.src}
@@ -72,10 +57,8 @@ const isProfilePage = Astro.request.url.includes("/profile");
       />
     </div>
 
-    <!-- Above Footer -->
     {!isProfilePage ? <AboveFooter /> : null}
 
-    <!-- Footer -->
     <Footer />
   </body>
 </html>

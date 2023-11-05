@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import Layout from "@/layouts/layout.astro";
 import { Image } from "astro:assets";
 import Badge from "@/components/Badge.tsx";
 import { Icon } from "astro-icon";
@@ -20,33 +20,22 @@ interface Props {
   champion: CollectionEntry<'champions'>;
 }
 
-type ActivityByYear = {
-  [year: string]: {
-    [month: string]: {
-      [day: string]: Activity[];
-    };
-  };
-};
-
 const { champion }: Props = Astro.props;
-const { data: { firstName, lastName, role, organization, languages, pronoun, city, country, bio, type, social: { twitter, linkedin, github, website }, activities, notes } } = champion;
-
-const activitiesByYear = activities?.reduce((acc: ActivityByYear, activity: Activity) => {
+const { id, data: { firstName, lastName, role, organization, languages, pronoun, city, country, bio, type, social: { twitter, linkedin, github, website }, activities, notes } } = champion;
+console.log(id);
+const activitiesByYear = activities?.reduce((acc, activity) => {
   const date = new Date(activity.dateFrom);
   const year = date.getFullYear().toString();
   const month = date.toLocaleString("default", { month: "short" });
   const day = date.getDate().toString();
 
   acc[year] = acc[year] || {};
-  //@ts-ignore
   acc[year][month] = acc[year][month] || {};
-  //@ts-ignore
   acc[year][month][day] = acc[year][month][day] || [];
-  //@ts-ignore
   acc[year][month][day].push(activity);
 
   return acc;
-}, {} as ActivityByYear);
+}, {} as any);
 
 const isExpert = type === "expert";
 
@@ -65,7 +54,11 @@ const contributionIcon: ContributionIcon = {
   "oss contribution": "code",
 }
 ---
-<BaseLayout>
+<Layout
+  title={`${firstName} ${lastName} - ${role} at ${organization}`}
+  description={bio.length > 150? `${bio.slice(0, 150)}...` : bio}
+  image={`/champions/${id}/og.png`}
+>
   <div class="flex items-start my-16 md:my-16 gap-8 flex-col">
     <a href="/" class="bg-gray-200 text-gray-500 flex items-center gap-2 py-2 px-4 rounded-full">
       <Icon
@@ -185,9 +178,7 @@ const contributionIcon: ContributionIcon = {
         </div>
       </div>
 
-      <!-- Content for div2 -->
       <div class="flex flex-col w-fit md:w-full">
-        <!-- Biography-->
         <div class="flex flex-col gap-4">
           <h1 class="text-2xl text-primary-default font-bold">Biography</h1>
           <p class="text-base font-semibold text-gray-darker whitespace-break-spaces">
@@ -195,15 +186,12 @@ const contributionIcon: ContributionIcon = {
           </p>
         </div>
 
-        <!-- Separator -->
         <div class="my-10"><Separator className=" bg-gray-separator" /></div>
 
-        <!-- Activity History-->
         {activitiesByYear &&<div>
           <h2 class="text-2xl text-primary-default font-bold mb-8">
             Activity History
           </h2>
-          <!-- Year (Loop 1) -->
           {
             Object.keys(activitiesByYear)
               .sort((a, b) => parseInt(b) - parseInt(a))
@@ -251,7 +239,6 @@ const contributionIcon: ContributionIcon = {
               ))
           }
         </div>}
-        <!-- Other notes -->
         {notes && <><div class="my-10"><Separator className=" bg-gray-separator" /></div><div>
           <h1 class="text-2xl text-primary-default font-bold">Other notes</h1>
           {notes}
