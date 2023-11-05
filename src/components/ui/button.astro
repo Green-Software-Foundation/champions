@@ -6,8 +6,9 @@ type Variants = {
 type Props = {
   href?: string;
   variant?: Variant;
+  additionalStyles?: string;
 };
-const { href, variant = "primary" } = Astro.props;
+const { href, additionalStyles, variant = "primary" } = Astro.props;
 
 const variants: Variants = {
   primary:
@@ -20,6 +21,6 @@ const variants: Variants = {
 ---
 
 <a
-  class={`focus:outline-none focus:ring-2 focus:ring-offset-2 font-semibold h-12 px-6 w-full flex items-center justify-center sm:w-auto transition-colors ${variants[variant]}`}
+  class={`focus:outline-none focus:ring-2 focus:ring-offset-2 font-semibold text-sm md:text-base h-10 md:h-12 px-4 md:px-6 flex items-center justify-center sm:w-auto transition-colors ${variants[variant]} ${additionalStyles}`}
   href={href}><slot /></a
 >

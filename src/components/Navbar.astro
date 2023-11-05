@@ -10,7 +10,6 @@ const navLinks = [
 <nav>
   <div class="flex items-center justify-between">
     <div class="flex space-x-7">
-      <!-- Logo -->
       <div>
         <a href="#" class="flex items-center">
           <Icon name="champions-logo" class="h-14" />
@@ -43,7 +42,7 @@ const navLinks = [
         onclick="document.getElementById('mobile-menu').classList.toggle('hidden')"
       >
         <svg
-          class="w-6 h-6 text-gray-500 hover:text-green-500"
+          class="w-6 h-6 text-gray-500 hover:text-primary-default"
           x-show="!showMenu"
           fill="none"
           stroke-linecap="round"
@@ -59,23 +58,27 @@ const navLinks = [
   </div>
   <!-- Mobile menu -->
   <div class="md:hidden hidden" id="mobile-menu">
-    {
-      navLinks.map((link) => (
-        <a
-          href={link.href}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="block py-2 px-4 text-sm hover:bg-green-500 transition duration-300"
-        >
-          {link.name}
-        </a>
-      ))
-    }
-    <a
-      href="https://grnsft.org/champions/apply"
-      class="bg-primary-default px-6 py-4 rounded-lg text-sm font-extrabold leading-6 text-white"
-      >Become a Champion</a
-    >
+    <ul class="flex flex-col">
+      {
+        navLinks.map((link) => (
+          <li class="py-2 text-center">
+            <a
+              href={link.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="block py-2 px-4 text-sm font-bold hover:bg-primary-default transition duration-300"
+            >
+              {link.name}
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <Button href="https://grnsft.org/champions/apply">
+          Become a Champion
+        </Button>
+      </li>
+    </ul>
   </div>
 </nav>
 <script>
