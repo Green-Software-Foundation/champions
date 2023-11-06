@@ -14,3 +14,14 @@ type: normal
 social:
   github: responsibletechq
   linkedin: elifkiesowcortez
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: "Responsible AI: Tackling AI's Environmental Challenge"
+    subtitle: Official GSF Event
+    description: The Green Software Foundation is digging deeper into the environmental impact considerations of AI, primarily the challenges and opportunities to reduce carbon emissions and energy consumption of AI, including generative AI.
+    url: https://www.youtube.com/watch?v=0CX9J3oAipM
+    relatedEvent: "Responsible AI: Tackling AI's Environmental Challenge"

@@ -21,6 +21,14 @@ social:
   website: https://ldevernay.github.io/
 activities:
   - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: personal-blog-post
+    dateFrom: 2023-10-19
+    dateTo: 2023-10-19
+    title: Reaching sustainability through ecodesign
+    url: https://ldevernay.github.io/green/2023/10/19/ecodesign.html
+    relatedEvent: Chez LauDev
+  - contributionType: writing
     linkedGSFProject: Green Software Patterns
     subtype: 3rd-party-article
     dateFrom: 2023-10-18
@@ -28,6 +36,38 @@ activities:
     title: Keeping tech sustainable
     url: https://apolitical.co/solution-articles/en/keeping-tech-sustainable
     relatedEvent: Apolitical
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-10-12
+    dateTo: 2023-10-12
+    title: The legislative framework for the eco-design of digital services
+    url: https://greenspector.com/en/the-legislative-framework-for-the-eco-design-of-digital-services/
+    relatedEvent: Greenspector blog
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: What is the environmental impact of opening or not opening links in another tab?
+    url: https://greenspector.com/en/what-is-the-environmental-impact-of-opening-or-not-opening-links-in-another-tab/
+    relatedEvent: Greenspector blog
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-09-13
+    dateTo: 2023-09-13
+    title: Publication of the W3C Web Sustainability Guidelines
+    url: https://greenspector.com/en/publication-of-the-w3c-web-sustainability-guidelines/
+    relatedEvent: Greenspector blog
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2023-09-07
+    dateTo: 2023-09-07
+    title: What is the environmental impact of mobile games in 2023?
+    url: https://greenspector.com/en/what-is-the-environmental-impact-of-mobile-games-in-2023/
+    relatedEvent: Greenspector blog
   - contributionType: writing
     linkedGSFProject: Green Software Patterns
     subtype: company-article

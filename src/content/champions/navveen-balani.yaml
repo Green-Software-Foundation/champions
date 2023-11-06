@@ -1,16 +1,53 @@
 firstName: Navveen
 lastName: Balani
-role: Chief Technologist, Technology Sustainability Innovation (Accenture), Google Cloud Certified Fellow, Co-Lead, SCI Open Data, SCI Open Ontology (GSF)
+role: Chief Technologist, Technology Sustainability Innovation (Accenture), Google Cloud Certified Fellow, Co-Chair, SCI Open Data, SCI Open Ontology, Standards (GSF)
 organization: Accenture
 languages: 
   - English
 pronoun: He/Him
 country: India
 city: Mumbai
-bio: Navveen Balani is Chief Technologist at Accenture's Technology Sustainability Innovation Group. He uses the power of exponential technology to deliver research, innovations, ESG strategy and new product offerings for Accenture customers, helping to produce value at the intersection of technology and sustainability. He has over two decades of experience in building enterprise products and services. He is a Google Cloud Certified Fellow and author of several leading technology books and actively blogs on his website.
+bio: Navveen Balani is Chief Technologist at Accenture's Technology Sustainability Innovation Group. He uses the power of exponential technology to deliver research, innovations, ESG strategy, and new product offerings for Accenture customers, helping to produce value at the intersection of technology and sustainability. He has over two decades of experience in building enterprise products and services. He is a Google Cloud Certified Fellow and author of several leading technology books and actively blogs on his website.
 type: normal
 social:
   github: navveenb
   linkedin: naveenbalani
   twitter: naveenbalani
   website: https://navveenbalani.dev/
+activities:
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: personal-blog-post
+    dateFrom: 2023-07-09
+    dateTo: 2023-07-09
+    title: "Rust and Sustainability: Programming for a Greener Future"
+    description: In an era where sustainable practices are more important than ever, the selection of programming languages has shifted to include factors such as environmental impact alongside performance, ease of use, and scalability. Rust has emerged as a standout choice in this context, driving us toward a greener future in programming. This article will delve into Rust's potential for a sustainable future, the hurdles to its adoption, and strategies for a successful transition to Rust.
+    url: https://www.linkedin.com/pulse/rust-sustainability-programming-greener-future-navveen-balani/
+    relatedEvent: "Rust and Sustainability: Programming for a Greener Future"
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: gsf-article
+    dateFrom: 2023-03-01
+    dateTo: 2023-03-01
+    title: How to implement the SCI Specification 
+    description: The design, development, and deployment of all software applications should prioritize sustainability as an essential outcome.
+    url: https://greensoftware.foundation/articles/how-accenture-implemented-the-sci-specification-score-to-track-software-emissions
+    relatedEvent: How Accenture Implemented the SCI Specification Score to track Software Emissions
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Impact Framework (IEF)
+    subtype: project-lead
+    dateFrom: 2023-02-01
+    dateTo: 2023-02-01
+    title: Impact Framework Project
+    subtitle: Project Co-Chair
+    description: Navveen is the Project Co-Chair of the Impact Framework. 
+    url: https://github.com/Green-Software-Foundation/ief
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: personal-blog-post
+    dateFrom: 2022-12-08
+    dateTo: 2022-12-08
+    title: Is moving to the cloud enough to deliver sustainability goals?
+    description: In this blog, I provide a point of view on how to design and deliver sustainable applications using cloud technology.
+    url: https://www.linkedin.com/pulse/moving-cloud-enough-deliver-sustainability-goals-navveen-balani/
+    relatedEvent: Is moving to the cloud enough to deliver sustainability goals?

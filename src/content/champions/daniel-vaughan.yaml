@@ -60,3 +60,12 @@ activities:
     description: Inaugural Green Software Foundation London meetup
     url: https://www.meetup.com/gsf-london/events/292217696/
     relatedEvent: Green Software Foundation London Meetup March
+  - contributionType: writing
+    linkedGSFProject: Decarbonize Software
+    subtype: personal-blog-post
+    dateFrom: 2022-11-11
+    dateTo: 2022-11-11
+    title: Decarbonizing Software
+    description: A writeup of Decorbonize Software 2022
+    url: https://blog.danielvaughan.com/decarbonizing-software-51a2160ec9d2
+    relatedEvent: medium.com

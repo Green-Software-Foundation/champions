@@ -13,3 +13,19 @@ type: normal
 social:
   github: stumpyfr
   linkedin: nielsfreier
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: online-talk
+    dateFrom: 2023-04-04
+    dateTo: 2023-08-04
+    title: "Expert talk: Sustainable Software in Practice" 
+    url: https://www.youtube.com/watch?v=V7fhxv9M5II
+  - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: company-article
+    dateFrom: 2022-11-08
+    dateTo: 2022-11-08
+    title: Why Your Organization Needs Sustainable Software
+    url: https://www.bcg.com/publications/2022/why-your-organization-needs-sustainable-software
+    relatedEvent: Why Your Organization Needs Sustainable Software

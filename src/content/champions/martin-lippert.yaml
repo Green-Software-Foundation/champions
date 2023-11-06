@@ -14,3 +14,35 @@ social:
   github: martinlippert
   linkedin: martin-lippert-9a1909
   twitter: martinlippert
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-15
+    dateTo: 2023-09-15
+    title: The Sustainability Mythbuster
+    url: https://codetalks.de/speakers#speaker-862?event=8
+    relatedEvent: code.talks 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: internal-event-talk
+    dateFrom: 2023-06-28
+    dateTo: 2023-06-28
+    title: Panel on Sustainability in Software Engineering
+    relatedEvent: DATEV Coding Festival 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-03-22
+    dateTo: 2023-03-22
+    title: The Sustainability Mythbuster
+    url: https://meine.doag.org/events/javaland/2023/agenda/#eventDay.1679439600
+    relatedEvent: JavaLand 2023 Conference
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-02-08
+    dateTo: 2023-02-08
+    title: The Sustainability Mythbuster
+    url: https://www.oop-konferenz.de/oop-2023/programm/
+    relatedEvent: OOP 2023 Conference

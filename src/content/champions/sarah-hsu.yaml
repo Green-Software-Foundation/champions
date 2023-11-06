@@ -4,11 +4,106 @@ role: Site Reliability Engineer
 organization: Goldman Sachs
 languages: 
   - English
-pronoun: She/Her
+  - Mandarin
 country: United Kingdom
 city: London
-bio: Sarah is a Site Reliability Engineer with Goldman Sachs working on Consolidated Trade Ledger. She is the organisation lead for Goldman Sachs with the Green Software Foundation and the chair of the Principle’s project. She would like to see Green Software becoming an integral part of the educational curriculum for anyone learning to code.
+bio: Sarah is a strong advocate for green, sustainable software. She frequently speaks and writes about the topic. For instance, she is currently authoring a book titled 'Building Green Software' for O'Reilly. Additionally, she holds the Green Software Course Chair position at the Green Software Foundation. In collaboration with the Linux Foundation, the group recently launched a free training course named 'Green Software for Practitioners' (LFC131). Sarah is a Site Reliability Engineer, contributing to a distributed platform on Google Cloud at Goldman Sachs.
 type: normal
 social:
   github: greenhsu123
-  linkedin: sarah-hsu-b19a19108
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: meetup-talk
+    dateFrom: 2023-10-24
+    dateTo: 2023-10-24
+    title: CNCF Sustainability Week - Taiwan x Green Software Foundation
+    url: https://community.cncf.io/events/details/cncf-cloud-native-taiwan-user-group-presents-cncf-sustainability-week-taiwan-x-green-software-foundation/
+    relatedEvent: CNCF Sustainability Week - Taiwan x Green Software Foundation
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lighting-talk
+    dateFrom: 2023-09-29
+    dateTo: 2023-09-29
+    title: Reframe Women In Tech Conference 2023
+    subtitle: "Panel: Green Tech"
+    url: https://www.linkedin.com/posts/reframe-women-in-tech-conference_reframe-women-in-tech-london-2023-schedule-activity-7107667979965734913-fsBa?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Reframe Women In Tech Conference 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-14
+    dateTo: 2023-09-14
+    title: API Days London 2023
+    subtitle: "Talk: Is Efficiency the End of Story for Green Software?"
+    url: https://www.youtube.com/watch?v=KI8nOR2NaLY
+    relatedEvent: API Days London 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-05-05
+    dateTo: 2023-05-05
+    title: Is Efficiency the End of Story for Green Software?
+    subtitle: 30 minute talk
+    url: https://www.cloud-native-sre.wtf/schedule#sz-tab-45051
+    relatedEvent: WTF is SRE 2023
+  - contributionType: hosting
+    linkedGSFProject: Community WG
+    subtype: all
+    dateFrom: 2023-03-29
+    dateTo: 2023-03-29
+    title: QCon London 2023 - Architecture with Sustainability in Mind Track
+    subtitle: Track host
+    url: https://qconlondon.com/track/mar2023/architecture-sustainability-mind
+    relatedEvent: QCon London 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lighting-talk
+    dateFrom: 2023-03-29
+    dateTo: 2023-03-29
+    title: "Panel: What’s next? Net-Zero Commitments?"
+    subtitle: Panellist 
+    url: https://qconlondon.com/presentation/mar2023/panel-whats-next-net-zero-commitments
+    relatedEvent: QCon London 2023
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-03-23
+    dateTo: 2023-03-23
+    title: Green Software Foundation London Meetup March 2023
+    url: https://greensoftware.foundation/articles/london-meetup-recap-building-a-green-tech-culture
+    relatedEvent: GSF London
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-06-07
+    dateTo: 2023-06-07
+    title: GSF Global Summit 2022 - London
+    subtitle: Principles of Green Software- what do you need to know for building green software
+    url: https://www.meetup.com/gsf-london/events/284808203/
+    relatedEvent: GSF Global Summit London hosted by Microsoft, Accenture, Avanade & Goldman Sachs
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: book
+    dateFrom: 2023-04-01
+    dateTo: 2022-12-31
+    title: "O'Reilly Book: Building Green Software"
+    url: https://www.oreilly.com/library/view/building-green-software/9781098150617/
+    relatedEvent: "Building Green Software: A Sustainable Approach to Software Development and Operations"
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2022-12-16
+    dateTo: 2022-12-16
+    title: API Days Paris - 2022
+    subtitle: Conference Talk
+    url: https://www.apidays.global/paris2022/
+    relatedEvent: API Days Paris - 2022
+  - contributionType: speaking
+    linkedGSFProject: Decarbonize Software
+    subtype: lighting-talk
+    dateFrom: 2022-11-12
+    dateTo: 2022-11-12
+    title: GSF Decarbonize Software 2022
+    url: https://www.youtube.com/watch?v=GS12M3cXwO8&t=3735s
+    relatedEvent: GSF Decarbonize Software 2022

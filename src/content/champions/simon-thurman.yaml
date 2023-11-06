@@ -1,0 +1,35 @@
+firstName: Simon
+lastName: Thurman
+role: App Innovation Cloud Solution Architect 
+organization: Microsoft
+languages: 
+  - English
+country: United Kingdom
+city: Chesterfield
+bio: |
+ Simon is a Technology Specialist at Microsoft. He works with companies to help them understand and use the cloud. His background is application development and solution architecture.  He joined Microsoft just before .Net was released and he’s been working with Azure since it was Red Dog.  He’s been interested in Green Software for a number of years.
+type: normal
+social:
+  github: simonthurman
+  linkedin: simonthurman
+  twitter: simonthurman
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-06-20
+    dateTo: 2023-06-20
+    title: Green Software Engineering
+    description: Introduced the area of Green Software Engineering and explained the principles that are important to understand when creating software.  Also explained the importance of measuring, and the approaches to achieve this.
+    url: https://leedsdigital.org/events/yorkshire-devops-8/
+    relatedEvent: Yorkshire Azure User Group
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: documentation
+    dateFrom: 2023-02-09
+    dateTo: 2027-07-14
+    title: Updated the The Principles of Sustainable Software Engineering course 
+    description: Updated one of the most popular courses on MS Learn - The Principles of Sustainable Software Engineering.
+     The course now reflects the revised Principles on GSF. 
+    url: https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
+    relatedEvent: The Principles of Sustainable Software Engineering

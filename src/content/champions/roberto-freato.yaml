@@ -18,3 +18,35 @@ social:
   github: childotg
   linkedin: robertofreato
   twitter: childotg
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: keynote
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: Green must be convenient
+    url: https://apiconference.net/session/green-software-foundation-sustainability/
+    relatedEvent: API / SLA Conference 2023 @Berlin
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2023-05-23
+    dateTo: 2023-05-23
+    title: Green must be convenient
+    url: https://events.pinetool.ai/2928/#sessions/99179?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions
+    relatedEvent: DevDays & DevOps Pro Europe 2023 @Vilnius
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2023-05-13
+    dateTo: 2023-05-13
+    title: Green must be convenient
+    url: https://globalazuretorino.welol.it/#agenda2023
+    relatedEvent: Global Azure 2023 @Torino
+  - contributionType: GSF Contribution
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: all
+    dateFrom: 2023-01-05
+    dateTo: 2023-03-21
+    title: GSF Practitioner Course | Italian version
+    url: https://github.com/Green-Software-Foundation/learn/pull/151

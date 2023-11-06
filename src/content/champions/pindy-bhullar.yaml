@@ -24,3 +24,22 @@ activities:
     description: https://www.linkedin.com/feed/update/urn:li:activity:7087136002229559296/
     url: https://www.linkedin.com/feed/update/urn:li:activity:7104779534989676544/
     relatedEvent: Concave Summit
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: Decarbonization through Green Technology
+    description: Green technology can be built to help accelerate decarbonization across all sectors in industry and society. 
+     The mission of Green Software Foundation is to ensure software is a climate enabler and solution, by building green software through a trusted ecosystem of people, standards, tooling and best practices. 
+    url: https://www.linkedin.com/events/concavesummitlondon20237104779530585677824/comments/
+    relatedEvent: Concave Summit
+  - contributionType: speaking
+    linkedGSFProject: Standards WG
+    subtype: meetup-talk
+    dateFrom: 2023-06-05
+    dateTo: 2023-06-07
+    title: Green Software Introduction and Project Update
+    description: Provided an overview of GSF and key projects.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7087136002229559296/
+    relatedEvent: Code Green London Meetup

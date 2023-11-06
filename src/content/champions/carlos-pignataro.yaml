@@ -16,3 +16,42 @@ social:
   github: cpignata
   linkedin: cpignata
   website: https://carlos.pignataro.net/
+activities:
+  - contributionType: organising
+    linkedGSFProject: Software Emission Benchmark
+    subtype: conference-track
+    dateFrom: 2023-07-27
+    dateTo: 2023-07-27
+    title: IETF 117 Environmental Impact (e-impact)
+    url: https://github.com/cpignata/e-impact/blob/main/ietf117/Readme.md
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-05-08
+    dateTo: 2023-05-12
+    title: Towards more Sustainable Networking
+    url: https://noms2023.ieee-noms.org/program/panel-discussions
+    relatedEvent: IEEE NOMS 2023
+  - contributionType: organising
+    linkedGSFProject: Software Emission Benchmark
+    subtype: conference-track
+    dateFrom: 2023-03-30
+    dateTo: 2023-03-30
+    title: IETF116 Environmental Impact of Internet Architectures and Technologies
+    url: https://github.com/cpignata/e-impact/blob/main/ietf116/Readme.md
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: documentation
+    dateFrom: 2022-12-05
+    dateTo: 2022-12-12
+    title: Sustainability Considerations for Networking Equipment
+    url: https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Krishnan-Pignataro_Sustainability-considerations-for-networking-equipment.pdf
+    relatedEvent: IAB workshop on Environmental Impact 2022
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: documentation
+    dateFrom: 2022-12-05
+    dateTo: 2022-12-12
+    title: On Principles for a Sustainability Stack
+    url: https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/King-Krishnan-Pignataro-Thubert-Voit_On-Principles-for-a-Sustainability-Stack.pdf
+    relatedEvent: IAB workshop on Environmental Impact 2022

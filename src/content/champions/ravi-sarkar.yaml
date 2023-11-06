@@ -1,15 +1,31 @@
 firstName: Ravi
 lastName: Sarkar
-role: Enterprise CTO - Technology Strategist Capital Markets - Fintech
+role: Enterprise CTO - Technology Strategy
 organization: Microsoft
 languages: 
   - English
 pronoun: He/Him
 country: USA
 city: New York
-bio: Enterprise CTO - Technology Strategy - Capital Markets | FinTech
+bio: |
+ Ravi Sarkar is Enterprise CTO within Microsoft’s Financial Services unit. In this role, he leads the technology strategy & innovation, oversees the architecture and engineering of business solutions across the cloud and AI product stack for Capital Markets industry.
+
+ With over two decades of expertise in enterprise software product design, architecture and engineering as well as deep expertise in AI + data-driven systems built on cloud, Ravi is a recognized fintech leader and influencer. He has defined new product categories, driven hypergrowth, and architected some of the most complex money transaction systems for tier one banks.
+
+ Ravi is a recipient of the Microsoft Technology Solution Achievers award and a former winner of the IBM Champions Award for innovation and financial technology research. He is also part of Rise Global FinTech Power 100 List.
+
+ Ravi frequently speaks at industry events and conferences. He actively advises early-stage startups as well as the enterprise CIO/CTO peer community in NYC. Additionally, he is a contributor and speaker for the Green Software Foundation, working actively on a mission to reduce global carbon emissions associated with software.
 type: normal
 social:
   github: Ravisarkar
   linkedin: sarkarravi
   twitter: ravisarkar3
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-09-20
+    dateTo: 2023-09-20
+    title: "Making Software and cloud more sustainable: Building, Hosting & Measuring Energy Efficient Digital Products"
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7110981409468506113/
+    relatedEvent: "Accenture: Climate Week Talk"

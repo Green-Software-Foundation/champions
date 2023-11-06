@@ -17,3 +17,22 @@ type: normal
 social:
   github: cronky
   linkedin: cronky
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Sustainable Enterprise Architecture talk
+    description: Talk on the impact of technology on the environment and the sustainability considerations Enterprise Architects should consider along with high level recommends and guidance aligned with GSF materials. 
+    url: https://www.bcs.org/events-calendar/2023/september/hybrid-event-enterprise-architecture-specialist-group-6th-annual-conference/
+    relatedEvent: BCS Enterprise Architecture SG Annual Conference 
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-18
+    dateTo: 2023-09-19
+    title: Architecture for Sustainability
+    description: Talk on sustainable architecture considerations for Architects and related roles.
+    url: https://www.youtube.com/watch?v=EiJC35bj-JY
+    relatedEvent: Intersection 2023

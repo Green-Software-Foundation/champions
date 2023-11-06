@@ -1,17 +1,17 @@
 firstName: Annie
 lastName: Freeman
-role: Platform Engineer at Xero, Enrolled Barrister and Solicitor
+role: Engineer
 organization: Xero
 languages: 
   - English
 pronoun: She/Her
-country: USA
+country: New Zealand
 city: Auckland
 bio: |
- Annie is a platform software engineer at Xero in New Zealand. 
- Since 2021 she has been captivated by how engineers can make a difference to the climate problem using green software practices. 
- In particular, she is interested in building carbon aware software that dynamically runs in the least carbon intensive region or time period. 
- Annie has speaking experience at conferences and meetups. 
+ Annie is a software engineer at Xero in New Zealand. Since 2021 she has been captivated by how engineers can make a difference to the climate problem using green software practices. 
+
+ In particular, she is interested in building carbon aware software that dynamically runs in the least carbon intensive region or time period. Annie has speaking experience at conferences and meetups, including the 2023 Grace Hopper Celebration. 
+
  Annie is also an enrolled barrister and solicitor in New Zealand and is interested in how software and law can intersect to find solutions to climate change.
 type: normal
 social:

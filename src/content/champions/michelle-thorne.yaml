@@ -16,3 +16,13 @@ social:
   github: thornet
   linkedin: michelle-thorne-9a0289270
   website: https://mastodon.online/@thornet
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-09
+    dateTo: 2023-10-09
+    title: "IGF: Cooperation for a Green Digital Future"
+    description: 1. How can policymakers/stakeholders collaborate to develop and implement policies, incentives, and standards that promote the responsible and sustainable use of digital_technologies, while maximizing their potential to combat climate_change and protect the environment in line with the DFI_principles? 2. What strategies and frameworks can be established to ensure that deployment of digital_technologies (AI, supercomputing, data pooling) consistently prioritize environmental considerations and contribute to the global effort to achieve climate neutrality? 3. How can multi-stakeholder community foster open, transparent and inclusive dialogue between various stakeholders to identify, share, and scale_up best practices and innovative solutions for leveraging digital_technologies in addressing environmental_challenges?
+    url: https://www.intgovforum.org/en/content/igf-2023-ws-49-cooperation-for-a-green-digital-future
+    relatedEvent: Internet Governance Forum 

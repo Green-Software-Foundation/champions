@@ -12,3 +12,13 @@ type: normal
 social:
   github: srini1978
   linkedin: srinivasanrakhunathan
+activities:
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Impact Framework (IEF)
+    subtype: project-lead
+    dateFrom: 2023-02-01
+    dateTo: 2023-02-01
+    title: Impact Framework Project
+    subtitle: Project Co-Chair
+    description: I am the co-chair of Impact framework and hence contributing to the project by adding issues and contributing to discussions.
+    url: https://github.com/Green-Software-Foundation/ief/issues/216

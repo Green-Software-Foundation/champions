@@ -39,6 +39,14 @@ activities:
     relatedEvent: Apidays London
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-09-07
+    dateTo: 2023-09-07
+    title: Environment Variables Episode 41
+    subtitle: "The Week in Green Software: Complex Carbon Accounting with Gaël Duez"
+    url: https://podcast.greensoftware.foundation/e/1n2j527n-the-week-in-green-software-complex-carbon-accounting-with-gael-duez
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: meetup-talk
     dateFrom: 2023-06-08
     dateTo: 2023-06-08

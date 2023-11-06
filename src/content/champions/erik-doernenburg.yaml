@@ -1,6 +1,6 @@
 firstName: Erik
 lastName: Doernenburg
-role: Head of Technology
+role: CTO Europe
 organization: Thoughtworks
 languages: 
   - English
@@ -18,5 +18,32 @@ type: normal
 social:
   github: erikdoe
   linkedin: edoernenburg
-  twitter: erikdoe
-  website: https://erik.doernenburg.com/
+  website: https://toot.thoughtworks.com/@edoernen
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: Cloud computing and carbon emissions
+    description: Talk on carbon footprint – how to measure and reduce carbon emissions in the cloud
+    url: https://www.agile-meets-architecture.com/2023/schedule
+    relatedEvent: Agile meets Architecture 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Den CO2 Fußabdruck verstehen und reduzieren
+    description: Keynote on carbon footprint – how to measure and reduce carbon emissions in the cloud
+    url: https://www.software-architecture-alliance.de/2023/programm/programm#item-6581
+    relatedEvent: Software Architecture Alliance 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-06-07
+    dateTo: 2023-06-07
+    title: Wie lässt sich Digitalisierung ressourcenschonender gestalten?
+    subtitle: German Language
+    description: Podcast discussing how running in the public cloud provides opportunities to reduce the carbon footprint.
+    url: https://handelsblatt-soklingtwirtschaft.podigee.io/187-erik-doernenburg-thoughtworks-green-computing

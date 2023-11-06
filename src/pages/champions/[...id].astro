@@ -4,7 +4,7 @@ import Layout from "@/layouts/layout.astro";
 import { Image } from "astro:assets";
 import { Icon } from "astro-icon";
 import { Separator } from "@/components/ui/separator";
-import type { Activity, ContributionType } from "types";
+import type { Activity } from "types";
 import ActivitiyCard from "@/components/ActivityCard.astro";
 import type { CollectionEntry } from "astro:content";
 import Button from "@/components/ui/button.astro";
@@ -61,7 +61,7 @@ const activitiesByYear = activities?.reduce((acc, activity) => {
 const isExpert = type === "expert";
 
 type ContributionIcon = {
-  [key in ContributionType]: string;
+  [key: string]: string;
 };
 
 const contributionIcon: ContributionIcon = {
@@ -92,10 +92,12 @@ const contributionIcon: ContributionIcon = {
         name="arrow-left"
         class="w-4 h-4 inline-block mr-2"
       />
-       Back to Champions Directory</Button
+       Back to Champions Directory
+    </Button>
+    <div
+      class="grid md:grid-cols-[1fr_2fr] lg:grid-cols-[1fr_3fr] gap-10 lg:gap-20"
     >
-    <div class="grid  md:grid-cols-[1fr_2fr] lg:grid-cols-[1fr_3fr] gap-10 lg:gap-20">
-      <div class="flex flex-col gap-4  items-center md:items-start">
+      <div class="flex flex-col gap-4 items-center md:items-start">
         <div class="relative p-2 rounded-full inline-block">
           {/* Gradient background */}
           <div
@@ -156,7 +158,9 @@ const contributionIcon: ContributionIcon = {
           </button>
         </div> -->
 
-        <p class="text-gray-darker text-center md:text-left text-lg md:text-xl font-semibold">
+        <p
+          class="text-gray-darker text-center md:text-left text-lg md:text-xl font-semibold"
+        >
           {role}
         </p>
 
@@ -260,7 +264,7 @@ const contributionIcon: ContributionIcon = {
                                       pack="lucide"
                                       name={
                                         contributionIcon[
-                                          activity.contributionType
+                                          activity.contributionType.toLocaleLowerCase()
                                         ]
                                       }
                                       class="w-4 h-4 inline-block"

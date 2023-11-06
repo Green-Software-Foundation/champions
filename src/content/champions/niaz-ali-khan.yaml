@@ -1,11 +1,10 @@
 firstName: Niaz Ali
 lastName: Khan
-role: Erasmus Mundus Scholar at SE4GD (Software Engineers for Green Deal)
-organization: EU
+role: Software Engineer
+organization: Miradore
 languages: 
   - English
-  - Urdu
-  - Pashto
+  - Finnish
 pronoun: He/Him
 country: Finland
 city: Lappeenranta
@@ -16,3 +15,13 @@ type: normal
 social:
   github: niaz-ali-khan
   linkedin: khanniaz
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: lighting-talk
+    dateFrom: 2023-05-02
+    dateTo: 2023-05-04
+    title: Moderating Panel Discussion on Green Software Engineering
+    description: The event was about green software engineering in a summer school hosted by SE4GD
+    url: https://se4gd.lutsoftware.com/
+    relatedEvent: Summer School SE4GD

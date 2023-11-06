@@ -13,6 +13,47 @@ bio: |
  Szymon is also the winner of Sustainability Award, 3rd edition of OpenUK Awards. He dabbles in the areas of game dev, embedded systems and iot, cloud engineering and is crazy about windsurfing!
 type: normal
 social:
-  github: WIllmish
+  github: Willmish
   linkedin: szymon-duch
-  twitter: WIllmish
+  twitter: Willmish
+  website: https://universeodon.com/@Willmish
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: keynote
+    dateFrom: 2023-09-14
+    dateTo: 2023-09-14
+    title: Closing Keynote Szymon Duchniewcz
+    url: https://www.youtube.com/watch?v=ebe2jZonP6w
+    relatedEvent: Open Technology for Sustainability Day 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-06-27
+    dateTo: 2023-06-27
+    title: Porting an AI Powered Wearable Health Monitor to Zephyr on Open Hardware
+    url: https://www.youtube.com/watch?v=fBMeNOOghD4
+    relatedEvent: Embedded Open Source Summit 2023
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: conference-talk
+    dateFrom: 2023-05-31
+    dateTo: 2023-05-31
+    title:  Green Software Principles and Embedding Carbon Awareness in Your Applications
+    url: https://www.youtube.com/watch?v=wfpEgk78U7k
+    relatedEvent: LF Energy Summit 2023 - Deep Decarbonization
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Carbon Aware SDK
+    subtype: project-lead
+    dateFrom: 2023-04-30
+    dateTo: 2023-04-30
+    title: Co-Charing the Carbon Aware SDK project
+    url: https://github.com/Green-Software-Foundation/carbon-aware-sdk
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: conference-talk
+    dateFrom: 2023-02-08
+    dateTo: 2023-02-08
+    title: Green Software Principles and embedding Carbon Awareness in your apps
+    url: https://www.youtube.com/watch?v=heR3pyOHARs
+    relatedEvent: State of Open Con 2023

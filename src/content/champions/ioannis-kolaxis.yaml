@@ -42,3 +42,11 @@ activities:
     title: "Calling for a greener Internet: Decentralized with smaller data centers"
     url: https://www.kolaxis.dev/greener-internet-decentralized-smaller-edge-data-centers
     relatedEvent: kolaxis.dev - A blog dedicated to building better software
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: book
+    dateFrom: 2022-12-09
+    dateTo: 2022-12-09
+    title: "101 Green Software: A Practical Guide for Developers & Architects"
+    url: https://www.amazon.co.uk/dp/B0BPPF82H9
+    relatedEvent: Published on Amazon

@@ -26,3 +26,11 @@ activities:
     title: "kube-green: How-to reduce your CO2 fingerprint on k8s"
     url: https://platformcon.com/talks/kube-green-increase-cloud-software-sustainability-reducing-co2-footprint
     relatedEvent: PlatformCon
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-10-09
+    dateTo: 2023-10-09
+    title: Round Table
+    url: https://youtu.be/haW6PfdLqUg?si=j_W2GSmkEZTFoH8C&t=1768
+    relatedEvent: CNCF Sustainability Week Milan
