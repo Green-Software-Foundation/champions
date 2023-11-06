@@ -64,14 +64,14 @@ type ContributionIcon = {
 };
 
 const contributionIcon: ContributionIcon = {
-  speaking: "mic",
-  writing: "pencil",
-  organizing: "calendar",
-  mentoring: "users",
-  hosting: "home",
-  "gsf contribution": "tree-deciduous",
-  "gsf project leadership": "star",
-  "oss contribution": "code",
+  speaking: "microphone-fill",
+  writing: "pencil-fill",
+  organizing: "calendar-fill",
+  mentoring: "users-three-fill",
+  hosting: "house-line-fill",
+  "gsf contribution": "tree-fill",
+  "gsf project leadership": "shooting-star-fill",
+  "oss contribution": "code-simple-fill",
 };
 ---
 
@@ -87,8 +87,8 @@ const contributionIcon: ContributionIcon = {
       additionalStyles="self-center md:self-start self-"
     >
       <Icon
-        pack="heroicons-solid"
-        name="arrow-left"
+        pack="ph"
+        name="arrow-left-bold"
         class="w-4 h-4 inline-block mr-2"
       />
        Back to Champions Directory
@@ -260,7 +260,7 @@ const contributionIcon: ContributionIcon = {
                                 <div class="flex gap-3 flex-wrap  mb-4">
                                   <span class="px-2 py-1 bg-accent-light text-black-darkest font-black text-sm uppercase tracking-wider rounded-lg inline-flex items-center gap-2">
                                     <Icon
-                                      pack="lucide"
+                                      pack="ph"
                                       name={
                                         contributionIcon[
                                           activity.contributionType.toLocaleLowerCase()
