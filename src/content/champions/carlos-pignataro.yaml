@@ -17,7 +17,7 @@ social:
   linkedin: cpignata
   website: https://carlos.pignataro.net/
 activities:
-  - contributionType: organising
+  - contributionType: organizing
     linkedGSFProject: Software Emission Benchmark
     subtype: conference-track
     dateFrom: 2023-07-27
@@ -32,7 +32,7 @@ activities:
     title: Towards more Sustainable Networking
     url: https://noms2023.ieee-noms.org/program/panel-discussions
     relatedEvent: IEEE NOMS 2023
-  - contributionType: organising
+  - contributionType: organizing
     linkedGSFProject: Software Emission Benchmark
     subtype: conference-track
     dateFrom: 2023-03-30
