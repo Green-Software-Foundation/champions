@@ -42,6 +42,14 @@ activities:
     subtitle: Project Co-Chair
     description: Navveen is the Project Co-Chair of the Impact Framework. 
     url: https://github.com/Green-Software-Foundation/ief
+  - contributionType: GSF Contribution
+    linkedGSFProject: Green Software Patterns
+    subtype: all
+    dateFrom: 2023-01-01
+    dateTo: 2023-01-01
+    title: Green AI Patterns
+    description: Active contributor and SME for Green AI Patterns.
+    url: https://patterns.greensoftware.foundation/catalog/ai/
   - contributionType: writing
     linkedGSFProject: Community WG
     subtype: personal-blog-post
@@ -51,3 +59,21 @@ activities:
     description: In this blog, I provide a point of view on how to design and deliver sustainable applications using cloud technology.
     url: https://www.linkedin.com/pulse/moving-cloud-enough-deliver-sustainability-goals-navveen-balani/
     relatedEvent: Is moving to the cloud enough to deliver sustainability goals?
+  - contributionType: speaking
+    linkedGSFProject: Standards WG
+    subtype: podcast
+    dateFrom: 2022-08-31
+    dateTo: 2022-08-31
+    title: Is green software on the agenda?
+    description: Green software refers to all efforts to reduce the emissions of software. Companies need to adapt how software is designed, developed, deployed, and used to minimize its carbon footprint. Software runs on hardware, and any uptick in software use increases the emissions of machines and devices on which it runs. Green software practices can reduce energy consumption in multiple ways from programming and architecture choices to user experience.
+    url: https://impact.economist.com/sustainability/project/sustainable-technology/is-green-software-on-the-agenda.html
+    relatedEvent: Economist Impact
+  - contributionType: speaking
+    linkedGSFProject: Standards WG
+    subtype: keynote
+    dateFrom: 2022-06-01
+    dateTo: 2022-06-01
+    title: Uniting Technology and Sustainability 
+    description: At the Green Software Foundation Global Summit, I talked about the intersection of sustainability and technology and why as software practitioners, we should care about green software, followed by a deep dive into the Green Software Foundation and what specifications and innovation we are driving in this area.
+    url: https://vimeo.com/720641968
+    relatedEvent: Green Software Foundation Global Summit

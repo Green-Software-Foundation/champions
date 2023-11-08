@@ -14,3 +14,20 @@ social:
   linkedin: chrislloydjones
   twitter: Sealjay_CLJ
   website: https://www.sealjay.com/tag/event/
+activities:
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Opensource WG
+    subtype: wg-chair
+    dateFrom: 2021-09-01
+    dateTo: 2023-11-30
+    title: Chair of Open Source Working Group
+    subtitle: Green Software Foundation
+    url: https://github.com/Green-Software-Foundation/opensource-wg
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Oversight Committee
+    subtype: wg-chair
+    dateFrom: 2021-09-01
+    dateTo: 2023-11-30
+    title: Chair of Oversight Committee
+    subtitle: Green Software Foundation
+    url: https://github.com/Green-Software-Foundation/oc

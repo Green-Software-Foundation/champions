@@ -50,3 +50,11 @@ activities:
     title: "101 Green Software: A Practical Guide for Developers & Architects"
     url: https://www.amazon.co.uk/dp/B0BPPF82H9
     relatedEvent: Published on Amazon
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: book
+    dateFrom: 2022-01-31
+    dateTo: 2022-01-31
+    title: "101 Green Software: A Practical Guide for Developers & Architects"
+    url: https://www.amazon.co.uk/101-Green-Software-Developers-Architects/dp/B0BPQHF9FC/
+    relatedEvent: Amazon

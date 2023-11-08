@@ -116,3 +116,11 @@ activities:
     title: Optimising your website for print
     url: https://greenspector.com/en/optimising-your-website-for-print/
     relatedEvent: Greenspector Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-01-03
+    dateTo: 2023-01-03
+    title: Reducing the impact of Autocompletion
+    url: https://greenspector.com/en/reducing-the-impact-of-autocompletion/
+    relatedEvent: Greenspector

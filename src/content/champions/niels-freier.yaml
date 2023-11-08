@@ -19,7 +19,7 @@ activities:
     subtype: online-talk
     dateFrom: 2023-04-04
     dateTo: 2023-08-04
-    title: "Expert talk: Sustainable Software in Practice" 
+    title: "Expert talk: Sustainable Software in Practice"
     url: https://www.youtube.com/watch?v=V7fhxv9M5II
   - contributionType: writing
     linkedGSFProject: Green Software Champions & Experts

@@ -30,6 +30,13 @@ activities:
     title: A Forecast of Green Clouds
     url: https://www.thoughtworks.com/en-us/insights/articles/a-forecast-of-green-clouds
     relatedEvent: Thoughtworks Website
+  - contributionType: GSF Contribution
+    linkedGSFProject: Green Software Patterns
+    subtype: all
+    dateFrom: 2022-10-17
+    dateTo: 2022-10-17
+    title: Cloud Pattern SME
+    url: https://patterns.greensoftware.foundation/catalog/cloud/minimizing-deployed-environments
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: other
@@ -46,6 +53,14 @@ activities:
     title: Green I/O Podcast
     url: https://greenio.gaelduez.com/e/m849x5pn-7-cameron-casher-and-benjamin-davy-cloud-carbon-footprint-sustainability-aws-gcp-azure-vs-aws-azure-and-gcp-sustainability-dashboards
     relatedEvent: Measuring the Carbon Footprint of Cloud computing from CCF to AWS, Azure and GCP sustainability dashboards
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-meetup
+    dateFrom: 2022-06-15
+    dateTo: 2022-06-15
+    title: GSF Summit - New York
+    url: https://summit.greensoftware.foundation/
+    relatedEvent: Green Software Foundation Global Summit
   - contributionType: oss contribution
     linkedGSFProject: Community WG
     subtype: all

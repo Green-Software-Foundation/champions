@@ -13,3 +13,39 @@ social:
   github: Green-Software
   linkedin: ziliang-zong-099a6033
   website: https://userweb.cs.txstate.edu/~zz11/
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2022-08-30
+    dateTo: 2022-08-30
+    title: Is green software on the agenda?
+    url: https://impact.economist.com/sustainability/project/sustainable-technology/is-green-software-on-the-agenda.html
+    relatedEvent: Economist Podcast
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2022-06-15
+    dateTo: 2022-06-15
+    title: The History of Green Computing
+    subtitle: From Hardware and Software Perspectives
+    url: https://www.youtube.com/watch?v=fMoq6AdE5bQ
+    relatedEvent: GSF Global Summit - Houston
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Other/Unlisted
+    subtype: project-lead
+    dateFrom: 2022-03-01
+    dateTo: 2022-09-30
+    title: Evaluating the Software Carbon Intensity of Foundation Models
+    subtitle: Archived GSF Project
+    description: This project evaluates the carbon impact of several open-source foundation models (e.g., GPT-J 6B, GPT Neo 2.7B, GPT-NEO 1.3B, GPT-2) at inference stage using the Software Carbon Intensity (SCI) specification.
+    url: https://github.com/Green-Software-Foundation/eval_sci_of_foundation_models
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2021-11-04
+    dateTo: 2021-11-04
+    title: Achieving a Sustainable Future through Technology
+    subtitle: Accenture @ COP26
+    url: https://www.youtube.com/watch?v=G435ENcpEEs
+    relatedEvent: COP26

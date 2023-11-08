@@ -107,3 +107,41 @@ activities:
     title: GSF Decarbonize Software 2022
     url: https://www.youtube.com/watch?v=GS12M3cXwO8&t=3735s
     relatedEvent: GSF Decarbonize Software 2022
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: keynote
+    dateFrom: 2022-10-27
+    dateTo: 2022-10-27
+    title: API Days London 2022
+    url: https://www.apidays.global/london2022/ 
+    relatedEvent: API Days London 2022
+  - contributionType: GSF Contribution
+    linkedGSFProject: Green Software Patterns
+    subtype: all
+    dateFrom: 2022-07-01
+    dateTo: 2022-07-01
+    title: Green Software Patterns
+    url: https://github.com/Green-Software-Foundation/patterns
+  - contributionType: hosting
+    linkedGSFProject: Community WG
+    subtype: all
+    dateFrom: 2022-06-17
+    dateTo: 2022-06-17
+    title: GSF Global Summit – Closing Ceremony (Option 2)
+    url: https://www.youtube.com/watch?v=6B8mnhrR7Mo
+    relatedEvent: GSF Global Summit – Closing Ceremony (Option 2)
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-sofware-meetup
+    dateFrom: 2022-01-31
+    dateTo: 2022-06-07
+    title: GSF Global Summit 2022- London 
+    url: https://greensoftware.foundation/articles/gsf-global-summit-london-hosted-by-microsoft-accenture-avanade-goldman-sachs
+    relatedEvent: GSF Global Summit London hosted by Microsoft, Accenture, Avanade & Goldman Sachs
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: project-lead
+    dateFrom: 2022-01-01
+    dateTo: 2022-01-01
+    title: Green Software Training (Principles)
+    url: https://github.com/Green-Software-Foundation/learn

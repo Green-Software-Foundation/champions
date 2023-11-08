@@ -16,6 +16,16 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: personal-blog-post
+    dateFrom: 2023-11-01
+    dateTo: 2023-11-01
+    title: Green and Sustainable Software Articles
+    subtitle: Italian Language Content
+    description: I write some essays, mostly in Italian, about Green Software, Sustainable Software, and Sustainable IT. 
+    url: https://fullo.net/blog/tag/greensoftware
+    relatedEvent: Fullo.net
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
@@ -44,3 +54,32 @@ activities:
     description: hands-on lesson about SCI and Green Software Practices
     url: https://devromagna.org/
     relatedEvent: DevRomagna Meetup
+  - contributionType: mentoring
+    linkedGSFProject: Other/Unlisted
+    subtype: all
+    dateFrom: 2022-10-20
+    dateTo: 2022-11-30
+    title: Digital Sustainability Master (2022)
+    subtitle: Tutor and lecturer
+    description: I tutored the students about Green Software and SCI, and we designed green digital businesses.
+    url: https://talentgarden.org/it/innovation-school/business-innovation/business-sustainability-master/
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2022-10-15
+    dateTo: 2022-10-15
+    title: Green principles, cosa sono e come impattano
+    subtitle: Italian Language Content
+    description: A talk about Green Practices at the biggest Italian conference about Agile Development.
+    url: https://vimeo.com/767779312
+    relatedEvent: AgileDay 2022
+  - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: lighting-talk
+    dateFrom: 2022-10-14
+    dateTo: 2022-10-15
+    title: Green principles, cosa sono e come impattano
+    subtitle: Italian Language
+    description: A lighting talk about green principles, SCI, and CI reporting. In the mayor Italian conference about Agile Practices
+    url: https://vimeo.com/767779312
+    relatedEvent: AgileDay 2022

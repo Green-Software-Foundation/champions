@@ -46,3 +46,20 @@ activities:
     title: The Sustainability Mythbuster
     url: https://www.oop-konferenz.de/oop-2023/programm/
     relatedEvent: OOP 2023 Conference
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2022-05-16
+    dateTo: 2022-05-16
+    title: Sustainability in Software Engineering
+    url: https://2022spring.javacro.hr/eng
+    relatedEvent: JavaCro 2022
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-05-11
+    dateTo: 2022-05-11
+    title: Sustainability in Software Engineering - Today and Tomorrow
+    description: This session gives an overview about the various aspects of software engineering and what their impact on carbon emissions is - and dive into more details for selected areas.
+    url: https://www.youtube.com/watch?v=MzaMBfYbvss
+    relatedEvent: Devoxx UK 2022 Conference

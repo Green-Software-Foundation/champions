@@ -98,3 +98,57 @@ activities:
     subtitle: How can software help with the green transformation
     description: The Elite graduate Program Software Engineering is backed by the University of Augsburg, the Technical University of Munich and the Ludwig-Maximilians-Universität Munich (LMU). The students developed sustainability focused applications from the first idea to a working prototype. They were taught to consider not only the effects of using the software, but also the footprint of the software itself. Additionally, they were given the opportunity to learn more about sustainable leadership.
     url: https://www.linkedin.com/posts/maibornwolff_students-workshop-about-green-it-activity-7003650187294318592-lVnY/
+  - contributionType: OSS Contribution
+    linkedGSFProject: CarbonHack
+    subtype: all
+    dateFrom: 2022-09-28
+    dateTo: 2022-11-05
+    title: Carbon Hack 22
+    subtitle: Submitted Project
+    url: https://taikai.network/gsf/hackathons/carbonhack22/overview
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2022-06-16
+    dateTo: 2022-06-16
+    title: Green Software
+    subtitle: German Language Content
+    description: There has been extensive research in recent years about Green Software. In my talk, I introduced some of the key ideas and methods from this research and made the matter of Green Software more accessible. Furthermore, I introduced some areas in which research is still lacking in my opinion and provided a personal view on how this could be changed.
+    url: https://de.linkedin.com/posts/fh-wedel_greensoftware-klimaschutz-greenit-activity-6943173579010129920-hewQ
+    relatedEvent: FH Wedel Weiterbildungstage 2022
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2022-03-31
+    dateTo: 2023-11-09
+    title: Co-Organizer of the  Green Software Development Meetups
+    description: I co-organize the Green Software Development quarterly meetups. We try to provide variety in topics and speakers from the realm of green and ethical software.
+    url: https://www.meetup.com/de-DE/green-software-development-manifesto/
+    relatedEvent: Green Software Development Meetups
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2022-01-20
+    dateTo: 2022-01-20
+    title: Green Software Lecture
+    subtitle: Guest Lecture - German Language
+    description: There has been extensive research in recent years about Green Software. In my talk, I introduced some of the key ideas and methods from this research and made the matter of Green Software more accessible. Furthermore, I introduced some areas in which research is still lacking in my opinion and provide a personal view on how this could be changed.
+    url: https://elite-se.informatik.uni-augsburg.de/guest-lecture-by-jochen-joswig-from-maibornwolff-20-1-2022/
+    relatedEvent: Institut für Informatik
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2022-01-01
+    dateTo: 2022-01-01
+    title: Co-Author
+    url: https://www.greenmanifesto.de/en/
+    relatedEvent: Green Software Manifesto
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2021-11-25
+    dateTo: 2021-11-25
+    title: Green Software
+    description: There has been extensive research in recent years about Green Software. In my talk, I introduced some of the key ideas and methods from this research and made the matter of Green Software more accessible.
+    url: https://empretsinf.blogs.upv.es/2021/11/17/anuncio-de-charla-green-software-jueves-25-1220/
+    relatedEvent: Guest lecture at Universitat Politècnica de València

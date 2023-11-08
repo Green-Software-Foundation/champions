@@ -62,3 +62,13 @@ activities:
     description: Green Software Design umfasst Best Practices für klima-optimierte Anwendungen. Methoden, Tools, verlässliche Messwerte und praktikables Vorgehen stehen dabei im Mittelpunkt. Das verbessert letztlich neben der Klimabilanz auch die Unternehmensbilanz. Denn GSD vermeidet Verschwendung konsequent. Nicht nur Strom wird gespart, sondern es wird auch Over Engineering verhindert und auf Langlebigkeit Wert gelegt.
     url: https://syngenio.com/green-software-design-webinar
     relatedEvent: Webinar Syngenio AG
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2022-10-12
+    dateTo: 2022-10-19
+    title: Antragsstrecken leicht gemacht. Optimal für das Klima.
+    subtitle: German Language
+    description: How to create carbon efficient software for customer onboarding  
+    url: https://www.bankingclub.de/events/innovationsforbanks-2022/
+    relatedEvent: Innovations for Banks 2022. (Banking Club Conference)

@@ -33,3 +33,14 @@ activities:
      The course now reflects the revised Principles on GSF. 
     url: https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
     relatedEvent: The Principles of Sustainable Software Engineering
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: documentation
+    dateFrom: 2022-04-20
+    dateTo: 2022-10-12
+    title: Sustainable Workloads
+    subtitle: Microsoft Documentation
+    description: I was part of the team that added sustainability to the Microsoft AzureWell Architected Framework as the Green Software SME. 
+     This brings sustainability considerations to the forefront when building solutions. 
+    url: https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-get-started
+    relatedEvent: Microsoft Well Architected Framework

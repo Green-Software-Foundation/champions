@@ -72,3 +72,12 @@ activities:
     description: The keynote address discussed the dire need to  go green (build sustainable Solutions) with Blue (Technology) in order to have a sustainable and safer world.
     relatedEvent: International Conference on Recent Advancements in Commerce, Management and Technology, Bangalore
     url: https://www.youtube.com/watch?v=Z0dnvSM059A
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: 3rd-party-article
+    dateFrom: 2022-10-25
+    dateTo: 2022-10-25
+    title: Green IoT for Energy Efficiency and Environmental Sustainability
+    description: The future challenge of IoT is to develop processes and policies that make sustainable use of IoT to reduce the greenhouse effect and carbon emissions, and also further optimise  IoT greenhouse footprint. IoT can be combined with technologies like AI, machine learning, computer vision, cloud computing, nanotechnology and big data to develop environmentally sustainable solutions for a better and fulfilled life. Greening of IoT focuses on manufacturing energy efficient IoT hardware as well as upon green software development, while Greening by IoT involves IoT as an enabler to create a sustainable environment.
+    url: https://www.infoq.com/articles/green-iot-energy-sustainability/
+    relatedEvent: InfoQ.com

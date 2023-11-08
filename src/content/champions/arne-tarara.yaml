@@ -26,3 +26,11 @@ activities:
     description: Building tools and ecosystems around green software engineering
     url: https://archive.fosdem.org/2023/schedule/event/energy_green_software_engineering/
     relatedEvent: FOSDEM
+  - contributionType: OSS Contribution
+    linkedGSFProject: Other/Unlisted
+    subtype: all
+    dateFrom: 2022-05-01
+    dateTo: 2022-05-01
+    title: Green Metrics Tool
+    description: Development of the first version of the Green Metrics Tool to measure arbitrary software products in terms of energy, CO2 and resource consumption
+    url: https://www.green-coding.berlin/projects/green-metrics-tool/

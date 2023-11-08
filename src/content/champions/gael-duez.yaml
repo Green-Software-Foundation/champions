@@ -53,3 +53,13 @@ activities:
     title: Comment désamorcer la bombe carbone du numérique
     url: https://www.linkedin.com/feed/update/urn:li:activity:7072545341186699264
     relatedEvent: MEDEF Reunion COMEX 40
+  - contributionType: hosting
+    linkedGSFProject: Community WG
+    subtype: all
+    dateFrom: 2022-03-03
+    dateTo: 2022-03-03
+    title: Green IO Podcast
+    subtitle: The podcast for responsible technologists
+    description: The podcast for responsible technologists greening our digital world, one byte at a time!
+    url: https://greenio.gaelduez.com/
+    relatedEvent: Green IO

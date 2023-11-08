@@ -11,3 +11,16 @@ type: normal
 social:
   github: superxp1412
   linkedin: pei-x
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-05-19
+    dateTo: 2022-05-21
+    title: 数字化“碳管理”：智能化变革机遇
+    subtitle: Chinese Language Content
+    description: In recent years, the wave of "carbon neutrality" is impacting enterprises in various fields, which is not only a test of the company's management and market adaptability, but also provides an opportunity for enterprises to achieve sustainable development through their own transformation.
+
+     近年来，“碳中和”的变革浪潮正在冲击着各个领域的企业，这既是对企业的经营管理和市场适应能力的考验，同时也为企业提供了通过自身变革实现可持续发展的机遇。
+    url: https://mp.weixin.qq.com/s/xG6VlUxJuhGIE9XLBx1vjw
+    relatedEvent: GSF Summit 2022
