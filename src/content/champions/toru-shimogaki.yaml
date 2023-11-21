@@ -1,7 +1,7 @@
 firstName: Toru
 lastName: Shimogaki
 role: Head of Green Innovation Office
-organization: NTT DATA
+organization: NTT DATA Group Corporation
 languages: 
   - English
   - Japanese
@@ -14,3 +14,13 @@ social:
   github: shimogakit
   linkedin: toru-shimogaki-7a951b45
   twitter: shimtoru
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-06
+    dateTo: 2023-11-06
+    title: Green Software Trends -- an introduction of the Green Software Foundation
+    subtitle: Japanese Language
+    url: https://www.ipsj.or.jp/event/seminar/2023/program09.html
+    relatedEvent: "Green Software Introduction for Software Engineer" hosted by IPSJ
