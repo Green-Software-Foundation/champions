@@ -81,3 +81,13 @@ activities:
     description: The future challenge of IoT is to develop processes and policies that make sustainable use of IoT to reduce the greenhouse effect and carbon emissions, and also further optimise  IoT greenhouse footprint. IoT can be combined with technologies like AI, machine learning, computer vision, cloud computing, nanotechnology and big data to develop environmentally sustainable solutions for a better and fulfilled life. Greening of IoT focuses on manufacturing energy efficient IoT hardware as well as upon green software development, while Greening by IoT involves IoT as an enabler to create a sustainable environment.
     url: https://www.infoq.com/articles/green-iot-energy-sustainability/
     relatedEvent: InfoQ.com
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-10-19
+    dateTo: 2022-10-21
+    title: "Green IoT: Towards a Sustainable, Smarter and Safer World"
+    subtitle: QA&Test 2022
+    description: Green IoT (GIoT) represents the energy efficient procedures (hardware or software) adopted by IoT to facilitate reducing energy consumption and carbon emission of existing applications and services; as well as IoT devices to achieve a sustainable smart world. The talk covered GIoT techniques based on hardware, software, awareness, policies and recyclability to attain energy efficient IoT network; different energy models and strategies to maintain quality considerations.
+    url: https://www.youtube.com/watch?v=WzHN5Pzj758
+    relatedEvent: 21st International Conference on Testing and Software Quality in Embedded Systems
