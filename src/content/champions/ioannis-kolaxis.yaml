@@ -17,6 +17,15 @@ social:
   website: https://www.kolaxis.dev
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-10
+    dateTo: 2023-11-10
+    title: "Green Software: Rethinking how to develop software to save our planet"
+    subtitle: Conference in Athens, Greece
+    url: https://www.open-conf.gr/etn-speaker/ioannis-kolaxis/
+    relatedEvent: Open Conf
+  - contributionType: speaking
     linkedGSFProject: Speakers
     subtype: conference-talk
     dateFrom: 2023-10-19
