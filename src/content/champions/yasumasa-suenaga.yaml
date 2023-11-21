@@ -13,3 +13,11 @@ social:
   github: YaSuenag
   linkedin: yasumasa-suenaga-3b9b87143
   twitter: YaSuenag
+activities:
+- contributionType: gsf contribution
+    linkedGSFProject: Carbon Aware SDK
+    subtype: all
+    dateFrom: 2023-08-08
+    dateTo: 2023-08-08
+    title: Carbon Aware SDK Contributions
+    url: https://github.com/Green-Software-Foundation/carbon-aware-sdk/pull/381
