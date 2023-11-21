@@ -1,0 +1,34 @@
+firstName: Adam
+lastName: Newman
+role: Co-Founder
+organization: Root & Branch
+languages: 
+  - English
+country: United Kingdom
+city: Brighton
+bio: |
+ Adam is a Mathematician and Software Engineer fascinated by the ways software impacts the world we live in. He co-founded Root & Branch (https://rootandbranch.io) a software consultancy focussed on delivering software that is built with the environment and society at the heart of its design. He also runs Green Software Brighton (https://www.meetup.com/gsf-brighton/) in the UK, a tech community exploring how our digital products affect society and the environment we live in. Adam is a proud Dad to two young boys: Ike and Alex.
+type: normal
+social:
+  github: anewmandev
+  linkedin: acanewman
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Green Software - Talk
+    subtitle: Green Software Brighton
+    description: Delivered a talk 'Introducing Green Software' (with Oliver Winks) at the launch event for Green Software Brighton meetup. 
+    url: https://www.meetup.com/gsf-brighton/events/295528842/
+    relatedEvent: Introducing Green Software
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-meetup
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Green Software Brighton
+    subtitle: Meetup Organiser
+    url: https://www.meetup.com/gsf-brighton
+    relatedEvent: Green Software Brighton Meetup
