@@ -23,3 +23,11 @@ activities:
     description: Keynote panel on Sustainability in the Cloud
     url: https://kccncna2023.sched.com/overview/type/Keynote+Sessions?iframe=no
     relatedEvent: KubeCon + Cloud Native Conference
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Oversight Committee
+    subtype: wg-chair
+    dateFrom: 2023-01-16
+    dateTo: 2023-01-16
+    title: Chair, Oversight Committee
+    description: Chair Oversight Committee responsible for coordinating technical direction of GSF.
+    url: https://github.com/Green-Software-Foundation/oc
