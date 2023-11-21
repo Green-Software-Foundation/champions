@@ -16,6 +16,16 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-18
+    dateTo: 2023-11-18
+    title: IT e Sostenibilità, un nuovo approccio alla complessità
+    subtitle: Italian Language
+    description: A talk about Green Software and Digital Responsibility at the mayor Agile conference in Italy
+    url: https://www.agileday.it/
+    relatedEvent: AgileDay
   - contributionType: writing
     linkedGSFProject: Community WG
     subtype: personal-blog-post
