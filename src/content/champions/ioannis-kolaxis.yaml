@@ -17,6 +17,18 @@ social:
   website: https://www.kolaxis.dev
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-10
+    dateTo: 2023-11-10
+    title: "Green Software: Rethinking how to develop software to save our planet"
+    subtitle: Conference in Athens, Greece
+    description: Do you know that the greenhouse gas emissions from software applications surpassed those of the aviation industry in 2021? As our reliance on technology continues to grow worldwide, so does the environmental impact of software applications. But as software developers, we have the power to make a positive impact in the fight against climate change.
+     This session revisits the established development practices, providing practical guidelines that developers and architects can follow to measure and reduce the environmental footprint of software applications.
+     The focus is on practices requiring a minimal development effort, still providing the maximum savings in carbon emissions. At the same time, most of these practices will help reduce the costs of your cloud applications because they minimize the consumed resources (CPU, memory, storage, network). It is assumed you are involved in building software applications and aspire to help prevent climate change.
+    url: https://www.open-conf.gr/speakers/
+    relatedEvent: Open Conf
+  - contributionType: speaking
     linkedGSFProject: Speakers
     subtype: conference-talk
     dateFrom: 2023-10-19
