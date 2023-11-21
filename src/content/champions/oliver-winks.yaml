@@ -1,0 +1,35 @@
+firstName: Oliver
+lastName: Winks
+role: Co-Founder
+organization: Root & Branch
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: Brighton
+bio: |
+ Oli is co-founder of Root & Branch (https://www.rootandbranch.io), a software consultancy focussed on delivering green software for people and planet.
+ He runs Green Software Brighton (https://www.meetup.com/gsf-brighton) in the UK, a tech community exploring how our digital products impact the environment and raising awareness of this issue.
+ When he's not running Root & Branch or talking about green software he can be found flying paragliders above the hills in the South Downs National Park or spending time with his amazing partner and their awesome daughter.
+type: normal
+social:
+  github: ohuu
+  linkedin: oliver-winks-b1b29a48
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Introducing Green Software
+    url: https://www.meetup.com/gsf-brighton
+    relatedEvent: Green Software Brighton
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-meetup
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Green Software Brighton
+    subtitle: Meetup Organiser
+    url: https://www.meetup.com/gsf-brighton
+    relatedEvent: Green Software Brighton Meetup
