@@ -16,3 +16,31 @@ social:
   github: cm-howard
   linkedin: chrishowarduk
   twitter: chris_howard
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: Sustainable Green Software Development
+    description: To tackle the climate crisis we have to go beyond simple steps to reduce our consumption and instead think about engineering a world around us that helps contribute to reducing carbon emissions - we can do this through building better and greener software.
+     Building Green Software means designing and developing software that is responsible for emitting fewer greenhouse gases and leveraging a trusted ecosystem of people, standards, tooling and best practices to help do that. The Green Software Foundation is focused explicitly on this, and through three actions, seeks to help developers, designers and architects across the world build solutions that use less physical resources, less energy & ensure that energy is used more intelligently.
+    url: https://wearecommunity.io/events/engx-community-day-2023/talks/60153
+    relatedEvent: EngX Community Day 2023
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: gsf-article
+    dateFrom: 2023-05-02
+    dateTo: 2023-05-02
+    title: The Open Source Approach is Revolutionizing the Business World
+    url: https://greensoftware.foundation/articles/the-open-source-approach-is-revolutionizing-the-business-world-meet-christopher-h
+    relatedEvent: GSF
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2022-08-19
+    dateTo: 2022-08-19
+    title: Open Source Software and Collaboration Could Curb Climate Change
+    description: How fundamental openness and collaboration will be to solving sustainability challenges. Open source software can provide a foundation for this.
+    url: https://www.sgvoice.net/strategy/technology/5875/open-source-sustainability-curbing-climate-change-collaborative-principles/
+    relatedEvent: Energy Voice
