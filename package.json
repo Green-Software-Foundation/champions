@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "node src/lib/algolia.js; astro build",
+    "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "algolia": "node src/lib/algolia.js;"
   },
   "dependencies": {
     "@astrojs/react": "^3.0.2",
