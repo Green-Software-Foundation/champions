@@ -1,6 +1,3 @@
-import * as dotenv from "dotenv";
-dotenv.config();
-
 import algoliasearch from "algoliasearch";
 const client = algoliasearch(
   process.env.ALGOLIA_APP_ID,
