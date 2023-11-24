@@ -20,9 +20,10 @@ jobs:
       # Step to set environment variables from secrets
       - name: Set Environment Variables
         run: |
-          echo "ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }}" >> $GITHUB_ENV
-          echo "ALGOLIA_SEARCH_ONLY_API_KEY=${{ secrets.ALGOLIA_SEARCH_ONLY_API_KEY }}" >> $GITHUB_ENV
-          echo "ALGOLIA_WRITE_API_KEY=${{ secrets.ALGOLIA_WRITE_API_KEY }}" >> $GITHUB_ENV
+          touch .env
+          echo "ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }}" >> .env
+          echo "ALGOLIA_SEARCH_ONLY_API_KEY=${{ secrets.ALGOLIA_SEARCH_ONLY_API_KEY }}" >> .env
+          echo "ALGOLIA_WRITE_API_KEY=${{ secrets.ALGOLIA_WRITE_API_KEY }}" >> .env
 
       - name: Install, build, and upload your site
         uses: withastro/action@v0
