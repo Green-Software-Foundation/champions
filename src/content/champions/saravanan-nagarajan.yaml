@@ -15,3 +15,17 @@ type: inactive
 social:
   github: saravanankn
   linkedin: saravanankn
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: internal-event-talk
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Sustainable IT and the ABCs of Green Software
+    description: "It was a real pleasure to talk about Sustainable IT and the ABCs of Green Software at the QBR of our Tribe Finance & Product Control at Rabobank Netherlands. 
+    Key topics covered:
+    Acknowledge the need for IT sustainability
+    Build expertise on Green Software methodology
+    Collaborate and Communicate on this topic"
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7114896865770229760/
+    relatedEvent: Rabobank Netherlands - Quarterly Business Review of Tribe Finance & Product Control
