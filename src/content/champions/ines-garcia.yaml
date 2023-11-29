@@ -1,0 +1,59 @@
+firstName: Ines
+lastName: Garcia
+role: Agile & Climate Coach, Circular Economy & Biomimicry practitioner
+organization: Get Agile
+languages: 
+  - English
+  - Catalan
+  - Spanish
+country: United Kingdom
+bio: |
+ Author | Agile & Climate Coach | Salesforce MVP Hall of Fame | www.inesgarcia.me 
+
+ I help individuals, teams and organisations to deliver better value & reduce waste (time, effort, materials energy) To focus on impact. To leave the place better than how we found: Product, People & Planet 
+
+ With over a decade of dual work in Agile & Salesforce, boosted by Circular Economy & Biomimicry practices. tiny.cc/authorinesgarcia
+
+ Active contributor to: scrumalliance.org, Agile Alliance (Sustainability Initiative), Pledge1%, Business Declares, Doughnut Economics Action Lab, Work on Climate & Business of Purpose communities, The Mentorship Central & YeurLeadin.
+type: normal
+social:
+  github: garciaInes
+  linkedin: inesgarciaagile
+  twitter: inescapinezka
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lightning-talk
+    dateFrom: 2023-11-03
+    dateTo: 2023-11-03
+    title: Manifesto session
+    subtitle: Lightning talk, with one of the authors of this manifesto 
+    description: Covering as well as how Agile can play a critical role on the biggest challenges our species has faced to date. A concise yet insightful journey into the future of what we can do.
+    url: https://www.agilealliance.org/event/sosa-2023-the-state-of-sustainability-in-agile/
+    relatedEvent: Agile Alliance State of Sustainability in Agile
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-11-03
+    dateTo: 2023-11-03
+    title: InfoQ actual VSM article
+    url: https://www.infoq.com/news/2023/10/sustainable-product-development/?
+    relatedEvent: Sustainable Product Development Using Agile and Value Stream Mapping
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-07-20
+    dateTo: 2023-07-20
+    title: Sustainable Software Systems Using Circular Economy Principles
+    url: https://www.infoq.com/news/2023/07/circular-economy-principles/
+    relatedEvent: InfoQ
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-04-21
+    dateTo: 2023-04-21
+    title: Beyond the Agile Principles 
+    subtitle: Nature as a guide
+    description: Its so easy to get pigeonhole in one thing, one way of seeing, one experience, one industry, one process, one org... In this talk we are going beyond the Agile principles, I'll introduce you to Biomimicry. These principles are everywhere, you'll gain HD glasses to spot them and apply them for any design. So we can leave 'the place better than how we found it'.Understanding these natural overarching principles can really help to gain headspace and intentionally design with purpose. From solutions, to applications, integrations, coordination, communications, networks, products and beyond
+    url: https://www.agilists4planet.com/ines-garcia
+    relatedEvent: Agilists for the Planet
