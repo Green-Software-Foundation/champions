@@ -88,7 +88,7 @@ activities:
     description: The Green Metrics Tool is an open source framework that allows for measuring, comparing and optimizing the energy consumption of arbitrary software. The goal is to empower both software engineers and users to make educated decisions about libraries, code-snippets and software in order to save energy and thus carbon emissions.
     url: https://www.green-coding.berlin/talks-and-events/fosdem-2023/
     relatedEvent: FOSDEM 2023
-   - contributionType: OSS Contribution
+  - contributionType: OSS Contribution
     linkedGSFProject: Opensource WG
     subtype: all
     dateFrom: 2023-01-16
@@ -169,7 +169,7 @@ activities:
     title: Meetup - What is Green Coding?
     url: https://www.green-coding.berlin/talks-and-events/what-is-green-coding/
     relatedEvent: Green Coding Berlin Meetup Group
-   - contributionType: organizing
+  - contributionType: organizing
     linkedGSFProject: Meetup
     subtype: green-software-meetup
     dateFrom: 2021-11-01
