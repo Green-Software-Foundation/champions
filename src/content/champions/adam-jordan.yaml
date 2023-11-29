@@ -12,3 +12,13 @@ type: normal
 social:
   github: xylamic
   linkedin: xylamic
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-21
+    dateTo: 2023-09-21
+    title: "Green Software: A Dynamic Duo Shaping Sustainable IT Solutions and Carbon Footprint Management"
+    description: Conference presentation
+    url: https://austin.appliedintelligence.live/2023/green-software-dynamic-duo-shaping-sustainable-solutions-carbon-footprint-management
+    relatedEvent: Applied Intelligence Live! Austin 2023
