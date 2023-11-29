@@ -18,6 +18,16 @@ social:
   github: cronky
   linkedin: cronky
 activities:
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-11-09
+    dateTo: 2023-11-09
+    title: "Conscientious Computing – Facing into Big Tech Challenges"
+    subtitle: "Conscientious Computing – Facing into Big Tech Challenges"
+    description: Article on Architecture and Governance Magazine raising awareness with Enterprise, Solution and Technical Architects on the need to consider sustainability with our technology architectures.
+    url: https://www.architectureandgovernance.com/applications-technology/conscientious-computing-facing-into-big-tech-challenges/
+    relatedEvent: Architecture and Governance Magazine
   - contributionType: speaking
     linkedGSFProject: Green Software Patterns
     subtype: conference-talk
