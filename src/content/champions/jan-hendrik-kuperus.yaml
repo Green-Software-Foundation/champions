@@ -1,0 +1,51 @@
+firstName: Jan-Hendrik
+lastName: Kuperus
+role: Director / Architect
+organization: Yoink
+languages: 
+  - English
+  - Dutch
+  - Frisian
+pronoun: He/Him
+country: Netherlands
+city: Utrecht
+bio: |
+ Jan-Hendrik is a software engineer that founded Yoink, which is a software development and consulting company for developers that share his passion for a more sustainable world.
+
+ His current sustainability efforts lie in creating awareness among developers, teams and IT departments about the lack of data to make informed decisions on software design. 
+
+ He visits clients and conferences to speak about sustainable software development and is working on a platform to physically measure energy consumption of open source products like databases and messaging solutions.
+type: normal
+social:
+  github: jhkuperus
+  linkedin: jhkuperus
+  twitter: jhkuperus
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: internal-event-talk
+    dateFrom: 2023-15-02
+    dateTo: 2023-15-02
+    title: Architecting a Sustainable Future
+    subtitle: Internal Event Talk
+    description: A keynote talk outlining how the lens of sustainability and decarbonisation is moving towards the IT industry, how this creates challenges and opportunities. The talk includes a section that uses a fun quiz to create awareness of how little we know about energy consumption and much we need hard data.
+    url: https://www.slideshare.net/JanHendrikKuperus/architecting-a-sustainable-future
+    relatedEvent: Rabobank Architecture Summit
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-11-03
+    dateTo: 2022-11-03
+    title: Exploring Sustainability in Tech Without the Guilt-Trips
+    description: An interactive speaker-led, panel discussion to generate and discuss practical ideas for application in the realm of software development. 
+    url: https://www.youtube.com/watch?v=WTlrLnDFLG8&t=12s&ab_channel=NLJUG
+    relatedEvent: JFall 2022
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-10-12
+    dateTo: 2022-10-12
+    title: Exploring Sustainability in Tech Without the Guilt-Trips
+    description: An interactive speaker-led, panel discussion to generate and discuss practical ideas for application in the realm of software development. 
+    url: https://mobile.devoxx.com/events/dvbe22/talks/19434/details
+    relatedEvent: Devoxx Belgium
