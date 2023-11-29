@@ -27,3 +27,11 @@ activities:
     description: I gave a lecture at the Grace Hopper Celebration in Orlando, Florida in September 2023, sharing ideas on how software engineers can help solve climate change.
     url: https://www.linkedin.com/feed/update/urn:li:activity:7114392689298604033/
     relatedEvent: Grace Hopper Celebration
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-11-10
+    dateTo: 2023-11-10
+    title: How software engineers can help solve climate change
+    url: https://www.youtube.com/watch?v=lCFlQq5PeQI
+    relatedEvent: Apiumhub Barcelona - Green Software Series
