@@ -1,0 +1,93 @@
+firstName: Jutta
+lastName: Eckstein
+role: Coach, Consultant, Speaker, Author
+organization: independent
+languages: 
+  - English
+  - German
+pronoun: She/Her
+country: Germany
+bio: I work as a coach & consultant. I have founded the “Agile Sustainability Initiative” under the Agile Alliance and co-created a sustainability assessment (published as CC-SA). Both focus on the environmental, social, and economic impact of agile teams. I have published my experience in various books, most recently Company-wide Agility with Beyond Budgeting, Open Space & Sociocracy.
+type: normal
+social:
+  github: juttaeckstein
+  linkedin: juttaeckstein
+  website: https://bsky.app/profile/juttaeckstein.bsky.social
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: online-event
+    dateFrom: 2023-11-03
+    dateTo: 2023-11-03
+    title: SoSA 2023
+    description: I've co-organized this event
+    url: https://www.agilealliance.org/event/sosa-2023-the-state-of-sustainability-in-agile/
+    relatedEvent: The State of Sustainability in Agile
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2023-09-27
+    dateTo: 2023-09-27
+    title: "Agile Sustainability: You can be more – socially, environmentally, and economically – sustainable based on data!"
+    description: "According to one forecast, IT will account for 21% of global energy consumption by 2030. If we don't change the way we implement software, we will contribute to increasing the carbon footprint. So, it's time to examine how agility can help to reduce energy consumption and ensure greater - environmental, social & economic - sustainability. The point is not to pursue sustainability for altruistic reasons, but to understand that over time, sustainability is also becoming a key factor that determines the success of companies, both in the search for talent and for customers and markets. 
+    Description:
+    In this session, inspect real data and gain a holistic perspective of your team’s or company’s current situation regarding agile sustainability. Comparative Agile Sustainability is an approach that we created in a small team with the support of data analysts that serves to anchor and promote the awareness of sustainability in an (agile) team and/or company. The evaluation was published under creative commons and is therefore freely available to all interested parties. By using the results of this validated assessment, agile teams and organizations can better understand how they can increase their own effectiveness and contribute to increasing sustainability across the industry."
+    url: https://less.works/conferenza/sessions/2023-less-conference-berlin-agile-sustainability-you-can-be-more-socially-environmentally-and-economically-sustainable-based-on-data-308
+    relatedEvent: https://less.works/conferenza/conferences/2023-less-conference-berlin-9
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2023-09-27
+    dateTo: 2023-09-27
+    title: Schneller, sicherer, nachhaltiger – Die grüne Revolution im Softwaretesting
+    subtitle: German Language Content
+    description: "The world is on fire! Keine unserer Bemühungen in der Softwareentwicklung wird überhaupt eine Rolle spielen, wenn wir den Verlauf der Klimakrise nicht verändern. Auch der Software-Lifecycle verursacht direkte und indirekte CO2-Emissionen: Er hinterlässt einen Fußabdruck und verschärft die Umweltprobleme.
+    Der Umweltaspekt ist jedoch nicht der einzige, auf den wir uns konzentrieren müssen. Wenn wir unsere Verantwortung ernst nehmen, müssen wir die Softwareentwicklung ganzheitlich im Sinne der sogenannten Triple Bottom Line aus allen drei Nachhaltigkeitsperspektiven betrachten: sozial, ökonomisch und ökologisch. Denn Nachhaltigkeit ist einerseits eine Notwendigkeit in der aktuellen Krise und andererseits auch zunehmend ein Schlüsselfaktor, der über den Erfolg von Unternehmen sowohl bei der Suche nach Talenten als auch nach Kunden und Märkten entscheidet. 
+    Es ist also an der Zeit zu verstehen, inwiefern Softwaretesting dabei unterstützen kann, diese ganzheitliche Perspektive einzunehmen und gleichzeitig durch mehr Nachhaltigkeit eine höhere Software-Qualität erzielen kann."
+    url: https://summit-community.de/2023/05/31/cvent-session/?title=Schneller%2C%20sicherer%2C%20nachhaltiger%20%E2%80%93%20Die%20gr%C3%BCne%20Revolution%20im%20Softwaretesting&eventId=b7c711fb-7510-4050-8806-f4e9f5364b9f&sessionId=d5310f03-7585-4ab7-ab06-77c3fcb6e2a2
+    relatedEvent: TACON – Die Konferenz zu Testautomatisierung
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2023-06-16
+    dateTo: 2023-06-16
+    title: Sustainability – A Holistic Responsibility
+    description: Some companies have made sustainability part of their strategy. This is often emphasized by installing a CSO – a Chief Sustainability Office. It is not only important to embed sustainability in the strategy, but in the European Union, it is even mandatory for companies with more than 250 employees to provide a yearly report on their sustainability efforts and progress. Although things are changing for the better, this effort is rarely known and/or visible to the employees. Moreover, the planetary challenges are too big to address them at the top only. Thus, sustainability has to be taken care of by everyone in the company. In this keynote, we will explore the responsibility for sustainability by each and every team. We will examine how social, environmental, and economic sustainability impacts both team collaboration and product creation. The goal for the session is to be less overwhelmed by the topic and to know how you and your whole team can take one step at a time to increase sustainability holistically.
+    url: https://events.agilealliance.org/xp2023/session/1449927/keynote-sustainability-%E2%80%93-a-holistic-responsibility
+    relatedEvent: XP 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-06-05
+    dateTo: 2023-06-05
+    title: Agile Sustainability
+    description: In this episode, Simon Hilton speaks with Claudia Melo, Jutta Eckstein, and Steve Holyer about the Agile Sustainability assessment and how it can help your teams create a better world.
+    url: https://open.spotify.com/episode/5L3MxyENTfYDkPcdzvs2kN
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-04-21
+    dateTo: 2023-04-21
+    title: Sustainability as a Guide for Actions & Outcomes in Agile Development
+    description: The planet is on fire. Therefore, we all have to take responsibility and contribute to greater social, environmental, and economic sustainability. However, because this challenge is so huge and wicked, we often feel helpless and overwhelmed. In this session, I want to focus on what you can do in your daily agile life to make one step after the other.
+    url: https://www.agilists4planet.com/jutta-eckstein
+    relatedEvent: Agilists 4 Planet
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lightning-talk
+    dateFrom: 2023-04-20
+    dateTo: 2023-04-20
+    title: Sustainable Programming for Our Planet That’s on Fire
+    description: Creating awareness of sustainability for C and C++ programmers
+    url: https://www.youtube.com/watch?v=69NH75BRhIU
+    relatedEvent: ACCU 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-03-18
+    dateTo: 2023-03-18
+    title: Let’s get more – social, environmental, and economic – sustainability based on data!
+    description: "The world is on fire! None of our improvements in software development will matter at all if we can’t change the course of the climate crisis. The software lifecycle creates direct and indirect carbon emissions: it has a footprint, worsening environmental problems. So, it's time to examine how agility can help to reduce energy consumption and ensure greater - environmental, social & economic - sustainability. The point is not to pursue sustainability for altruistic reasons, but to understand that over time, sustainability is also becoming a key factor that determines the success of companies, both in the search for talent and for customers and markets.
+    In this session, inspect real data to gain a holistic perspective of your team or company’s current situation regarding agile sustainability. Comparative Agile Sustainability is an approach that we created in a small team with the support of data analysts that serves to anchor and promote the awareness of sustainability in an (agile) team and/or company. The evaluation was published under creative commons and is therefore freely available to all interested parties. By using the results of this validated assessment, agile teams and organizations can better understand how they can increase their own effectiveness and contribute to increasing sustainability across the industry."
+    url: https://youtu.be/6XZISwpwmDY
+    relatedEvent: Agile India 2023
