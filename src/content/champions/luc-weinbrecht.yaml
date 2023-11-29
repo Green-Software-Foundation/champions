@@ -1,0 +1,42 @@
+firstName: Luc
+lastName: Weinbrecht
+role: Green BPM Consultant
+organization: envite consulting GmbH
+languages: 
+  - German
+  - English
+country: Germany
+city: Karlsruhe
+bio: Meet Luc Weinbrecht, Green BPM Consultant at envite! As a distinguished Camunda Champion, he dives into the realm of cutting-edge software architecture within the Camunda framework. With boundless enthusiasm, Luc pioneers novel solutions for business monitoring and takes a serious stance in crafting strategies to significantly reduce the carbon impact of business processes. Join him on the exciting journey towards a greener, more efficient future.
+type: normal
+social:
+  github: lwluc
+  linkedin: luc-weinbrecht
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-11-08
+    dateTo: 2023-11-08
+    title: "IT AFTER WORK: Green IT with Time Shifting Business Processes – Carbon Aware BPM"
+    description: Umweltfreundliche Ausführung von Prozessen, indem CO2-Vorhersagen genutzt werden, um Aufgaben in Zeiträume mit geringerer Umweltauswirkung zu verschieben, ohne SLAs zu vernachlässigen. 
+    url: https://www.meetup.com/software-technology-meetup-pforzheim/events/297065758/
+    relatedEvent: Software, Technology & Design Meetup Pforzheim MC
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-10-26
+    dateTo: 2023-10-26
+    title: Kickoff Green Software Development Frankfurt
+    description: Shift your processes' carbon emissions when energy is clean while still fulfilling the requested SLAs
+    url: https://www.meetup.com/green-software-development-frankfurt/events/296530828/
+    relatedEvent: Green Software Development Frankfurt
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2023-07-11
+    dateTo: 2023-07-11
+    title: Time Shifting Business Processes - Carbon Aware BPM
+    description: Am Beispiel des Camunda Carbon Reductor nähern wir uns Carbon Aware Process Execution. D.h. wir versuchen den Geschäfts-Prozess durch Laufzeitoptimierung ökologischer zu gestalten. Wir nutzen Vorhersagen über die CO2-Intensität der voraussichtlich genutzten Energie, um nachfolgenden Aufgaben in ein Zeitfenster zu verschieben, welche in dem die Energie umweltfreundlicher ist - und das alles unter Berücksichtigung vorhandener SLAs.
+    url: https://www.meetup.com/green-software-development-karlsruhe/events/294373367/
+    relatedEvent: Green Software Development Karlsruhe
