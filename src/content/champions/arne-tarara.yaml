@@ -18,6 +18,51 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: Sustainable Software - Measure and quantify the green-ness of code
+    url: https://www.green-coding.berlin/talks-and-events/kickoff-green-software-development-stuttgart-2023-10/
+    relatedEvent: Green Software Development Stuttgart Meetup
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2023-10-01
+    dateTo: 2023-10-01
+    title: PowerHog
+    subtitle: Energy consumption measurement during software development
+    description: The power hog is a tool that periodically collects energy statistics of your mac and makes them available to you.
+     There are two main aims - 
+     Identify which apps are using a lot of energy on your machine.
+     Collecting the data from as many machines as possible to identify wasteful apps globally.
+     We provide a website for detailed analytics of your data. The hog by default uploads your measurement data to our Green Metrics Tool backend. We put in a lot of effort to make sure that no confidential information is exposed but please refer to the settings section if you want to disable the upload or submit the data to your own backend.
+    url: https://github.com/green-coding-berlin/hog
+  - contributionType: OSS Contribution
+    linkedGSFProject: SCER
+    subtype: all
+    dateFrom: 2023-09-20
+    dateTo: 2023-09-20
+    title: Relation DBMS SCER scores 
+    description: "A tool that benchmarks various DBMS systems agains each other and looks at energy usage
+     The compose.yml defines all the containers we want to use to benchmark. We use the std containers provided by the various DBMS and the hammerdb container. For benchmarking we use the hammerDB system.
+     Currently we support:
+
+     MariaDB
+     MySql
+     PostgreSQL
+
+     The benchmarking is done via the standardised TPC-C Benchmark"
+    url: https://github.com/green-coding-berlin/DBMS-bench
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2023-05-31
+    dateTo: 2023-05-31
+    title: Green Infrastructure Meetup GfK [x] Green Coding Berlin
+    url: https://www.green-coding.berlin/talks-and-events/green-coding-infrastructure-gfk-2023-05/
+    relatedEvent: Green Coding Berlin Meetup Group
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: conference-talk
     dateFrom: 2023-04-04
     dateTo: 2023-04-04
@@ -26,6 +71,88 @@ activities:
     description: Building tools and ecosystems around green software engineering
     url: https://archive.fosdem.org/2023/schedule/event/energy_green_software_engineering/
     relatedEvent: FOSDEM
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-02-14
+    dateTo: 2023-02-14
+    title: Open Source Tools für klimafreundliche Software
+    url: https://www.green-coding.berlin/talks-and-events/gsd-meetup-karlsruhe-2023-01/
+    relatedEvent: GSD MEETUP KARLSRUHE
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-02-04
+    dateTo: 2023-02-04
+    title: Green software engineering
+    description: The Green Metrics Tool is an open source framework that allows for measuring, comparing and optimizing the energy consumption of arbitrary software. The goal is to empower both software engineers and users to make educated decisions about libraries, code-snippets and software in order to save energy and thus carbon emissions.
+    url: https://www.green-coding.berlin/talks-and-events/fosdem-2023/
+    relatedEvent: FOSDEM 2023
+   - contributionType: OSS Contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2023-01-16
+    dateTo: 2023-01-16
+    title: Eco-CI - Energy estimation for CI/CD Pipelines on Github & Gitlab
+    url: https://github.com/green-coding-berlin/eco-ci-energy-estimation
+  - contributionType: speaking
+    linkedGSFProject: Meetup
+    subtype: meetup-talk
+    dateFrom: 2022-11-16
+    dateTo: 2022-11-16
+    title: Cloud energy consumption - PyData Berlin [x] Green Coding Berlin
+    url: https://www.green-coding.berlin/talks-and-events/pydata-meetup-nov-2022/
+    relatedEvent: PyData Berlin Meetup Berlin
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2022-10-02
+    dateTo: 2022-10-02
+    title: Meetup - The GREENOPS approach of Google Cloud
+    url: https://www.green-coding.berlin/talks-and-events/green-ops-of-google-cloud/
+    relatedEvent: Green Coding Berlin Meetup Group
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-10-01
+    dateTo: 2022-10-01
+    title: Green Coding - Measuring energy use of arbitrary applications and software stacks 
+    url: https://www.green-coding.berlin/talks-and-events/bits-und-baeume-2022/
+    relatedEvent: BITS & BÄUME CONFERENCE BERLIN
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-conference
+    dateFrom: 2022-09-23
+    dateTo: 2022-09-23
+    title: Workshop - Green Coding Techniques
+    description: Workshop on the topic of measuring and quantifying the energy use of software
+    url: https://www.green-coding.berlin/talks-and-events/sdia-event-0922/
+    relatedEvent: SDIA Berlin Community Event
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2022-09-14
+    dateTo: 2022-09-14
+    title: Sustainable Software - KDE Eco [x] Green Coding Berlin
+    url: https://www.green-coding.berlin/talks-and-events/sustainable-software-kde/
+    relatedEvent: Green Coding Berlin Meetup Group
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2022-08-03
+    dateTo: 2022-08-03
+    title: Greening Digital - The Green Web Foundation [x] Green Coding Berlin
+    url: https://www.green-coding.berlin/talks-and-events/greening-digital-with-tgwf/
+    relatedEvent: Green Coding Berlin Meetup Group
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2022-05-19
+    dateTo: 2022-05-19
+    title: Meetup - Green Coding Basics
+    subtitle: carbon savings and rebound effects for users and web devs
+    url: https://www.green-coding.berlin/talks-and-events/green-coding-basics-talk/
+    relatedEvent: Green Coding Berlin Meetup Group
   - contributionType: OSS Contribution
     linkedGSFProject: Other/Unlisted
     subtype: all
@@ -34,3 +161,19 @@ activities:
     title: Green Metrics Tool
     description: Development of the first version of the Green Metrics Tool to measure arbitrary software products in terms of energy, CO2 and resource consumption
     url: https://www.green-coding.berlin/projects/green-metrics-tool/
+  - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2022-04-14
+    dateTo: 2022-04-14
+    title: Meetup - What is Green Coding?
+    url: https://www.green-coding.berlin/talks-and-events/what-is-green-coding/
+    relatedEvent: Green Coding Berlin Meetup Group
+   - contributionType: organizing
+    linkedGSFProject: Meetup
+    subtype: green-software-meetup
+    dateFrom: 2021-11-01
+    dateTo: 2021-11-01
+    title: Green Software Meetup Group in Berlin
+    url: https://www.meetup.com/green-coding/
+    relatedEvent: Meetup.com
