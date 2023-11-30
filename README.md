@@ -1,17 +1,15 @@
 # GSF Champions
-  _______   _______   _______  _______ _____  ___        ________  ______   _______ ___________ __   __  ___      __       _______   _______  
- /" _   "| /"      \ /"     "|/"     "(\"   \|"  \      /"       )/    " \ /"     "("     _   ")"  |/  \|  "|    /""\     /"      \ /"     "| 
-(: ( \___)|:        (: ______|: ______).\\   \    |    (:   \___/// ____  (: ______))__/  \\__/|'  /    \:  |   /    \   |:        (: ______) 
- \/ \     |_____/   )\/    |  \/    | |: \.   \\  |     \___  \ /  /    ) :)/    |     \\_ /   |: /'        |  /' /\  \  |_____/   )\/    |   
- //  \ ___ //      / // ___)_ // ___)_|.  \    \. |      __/  \(: (____/ //// ___)     |.  |    \//  /\'    | //  __'  \  //      / // ___)_  
-(:   _(  _|:  __   \(:      "(:      "|    \    \ |     /" \   :)        /(:  (        \:  |    /   /  \\   |/   /  \\  \|:  __   \(:      "| 
- \_______)|__|  \___)\_______)\_______)\___|\____\)    (_______/ \"_____/  \__/         \__|   |___/    \___(___/    \___)__|  \___)\_______) 
-                                                                                                                                              
-  ______   __    __      __      ___      ___   _______  __     ______   _____  ___   ________                                                
- /" _  "\ /" |  | "\    /""\    |"  \    /"  | |   __ "\|" \   /    " \ (\"   \|"  \ /"       )                                               
-(: ( \___|:  (__)  :)  /    \    \   \  //   | (. |__) :)|  | // ____  \|.\\   \    (:   \___/                                                
- \/ \     \/      \/  /' /\  \   /\\  \/.    | |:  ____/|:  |/  /    ) :): \.   \\  |\___  \                                                  
- //  \ _  //  __  \\ //  __'  \ |: \.        | (|  /    |.  (: (____/ //|.  \    \. | __/  \\                                                 
-(:   _) \(:  (  )  :)   /  \\  \|.  \    /:  |/|__/ \   /\  |\        / |    \    \ |/" \   :)                                                
- \_______)\__|  |__(___/    \___)___|\__/|___(_______) (__\_|_)"_____/   \___|\____\|_______/                                                 
-                                                                                                                                              
+Welcome to the GSF Champions repo. 
+
+
+- [About GSF Champions](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/93814804/What+is+the+Green+Software+Champions+project)
+- [Detailed Project Overview including OKRs](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/89915393)
+- [Apply to be a Champion](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/89718883/Apply+to+be+a+Green+Software+Champion)
+- [Contact a Champion](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/91488257/Contacting+a+Champion)
+- [Documentation for GSF Leads & Chairs](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/90898433/Project+Lead+and+WG+Chair+Guide+to+Champions)
+- [Internal Manual](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/89915621/Champions+PM+Manual) _GSF Staff Only_
+
+# Profile & Activity updates
+- [Create New Profile](https://grnsft.org/champions/new)
+- [Edit Existing Profile](https://grnsft.org/champions/edit)
+- [Add New Activity](https://grnsft.org/champions/activity)
