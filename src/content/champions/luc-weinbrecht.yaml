@@ -40,3 +40,11 @@ activities:
     description: Am Beispiel des Camunda Carbon Reductor nähern wir uns Carbon Aware Process Execution. D.h. wir versuchen den Geschäfts-Prozess durch Laufzeitoptimierung ökologischer zu gestalten. Wir nutzen Vorhersagen über die CO2-Intensität der voraussichtlich genutzten Energie, um nachfolgenden Aufgaben in ein Zeitfenster zu verschieben, welche in dem die Energie umweltfreundlicher ist - und das alles unter Berücksichtigung vorhandener SLAs.
     url: https://www.meetup.com/green-software-development-karlsruhe/events/294373367/
     relatedEvent: Green Software Development Karlsruhe
+  - contributionType: speaking
+    linkedGSFProject: OSS Contribution
+    subtype: all
+    dateFrom: 2022-11-01
+    dateTo: 2022-11-01
+    title: Camunda Carbon Reductor
+    description: Reduce the environmental impact of your business processes using time shifting while still fulfilling the requested SLAs for carbon-aware process execution.
+    url: https://github.com/envite-consulting/camunda-carbon-reductor
