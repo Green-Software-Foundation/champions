@@ -21,6 +21,15 @@ social:
   website: https://abhishek-gupta.ca
 activities:
   - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: gsf-article
+    dateFrom: 2023-10-03
+    dateTo: 2023-10-03
+    title: The Carbon Conundrum and Ethical Quandaries in the Expanding Realm of AI
+    description: In this blog, we'll provide a summary of the key messages and concepts shared in Abhishek Gupta’s latest article on The Imperative for Sustainable AI Systems, published on The Gradient.
+    url: https://greensoftware.foundation/articles/the-carbon-conundrum-and-ethical-quandaries-in-the-expanding-realm-of-ai
+    relatedEvent: The Carbon Conundrum and Ethical Quandaries in the Expanding Realm of AI
+  - contributionType: writing
     linkedGSFProject: Green Software Practitioner (Principles)
     subtype: company-article
     dateFrom: 2022-11-08
@@ -29,6 +38,55 @@ activities:
     description: Your digital infrastructure probably generates more carbon emissions than you think—and AI may make it worse. It’s time for sustainable software.
     url: https://www.bcg.com/publications/2022/why-your-organization-needs-sustainable-software
     relatedEvent: Boston Consulting Group (BCG)
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2021-11-01
+    dateTo: 2021-11-01
+    title: Beyond Single-Dimensional Metrics for Digital Sustainability
+    description: Have you ever been working towards greening a piece of software, and then you check it against a tool to see if it made an impact and you end up disappointed?
+
+      Sometimes that might be because the area that you were targeting wasn’t significant enough in its energy consumption that it would have an impact on whatever the tool is measuring. In other cases, you might have made a change that truly does have an impact on the energy consumption of the piece of software, but the tool is measuring something else.
+
+      What do you do then?
+    url: https://branch.climateaction.tech/issues/issue-3/beyond-single-dimensional-metrics-for-digital-sustainability/
+    relatedEvent: Branch Magazine by Climate Action Tech
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: gsf-article
+    dateFrom: 2021-10-28
+    dateTo: 2021-10-28
+    title: Why should sustainability be a first-class consideration for AI systems?
+    description: Should sustainability be a first-class consideration for AI systems? Yes, because AI systems have environmental and societal implications. What can you do to make green AI a reality?
+    url: https://greensoftware.foundation/articles/why-should-sustainability-be-a-first-class-consideration-for-ai-systems
+    relatedEvent: Green Software Foundation
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2021-10-17
+    dateTo: 2021-10-17
+    title: The machine’s rage against the planet
+    description: How AI systems impact the environment and how we can be more sustainable in their design, development, and deployment
+    url: https://www.orfonline.org/expert-speak/the-machines-rage-against-the-planet/
+    relatedEvent: Observer Research Foundation
+  - contributionType: writing
+    linkedGSFProject: SCI Spec
+    subtype: gsf-article
+    dateFrom: 2021-10-05
+    dateTo: 2021-10-05
+    title: "Software Carbon Intensity (SCI): Crafting a Standard"
+    description: The Software Carbon Intensity (SCI) standard gives an actionable approach to software designers, developers and deployers to measure the carbon impacts of their systems.
+    url: https://greensoftware.foundation/articles/software-carbon-intensity-crafting-a-standard
+    relatedEvent: Green Software Foundation
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: gsf-article
+    dateFrom: 2021-09-21
+    dateTo: 2021-09-21
+    title: What do we need to build more sustainable AI Systems?
+    description: AI systems can have significant environmental impact. We are risking severe environmental and social harm if we fail to make greener AI systems.
+    url: https://greensoftware.foundation/articles/what-do-we-need-to-build-more-sustainable-ai-systems
+    relatedEvent: Green Software Foundation
   - contributionType: writing
     linkedGSFProject: Community WG
     subtype: 3rd-party-article
