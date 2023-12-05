@@ -1,0 +1,43 @@
+firstName: Peter
+lastName: Kutschera
+role: Practice Lead Sustainable Software Architecture
+organization: envite Consulting GmbH
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Germany
+city: Stuttgart
+bio: I have worked for more than 25 years as a consultant and architect for different companies. My focus is the application architecture and the operation of enterprise applications, especially in the insurance sector. Knowledge in agile software development, cloud infrastructure and application performance management complete my knowledge. Since 2008, I am Open Group Certified Master Architect and for more than two years, I work as accredited trainer at ISAQB for CPSA-F. As a practice lead for Sustainable Software Architecture, I am very much interested in providing green software and helping to reduce the carbon emissions of software.
+type: normal
+social:
+  github: pkutschera
+  linkedin: peter-kutschera-a27345260
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: meetup-talk
+    dateFrom: 2023-12-05
+    dateTo: 2023-12-05
+    title: Nachhaltigkeit in der Softwareentwicklung – Produktqualitäten und Architekturtaktiken
+    description: The demand for energy and resources in IT is constantly increasing. As digitisation continues, IT applications will account for an ever greater share of energy consumption. But how can sustainability taken into account during the architecture design? What does sustainability mean in the context of quality requirements that a software system has to meet? The goal of the talk is to show sustainability can be integrated in an existing quality model, the dependencies to existing quality attributes as well as possible solutions to implement the quality requirements.
+    url: https://www.meetup.com/de-DE/green-software-development-stuttgart/
+    relatedEvent: Green Software Development Stuttgart
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2023-12-04
+    dateTo: 2023-12-04
+    title: Nachhaltigkeit in der Softwareentwicklung – Produktqualitäten und Architekturtaktiken
+    subtitle: German Language Content
+    description: The demand for energy and resources in IT is constantly increasing. As digitisation continues, IT applications will account for an ever greater share of energy consumption. But how can sustainability taken into account during the architecture design? What does sustainability mean in the context of quality requirements that a software system has to meet? The goal of the talk is to show sustainability can be integrated in an existing quality model, the dependencies to existing quality attributes as well as possible solutions to implement the quality requirements.
+    url: https://www.sea-con.de/seacon2023/programm/konferenzprogramm
+    relatedEvent: SEACON 2023
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: Organizer of the Green Software Development Meetup in Stuttgart
+    url: https://www.meetup.com/de-DE/green-software-development-stuttgart/
+    relatedEvent: Green Software Development Stuttgart
