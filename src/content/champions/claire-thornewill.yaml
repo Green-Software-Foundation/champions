@@ -1,0 +1,92 @@
+firstName: Claire
+lastName: Thornewill
+role: Digital Sustainability Lead
+organization: Cognizant Netcentric
+languages: 
+  - English
+  - German
+  - Spanish
+pronoun: She/Her
+country: Germany
+city: Munich
+bio: Claire is a Digital Sustainability Lead at Cognizant Netcentric. She works on client projects to optimise web sustainability for client websites. She is in the Sustainability working group at the W3C that have just launched the first draft of the Web Sustainability Guidelines. She is passionate about sustainability in her personal life, which is why she is now on a mission to raise the awareness that digitisation is riasing the carbon footprint of the IT industry.
+social:
+  github: cthornewill
+  linkedin: claire-thornewill
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-06
+    dateTo: 2023-09-06
+    title: Powering the Future through Digital
+    description: This talk aims to raise awareness within the community of Sustainability community that digitisation cannot be seen as THE silver bullet to decarbonisation, given that it may help to decarbonise one industry but at the same time, results in higher emissions in the IT industry.
+    url: https://www.youtube.com/watch?v=ocGLZZN5dQU&t
+    relatedEvent: Sustainability Live London 2023
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2023-09-01
+    dateTo: 2023-09-01
+    title: "CAT Project: EcoWeb"
+    subtitle: Volunteer run project to research the awareness of IT's carbon footprint
+    description: This is a project to understand whether businesses in climate are aware that IT also has a a carbon footprint. We are auditing 500 homepages of organisations with climate change in their business model, with the belief that if those who already strive towards a greener future are not aware that their IT has a carbon footprint, how can we hope that those who do not care about climate change, understand their IT has a carbon footprint.
+    url: https://climateaction.tech/blog/ecoweb-initiative-uniting-code-and-content-creation-for-a-greener-web/
+    relatedEvent: ClimateAction.tech
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-06-02
+    dateTo: 2023-06-02
+    title: Designing Energy Efficient Websites
+    description: Designing energy efficient websites is an approach to designing digital products and services that are conscious of lowering carbon emissions by becoming more efficient. The choices we make in designing digital products, from UX design and development to the servers we use, can have a carbon cost and can contribute to global Greenhouse gases. In this session we would like to demonstrate our approach to designing and developing energy efficient websites and how we measure and calculate the carbon footprint of our clients websites.
+    url: https://www.youtube.com/watch?v=UTXVsVqh4kE&t=2s
+    relatedEvent: Linux Foundation Energy Summit
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-05-17
+    dateTo: 2023-05-17
+    title: Sustainable Web Design
+    url: https://www.youtube.com/watch?v=8YrqlcmyYE0
+    relatedEvent: TEQnation
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-05-17
+    dateTo: 2023-05-17
+    title: "TEQnation Interview: Sustainable Internet"
+    description: This is an interview following my TEQnation talk which raises awareness about the sustainability of the internet and what we, as designers and developers, matters.
+    url: https://www.youtube.com/watch?v=NX6hk9QwfEQ&t
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-03-31
+    dateTo: 2023-03-31
+    title: Sustainable Web
+    description: Sustainable web design is an approach to designing digital products and services that are conscious of lowering carbon emissions by becoming more efficient. The internet may be digital, but it runs on electricity, much of which is still produced by fossil fuel.The choices we make in designing digital Products, from UX and development to the servers we use can have a carbon cost and can contribute to global Greenhouse gases. Let's talk about the first steps we can take to reduce carbon emissions by making small changes to how we host, design and develop our digital products.
+    url: https://gdg.community.dev/events/details/google-gdg-london-presents-women-techmakers-international-womens-day-daretobe/
+    relatedEvent: Women Techmakers International Women's Day
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2021-08-11
+    dateTo: 2021-08-11
+    title: Start Your Journey In Creating Sustainable Web Designs
+    description: This talk was given to the UXDX Community, but was then used in the Green Digital Skills course.
+    url: https://www.youtube.com/watch?v=_lMX1S9wZFc
+    relatedEvent: "Inco Group: Green Digital Skills"
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2021-08-11
+    dateTo: 2021-08-11
+    title: Start Your Journey In Creating Sustainable Web Designs
+    description: "Claire will talk through tips she's learned and applied with her product teams to be conscious and start their journey on creating sustainable web designs. She will touch on:
+
+     - What is sustainable web design
+     - What are her top tips on how to ensure your web design is sustainable
+     - What challenges has she encountered, and
+     - What other improvements is she looking to incorporate to her process"
+    url: https://www.youtube.com/watch?v=_lMX1S9wZFc&t
+    relatedEvent: UXDX Community
