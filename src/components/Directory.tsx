@@ -53,7 +53,7 @@ const Directory = () => {
 
                 <div ref={sidebarRef} className={`fixed md:static p-8 md:p-0 shadow-md md:shadow-none bg-accent-lightest-1 md:bg-transparent left-0 top-0 h-full w-3/4 md:w-64 overflow-y-auto transform transition-transform ${isFilterOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 md:block z-50 `}>
                     <div className='mb-4'>
-                        <h1 className="text-xl md:text-2xl text-primary-darker font-bold text-left ">Filters by</h1>
+                        <h2 className="text-xl md:text-2xl text-primary-darker font-bold text-left ">Filters by</h2>
                         <ClearRefinements className='text-primary-default font-bold text-sm md:text-base ' translations={{
                             resetButtonText: 'Clear all filters',
                         }} />

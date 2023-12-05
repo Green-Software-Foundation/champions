@@ -46,11 +46,11 @@ const ProfileCard = ({
                 {firstName} {lastName}
               </h4>
 
-              <span className="text-sm font-semibold text-gray-darker">
+              <span className="text-sm font-semibold text-gray-600">
                 {role}
               </span>
 
-              <span className="text-xs text-gray-darker">{organization}</span>
+              <span className="text-xs text-gray-600">{organization}</span>
             </div>
           </div>
         </div>

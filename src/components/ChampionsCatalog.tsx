@@ -31,7 +31,7 @@ const ChampionsCatalog = ({
           classNames={
             {
               root: "w-full",
-              input: "w-full pl-12 pr-40 rounded-lg h-12 border px-3 py-2 text-md text-gray-800 ring-offset-white placeholder:text-gray-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50",
+              input: "w-full pl-12 pr-40 rounded-lg h-12 border px-3 py-2 text-md text-gray-800 ring-offset-white placeholder:text-gray-600 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50",
             }
           }
           submitIconComponent={() => <SearchIcon className="absolute left-3 top-1/2 -translate-y-1/2 text-primary-dark " />}

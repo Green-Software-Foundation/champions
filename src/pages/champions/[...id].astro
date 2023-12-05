@@ -158,12 +158,12 @@ const contributionIcon: ContributionIcon = {
         </div> -->
 
         <p
-          class="text-gray-darker text-center md:text-left text-lg md:text-xl font-semibold"
+          class="text-gray-600 text-center md:text-left text-lg md:text-xl font-semibold"
         >
           {role}
         </p>
 
-        <p class="text-gray-darker text-sm md:text-base font-semibold">
+        <p class="text-gray-600 text-sm md:text-base font-semibold">
           {organization}
         </p>
 
@@ -186,7 +186,7 @@ const contributionIcon: ContributionIcon = {
         <div class="flex items-center justify-start gap-4">
           {
             github && (
-              <a href={` https://github.com/${github}`}>
+              <a href={` https://github.com/${github}`} aria-label={`${firstName} ${lastName} GitHub profile`}>
                 <Icon name="mdi:github" class="w-8 h-8 text-primary-default" />
               </a>
             )
@@ -194,14 +194,18 @@ const contributionIcon: ContributionIcon = {
 
           {
             twitter && (
-              <a href={`https://twitter.com/${twitter}`}>
+              <a href={`https://twitter.com/${twitter}`}
+                aria-label={`${firstName} ${lastName} Twitter profile`}
+              >
                 <Icon name="mdi:twitter" class="w-8 h-8 text-primary-default" />
               </a>
             )
           }
           {
             linkedin && (
-              <a href={`https://linkedin.com/in/${linkedin}`}>
+              <a href={`https://linkedin.com/in/${linkedin}`}
+                aria-label={`${firstName} ${lastName} LinkedIn profile`}
+              >
                 <Icon
                   name="mdi:linkedin"
                   class="w-8 h-8 text-primary-default"
@@ -211,7 +215,9 @@ const contributionIcon: ContributionIcon = {
           }
           {
             website && (
-              <a href={website}>
+              <a href={website}
+                aria-label={`${firstName} ${lastName} personal website`}
+              >
                 <Icon name="mdi:web" class="w-8 h-8 text-primary-default" />
               </a>
             )
@@ -223,7 +229,7 @@ const contributionIcon: ContributionIcon = {
         <div class="flex flex-col gap-4">
           <h1 class="text-2xl text-primary-default font-bold">Biography</h1>
           <p
-            class="text-base font-semibold text-gray-darker whitespace-break-spaces"
+            class="text-base font-semibold text-gray-600 whitespace-break-spaces"
           >
             {bio}
           </p>
@@ -250,7 +256,7 @@ const contributionIcon: ContributionIcon = {
                           (activity: Activity) => (
                             <div class="md:grid md:grid-cols-[4rem_1fr] gap-4">
                               <div class="mt-4">
-                                <p class="text-gray-500 text-sm font-normal">{`${month} ${day}`}</p>
+                                <p class="text-gray-600 text-sm font-normal">{`${month} ${day}`}</p>
                               </div>
                               <div class="md:pl-4 py-4 md:border-l-2 md:border-gray-200 border-b-2 md:border-b-0">
                                 <h4 class="text-lg font-semibold ">
@@ -258,7 +264,7 @@ const contributionIcon: ContributionIcon = {
                                 </h4>
                                 <h5 class="mb-2">{activity.subtitle}</h5>
                                 <div class="flex gap-3 flex-wrap  mb-4">
-                                  <span class="px-2 py-1 bg-accent-light text-black-darkest font-black text-sm uppercase tracking-wider rounded-lg inline-flex items-center gap-2">
+                                  <span class="px-2 py-1 bg-accent-light text-accent-darker font-black text-sm uppercase tracking-wider rounded-lg inline-flex items-center gap-2">
                                     <Icon
                                       pack="ph"
                                       name={
@@ -272,12 +278,12 @@ const contributionIcon: ContributionIcon = {
                                   </span>
 
                                   {activity.relatedEvent && (
-                                    <span class="px-2 py-1 bg-gray-200 text-black-darkest font-extrabold text-xs  tracking-wide rounded-lg inline-flex items-center gap-2">
+                                    <span class="px-2 py-1 bg-gray-200 text-gray-700 font-extrabold text-xs  tracking-wide rounded-lg inline-flex items-center gap-2">
                                       {activity.relatedEvent}
                                     </span>
                                   )}
                                 </div>
-                                <p class="text-gray-500 mb-2">
+                                <p class="text-gray-600 mb-2">
                                   {activity.description}
                                 </p>
                                 <ActivitiyCard activity={activity} />

@@ -11,7 +11,7 @@ const navLinks = [
   <div class="flex items-center justify-between">
     <div class="flex space-x-7">
       <div>
-        <a href="#" class="flex items-center">
+        <a href="#" class="flex items-center" aria-label="Back to homepage">
           <Icon name="champions-logo" class="h-14" />
         </a>
       </div>
@@ -40,9 +40,10 @@ const navLinks = [
       <button
         class="outline-none mobile-menu-button"
         onclick="document.getElementById('mobile-menu').classList.toggle('hidden')"
+        aria-label="Toggle mobile menu"
       >
         <svg
-          class="w-6 h-6 text-gray-500 hover:text-primary-default"
+          class="w-6 h-6 text-gray-600 hover:text-primary-default"
           x-show="!showMenu"
           fill="none"
           stroke-linecap="round"
