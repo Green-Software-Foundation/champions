@@ -1,0 +1,92 @@
+firstName: Aydin
+lastName: Mir Mohammadi
+role: Managing Partner
+organization: bluehands GmbH & Co.mmunication KG
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Germany
+city: Karlsruhe
+bio: "Aydin Mir Mohammadi is a partner and architect at bluehands and has been creating software for more than twenty years. He specializes in the development of distributed complex business applications.
+ Aydin is a community enthusiast, founder and organizer of Green Software Development Karlsruhe, initiator of the .NET User Group Karlsruhe, host of #nossued (Community UnConference) and speaker at various conferences and meetups.
+ As a producer and entrepreneur as well as a private individual, he takes responsibility for an ecologically sustainable world by promoting climate-friendly and resource-saving applications.
+ As a software developer, he has initiated several open source projects and actively drives them forward."
+social:
+  github: AydinMirMohammadi
+  linkedin: aydin-mir-mohammadi
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2023-12-01
+    dateTo: 2023-12-01
+    title: "Workshop : Green Software Development – Architekturen und Praktiken zur Reduzierung des CO2-Fußabdrucks von Software"
+    description: Full or half day workshop to learn how to build Green Software
+    url: https://devopenspace.de/
+    relatedEvent: Developer Open Space Leipzig
+  - contributionType: writing
+    linkedGSFProject: Software Emission Benchmark
+    subtype: personal-blog
+    dateFrom: 2023-10-01
+    dateTo: 2023-10-01
+    title: Software Development Carbon Intensity
+    subtitle: German Language Content
+    description: Publishing the amount of carbon in custom software projects. By defining an emission factor for software development, a general and/or customer specific Carbon Intensity can be obtained and published. We will publish this amount on every bill for our customers.
+    url: https://www.bluehands.de/wissenswelt/detail/wieviel-co2-steckt-in-der-softwareentwicklung-meines-projektes/
+    relatedEvent: How much carbon is there in my software project?
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: conference-demo
+    dateFrom: 2023-05-12
+    dateTo: 2023-05-12
+    title: Sustainable Azure - Tools & Patterns for Carbon Aware Cloud Applications
+    description: Global Azure Community day - I used the conference to show how we can create sustainable applications with Azure PaaS. 
+    url: https://global.azuredev.org/sessions/sustainable-azure-tools-patterns-for-carbon-aware-cloud-applications
+    relatedEvent: Global Azure 2023
+  - contributionType: oss contribution
+    linkedGSFProject: Carbon Aware SDK
+    subtype: all
+    dateFrom: 2023-04-01
+    dateTo: 2023-04-01
+    title: Carbon Aware Computing Hangfire Extension
+    description: A Hangfire extension to schedule tasks with carbon awareness in mind. The best point in time is calculated based on emission forecasts to get a window with a minimal grid carbon intensity. 
+    url: https://www.carbon-aware-computing.com/
+  - contributionType: oss contribution
+    linkedGSFProject: Carbon Aware SDK
+    subtype: all
+    dateFrom: 2023-02-01
+    dateTo: 2023-02-01
+    title: Carbon Aware Computing 
+    subtitle: Provide developers with hassle free, easy to use, ready to run tools for Carbon Aware Computing
+    description: The goal of this project is to provide developers with hassle free, easy to use, ready to run tools for carbon aware computing. 
+
+     This project will deliver a set of libraries, services and data. There are mostly extensions to other projects and all credits belong to them. To forecast the best execution time the Carbon Aware SDK from the Green Software Foundation is used. The Forecast data is from Energy Charts provided by Frauenhofer ISE.
+    url: https://www.carbon-aware-computing.com/
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2022-07-06
+    dateTo: 2022-07-06
+    title: Green Software Development – Architekturen und Praktiken zur Reduzierung des CO2-Fußabdrucks
+    description: DWX is one of the most important developer conferences in the German-speaking world. I introduced the topic to the conference in 2022 and it is constantly evolving.
+    url: https://www.developer-week.de/history/programm-2023/#/talk/tools-sdks-und-patterns-fur-klimafreundliche-anwendungen
+    relatedEvent: Developer Week 2022
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2022-05-17
+    dateTo: 2022-05-17
+    title: Green Software Development – Architekturen und Praktiken zur Reduzierung des CO2-Fußabdrucks von Software
+    description: Green Software Development – Architekturen und Praktiken zur Reduzierung des CO2-Fußabdrucks von Software.
+    url: https://entwicklertag.de/archiv/2022/karlsruhe/2022/Green_Software_Development_%E2%80%93_Architekturen_und_Praktiken_zur_Reduzierung_des_CO2-Fussabdrucks_von_Software.html
+    relatedEvent: Karlsruher Entwicklertag
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2022-05-01
+    dateTo: 2022-05-01
+    title: Green Software Development Karlsruhe
+    subtitle: Meetup Group Organizer
+    description: Initiator, organizer and host of the Green Software Development Karlsruhe Meetup
+    url: https://www.meetup.com/green-software-development-karlsruhe/
