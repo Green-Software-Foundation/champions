@@ -1,0 +1,58 @@
+firstName: Adel
+lastName: Noureddine
+role: Associate Professor
+organization: University of Pau and Pays de l'Adour
+languages: 
+  - English
+  - French
+country: France
+city: Pau
+bio: |
+ Dr Adel Noureddine is an Associate Professor in computer science at the University of Pau and Pays de l’Adour, France. He holds a PhD in computer science from the University of Lille and Inria in 2014, and has worked in computer science in France and the UK, and in the private and public sector.
+ His main research areas are around green IT and green software engineering, behavioral computer science, empirical software engineering, and autonomic computing. In particular, he is interested in the role of software and its generated data in energy-efficient, green, autonomous and smart adaptations in cyber-physical systems.
+
+ He has been working on green IT and green software since 2010, and developed multiple software solutions for energy efficiency.
+ Lately, he launched the Joular project. aiming to build robust tools to measure and analyze the energy consumption of software.
+ He also created a course on Green IT in 2019 at the graduate master level, and a second one on sustainable computing in 2022. He founded a French national working group on green software in 2020, and a series of summer schools on green it since 2021.
+ He can be visited at: https://www.noureddine.org/
+social:
+  github: adelnoureddine
+  linkedin: adelnoureddine
+  twitter: adelnoureddine
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: conference-talk
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: Greening Software in the Wild
+    description: Green software exist in complex ecosystems of devices, software and users. These heterogeneous environments require to address the challenges of green software as a whole, and in both technical and human aspects.
+    url: https://www.univ-pau.fr/fr/agenda/forum-transitions.html
+    relatedEvent: Transitions Forum
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: internal-event-talk
+    dateFrom: 2023-11-17
+    dateTo: 2023-11-17
+    title: "Joular: Monitoring the energy consumption of hardware and software"
+    description: Green IT seminar organized by Adobe Research
+    relatedEvent: Adobe's Green IT Seminar
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2023-11-06
+    dateTo: 2023-11-06
+    title: JoularJX
+    subtitle: Measure the energy consumption of software source code
+    description: JoularJX is a Java-based agent for power and energy monitoring at the source code level with support for modern Java versions, multiple operating systems (Linux, Windows, macOS), and multiple hardware architectures (x86, ARM).
+    url: https://github.com/joular/joularjx/
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2023-10-20
+    dateTo: 2023-10-20
+    title: PowerJoular
+    subtitle: Monitor power consumption of multiple platforms and applications
+    description: PowerJoular is a Linux tool to monitor power and energy consumption of hardware and software. 
+     It supports multiple architectures (x86, ARM), and is capable of monitoring hardware components (CPU, GPU), processes and multi-process applications.
+    url: https://github.com/joular/powerjoular/
