@@ -15,6 +15,24 @@ social:
   github: yellelieder
   linkedin: lieder
 activities:
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2023-09-16
+    dateTo: 2023-09-16
+    title: ecotime.app
+    subtitle: Web app that shows if local electricity is sustainable right now. 
+    description: EcoTime is a frontend application that provides real-time carbon intensity data for your location's energy grid. It estimates the environmental impact of your current energy consumption, enabling you to make informed decisions about whether to consume energy immediately or wait for a more sustainable time window.
+    url: https://github.com/yellelieder/ecotime.app
+  - contributionType: oss contribution
+    linkedGSFProject: Standards WG
+    subtype: all
+    dateFrom: 2023-07-23
+    dateTo: 2023-07-23
+    title: W3C Web Sustainability Guidelines (Draft Community Group Report)
+    subtitle: Web app that shows if local electricity is sustainable right now. 
+    description: Web Sustainability Guidelines (WSG) 1.0 covers a wide range of  recommendations for making websites and products more sustainable. As part of the WSG working group, I was involved in the creation of the first release.
+    url: https://w3c.github.io/sustyweb/
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: keynote
@@ -35,3 +53,30 @@ activities:
     description: Impulse talk and moderation of a breakout session on sustainability in the development of digital products with a focus on requirements engineering. 
     url: https://www.youtube.com/watch?v=I2NbPfxBUUM&themeRefresh=1
     relatedEvent: ASQF & IREB Roundtable - Software Engineering meets Sustainability
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2023-05-16
+    dateTo: 2023-05-16
+    title: datacarbon.info
+    subtitle: Estimate the environmental impact of data transmission.
+    description: DataCarbon.info is a frontend application designed to calculate CO2 emissions and associated environmental costs for data transmission. 
+    url: https://github.com/yellelieder/datacarbon.info
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: podcast
+    dateFrom: 2023-03-01
+    dateTo: 2023-03-01
+    title: "IT-Tacheles Podcast: Creating sustainable digital touchpoints"
+    subtitle: German Language Content
+    description: Guest on the IT-Tacheles podcast as an expert in digital sustainability. 
+    url: https://open.spotify.com/episode/4OS3VTWv17vsNeJ483cqNW?si=FOJjXarbQYCS-hj9yoz8ig
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-01-25
+    dateTo: 2023-01-25
+    title: "IT-Tacheles Podcast: Carbon footprint - how green is Green Cloud really?"
+    subtitle: German Language Content
+    description: Guest on the IT-Tacheles podcast as an expert on the measurability and sustainability of cloud computing.
+    url: https://open.spotify.com/episode/7ey7ejpJSm59ejbrtixYUf?si=gtWo2MbERIGpZj2-tX0XbQ
