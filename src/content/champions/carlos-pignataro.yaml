@@ -17,6 +17,16 @@ social:
   linkedin: cpignata
   website: https://carlos.pignataro.net/
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG 
+    subtype: conference-talk
+    dateFrom: 2023-11-15
+    dateTo: 2023-11-16
+    title: Sustainability Landscape - Industry Perspectives and AI Intersection
+    description: Global Partnership for Sustainability, Waste to Advanced Resources Matter.
+    NC State University, National Renewable Energy Laboratory, IBM, the Town of Cary, and Idaho National Laboratory, with strong support from the US Department of Energy’s Bioenergy Technologies Office (BETO), invite all stakeholders to join in a groundbreaking workshop to shape the future of waste management, drive sustainability, and explore opportunities for a net-zero bioeconomy.
+    url: https://gp4sustainability.ncsu.edu/waste-to-advanced-resources/
+    relatedEvent: Global Partnership for Sustainability
   - contributionType: organizing
     linkedGSFProject: Software Emission Benchmark
     subtype: conference-track
@@ -25,7 +35,7 @@ activities:
     title: IETF 117 Environmental Impact (e-impact)
     url: https://github.com/cpignata/e-impact/blob/main/ietf117/Readme.md
   - contributionType: speaking
-    linkedGSFProject: Community WG
+    linkedGSFProject: Community WG 
     subtype: conference-talk
     dateFrom: 2023-05-08
     dateTo: 2023-05-12
