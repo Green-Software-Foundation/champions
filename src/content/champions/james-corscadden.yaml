@@ -1,0 +1,21 @@
+firstName: James
+lastName: Corscadden
+role: Software Engineer
+organization: Contractor
+languages: 
+  - English
+pronoun: He/Him
+country: Northern Ireland
+bio: For the past 3 years I have been working in sustainability software. Specialising in assessment of activities against the UN Sustainable Development Goals. Currently exploring what it means to be sustainable on the internet as a dev and a user.
+social:
+  github: corscada
+activities:
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2023-11-29
+    dateTo: 2023-11-29
+    title: Beyond HTTP
+    description: A short talk discussing more sustainable alternative protocols, to HTTP. Focusing on the Gemini protocol and the small web.
+    url: https://www.meetup.com/gsf-ni/events/297380616/
+    relatedEvent: Green Software NI Lanch Event
