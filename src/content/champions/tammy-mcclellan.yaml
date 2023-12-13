@@ -15,6 +15,14 @@ social:
   website: https://www.instagram.com/wonderfultinyfarm/
 activities:
   - contributionType: speaking
+    linkedGSFProject: Decarbonize Software
+    subtype: conference-talk
+    dateFrom: 2023-11-16
+    dateTo: 2023-11-16
+    title: Fireside Chat
+    url: https://decarb.greensoftware.foundation/
+    relatedEvent: Decarb Event
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: keynote
     dateFrom: 2023-11-07
@@ -31,3 +39,10 @@ activities:
     title: Chair, Oversight Committee
     description: Chair Oversight Committee responsible for coordinating technical direction of GSF.
     url: https://github.com/Green-Software-Foundation/oc
+  - contributionType: GSF Project Leadership
+    linkedGSFProject: Community WG
+    subtype: wg-chair
+    dateFrom: 2021-01-01
+    dateTo: 2021-01-01
+    title: Co-chair Community Working Group
+    url: https://github.com/tmcclell/community_wg
