@@ -21,6 +21,22 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: Green must be convenient
+    url: https://events.pinetool.ai/3079/#sessions/104116?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions
+    relatedEvent: BigData Conference Europe 2023 @Vilnius
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: lightning-talk
+    dateFrom: 2023-10-24
+    dateTo: 2023-10-24
+    title: PANEL - The sustainable CTO
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7128327068303437825/
+    relatedEvent: Codemotion 2023 @Milan
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
     subtype: keynote
     dateFrom: 2023-10-18
     dateTo: 2023-10-18
