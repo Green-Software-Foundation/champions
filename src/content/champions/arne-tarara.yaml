@@ -16,6 +16,19 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-conference
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-24
+    title: Green Coding Bootcamp / Workshop
+    description: "Green Coding Berlin will introduce its Green Metrics Tool, EcoCI and other methods for measuring environmental impact on the backend.
+
+     First session: introducing hardware and software concepts to read energy data with further steps to convert it to CO2 metrics. Also indirect energy metrics from network and cloud services are discussed with current approaches to approximate them using linear and non-linear machine learning models.
+
+     Second session: the Green Metrics Tool and ECO-CI will be used hands-on to measure container based software as well as a standard Github/Gitlab CI/CD pipeline. The hands-on session will feature setting up these tools, generating measurements, comparing metrics and understanding typical caveats when conducting energy and CO2 measurements of software."
+    url: https://www.green-coding.berlin/talks-and-events/sdia-green-coding-summit-2023/
+    relatedEvent: SDIA Green Coding Summit 2023
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: meetup-talk
