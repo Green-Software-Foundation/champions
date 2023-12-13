@@ -17,3 +17,97 @@ type: normal
 social:
   github: schaDev
   linkedin: tim-schade-84b4a2160
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-25
+    dateTo: 2023-09-25
+    title: CO2 efficient software
+    url: https://basta.net/net-framework-c/greencoding-digitale-emissionen/
+    relatedEvent: Basta! conference
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-09-19
+    dateTo: 2023-09-19
+    title: GreenCoding - Practical insights from the day-to-day work of a developer
+    url: https://www.linkedin.com/posts/aydin-mir-mohammadi_greencoding-praktische-einblicke-aus-dem-activity-7098174176468848640-zS2B/?trk=public_profile_like_view&originalSubdomain=de
+    relatedEvent: Green Software Development Karlsruhe
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-07-27
+    dateTo: 2023-07-27
+    title: GreenCoding - Let's build sustainable software to fight climate change!
+    url: https://www.linkedin.com/posts/tim-schade-84b4a2160_weraredevelopers-teamgft-activity-7089902457530503169-Losw/
+    relatedEvent: WeAreDevelopers World congress
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lightning-talk
+    dateFrom: 2023-07-06
+    dateTo: 2023-07-06
+    title: The role of Green Software Development for sustainability
+    url: https://www.linkedin.com/posts/cyberlago-e.v.---digital-competence-network_wie-k%C3%B6nnen-nachhaltigkeitskonzepte-in-activity-7079704488286015488-eudV/
+    relatedEvent: cyberLAGO - community event
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-04-27
+    dateTo: 2023-04-27
+    title: CO2 software impact on environment
+    subtitle: German Language Content
+    url: https://www.youtube.com/watch?v=xBQVZtBiOTw
+    relatedEvent: Java User Group - Germany (Hessen)
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2022-11-16
+    dateTo: 2022-11-16
+    title: "Green task scheduling: the future of carbon-reduced data processing"
+    url: https://medium.com/gft-engineering/green-task-scheduling-the-future-of-carbon-reduced-data-processing-6c5ec17940f8
+    relatedEvent: medium
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-09-21
+    dateTo: 2022-09-21
+    title: "GreenCoding: Wie kann Software helfen CO2 Emissionen einzusparen?"
+    subtitle: German Language Content
+    url: https://www.youtube.com/watch?v=6osdEGhh8eg
+    relatedEvent: JCON 2022
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-08-11
+    dateTo: 2022-08-11
+    title: GreenCoding
+    subtitle: German Language Content
+    url: https://www.youtube.com/watch?v=GMJDDhcOGAU
+    relatedEvent: Febraban Tech - Brazil
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-05-04
+    dateTo: 2022-05-04
+    title: "GREENCODING: DER EINFLUSS VON SOFTWARE AUF TREIBHAUSGASEMISSIONEN"
+    subtitle: German Language Content
+    url: https://jax.de/core-java-jvm-languages/greencoding-der-einfluss-von-software-auf-treibhausgasemissionen/
+    relatedEvent: JAX
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-03-16
+    dateTo: 2022-03-16
+    title: Green Coding - Carbon efficient software
+    url: https://www.linkedin.com/posts/tim-schade-84b4a2160_javaland-java-teamgft-activity-6910147883073740800-8IpG/
+    relatedEvent: Javaland 2022
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2022-03-15
+    dateTo: 2022-03-15
+    title: "GreenCoding: Welche Rolle spielt Software bei der Erreichung von Klimazielen"
+    subtitle: German Language Content
+    url: https://www.youtube.com/watch?v=0RUHdT3Rc9M
+    relatedEvent: Industry.forward Expo
