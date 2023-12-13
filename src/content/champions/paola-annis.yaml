@@ -21,8 +21,9 @@ activities:
     dateFrom: 2023-11-28
     dateTo: 2023-11-28
     title: "Apiumhub- Cloud Efficiency: building sustainable applications"
-    description: Starting with an overview of the principles of green software, Paola will talk about the guidelines that many cloud vendors have published to make their workloads more sustainable.
-    She will guide you through some of the techniques currently in use to make your applications green, such as demand shaping and shifting, and carbon awareness, and what possible actions you can take within the application to make more when the energy intensity is lower.
+    description: |
+      Starting with an overview of the principles of green software, Paola will talk about the guidelines that many cloud vendors have published to make their workloads more sustainable.
+      She will guide you through some of the techniques currently in use to make your applications green, such as demand shaping and shifting, and carbon awareness, and what possible actions you can take within the application to make more when the energy intensity is lower.
     url: https://www.youtube.com/watch?v=KdmhKNGDDJg
     relatedEvent: "Cloud Efficiency: building sustainable applications"
   - contributionType: speaking

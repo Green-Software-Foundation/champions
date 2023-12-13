@@ -23,8 +23,9 @@ activities:
     dateFrom: 2023-11-15
     dateTo: 2023-11-16
     title: Sustainability Landscape - Industry Perspectives and AI Intersection
-    description: Global Partnership for Sustainability, Waste to Advanced Resources Matter.
-    NC State University, National Renewable Energy Laboratory, IBM, the Town of Cary, and Idaho National Laboratory, with strong support from the US Department of Energy’s Bioenergy Technologies Office (BETO), invite all stakeholders to join in a groundbreaking workshop to shape the future of waste management, drive sustainability, and explore opportunities for a net-zero bioeconomy.
+    description: |
+      Global Partnership for Sustainability, Waste to Advanced Resources Matter.
+      NC State University, National Renewable Energy Laboratory, IBM, the Town of Cary, and Idaho National Laboratory, with strong support from the US Department of Energy’s Bioenergy Technologies Office (BETO), invite all stakeholders to join in a groundbreaking workshop to shape the future of waste management, drive sustainability, and explore opportunities for a net-zero bioeconomy.
     url: https://gp4sustainability.ncsu.edu/waste-to-advanced-resources/
     relatedEvent: Global Partnership for Sustainability
   - contributionType: organizing
