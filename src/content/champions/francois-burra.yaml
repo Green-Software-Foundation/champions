@@ -1,0 +1,65 @@
+firstName: François
+lastName: Burra
+role: Co-Founder
+organization: Climate Product Leaders
+languages: 
+  - English
+  - French
+  - Spanish
+pronoun: He/Him
+country: Canada
+city: Montreal
+bio: |
+ "- I'm a Product Lead and UX consultant, mentor, and speaker with 12 years of experience working with startups and agencies in Canada and the US. After taking almost a full year off and following climate courses, I pivoted my career to fight the climate crisis. Now, I help digital companies and product teams take advantage of the net zero opportunity and reduce their digital emissions.
+ - I wrote a Climate Product Management Playbook called "How to Become a Climate-Conscious Product Manager": http://climateproductleaders.org/
+ - I'm an instructor for Product for Net Zero: https://productfornetzero.com/, a training startup that helps digital businesses and product teams prepare for the carbon neutral (net zero) opportunity and reduce their emissions.
+ - I’m a consultant for fruggr: https://www.fruggr.io/fr/, a leading SaaS solution for measuring the environmental and social footprint of digital services and products.
+ - I'm a consultant for Hey Low: https://heylow.world/, a leading low-carbon design studio.
+ - I help digital teams and companies create and implement their climate playbook and actions on a large scale."
+social:
+  github: FrancoisBurra
+  linkedin: francoisburra
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-demo
+    dateFrom: 2023-11-24
+    dateTo: 2023-11-24
+    title: Green Coding Berlin will introduce its Green Metrics Tool, EcoCI and other methods for measuring environmental impact on the backend
+    description: "First session: introducing hardware and software concepts to read energy data with further steps to convert it to CO2 metrics. Also indirect energy metrics from network and cloud services are discussed with current approaches to approximate them using linear and non-linear machine learning models.
+
+     Second session: the Green Metrics Tool and ECO-CI will be used hands-on to measure container based software as well as a standard Github/Gitlab CI/CD pipeline. The hands-on session will feature setting up these tools, generating measurements, comparing metrics and understanding typical caveats when conducting energy and CO2 measurements of software."
+    url: https://sdialliance.org/green-coding-summit/2023/
+    relatedEvent: SDIA Green Coding Summit
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-15
+    dateTo: 2023-11-15
+    title: How to become a Climate-Conscious Product Manager?
+    url: https://www.eventbrite.fr/e/billets-les-rencontres-numerique-responsable-744950957367?aff=oddtdtcreator
+    relatedEvent: Les Rencontres Numérique Responsable
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-11-08
+    dateTo: 2023-11-08
+    title: Educating Product Managers to Lead Positive Change, with François Burra
+    url: https://www.youtube.com/watch?v=bpljPr5Momc
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-16
+    dateTo: 2023-10-16
+    title: How to be a Climate Product Manager?
+    url: https://www.techaidemontreal.org/en/product4good/francois-burra/
+    relatedEvent: Product4Good
+  - contributionType: speaking
+    linkedGSFProject: SCI Guide
+    subtype: conference-talk
+    dateFrom: 2023-10-05
+    dateTo: 2023-10-05
+    title: Software Life Cycle Assessment in the wild
+    description: Software Life Cycle Assessment (SLCA) is gaining attention for its environmental impacts in production, deployment, usage, and disposal. Unlike LCA for physical products, SLCA is still evolving in software. The presentation introduces a practical SLCA approach for code, discussing concepts and tradeoffs for smaller projects. The SLCA process is outlined, analyzing software phases for environmental impacts. Challenges in estimating energy during development are highlighted, proposing a Software Carbon Database for continuous assessment. Deployment’s energy during Docker builds is briefly mentioned. To address usage phase complexities, a middleware solution tracking energy per API call and updating the Software Carbon Database in real-time is proposed. Disposal phase considers energy during software component removal using the Green Metrics Tool. The talk concludes with a contemporary SLCA approach for agile software development. It relies on real-life data, promotes traceability, and can be adopted by development teams for sustainable practices. Recommendations to improve data quality for disposal and delivery phases are discussed.
+    url: https://www.green-coding.berlin/talks-and-events/enviroinfo-slca-2023/
+    relatedEvent: Enviroinfo
