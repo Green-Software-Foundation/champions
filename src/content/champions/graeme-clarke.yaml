@@ -1,0 +1,59 @@
+firstName: Graeme
+lastName: Clarke
+role: Director of Software Engineering
+organization: Expleo
+languages: 
+  - English
+  - French
+country: United Kingdom
+city: Lisburn
+bio: |
+ Expleo Director of Software | Public Speaker | Author | Software Engineer | Founder Generation X Design | Winner CIO Award 2023 Outstanding IT Contribution to Sustainability
+
+ Graeme is constantly getting into trouble by being involved in all sorts of bizarre and wonderful projects in his spare time from writing mobile computer games to designing satellites that explore Outer Space. His favourite character is R2D2 and he actually really has a signed photo from Kenny Baker himself!
+social:
+  github: Graeme-Clarke
+  linkedin: graeme-clarke-0027349b
+activities:
+  - contributionType: writing
+    linkedGSFProject: Opensourse WG
+    subtype: documentation
+    dateFrom: 2023-11-29
+    dateTo: 2023-11-29
+    title: Green Computing Manifesto
+    description: Better quality software can significantly reduce the amount of energy used in computers through the reductions in CPU, fans, hard disk and interaction with physical devices.
+
+     Bad-quality code can heat up CPUs, spin fans and hard disks and generate significant quantities of waste heat, light and mechanical energy.
+     When scaling up across desktops, mobile and IOT devices, cars and big cloud data centres, making savings can have a huge impact.
+     The Green Computing Manifesto empowers us to create more efficient, higher-quality software that uses fewer resources.
+    url: https://green-computing-manifesto.org/
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-10-30
+    dateTo: 2023-10-30
+    title: CodeBytes Podcast
+    description: I had the chance to share some of my thoughts on Green Computing with Stephen Turkington, Co-founder of Search 5.0 on their Code Bytes Podcast.
+     Watch the full episode, 'Engineering the Future', here on YouTube.
+    url: https://www.youtube.com/watch?v=8DyUzyLV6Bs
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: conference-track
+    dateFrom: 2023-02-08
+    dateTo: 2023-02-08
+    title: Beltech Green Computing Executive Summiy
+    description: We brought together some of the biggest technology companies in the world including Microsoft, Micro Focus, (now Open Text), Expleo and Flexera, to raise awareness of green computing and talk about what we can do about it.
+     Here is a PDF overview of our summit from Beltech on March 8th 2023 at the Titanic Building in Belfast.
+    url: https://drive.google.com/file/d/1kOF2r_gG5-Wvzuh6EYN7S6qseKGBEHpK/view
+    relatedEvent: Beltech 2023
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: personal-blog-post
+    dateFrom: 2022-11-30
+    dateTo: 2022-11-30
+    title: Could Callous Computer Coding Kill the Climate?
+    description: Climate change is on the agenda. Young girls to older TV wildlife presenters are galivanting around the world telling us we’re destroying the planet and shouting that we need to do something about it NOW! But sure, it’s all down to the coal-fired power stations and of course, those people who continue to drive around in big diesel engine cars. Those guys need to sit up and smell the coffee, turn things around and go out and buy a Prius or an ID3 (if they can get one)!
+
+     Good job that software developers don’t generate any carbon. Or do they?
+    url: https://charliebluster.com/blog/g5i1e9-green-computing-do-we-care
+    relatedEvent: CharlieBluster.com
