@@ -1,0 +1,40 @@
+firstName: Didi
+lastName: Hoffmann
+role: CTO
+organization: Green Coding Berlin
+languages: 
+  - English
+  - German
+pronoun: He/Him
+country: Germany
+city: Berlin
+bio: |
+ As a seasoned software engineer and Chief Technology Officer, Didi Hoffmann brings a wealth of experience to the realm of open source and sustainable software development. He has played pivotal roles in innovative projects across several countries, including England, Germany, the USA, Switzerland, and West Africa.
+
+ His significant contributions to open source include leading the development of health collaboration platforms, managing large-scale software projects for emergency response, and pioneering in the field of regenerative agriculture technology at ClimateFarmers. Notably, his work in eHealth Africa involved restructuring IT departments across continents, emphasizing data-driven solutions in health informatics. Hoffmann's involvement in academia as a research fellow and his foundational work at CERN and IBM further accentuate his diverse skill set. With a master's degree in Software Engineering from University College London and a deep commitment to sustainability in tech.
+type: normal
+social:
+  github: ribalba
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Opensource WG
+    subtype: other
+    dateFrom: 2023-11-24
+    dateTo: 2023-11-24
+    title: Workshop
+    description: "Lab 1: Green Coding Berlin will introduce its Green Metrics Tool, EcoCI and other methods for measuring environmental impact on the backend
+
+     First session: introducing hardware and software concepts to read energy data with further steps to convert it to CO2 metrics. Also indirect energy metrics from network and cloud services are discussed with current approaches to approximate them using linear and non-linear machine learning models.
+
+     Second session: the Green Metrics Tool and ECO-CI will be used hands-on to measure container based software as well as a standard Github/Gitlab CI/CD pipeline. The hands-on session will feature setting up these tools, generating measurements, comparing metrics and understanding typical caveats when conducting energy and CO2 measurements of software."
+    url: https://sdialliance.org/green-coding-summit/2023/
+    relatedEvent: SDIA Green Coding Summit
+  - contributionType: speaking
+    linkedGSFProject: SCI Guide
+    subtype: conference-talk
+    dateFrom: 2023-10-11
+    dateTo: 2023-10-11
+    title: Software Life Cycle Assessment (SLCA) in the wild
+    description: Software Life Cycle Assessment (SLCA) is gaining attention for its environmental impacts in production, deployment, usage, and disposal. Unlike LCA for physical products, SLCA is still evolving in software. The presentation introduces a practical SLCA approach for code, discussing concepts and tradeoffs for smaller projects. The SLCA process is outlined, analyzing software phases for environmental impacts. Challenges in estimating energy during development are highlighted, proposing a Software Carbon Database for continuous assessment. Deployment’s energy during Docker builds is briefly mentioned. To address usage phase complexities, a middleware solution tracking energy per API call and updating the Software Carbon Database in real-time is proposed. Disposal phase considers energy during software component removal using the Green Metrics Tool. The talk concludes with a contemporary SLCA approach for agile software development. It relies on real-life data, promotes traceability, and can be adopted by development teams for sustainable practices. Recommendations to improve data quality for disposal and delivery phases are discussed.
+    url: https://www.enviroinfo2023.eu/programme/schedule-overview/wednesday-schedule/
+    relatedEvent: enviroinfo2023
