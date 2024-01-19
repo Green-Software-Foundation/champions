@@ -20,6 +20,14 @@ social:
   twitter: childotg
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-30
+    dateTo: 2023-11-30
+    title: Green must be convenient
+    url: https://www.wpc.education/agenda
+    relatedEvent: WPC 2023 @Milan
+  - contributionType: speaking
     linkedGSFProject: Green Software Practitioner (Principles)
     subtype: conference-talk
     dateFrom: 2023-11-23
