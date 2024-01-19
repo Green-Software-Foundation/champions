@@ -29,3 +29,14 @@ activities:
     Collaborate and Communicate on this topic"
     url: https://www.linkedin.com/feed/update/urn:li:activity:7114896865770229760/
     relatedEvent: Rabobank Netherlands - Quarterly Business Review of Tribe Finance & Product Control
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lightning-talk
+    dateFrom: 2023-12-13
+    dateTo: 2023-12-13
+    title: "Lightning Talk : Sustainable IT"
+    description: What better way to celebrate the festive season than to talk about AI, ML and Sustainable IT! 
+     Thank you Elastic for hosting a wonderful meetup last evening at your Amsterdam office. It was a pleasure to talk about Sustainable IT and Green Software to the diverse audience present. 
+     Thank you Iulia Feroli and team for being wonderful hosts and for the invite to talk at this event.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7141110513299550208/
+    relatedEvent: "ElasticSearch, Inc : Winter Meetup at Amsterdam"
