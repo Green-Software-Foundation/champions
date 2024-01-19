@@ -22,6 +22,15 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-12-06
+    dateTo: 2023-12-06
+    title: How to prepare for the coming WCAG of Sustainability? An update from W3C workgroup participants
+    description: We've lost the bid, our WCSG (Web Content Sustainability Guidelines) was only AA" Is it science-fiction to have an equivalent of accessibility for ecodesigning web services? Not in 2025! The W3C gathered dozens of professionals around the world this year to write together Sustainability Guidelines to implement Green IT in the design of web services. They will be announced at the TPAC in September and their first draft has been released August 31st. Both of us contributed to these work groups and we will tell you all about the processes and outcomes of this upcoming guidelines
+    url: https://www.opensource-experience.com/event/
+    relatedEvent: Open Source Experience
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: online-talk
     dateFrom: 2023-10-17
     dateTo: 2023-10-17
