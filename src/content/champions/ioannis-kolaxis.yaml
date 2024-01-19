@@ -29,6 +29,15 @@ activities:
     url: https://www.open-conf.gr/speakers/
     relatedEvent: Open Conf
   - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: conference-talk
+    dateFrom: 2023-10-31
+    dateTo: 2023-10-31
+    title: Sustainability with S/4HANA
+    subtitle: Conference in Athens, Greece
+    url: https://events.sap.com/gr/leadingtosuccess/el/parallel_analytics
+    relatedEvent: SAP Leading2Success
+  - contributionType: speaking
     linkedGSFProject: Speakers
     subtype: conference-talk
     dateFrom: 2023-10-19
