@@ -17,6 +17,39 @@ social:
   website: https://www.fullo.net
 activities:
   - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: internal-event-talk
+    dateFrom: 2024-03-06
+    dateTo: 2024-03-06
+    title: Round table about green technology and energy
+    description: In this round table I will talk about Green IT and Green Software, what companies need to know about and what are the steps to embrace them.
+    url: https://www.bbs.unibo.it/relatori-2024/
+    relatedEvent: StartUp Ecosystem Day
+  - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: meetup-talk
+    dateFrom: 2024-02-28
+    dateTo: 2024-02-28
+    title: Sostenibilità dell'IT, dall'impatto ambientale del software a quello sociale
+    url: https://www.meetup.com/it-IT/pug-romagna/events/298903634/
+    relatedEvent: PUG Romagna's Meetup
+  - contributionType: mentoring
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: all
+    dateFrom: 2024-02-15
+    dateTo: 2024-05-18
+    title: Business Sustainability Master 
+    description: I`m a teacher and tutor of the Master, I teach the basics of Sustainable and Green Software, talked about Green Software Maturity Matrix, Impact Framework, Practices and Principles. 
+    url: https://academy.italian.tech/business-sustainability-master-part-time/
+  - contributionType: mentoring
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: all
+    dateFrom: 2024-02-09
+    dateTo: 2024-02-09
+    title: Green Software Maturity Matrix assessment
+    description: In a private event I helped some companies to understand their approach to sustainability using the GSMM as a starting point for all the discussions.
+    url: https://github.com/Green-Software-Foundation/green-software-maturity-matrix
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
     dateFrom: 2023-11-18
