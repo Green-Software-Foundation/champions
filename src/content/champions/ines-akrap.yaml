@@ -1,0 +1,110 @@
+firstName: Ines
+lastName: Akrap
+role: Solutions Engineer
+organization: Storyblok
+languages: 
+  - English
+  - Spanish
+  - Croatian
+pronoun: She/Her
+country: Germany
+city: Munich
+bio: Ines Akrap is a Frontend Software Engineer passionate about optimizing websites to be fast, sustainable, and provide the best user experience for every user. She works in Storyblok as Solutions Engineer. She enjoys sharing her knowledge with others through talks, podcasts, workshops, and courses. Her current biggest project is teaching one little human risk management and words.
+type: normal
+social:
+  github: InesAkrap
+  linkedin: ines-akrap
+  twitter: InesAkrap
+  website: https://inesakrap.com
+activities:
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: podcast
+    dateFrom: 2023-12-07
+    dateTo: 2023-12-07
+    title: "The Week in Green Software: Greening the Front End"
+    subtitle: Podcast episode with Chris Adams, talking about sustainable web design
+    description: Chris Adams is joined by Ines Akrap from Cognizant to talk all-things sustainable web design. Together, they delve into the nuances of designing energy-efficient websites and the challenges of green coding in frontend development. Ines shares valuable insights from her experiences at the Linux Energy Foundation Summit and the SDIA Green Coding Summit. The episode also explores common mistakes in optimizing sites for carbon efficiency and discusses exciting projects in the field of green software that are generating buzz. Resources like Website Carbon, Ecograder, and Lighthouse are highlighted, alongside discussions on the Software Carbon Intensity Specification and the CarbonAware SDK. This episode is a must-listen for anyone interested in the intersection of web development and sustainability, offering practical tips and exploring new research horizons in the quest to decarbonize the digital world.
+    url: https://podcast.greensoftware.foundation/e/1823zv7n-the-week-in-green-software-greening-the-front-end
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: "Green Coding in the Frontend: The Good, The Bad, The Ugly"
+    subtitle: with Chris Adams
+    description: Taking a deep dive into topic of sustainable web design together with Chris Adams
+    url: https://www.youtube.com/watch?v=sMoQT3uP2TY
+    relatedEvent: SDIA Green Coding Summit 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-25
+    dateTo: 2023-10-25
+    title: Sustainable Web Development
+    description: Talk about sustainable web design and development. Presenting W3C Sustainable Web Guidelines.
+    url: https://conferences.codemotion.com/milan2023-live/
+    relatedEvent: Codemotion Milan 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-10-10
+    dateTo: 2023-10-10
+    title: "Green IO Podcast: W3C Sustainability Guidelines"
+    subtitle: with Lukasz Mastalerz
+    description: Guest on Green IO podcast talking about W3C Sustainability Guidelines together with W3C Sustainable Web Community colleague Lukasz Mastalerz
+    url: https://greenio.gaelduez.com/e/68rmm2vn-25-w3c-sustainability-guidelines-with-ines-akrap-and-lukasz-mastalerz
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-18
+    dateTo: 2023-09-18
+    title: Reducing the carbon footprint of your website
+    description: Introducing web developers to topic of sustainable web design
+    url: https://www.youtube.com/watch?v=5uraAsjfWvk
+    relatedEvent: Infobip Shift 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-08-03
+    dateTo: 2023-08-03
+    title: A greener web with Ines Akrap
+    description: Guest on a podcast talking about the topic of sustainable web design
+    url: https://chrischinchilla.com/podcast/a-greener-web-with-ines-akrap/
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-07-27
+    dateTo: 2023-07-27
+    title: Reducing the carbon footprint of your website
+    description: Introducing web developers community to the topic of sustainable web design
+    url: https://www.wearedevelopers.com/world-congress
+    relatedEvent: WeAreDevelopers World Congress 2023
+  - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2023-06-01
+    dateTo: 2023-06-01
+    title: Designing Energy Efficient Websites
+    subtitle: with Claire Thornewill
+    description: Designing energy efficient websites is an approach to designing digital products and services that are conscious of lowering carbon emissions by becoming more efficient. The choices we make in designing digital products, from UX design and development to the servers we use, can have a carbon cost and can contribute to global Greenhouse gases. In this session we would like to demonstrate our approach to designing and developing energy efficient websites and how we measure and calculate the carbon footprint of our clients websites.
+    url: https://www.youtube.com/watch?v=UTXVsVqh4kE
+    relatedEvent: Linux Foundation Energy Summit 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-03-31
+    dateTo: 2023-03-31
+    title: Reducing the carbon footprint of your website
+    description: Introducing community to sustainable web development
+    url: https://gdg.community.dev/events/details/google-gdg-london-presents-women-techmakers-international-womens-day-daretobe/
+    relatedEvent: Google WomenTechmakers IWD 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2021-04-24
+    dateTo: 2021-04-24
+    title: Sustainable Web Development
+    description: Introducing community to the topic of Sustainable Web 
+    url: https://www.youtube.com/watch?v=K7xTy6IUAi8&t=6s 
+    relatedEvent: Google WomenTechmakers IWD 2021
