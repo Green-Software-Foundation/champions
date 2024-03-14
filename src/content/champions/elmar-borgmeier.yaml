@@ -40,7 +40,7 @@ activities:
     dateFrom: 2023-04-01
     dateTo: 2023-04-01
     title: Mit Green Software Design zur klimaschonenden Software
-    description: Green Software Design ist mehr als Green Coding. Es ist ein ganzheitlicher Ansatz mit dem Ziel, Software klimaschonender zu machen. Dabei wird Software nicht nur auf ihren Verbrauch hin untersucht und verbessert, sondern ihr ganzer Lebenszyklus spielt eine Rolle. 
+    description: The article explains how software development teams can integrate Green Software techniques and principles into their development processes. It focusses on the main areas that can be improved by joint efforts from the product owner, software engineers and IT operations. 
     url: https://entwickler.de/digitale-transformation/green-software-design
     relatedEvent: Java Magazin
   - contributionType: speaking
@@ -72,3 +72,12 @@ activities:
     description: How to create carbon efficient software for customer onboarding  
     url: https://www.bankingclub.de/events/innovationsforbanks-2022/
     relatedEvent: Innovations for Banks 2022. (Banking Club Conference)
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2022-06-08
+    dateTo: 2022-06-08
+    title: Sustainable Finance bleibt ohne Green Software unglaubwürdig
+    description: The article highlights the importance of Green Software for Sustainable Finance. Financial institutions that offer products such as Sustainable Investment Fonds need to manage their own sustainability as well. Otherwise, they risk being accused of greenwashing. Since the "production" of financial products consists mainly of software and IT, Green Software plays a dominant role when it comes to improving the sustainability of financial instiutions.
+    url: https://www.it-finanzmagazin.de/sustainable-finance-bleibt-ohne-green-software-unglaubwuerdig-141582/ 
+    relatedEvent: IT Finanzmagazin
