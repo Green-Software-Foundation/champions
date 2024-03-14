@@ -16,6 +16,75 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2024-02-27
+    dateTo: 2024-02-27
+    title: Only intelligent digitzation is climate protection
+    description: "„Nur intelligente Digitalisierung ist Klimaschutz!“ 
+     This is the german headline of the article by Welt editor Norbert Lossau on digital sustainability in the WISSEN section. CEO Arne Tarara was able to share his thoughts and information on the topic of green coding with him. The message: any unnecessary use of IT should be avoided. Promoting climate protection requires intelligent digitalization!"
+    url: https://www.welt.de/wissenschaft/plus250296458/Digitalisierung-Jede-ueberfluessige-E-Mail-schadet-dem-Klima.html
+    relatedEvent: WELT Newspaper article
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2024-02-22
+    dateTo: 2024-02-22
+    title: "BEYOND BUZZWORDS: MAKING DIGITAL SUSTAINABILITY A REALITY"
+    description: "Many teams within our community understand the necessity of integrating their digital products into their sustainability strategies. However, in a series of recent interviews with product teams, we revealed a disconnect between awareness and action. Sounds familiar? The reasons, though straightforward, pose significant challenges:
+     Development hurdles: Building digital products is inherently time-consuming and expensive, leading to a culture of “scoping” and prioritizing core business needs. This can unintentionally exclude sustainability features.
+     Knowledge gap: PMs and sustainability managers often lack the technical expertise to articulate relevant solutions for their specific tech stack and codebase, with devs responding with the “you-have-no-idea-what-you’re-talking-about” eyebrow raise
+     In this 90-minute learning session, we are aiming to bridge that gap and empower both sides to bring the topic back into your next sprint planning!"
+    url: https://www.green-coding.io/talks-and-events/lfca-learning-session-2024-02/
+    relatedEvent: Leaders for Climate Action - Learning Session Feb' 2024
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: online-demo
+    dateFrom: 2024-01-31
+    dateTo: 2024-01-31
+    title: Green Metrics Tool - Feature Live Demo
+    description: "We had the opportunity to present at the Cloud Native Computing Foundation - TAG Environmental Sustainability (https://tag-env-sustainability.cncf.io/) about energy and carbon measurement of open source software.
+
+     In the presentation we go over all the feature that the Green Metrics Tool provides including:
+     - Energy measurement
+     - Carbon measurement
+     - Embodied carbon
+     - Modular architecture
+     - Statistical comparisons
+     - Timeline view
+     - DevOps Integrations
+     - Optimizations
+     - and much more
+
+     The live demo with all features is linked on the project page to our Green Metrics Tool https://www.green.coding.io/projects/green-metrics-tool"
+    url: https://www.youtube.com/watch?v=-L4nVqM4SM0
+    relatedEvent: Cloud Native Computing Foundation - TAG Environmental Sustainability Meeting
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2024-01-18
+    dateTo: 2024-01-18
+    title: "Sustainable Software: Ansätze zum Messen der Energieeffizienz von Software"
+    description: "Sustainable Software: How can we quantify and measure "green-ness" of code?"
+    url: https://www.meetup.com/green-software-development-frankfurt/events/297639022/
+    relatedEvent: Green Software Development Frankfurt
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: other
+    dateFrom: 2024-01-17
+    dateTo: 2024-01-17
+    title: "Sustainability in the digital world: European perspective"
+    url: https://www.linkedin.com/posts/mannheimbusinessschool_mannheimbusinessschool-mannheimerforlife-activity-7151223861382946816-K_lQ
+    relatedEvent: Mannheim Business School - Green Coding Impuls Talks IIML
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: other
+    dateFrom: 2024-01-17
+    dateTo: 2024-01-17
+    title: Understanding software carbon emissions and saving potentials for management
+    url: https://www.linkedin.com/posts/mannheimbusinessschool_mannheimbusinessschool-mannheimerforlife-activity-7151223861382946816-K_lQ
+    relatedEvent: Mannheim Business School - Green Coding Guest Lecture IIML
   - contributionType: organizing
     linkedGSFProject: Community WG
     subtype: green-software-conference
