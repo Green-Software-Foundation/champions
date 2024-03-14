@@ -1,0 +1,49 @@
+firstName: Kristina
+lastName: Devochko
+role: Principal Cloud Engineer
+organization: Independent
+languages: 
+  - English
+  - Norwegian
+  - Ukrainian
+  - Russian
+pronoun: She/Her
+country: Norway
+city: Oslo
+bio: |
+ Kristina Devochko is a principal cloud engineer, tech content creator, speaker and tech community contributor based in Norway. She focuses on all things cloud native, Kubernetes, cloud security and green tech. Kristina is an owner of kristhecodingunicorn.com tech blog, a CNCF Ambassador, Microsoft Azure MVP, CNCF TAG Environmental Sustainability tech lead, Kubernetes Unpacked podcast host, co-organizer of multiple meetup groups and mentor. In her free time Kristina enjoys doing CTF challenges, reading and cuddling with her two cats.
+
+ Kristina's great passion is to share her knowledge with others and provide guidance on how to build systems with sustainability, security and cloud native principles at its core. Kristina strongly believes that contributing to making the world a better place by volunteering is important, therefore being a volunteer is a big part of her life. Both when it comes to contributing back to the tech community and non-profit organizations. 
+type: normal
+social:
+  github: guidemetothemoon
+  linkedin: krisde
+  twitter: kristhecodingu1
+  website: https://www.biodrop.io/guidemetothemoon
+activities:
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2023-10-09
+    dateTo: 2023-10-09
+    title: Getting started with green software and cloud native sustainability
+    description: In this session, Kristina will provide an introduction to Green Software Oslo meetup group, its vision and plans, and how you can contribute. In addition Kristina will touch upon the world of green software and cloud native sustainability, why it is important, how the current green tech landscape looks like and how you can start (or continue) your tech sustainability journey.
+    url: https://www.meetup.com/gsf-oslo/events/295698438
+    relatedEvent: Green Software Foundation Oslo - October Meetup
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2023-10-09
+    dateTo: 2023-10-09
+    title: Organizer of Green Software Foundation Oslo - October Meetup
+    url: https://www.meetup.com/gsf-oslo/events/295698438
+    relatedEvent: Green Software Foundation Oslo - October Meetup
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2023-04-18
+    dateTo: 2023-04-18
+    title: "Be the Change Our Planet Seeks: How YOU Can Contribute to Running Environment-Friendly Workloads on Kubernetes"
+    description: Climate change affects us all and it’s impact can be seen throughout all aspects of our life, including software engineering. Reducing carbon footprint and following sustainable software engineering principles is now a part of every software company’s goal, but do you know that YOU, as a developer or a platform engineer, have all the power to contribute to making your technical platform and this world a better, greener place? Kubernetes is one of the technologies that comes in multiple flavors, but it’s up to YOU to utilize it in a way that will lessen harmful impacts of global warming. During this session Kristina will shed light on how sustainable software engineering principles can be applied to Kubernetes and it’s workloads, as well as which eye-opening insights she has gained during her Kubernetes journey and what concrete actions you can take with you and apply further in your projects after the conference in order to make your Kubernetes workloads more eco-friendly. 
+    url: https://youtu.be/ppe0ptZEcvw?si=pxZsoRLR2X544jmp
+    relatedEvent: KubeCon + CloudNativeCon Europe 2023
