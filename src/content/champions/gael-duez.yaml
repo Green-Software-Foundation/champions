@@ -20,6 +20,16 @@ social:
   twitter: gaelduez
   website: https://gaelduez.com
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-conference
+    dateFrom: 2023-12-08
+    dateTo: 2023-12-08
+    title: Organizing Green IO Paris 2023
+    description: Green IO Paris is your go-to place for decarbonizing your tech stack. Great hopes have been placed in the capacity of ICT to support our transition towards a low-carbon economy. But, our digital sector also emits roughly the same amount of greenhouse gas as the global road freight sector. Let’s make sure we manage to clean our own house while saving the world!
+     Apidays Paris and the Green IO podcast have partnered to bring you the latest insights from thought leaders in Tech Sustainability and hands-on feedback from practitioners scaling Green IT. Whether you are a seasoned sustainability advocate or someone new in this field, you can expect candid conversations between practitioners; building bridges is in the DNA of Green IO
+    url: https://conference.greenio.tech/
+    relatedEvent: Green IO Paris 2023
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
