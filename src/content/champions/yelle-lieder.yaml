@@ -15,6 +15,65 @@ social:
   github: yellelieder
   linkedin: lieder
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: online-talk
+    dateFrom: 2023-12-12
+    dateTo: 2023-12-12
+    title: Green AI 
+    subtitle: About data, training, inference and our planet.
+    description: Presentation at the conference of the world's largest AI community.
+    url: https://globalai.community/conference#schedule
+    relatedEvent: Global AI Conference 23
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: online-talk
+    dateFrom: 2023-12-07
+    dateTo: 2023-12-07
+    title: Sustainable digital product development
+    subtitle: Product & UX requirements
+    description: Talk about green product management. The talk can be viewed in the recordings in the XU School of Sustainability after logging in. 
+    url: https://events.teams.microsoft.com/event/7fbc4eb2-31ba-4768-bdb9-91ee28b57d3c@c1b72ce9-833c-49f6-a45a-76786a82ee3f
+    relatedEvent: XU Live Session
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: meetup-talk
+    dateFrom: 2023-12-06
+    dateTo: 2023-12-06
+    title: "ECO:DIGIT"
+    subtitle: Enabling green COmputing and DIGItal Transformation
+    description: "Introduction of the ECO:DIGIT research project."
+    url: https://www.meetup.com/green-coding/events/297632091/
+    relatedEvent: Green Coding Meetup Berlin
+  - contributionType: writing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: company-article
+    dateFrom: 2023-11-14
+    dateTo: 2023-11-14
+    title: Sustainable digital design
+    subtitle: Guidelines for sustainable UX and UI
+    description: Blog post on sustainability of UX and UI work.
+    url: https://www.adesso.de/en/news/blog/sustainable-digital-design-guidelines-for-sustainable-ux-and-ui-2.jsp
+    relatedEvent: adesso Blog
+  - contributionType: writing
+    linkedGSFProject: Impact Framework (IF)
+    subtype: 3rd-party-article
+    dateFrom: 2023-10-12
+    dateTo: 2023-10-12
+    title: Testing the sustainability of software
+    description: Technical publication on measuring the sustainability of software
+    url: https://www.silicon.de/41710123/nachhaltigkeit-von-software-testen
+    relatedEvent: silicon.de
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-10-02
+    dateTo: 2023-10-02
+    title: Green Software Architecture
+    subtitle: Guidelines for ecologically sustainable software architectures
+    description: Blog post on best practices for sustainable software architectures.
+    url: https://www.adesso.de/en/news/blog/guidelines-for-ecologically-sustainable-software-architectures.jsp
+    relatedEvent: adesso Blog
   - contributionType: oss contribution
     linkedGSFProject: Opensource WG
     subtype: all
@@ -24,6 +83,26 @@ activities:
     subtitle: Web app that shows if local electricity is sustainable right now. 
     description: EcoTime is a frontend application that provides real-time carbon intensity data for your location's energy grid. It estimates the environmental impact of your current energy consumption, enabling you to make informed decisions about whether to consume energy immediately or wait for a more sustainable time window.
     url: https://github.com/yellelieder/ecotime.app
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-09-04
+    dateTo: 2023-09-04
+    title: Green IT in everyday life
+    subtitle: Sourcing and using IT sustainably, both personally and professionally
+    description: Talk about how we can create more digital sustainability on a personal level. The talk can be viewed in the recordings in the XU School of Sustainability after logging in. 
+    url: https://events.teams.microsoft.com/event/94d25a61-5d80-4c8e-8a54-62039049d70d@c1b72ce9-833c-49f6-a45a-76786a82ee3f
+    relatedEvent: XU Live Session
+  - contributionType: writing
+    linkedGSFProject: Impact Framework (IF)
+    subtype: company-article
+    dateFrom: 2023-08-22
+    dateTo: 2023-08-22
+    title: Testing the sustainability of software
+    subtitle: How do you test sustainability as a quality feature of software?
+    description: Blog post on measuring the sustainability of software. 
+    url: https://www.adesso.de/en/news/blog/testing-the-sustainability-of-software-how-do-you-test-sustainability-as-a-quality-feature-of-software-2.jsp
+    relatedEvent: adesso Blog
   - contributionType: oss contribution
     linkedGSFProject: Standards WG
     subtype: all
@@ -33,6 +112,26 @@ activities:
     subtitle: Web app that shows if local electricity is sustainable right now. 
     description: Web Sustainability Guidelines (WSG) 1.0 covers a wide range of  recommendations for making websites and products more sustainable. As part of the WSG working group, I was involved in the creation of the first release.
     url: https://w3c.github.io/sustyweb/
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: online-talk
+    dateFrom: 2023-07-13
+    dateTo: 2023-07-13
+    title: Green AI
+    subtitle: Developing and operating artificial intelligence sustainably
+    description: Talk introducing green AI. The talk can be viewed in the recordings in the XU School of Sustainability after logging in. 
+    url: https://events.teams.microsoft.com/event/c13f5bac-2ddf-413b-851f-35e1db7e266d@c1b72ce9-833c-49f6-a45a-76786a82ee3f
+    relatedEvent: XU Live Sessions
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-07-11
+    dateTo: 2023-07-11
+    title: Sustainable AI
+    subtitle: Developing and operating artificial intelligence in an environmentally sustainable way
+    description: Blog post on the eco friendly development and operations of AI.
+    url: https://www.adesso.de/en/news/blog/sustainable-ai-developing-and-operating-artificial-intelligence-in-an-environmentally-sustainable-way-2.jsp
+    relatedEvent: adesso Blog
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: keynote
@@ -53,6 +152,16 @@ activities:
     description: Impulse talk and moderation of a breakout session on sustainability in the development of digital products with a focus on requirements engineering. 
     url: https://www.youtube.com/watch?v=I2NbPfxBUUM&themeRefresh=1
     relatedEvent: ASQF & IREB Roundtable - Software Engineering meets Sustainability
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2023-05-30
+    dateTo: 2023-05-30
+    title: Sustainability of programming languages
+    subtitle: Java rather than TypeScript?
+    description: Blog post analyzing the well know study on the sustainability comparison of programming languages.
+    url: https://www.adesso.de/en/news/blog/sustainability-of-programming-languages-java-rather-than-typescript-2.jsp
+    relatedEvent: adesso Blog
   - contributionType: oss contribution
     linkedGSFProject: Opensource WG
     subtype: all
@@ -62,6 +171,34 @@ activities:
     subtitle: Estimate the environmental impact of data transmission.
     description: DataCarbon.info is a frontend application designed to calculate CO2 emissions and associated environmental costs for data transmission. 
     url: https://github.com/yellelieder/datacarbon.info
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-05-15
+    dateTo: 2023-05-15
+    title: Sustainability as a requirement in requirements engineering
+    description: Specialist article on sustainability as a requirement in digital product development.
+    url: https://sq-magazin.de/requirements/nachhaltigkeit-als-anforderung-im-requirements-engineering/
+    relatedEvent: sq-magazin.de
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2023-05-13
+    dateTo: 2023-05-13
+    title: Environmentally friendly networked embedded systems
+    subtitle: State-of-the-art batteryless device applications
+    description: Research paper on energy harvesting devices and their potential for environmental sustainability. 
+    url: https://1drv.ms/b/s!Amx7HQVK7Pg8od1HNFXqrCEAUJlk5w?e=UandfN
+    relatedEvent: SAFER research project @ UDE
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: meetup-talk
+    dateFrom: 2023-03-14
+    dateTo: 2023-03-14
+    title: "Lessons learned: How I developed a Carbon Aware API and how to do it better"
+    description: Talk on lessons learned from the development of a Carbon Aware API
+    url: https://www.meetup.com/green-software-development-karlsruhe/events/291359701/
+    relatedEvent: Green Software Development Meetup Karlsruhe
   - contributionType: speaking
     linkedGSFProject: Green Software Patterns
     subtype: podcast
@@ -73,6 +210,25 @@ activities:
     url: https://open.spotify.com/episode/4OS3VTWv17vsNeJ483cqNW?si=FOJjXarbQYCS-hj9yoz8ig
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-02-06
+    dateTo: 2023-02-06
+    title: Digital sustainability
+    subtitle: On the connections between digitalization and global sustainability goals
+    description: Talk introducing digital sustainability. The talk can be viewed in the recordings in the XU School of Sustainability after logging in. 
+    url: https://events.teams.microsoft.com/event/fe57acf7-f751-4988-a599-1c7f621ec714@c1b72ce9-833c-49f6-a45a-76786a82ee3f
+    relatedEvent: XU Live Session
+  - contributionType: organizing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2023-01-31
+    dateTo: 2023-01-31
+    title: Digital Sustainability online Course
+    description: Content lead for the creation of the first comprehensive online learning program for reducing the environmental impact of IT.
+    url: https://school-of-sustainability.xu.de/en
+    relatedEvent: XU School of Sustainability
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: podcast
     dateFrom: 2023-01-25
     dateTo: 2023-01-25
@@ -80,3 +236,101 @@ activities:
     subtitle: German Language Content
     description: Guest on the IT-Tacheles podcast as an expert on the measurability and sustainability of cloud computing.
     url: https://open.spotify.com/episode/7ey7ejpJSm59ejbrtixYUf?si=gtWo2MbERIGpZj2-tX0XbQ
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: 3rd-party-article
+    dateFrom: 2023-01-01
+    dateTo: 2023-01-01
+    title: Sustainable Software Engineering
+    subtitle: Development of sustainable software
+    description: Article about the development of ecologically sustainable software. 
+    url: https://www.dotnetpro.de/planung/entwicklung-nachhaltiger-software-2835498.html
+    relatedEvent: dotnetpro.de
+  - contributionType: writing
+    linkedGSFProject: SCI Guide
+    subtype: company-article
+    dateFrom: 2022-12-15
+    dateTo: 2022-12-15
+    title: Life cycle assessment of software
+    subtitle: Why an electricity meter is not enough
+    description: Blog post on the sustainability assessment of software.
+    url: https://www.adesso.de/en/news/blog/life-cycle-assessment-software-why-an-electricity-meter-is-not-enough-2.jsp
+    relatedEvent: adesso Blog
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: company-article
+    dateFrom: 2022-11-07
+    dateTo: 2022-11-07
+    title: Standards for sustainable software
+    subtitle: When will the standard come?
+    description: Blog post on standardization of green software.
+    url: https://www.adesso.de/en/news/blog/standards-for-sustainable-software-when-will-the-standard-come.jsp
+    relatedEvent: adesso Blog
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2022-10-02
+    dateTo: 2022-10-02
+    title: "Panel: Sustainability + digitalization - how can that work?"
+    description: Panel on sustainability criteria for digital tools 
+    url: https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/XPJKK3/
+    relatedEvent: Bits&Bäume Conference 2022
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2022-09-30
+    dateTo: 2022-09-30
+    title: Sustainability criteria for digital tools
+    subtitle: Fishbowl/Workshop
+    description: Participation as a panel guest on the topic of sustainability criteria for digital tools
+    url: https://gi.de/veranstaltung/workshop-nachhaltigkeitskriterien-fuer-digitale-werkzeuge
+    relatedEvent: INFORMATIK 2022
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2022-08-18
+    dateTo: 2022-08-18
+    title: Sustainable software
+    subtitle: How can I reduce the ecological footprint of my company’s systems?
+    description: Blog post with an overview of software sustainability.
+    url: https://www.adesso.de/en/news/blog/blog-detail-page_112388.jsp
+    relatedEvent: adesso Blog
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: company-article
+    dateFrom: 2022-08-11
+    dateTo: 2022-08-11
+    title: Digital sustainability 
+    subtitle: Reconciling environmental, social and economic goals
+    description: Blog post on the environmental impact of IT.
+    url: https://www.adesso.de/en/news/blog/blog-detail-page_111691.jsp
+    relatedEvent: adesso Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2022-02-18
+    dateTo: 2022-02-18
+    title: Trade offs in the development of sustainable software
+    subtitle: Evaluation of practices to improve the environmental sustainability of cloud applications
+    description: This paper examines the trade-offs between sustainability and quality when applications are developed for operation in the cloud. To this end, three specific practices are evaluated in terms of conflicting objectives and recommendations for developers are drawn up on how they can identify and deal with the occurrence of conflicting objectives in practice. Specifically, the explicit planning of the consumption of electricity with low CO2 intensity, the use of procedural instead of object-oriented programming and the bundling of network packages are evaluated. The results of the 12 identified impacts offer developers guidance in identifying conflicting goals and evaluating their own practices and applications.
+    url: https://1drv.ms/b/s!Amx7HQVK7Pg8od1XUM1GG-RRCh0nWQ?e=GcS91c
+    relatedEvent: Bachelor thesis
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2021-10-08
+    dateTo: 2021-10-08
+    title: carbon-aware-prediction-api
+    subtitle: Machine learning based API to encounter carbon intensity into execution of energy intensive processes.
+    description: Python project that uses historical electricity market data and weather data to predict when the co2 intensity in the grid will be low. An API can be used to specify the earliest_start and latest_end times as well as the expected duration of the job and the geo coordinates of the data center. The system then returns a recommendation as to when it is most environmentally sustainable to start the job.
+    url: https://github.com/yellelieder/carbon-aware-prediction-api
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2021-08-27
+    dateTo: 2021-08-27
+    title: Sustainable Software Engineering Literature Review
+    subtitle: Practices to increase environmental sustainability in software engineering
+    description: In a systematic literature search across four databases, 33 papers were identified from 3464 initial search hits that suggest practices for improving energy behavior. Ultimately, 56 specific practices were identified that positively influence the energy behavior of software. All practices found were embedded in a taxonomy and, where possible, assessed in the dimensions of scope, efficiency, proven effectiveness and effort. The developed taxonomy provides an overview of the different application areas of the practices and allows readers to quickly identify practices relevant to their use case. Many of the practices found have a high degree of effectiveness and are not limited to a specific use case. The research shows that there is a clear focus on the reduction of power consumption and that the power source is hardly considered in software engineering research. 
+    url: https://1drv.ms/b/s!Amx7HQVK7Pg8od1YMN2FhAM1rodqbQ?e=IK5lKw
+    relatedEvent: Seminar Paper
