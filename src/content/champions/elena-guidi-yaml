@@ -1,0 +1,37 @@
+firstName: Elena
+lastName: Guidi
+role: Software Engineer
+organization: SEAT:CODE
+languages: 
+  - English
+  - Spanish
+  - Italian
+pronoun: She/Her
+country: Spain
+city: Madrid
+bio: I'm Elena, an Italian soaking up the sun in Spain. With a degree in computer science, I delved into the world of Kotlin three years ago.
+ Beyond coding, I'm deeply passionate about sustainability. I'm always exploring new ways to contribute to environmental conservation and for this reason I started studying about green computing. When I'm not at my computer, you'll find me indulging in my love for cats and nurturing my plant collection.
+type: normal
+social:
+  github: ElePan
+  linkedin: elena-guidi-2607
+  twitter: elenapandino
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: other
+    dateFrom: 2024-02-16
+    dateTo: 2024-02-16
+    title: Green Software for Practitioners
+    description: Sharing my certification in "Green Software for Practitioners" and issuing a call to action to enroll in the course.
+    url: https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7164002869380083712
+    relatedEvent: Linkedin
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-04-21
+    dateTo: 2023-04-21
+    title: "Charlas: Salvemos los pingüinos con el green computing"
+    description: A talk in Spanish on the fundamentals of Green Computing, with a focus on addressing the challenges within data centers. In this session, I've explored the environmental impact of traditional computing practices and discuss innovative solutions aimed at minimizing energy consumption and reducing carbon footprint.
+    url: https://www.youtube.com/watch?v=9st7KpJS_lY
+    relatedEvent: Pycon US 2023
