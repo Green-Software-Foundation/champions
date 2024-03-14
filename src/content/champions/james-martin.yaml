@@ -1,0 +1,49 @@
+firstName: James
+lastName: Martin
+role: Content & Environment Lead
+organization: Scaleway
+languages: 
+  - English
+  - French
+pronoun: He/Him
+country: France
+city: Paris
+bio: |
+ Passionate about making technology more responsible, James Martin leads content and environment initiatives at French cloud provider Scaleway (part of Xavier Niel's telecom company, iliad Group). Author of the white paper "How can engineers make IT more sustainable?" (https://www.scaleway.com/en/why-shift-to-green-it/), he is a keen advocate of Green IT, having organised events such as webinars and panels on the topic with the GSF's Anne Currie (https://www.youtube.com/watch?v=3CGxcS7W8pk), French national environmental agency ADEME, GreenIT.fr and more. He also speaks on the topic, most recently at Epitech, one of France's leading IT universities (https://www.maddyness.com/2024/02/02/epitech-experience-greenit-web3-ia-les-etudiants-se-sont-penches-sur-les-sujets-tech-les-plus-brulants/#Echobox=1706884456). Martin is also responsible for Scaleway's annual Impact Reports, and is Scaleway's CSR Ambassador to iliad Group.
+
+ Previously, Martin secured and conceived speaking opportunities for Scaleway at Web Summit (https://www.youtube.com/watch?v=1BJDZZazaIY) and TNW Conference (https://www.youtube.com/watch?v=CZCKkDZnaXg), on how sustainability is good for the tech business. He has also organised VIP networking events for greentech startups, at global conferences like Slush.
+
+ Prior to Scaleway, he founded a responsible technology blog in 2018 (https://BetterTech.blog), and wrote about technology for cultural/lifestyle magazines ELLE, A Nous Paris & Technikart.
+type: normal
+social:
+  github: jamesmartin75
+  linkedin: jamesmartin75
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: green-software-conference
+    dateFrom: 2024-02-07
+    dateTo: 2024-02-07
+    title: How to adopt Green IT, and why? - panel in French
+    description: I organised and moderated a panel featuring experts from green IT pioneer country, France! Namely Thomas De Latour of ADEME, the national ecology agency; Lise Breteau of GreenIT.fr, the association which defined green IT in 2012; Golem.ai, pioneers in frugal AI; and a Scaleway colleague who's investigating static websites as a potential eco-conception solution.
+    url: https://www.scaleway.com/fr/blog/pourquoi-greenit-panel/
+    relatedEvent: Panel hosted at Scaleway, with external speakers
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: conference-talk
+    dateFrom: 2024-01-06
+    dateTo: 2024-01-06
+    title: If green IT is just optimisation, how is it more than greenwashing - panel participation
+    subtitle: A panel organised by French media Maddyness, as part of a special day for final year students of IT school Epitech
+    description: I was invited by Epitech and Maddyess to talk about green IT to final year students at Epitech, one of France's leading IT universities, with fellow panelists Clément Marche (Nuageo) & Romane Clement (Ctrl S). The panel was in French.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7157692367142031360/
+    relatedEvent: Epitech Experience
+  - contributionType: organizing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: online-event
+    dateFrom: 2023-10-26
+    dateTo: 2023-10-26
+    title: Why adopt Green IT, and how? - webinar
+    description: I organised and moderated a webinar introducing the concept of green IT to engineers and other tech experts. The GSF's Anne Currie notably discussed her Green IT Maturity Index. Fellow speakers were Carsten Windler, Principle Backend Engineer at Plan A; Romane Clément, Co-founder and executive director at Ctrl S; and Simon Shillaker, Engineering Manager Serverless Computing at Scaleway.
+    url: https://www.youtube.com/watch?v=3CGxcS7W8pk
+    relatedEvent: Webinar organised by Scaleway
