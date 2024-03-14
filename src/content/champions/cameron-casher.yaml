@@ -14,6 +14,22 @@ social:
   linkedin: cameroncasher
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-11-30
+    dateTo: 2023-11-30
+    title: Environment Variables Podcast
+    url: https://podcast.greensoftware.foundation/
+    relatedEvent: Environment Variables Podcast
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: SDIA Green Coding Summit
+    url: https://sdialliance.org/green-coding-summit/2023/
+    relatedEvent: SDIA Green Coding Summit
+  - contributionType: speaking
     linkedGSFProject: Green Software Practitioner
     subtype: online-talk
     dateFrom: 2023-05-23
