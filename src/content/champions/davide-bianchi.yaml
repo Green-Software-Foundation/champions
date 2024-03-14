@@ -19,13 +19,13 @@ social:
   twitter: dbianchi92
 activities:
   - contributionType: speaking
-    linkedGSFProject: Speakers
+    linkedGSFProject: other/unlisted
     subtype: conference-talk
-    dateFrom: 2023-06-08
-    dateTo: 2023-06-08
-    title: "kube-green: How-to reduce your CO2 fingerprint on k8s"
-    url: https://platformcon.com/talks/kube-green-increase-cloud-software-sustainability-reducing-co2-footprint
-    relatedEvent: PlatformCon
+    dateFrom: 2023-11-09
+    dateTo: 2023-11-09
+    title: "Sustainability and Efficiency: Environmentally-Friendly Software Development with kube-green"
+    url: https://youtu.be/_l2pwZbGfPo
+    relatedEvent: KubeCon + CloudNative North America 2023
   - contributionType: speaking
     linkedGSFProject: Meetup
     subtype: meetup-talk
@@ -34,3 +34,11 @@ activities:
     title: Round Table
     url: https://youtu.be/haW6PfdLqUg?si=j_W2GSmkEZTFoH8C&t=1768
     relatedEvent: CNCF Sustainability Week Milan
+  - contributionType: speaking
+    linkedGSFProject: Speakers
+    subtype: conference-talk
+    dateFrom: 2023-06-08
+    dateTo: 2023-06-08
+    title: "kube-green: How-to reduce your CO2 fingerprint on k8s"
+    url: https://platformcon.com/talks/kube-green-increase-cloud-software-sustainability-reducing-co2-footprint
+    relatedEvent: PlatformCon
