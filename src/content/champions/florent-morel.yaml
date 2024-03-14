@@ -1,0 +1,71 @@
+firstName: Florent
+lastName: Morel
+role: Software Engineering Manager
+organization: Amadeus
+languages: 
+  - English
+  - French
+country: France
+city: Mouans-Sartoux
+bio: |
+ Florent has been working in the tech industry since 2005, first as a software developer then Software Engineering Manager at Amadeus.
+ Since 2022 he is involved in the GreenIT actions in Amadeus.
+ As a Climate Fresk facilitator, he lead more than 50 sessions  introducing Climate Change challenges to more than 400 Amadeus staff.
+ He created a team to implement the Software Carbon Intensity and launched the Amadeus Software Carbon Footprint Engine.
+
+ He is presenting the GreenIT initiatives in conferences both to Amadeus Staff and outside his company, encouraging his audience to act on the carbon emissions of their applications.
+
+ In parallel of his professional involvement in decarbonizing the software industry, Florent has also lead an NGO to improve cycling infrastructure and develop cycling as a mode of transport.
+type: normal
+social:
+  github: florent-morel
+  linkedin: florent-morel
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: conference-talk
+    dateFrom: 2023-11-28
+    dateTo: 2023-11-28
+    title: AzurTech Winter conference
+    subtitle: Software Carbon Footprint measurement by Amadeus
+    description: External presentation of Amadeus implementation of the Software Carbon Intensity and integration of Impact Framework.
+    url: https://www.telecom-valley.fr/azurtechwinter/
+    relatedEvent: AzurTech Winter
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: conference-talk
+    dateFrom: 2023-11-21
+    dateTo: 2023-11-21
+    title: "Green IT: monitor, analyze, reduce your apps’ emissions"
+    description: Presenting how our 1000 people audience can act to reduce their carbon emissions, thanks to GreenIT solutions.
+    url: https://amadeusworkplace.sharepoint.com/sites/TEC-EET-COM/_layouts/15/stream.aspx?id=%2Fsites%2FTEC%2DEET%2DCOM%2FCTO%20Support%2FCTO%20Internal%20Events%2F2023%2F2023%2011%20GTC%20%26%20CPS%20Townhall%2F15%2EVideo%20recording%2F2nd%20part%2F20231121%20GTC%20%26%20CPS%20Nice%20Townhall%20%2D%20PART%202%2EMOV&nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozMDAwLjY4MTY0NX19&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+    relatedEvent: GTC&CPS Townhall
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: internal-event-talk
+    dateFrom: 2023-11-20
+    dateTo: 2023-11-20
+    title: GTC&CPS Floorwalk
+    subtitle: Software Carbon Measurement
+    description: Demo in front of our CTO, the Head of the Creation Platform & Services Business Unit and their direct reports (around 20 people).
+     This was the opportunity to present them the importance of including Carbon emissions reduction in their strategy and to engage their teams in this endeavor.
+    relatedEvent: GTC&CPS Floorwalk
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: conference-talk
+    dateFrom: 2023-06-23
+    dateTo: 2023-06-23
+    title: GreenIT Global Tech Series
+    subtitle: Presentation of Amadeus Software Carbon Footprint Measurement
+    description: The Global Tech Series event is a global internal event with internal and external speakers.
+     We took this opportunity to present how the Amadeus SCF project was created by merging several initiatives from different organizations.
+    relatedEvent: Global Tech Series
+  - contributionType: mentoring
+    linkedGSFProject: Impact Framework (IF)
+    subtype: all
+    dateFrom: 2023-03-24
+    dateTo: 2023-03-24
+    title: Creation and lead of Amadeus Software Carbon Footprint Measurement project
+    description: Created a virtual team of interns, apprentices, Software engineers & QA engineers to work on the implementation of the Software Carbon Intensity formula.
+     Goal of the project is to provide Amadeus application owners the ability to easily monitor the carbon emissions of their applications, identify areas of improvement and evaluate the progress made thanks to the optimizations.
+     An integration with the FinOps dashboard is planned in H1 2024 to support decisions taken based on financial aspects with a carbon emissions perspective.
