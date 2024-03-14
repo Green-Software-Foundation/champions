@@ -14,6 +14,24 @@ social:
   linkedin: luc-weinbrecht
 activities:
   - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: meetup-talk
+    dateFrom: 2024-02-15
+    dateTo: 2024-02-15
+    title: Camunda Carbon Reductor a Camunda 8 Connector for Climate Change Energy efficiency
+    description: Want to know how optimizing workflows can help protect our climate and make your already efficient processes ecologically efficient as well? The Camunda Carbon Reductor is a Camunda 8 Connector that fetches a carbon intensity forecast of the energy and delays the execution of the subsequent activities to a time window in which the energy is greener
+    url: https://community.camunda.com/events/details/camunda-camunda-chapter-pretoria-presents-camunda-carbon-reductor-a-camunda-8-connector-for-climate-change-energy-efficiency/
+    relatedEvent: "Camunda Chapter: Pretoria"
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: meetup-talk
+    dateFrom: 2024-01-23
+    dateTo: 2024-01-23
+    title: Carbon Aware Process Execution mithilfe des Camunda Carbon Reductor
+    description: Geschäftsprozesse ökologisch effizienter zu gestalten, ist keine Zukunftsmusik mehr. Luc Weinbrecht wird uns zeigen, wie wir uns mithilfe des Camunda Carbon Reducers dem Thema Carbon Aware Process Execution annähern können.
+    url: https://community.camunda.com/events/details/camunda-camunda-chapter-karslruhe-ettlingen-presents-carbon-aware-process-execution-mithilfe-des-camunda-carbon-reductor/
+    relatedEvent: "Camunda Chapter: Karlsruhe-Ettlingen"
+  - contributionType: speaking
     linkedGSFProject: Meetup
     subtype: meetup-talk
     dateFrom: 2023-11-08
