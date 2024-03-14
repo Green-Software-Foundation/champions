@@ -1,0 +1,41 @@
+firstName: Marc-Andre
+lastName: Groulx
+role: Customer Success Account Manager
+organization: Microsoft
+languages: 
+  - French
+  - English
+country: Canada
+city: Ottawa
+bio: |
+ Dedicated, customer focused, IT professional with 20+ years of progressive industry experience.
+
+ In his most recent role at Microsoft, as a Principal Customer Success Account Manager, Mr. Groulx is responsible for managing large enterprise accounts.  This includes working with customers to ensure operational excellence to reduce risk and maximize business value of Microsoft investments.
+type: normal
+social:
+  linkedin: marc-andre-groulx
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2024-02-13
+    dateTo: 2024-02-13
+    title: Ottawa Green Software Meetup
+    url: https://www.meetup.com/gsf-canada/events/297940578/
+    relatedEvent: Ottawa GSF Meetup
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2023-10-04
+    dateTo: 2023-10-04
+    title: Green Software Meetup - Montreal
+    url: https://www.meetup.com/gsf-canada/events/295733895/
+    relatedEvent: Montreal - Green Software Foundation Meetup
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-meetup
+    dateFrom: 2023-09-26
+    dateTo: 2023-09-26
+    title: Ottawa Green Software Meetup
+    url: https://www.meetup.com/gsf-ottawa/events/294807126/
+    relatedEvent: Green Software Foundation Ottawa Meetup - Sept 2023
