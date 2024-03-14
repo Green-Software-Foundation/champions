@@ -20,6 +20,15 @@ social:
   linkedin: edoernenburg
   website: https://toot.thoughtworks.com/@edoernen
 activities:
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: "Cloud Native Sustainability: Strategies for carbon reduction"
+    description: Article, co-authored with Seema Satish, describing how to reduce carbon emissions when moving to the cloud
+    url: https://www.techuk.org/resource/cloud-native-sustainability-strategies-for-carbon-reduction.html
+    relatedEvent: techUK
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
