@@ -17,6 +17,22 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2024-03-12
+    dateTo: 2024-03-12
+    title: The Sustainability Mythbuster
+    url: https://navigate-kongress.de/programm/the-sustainability-mythbuster/
+    relatedEvent: Navigate Kongress 2024
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2024-01-30
+    dateTo: 2024-01-30
+    title: How to reduce the footprint of Spring Boot applications
+    url: https://www.oop-konferenz.de/oop-2024/programm/konferenzprogramm
+    relatedEvent: OOP 2024 Conference
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: conference-talk
     dateFrom: 2023-09-15
     dateTo: 2023-09-15
