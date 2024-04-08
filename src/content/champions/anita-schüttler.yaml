@@ -1,0 +1,57 @@
+firstName: Anita
+lastName: Schüttler
+role: Head of Sustainability
+organization: neuland - Büro für Informatik GmbH
+languages: 
+  - German
+  - English
+pronoun: Sh/Her
+country: Germany
+city: Bremen
+bio: "Anita is a software engineer and a sustainability professional with expertise in Green Coding, Circular Economy and Agile Sustainability. Having worked in the e-commerce sector for almost 15 years, she now helps e-commerce and other IT companies embed circular principles into their processes and the way they build and run software. In addition to the technical aspects of the topic, Anita focuses on systemic and cultural implications: What do we really need? What are the right problems to solve? And how can we use our people's natural motivators to activate them and make Green Coding an inside job?"
+type: normal
+social:
+  github: anitaschuettler
+  linkedin: anita-schüttler-21095023b
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-12-05
+    dateTo: 2023-12-05
+    title: "Nachhaltige IT jenseits von Aktivismus: eine Head of Sustainability und ein Senior Software Engineer teilen Wissen und Erfahrungen"
+    description: Unternehmen, die eine Nachhaltigkeitsstrategie für ihre IT haben, sind heute noch eine Seltenheit. Dabei sind die Zeiten vorbei, in denen Nachhaltigkeit nur etwas für Menschen mit einer Affinität zu Klebstoff oder Tomatensoße war. Anita Schüttler gibt in diesem Talk eine Einordnung, wohin die Reise in Sachen Sustainable IT geht, gesteuert durch Gesetze der EU, des Markts und der Physik. Sie zeigt die Eckpfeiler einer IT-Nachhaltigkeitsstrategie auf und hat eine reiche Sammlung von Maßnahmen der nachhaltigen Softwareentwicklung für verschiedene Gewerke im Gepäck, ergänzt durch Quellen zum Selbststudium und Tools, die bei der Berechnung der Emissionen von Software unterstützen können. Olaf Sebelin hat eine große Affinität zu guter Architektur und wird deshalb erzählen, welche dieser Maßnahmen aus dem Bereich Architektur wir bei neuland bereits selbst ausprobiert haben und wie das so gelaufen ist.
+    url: https://www.sea-con.de/seacon2023/programm/konferenzprogramm
+    relatedEvent: SEACON digital 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: Keynote Debate - The way forward for Green Coding in Europe
+    description: "On this panel we discuss two key questions: What are the barriers to the wider adoption of Green Coding practices and what can we do to reduce or remove those barriers?
+     Participants: Anita Schüttler (neuland), Max Körbacher (Liquid Reply), Atanas Atanasov (Intel) and Janne Kalliola (Exove)"
+    url: https://www.youtube.com/watch?v=oLbxsxBkY5M
+    relatedEvent: SDIA Green Coding Summit 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-06
+    dateTo: 2023-10-06
+    title: "#ClimateActionNow! Wie nachhaltige Software-Entwicklung den Weg in deinen Programmieralltag finden kann"
+    description: Das Thema Nachhaltige Software-Entwicklung hält langsam, aber sicher, Einzug in die IT und wird, neben Generativer KI, eines der wichtigsten Themen der kommenden Jahre sein.
+     Im Vortrag begründet Anita, warum jetzt ein guter Zeitpunkt ist, sich mit dem Thema Nachhaltige Software-Entwicklung zu beschäftigen, welche regulatorischen Anforderungen auf Firmen zukommen und welche Rolle die IT beim Einsparen von CO2 spielen kann.
+     Sie zeigt Wege auf, bei den eigenen Kolleg:innen Interesse und Lust auf das Thema zu wecken und einen sanften Einstieg zu finden. Und natürlich hat sie auch einige konkrete Tipps für den Programmieralltag, Quellen fürs Selbststudium und Tools zum Ausprobieren im Gepäck.
+    url: https://www.xpdays.de/2023/sessions/134-climateactionnow-wie-nachhaltige-software-entwicklung-den-weg-in-deinen-programmieralltag-finden-kann.html
+    relatedEvent: XPDays Germany 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-09-14
+    dateTo: 2023-09-14
+    title: "#ClimateActionNow! How Green Coding can find its way into your daily programming routine."
+    description: The topic of sustainable software development is slowly but surely finding its way into IT and, alongside generative AI, will be one of the most important topics in the coming years.
+     In this presentation, Anita explains why now is a good time to address the topic of sustainable software development, what regulatory requirements companies will face and what role IT can play in reducing CO2 emissions.
+     She shows ways to get your colleagues interested in the topic and introduce them in a gentle way. And, of course, she also has some specific tips for everyday programming, resources for self-study and tools to try out.
+    url: https://www.youtube.com/watch?v=fyufDAn86v0
+    relatedEvent: code.talks 2023
