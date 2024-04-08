@@ -1,0 +1,68 @@
+firstName: Marc
+lastName: Nevin
+role: Innovation Tech Lead
+organization: Kainos
+languages: 
+  - English
+  - BSL
+pronoun: He/Him
+country: United Kingdom
+city: Belfast
+bio: Marc is an Innovation lead at Kainos, working in R&D, focused on AI, Emerging and Sustainable Technology. Interested in sharing lessons around responsible and sustainable innovation.
+type: normal
+social:
+  github: Nevin243
+  linkedin: marcnevin
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: metup-talk
+    dateFrom: 2024-02-15
+    dateTo: 2024-02-15
+    title: "Going Green: Software and Sustainable Technology"
+    description: A lunchtime talk a local science festival discussing Green Software and activities individuals can make to have a more sustainable relationship with software and technology
+    url: https://nisciencefestival.com/events/science-sandwich-green-software
+    relatedEvent: NI Science Festival
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2023-11-29
+    dateTo: 2023-11-29
+    title: Organising NI Green Software Meetup's launch event
+    description: Organised and hosted the first Green Software meetup in Northern Ireland
+    url: https://www.meetup.com/gsf-ni/events/297380616/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+    relatedEvent: Green Software NI Launch Event
+  - contributionType: speaking
+    linkedGSFProject: Students
+    subtype: other
+    dateFrom: 2023-11-28
+    dateTo: 2023-11-28
+    title: Sustainable and Responsible Software Talk
+    description: Talk to 2nd year computing students covering Sustainable and Responsible Computing, including green software and ethics
+    relatedEvent: Ulster University Guest Lecture
+  - contributionType: speaking
+    linkedGSFProject: Students
+    subtype: other
+    dateFrom: 2023-11-03
+    dateTo: 2023-11-03
+    title: Introduction to Green Software
+    description: Guest lecture at Ulster University talking to 1st year students about sustainable digital and green software in the SDLC
+    relatedEvent: Ulster University Guest Lecture
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: internal-event-talk
+    dateFrom: 2023-07-20
+    dateTo: 2023-07-20
+    title: Measuring Your Impact - Talk
+    subtitle: An introduction to SCI
+    description: Talk about calculating SCI for a product at an internal Green Software meetup
+    relatedEvent: Green Software Meetup
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: internal-event-talk
+    dateFrom: 2023-05-19
+    dateTo: 2023-05-19
+    title: Introduction to Green Software
+    subtitle: Greening the Software Development Lifecycle
+    description: Talk at an internal engineering community about greening the software development lifecycle
+    relatedEvent: Internal Engineering Talk
