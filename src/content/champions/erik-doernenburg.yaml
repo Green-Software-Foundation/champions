@@ -20,6 +20,24 @@ social:
   linkedin: edoernenburg
   website: https://toot.thoughtworks.com/@edoernen
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2024-02-01
+    dateTo: 2024-02-01
+    title: Cloud computing and carbon emissions
+    description: Talk on carbon footprint – how to measure and reduce carbon emissions in the cloud
+    url: https://www.meetup.com/apiumhub-software-architecture/events/298438424/
+    relatedEvent: "Apiumhub: Software Architecture Meetups | Barcelona & Madrid"
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2024-02-01
+    dateTo: 2024-02-01
+    title: Den CO2-Fußabdruck verstehen und reduzieren 
+    description: Talk on carbon footprint – how to measure and reduce carbon emissions in the cloud
+    url: https://www.oop-konferenz.de/oop-2024/programm/konferenzprogramm
+    relatedEvent: OOP 2024
   - contributionType: writing
     linkedGSFProject: Community WG
     subtype: 3rd-party-article
@@ -36,7 +54,7 @@ activities:
     dateTo: 2023-10-05
     title: Cloud computing and carbon emissions
     description: Talk on carbon footprint – how to measure and reduce carbon emissions in the cloud
-    url: https://www.agile-meets-architecture.com/2023/schedule
+    url: https://www.youtube.com/watch?v=-tPj5pjoHFk
     relatedEvent: Agile meets Architecture 2023
   - contributionType: speaking
     linkedGSFProject: Community WG
