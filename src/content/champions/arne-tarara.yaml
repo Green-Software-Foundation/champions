@@ -66,7 +66,7 @@ activities:
     dateFrom: 2024-01-18
     dateTo: 2024-01-18
     title: "Sustainable Software: Ansätze zum Messen der Energieeffizienz von Software"
-    description: "Sustainable Software: How can we quantify and measure "green-ness" of code?"
+    description: "Sustainable Software: How can we quantify and measure \"green-ness\" of code?"
     url: https://www.meetup.com/green-software-development-frankfurt/events/297639022/
     relatedEvent: Green Software Development Frankfurt
   - contributionType: speaking
