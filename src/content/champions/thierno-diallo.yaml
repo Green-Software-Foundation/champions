@@ -1,0 +1,40 @@
+firstName: Thierno
+lastName: Diallo
+role: Staff Engineer / Green Software Practitioner / Local Green Champion
+organization: Axa France
+languages: 
+  - French
+  - English
+pronoun: He/Him
+country: France
+city: Paris
+bio: |
+ Experienced Engineer with a demonstrated history of working in the computer software industry during 10 years XP. 
+ Skilled in Java/Spring/Springboot, Python, PostgreSQL, WebMethods, ODM, Green Software Engineering, SOA concepts, Microservices, Statistical Modeling. Strong engineering professional with a degree in Computer Science and Statistics focused on system and network engineering, software engineering, and financial engineering from Polytechnique Lille.
+
+ I have working for Axa since 4 years, previously i worked for SNCF during 4 years, and 2 years for CapGemini.
+type: normal
+social:
+  github: thiernodialloAFA
+  linkedin: diallo-thierno-82b2524a
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: gsf-article
+    dateFrom: 2023-09-12
+    dateTo: 2024-08-31
+    title: "Green Coding: Creating Sustainable Apps"
+    description: |
+     Over the past several years, we have been facing the consequences of climate change and resource depletion. This change is strongly linked to human activity and the resulting CO2 emissions.
+
+     All sectors are concerned, and many are beginning to reduce their impacts on the environment, resources, and biodiversity.
+
+     Our digital sector, accounting for approximately 4% of the global share, significantly contributes to emissions. It is for this reason that GreenIT initiatives have emerged, and they continue to improve and yield results.
+
+     Nevertheless, every individual in our sector, at their own level and in their own role, must do their part to reduce the impact of their work on the environment. As Software Engineers, we must consider the concepts of green coding and integrate them into our array of best engineering practices.
+
+     It is within this framework that I am publishing the first article in a series of 7 articles, at a pace of one article per month. These articles will address green coding, its principles, and its application in everyday life.
+
+     In the continuation of this article, we will specifically discuss green coding, how it is defined, and how it is applied in practice, based on examples in Java. However, it is important to note that these principles are language-independent
+    url: https://medium.com/just-tech-it-now/green-coding-ou-comment-construire-des-logiciels-durables-66742cb27e2b
+    relatedEvent: https://medium.com/just-tech-it-now
