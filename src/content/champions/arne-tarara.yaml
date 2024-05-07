@@ -16,6 +16,21 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-conference
+    dateFrom: 2024-04-25
+    dateTo: 2024-04-26
+    title: Organizing Tech conference
+    subtitle: The first engineering conference on sustainability in hardware & software
+    description: |
+     EcoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future.
+
+     We want to bring all three worlds together to reduce implementation hurdles to get sustainability for digital infrastructures into action.
+
+     We aim to bring together experts, and innovators to discuss and showcase sustainable practices across these technical domains.
+    url: https://www.eco-compute.io/
+    relatedEvent: EcoCompute 2024 Conference
   - contributionType: writing
     linkedGSFProject: other/unlisted
     subtype: 3rd-party-article
