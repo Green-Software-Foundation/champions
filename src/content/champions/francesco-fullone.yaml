@@ -17,6 +17,25 @@ social:
   website: https://www.fullo.net
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: conference-talk
+    dateFrom: 2024-04-19
+    dateTo: 2024-04-20
+    title: State of the art of Sustainability in IT
+    subtitle: a workshop about understanding sustainability in IT and defining a transition plan
+    description: I run a small workshop about the sustainability pillars in IT and how to use the software maturity matrix, among other frameworks, to design and put into action a transition plan to green software practices.
+    url: https://businessdesignitalia.it/2024/04/09/business-design-camp-2024/
+    relatedEvent: Business Design Camp 2024
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: conference-demo
+    dateFrom: 2024-03-14
+    dateTo: 2024-03-15
+    title: Green Software AMA at Developer Experience Day Conference
+    description: I used my sponsor desk during the conference to organize a small AMA about Green and Sustainable Software. I talked with conference attendees and pointed them to GSF activities.
+    url: https://www.youtube.com/live/vPP7EpHqq0k
+    relatedEvent: dxday.it
+  - contributionType: speaking
     linkedGSFProject: Transforming Organisational Software Sustainability
     subtype: internal-event-talk
     dateFrom: 2024-03-06
