@@ -16,6 +16,78 @@ social:
   linkedin: lieder
 activities:
   - contributionType: speaking
+    linkedGSFProject: Certified Green Cloud Engineer Exam
+    subtype: conference-talk
+    dateFrom: 2024-04-29
+    dateTo: 2024-04-29
+    title: "GreenCoding: How cloud native software reduces carbon footprint"
+    subtitle: Panel Discussion
+    url: https://digisustain-de.translate.goog/conferences/digital-and-sustainable-transformation/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+    relatedEvent: DIGISUSTAIN Conference
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2024-04-25
+    dateTo: 2024-04-25
+    title: Green AI - Case-Study
+    subtitle: Decarbonising An AI System
+    description: |
+     The talk uses a real-life example to show how AI systems can cause less environmental impact with the same performance. Tried and tested tools will be presented to reduce the environmental impact of AI systems. The focus is explicitly not on general methods for green software, but on specific fields of action from the AI sector.
+
+     After the presentation, the audience will have a general overview of the relevant fields of action in the area of sustainable AI and will be able to name the most effective and low-threshold methods. The talk is aimed at developers who have a basic understanding of the development of AI systems. However, the content is also understandable without specific AI experience.
+    url: https://www.eco-compute.io/talk/green-ai-case-study-decarbonizing-ai-system/
+    relatedEvent: EcoCompute 2024
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: 3rd-party-article
+    dateFrom: 2024-04-19
+    dateTo: 2024-04-19
+    title: Sustainable programming
+    subtitle: Recommendations for environmentally friendly software development
+    description: This article discusses the integration of sustainability in software development, emphasizing the need for a holistic view of environmental impacts throughout the software lifecycle. It highlights the importance of aligning energy-intensive tasks with the availability of renewable energy, minimizing resource consumption through careful design, and prioritizing the longevity and compatibility of software to combat technical obsolescence. Additionally, it explores strategies such as caching and data optimization to reduce the environmental footprint. These practices are presented as essential for developing eco-responsible technologies that respond to contemporary ecological challenges, promoting a mature, future-oriented perspective within the technology industry.
+    url: https://digitaleweltmagazin-de.translate.goog/nachhaltiges-programmieren-empfehlungen-fuer-umweltfreundliche-softwareentwicklung/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+    relatedEvent: Digitale Welt - Science meets industry
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: 3rd-party-article
+    dateFrom: 2024-03-26
+    dateTo: 2024-03-26
+    title: Practical recommendations for environmentally friendly software architectures
+    subtitle: Sustainability on a structural and conceptual level
+    description: This article explores sustainable software architectures, emphasizing the importance of integrating environmental considerations early in the design process. It discusses strategies such as continuous resource consumption monitoring, asynchronous processing of non-critical workloads, and the use of modular and elastic designs to enhance efficiency. The paper also highlights the significance of optimizing storage and balancing computational offloading decisions to minimize environmental impacts, promoting a holistic approach to sustainable software development.
+    url: https://www-datacenter--insider-de.translate.goog/praktische-empfehlungen-fuer-umweltfreundliche-software-architekturen-a-7a879e3824580a5d2b8455c738e12eca/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+    relatedEvent: Datacenter Insider
+  - contributionType: writing
+    linkedGSFProject: Green Software Playbooks
+    subtype: company-article
+    dateFrom: 2024-03-18
+    dateTo: 2024-03-18
+    title: Green IT building blocks
+    subtitle: Building blocks of ecologically sustainable corporate IT
+    description: Sustainability in IT is no longer a niche topic. More and more IT managers are making a public commitment to reducing the environmental impact of the IT for which they are responsible. This blog post provides an overview of specific aspects that should not be missing from a holistic green IT strategy.
+    url: https://www.adesso.de/en/news/blog/green-it-building-blocks-of-ecologically-sustainable-corporate-it-2.jsp
+    relatedEvent: adesso Blog
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2024-02-09
+    dateTo: 2024-02-09
+    title: Green coding guidelines
+    subtitle: Guidelines for the development of sustainable software
+    description: Green coding is one of the top trends in software development in 2024, but what does green coding actually mean? In this blog post, I present criteria catalogues for sustainable software development and suggest what really matters.
+    url: https://www.adesso.de/en/news/blog/green-coding-guidelines-for-the-development-of-sustainable-software-2.jsp
+    relatedEvent: adesso Blog
+  - contributionType: speaking
+    linkedGSFProject: Green Software Playbooks
+    subtype: online-talk
+    dateFrom: 2024-01-18
+    dateTo: 2024-01-18
+    title: Green Requirements in software development 
+    subtitle: How and why should you take the environment into account 
+    description: Currently the software development process is still very much fragmented. Often project leads and product managers don’t take the whole lifecycle of their product into account. This results in over engineered products which incorporate bloated features which sometimes neither anyone uses, nor anyone needs. But at the end of the day those features and digital products as a whole have an impact on the environment. Digital products require resources to get produced, to operate and finally disposed or recycled. In this talk Yelle Lieder will talk about the best way to avoid those pitfalls from developing the right strategy, how important it is that digital solutions solve real problems and what crucial role green requirements play in this.
+    url: https://www.meetup.com/green-software-development-manifesto/events/297900476/
+    relatedEvent: "Green Software Development Meetup: Sustainability Upfront – Green RE & Web Design | hybrid"
+  - contributionType: speaking
     linkedGSFProject: Green Software Patterns
     subtype: online-talk
     dateFrom: 2023-12-12
