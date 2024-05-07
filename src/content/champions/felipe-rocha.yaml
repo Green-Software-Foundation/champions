@@ -1,0 +1,30 @@
+firstName: Felipe
+lastName: Rocha
+role: Lead DevOps Engineer
+organization: BCG
+languages: 
+  - Portuguese
+  - English
+pronoun: He/Him
+country: Brazil
+city: Belo Horizonte
+bio: Curious and science enthusiast. Programmer by profession and hobby. Enjoying the DevOps vibe. Anime fan. My main goal is to learn as much as possible!
+type: normal
+social:
+  github: felipefroccha
+  linkedin: felipefonsecarocha
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: meetup-talk
+    dateFrom: 2023-11-27
+    dateTo: 2023-11-27
+    title: Programming Energetic Efficiency
+    description: |
+     In the era of technology, energy efficiency is a crucial concern, not only for the environment but also for the optimization of resources and costs. In this lecture, we will explore the fascinating world of energy efficiency in programming, starting with the efficiency of programming languages and how to choose the most suitable ones to minimize energy consumption. Next, we will delve into the nuances of algorithm efficiency, discussing how different approaches can directly affect heat production and electricity consumption in computer systems.
+
+     Furthermore, we will explore strategies for observability and code instrumentation to measure and analyze the resources consumed during the execution of a program. We will learn how to avoid oversizing resources, which not only saves energy but also contributes to a more sustainable computational environment.
+
+     This lecture is essential for developers, software engineers, and anyone interested in leveraging the power of programming not just to create effective applications, but also to make the digital world more efficient and eco-friendly. Join us to discover how energy efficiency can be an integral part of the future of programming.
+    url: https://www.youtube.com/watch?v=xuyCkPHb1b4
+    relatedEvent: Cloud Native São Paulo Meetup
