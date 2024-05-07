@@ -18,6 +18,15 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2024-03-15
+    dateTo: 2024-03-15
+    title: The 3 Ws of Sustainable IT and Green Software
+    description: Talk about Software Sustainability and Green Software at AppDevCon 2024, Pathe Noord, Amsterdam
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7176178016757125122/
+    relatedEvent: Appdevcon 2024, Amsterdam
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: internal-event-talk
     dateFrom: 2023-09-28
     dateTo: 2023-09-28
