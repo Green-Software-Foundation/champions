@@ -17,6 +17,41 @@ social:
   linkedin: cpignata
   website: https://carlos.pignataro.net/
 activities:
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: other
+    dateFrom: 2024-04-05
+    dateTo: 2024-04-05
+    title: ICMP Extensions for Environmental Impact
+    description: This document defines a data structure that can be appended to selected ICMP messages.  The ICMP extension defined herein can be used to gain visibility on environmental impact information on the Internet by providing per-hop (i.e., per topological network node) power metrics and other current or future sustainability metrics.
+    url: https://datatracker.ietf.org/doc/draft-pignataro-eimpact-icmp/
+    relatedEvent: Internet Engineering Task Force (IETF)
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: other
+    dateFrom: 2024-04-04
+    dateTo: 2024-04-04
+    title: ICMP Extensions for Environmental Information
+    subtitle: draft-pignataro-eimpact-icmp-02
+    url: https://datatracker.ietf.org/doc/draft-pignataro-eimpact-icmp/
+    relatedEvent: IETF Internet-Draft
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: documentation
+    dateFrom: 2024-03-16
+    dateTo: 2024-03-16
+    title: Characterization and Benchmarking Methodology for Power in Networking Devices
+    subtitle: IETF119 Internet-Draft
+    description: This document defines a standard mechanism to measure, report, and compare power usage of different networking devices and under different network configurations and conditions.
+    url: https://datatracker.ietf.org/doc/draft-cprjgf-bmwg-powerbench/
+  - contributionType: organizing
+    linkedGSFProject: Green Software Playbooks
+    subtype: conference-track
+    dateFrom: 2024-01-15
+    dateTo: 2024-01-15
+    title: IEEE ComSoc Sustainable Network Operations (SNO) SIG
+    description: The Special Interest Group (SIG) on Sustainable Network Operations (SNO) aims to encourage and facilitate discussion, exchange of ideas, and development of solutions related to those questions. It aims to provide a cooperative and open forum for researchers, complementing other vendor-focused fora.
+    url: https://cnom.committees.comsoc.org/sustainable-network-operations-sno/
   - contributionType: speaking
     linkedGSFProject: Community WG 
     subtype: conference-talk
@@ -28,6 +63,15 @@ activities:
       NC State University, National Renewable Energy Laboratory, IBM, the Town of Cary, and Idaho National Laboratory, with strong support from the US Department of Energy’s Bioenergy Technologies Office (BETO), invite all stakeholders to join in a groundbreaking workshop to shape the future of waste management, drive sustainability, and explore opportunities for a net-zero bioeconomy.
     url: https://gp4sustainability.ncsu.edu/waste-to-advanced-resources/
     relatedEvent: Global Partnership for Sustainability
+  - contributionType: organizing
+    linkedGSFProject: Standards WG
+    subtype: other
+    dateFrom: 2023-11-04
+    dateTo: 2023-11-11
+    title: IETF 118 — "Environmental-Impact Program meeting"
+    description: Environmental Impact of Internet Architectures and Technologies.
+    url: https://github.com/cpignata/e-impact/tree/main/ietf118
+    relatedEvent: IETF 118 — "Environmental-Impact Program meeting"
   - contributionType: organizing
     linkedGSFProject: Software Emission Benchmark
     subtype: conference-track
