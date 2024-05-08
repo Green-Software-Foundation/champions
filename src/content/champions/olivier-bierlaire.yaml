@@ -1,0 +1,88 @@
+firstName: Olivier
+lastName: Bierlaire
+role: Founder
+organization: Carbonifer
+languages: 
+  - English
+  - French
+  - Spanish
+pronoun: He/Him
+country: France
+city: Nantes
+bio: |
+ As a software engineer formerly with companies like Canva and Elastic, I have a strong background in DevOps and have worked extensively in both France and Australia. Recently, I have pivoted to focus on sustainability in IT. I founded Carbonifer to provide tools that optimize the cost, carbon emissions, and other impacts of cloud infrastructure. 
+
+ Additionally, I am a regular speaker at tech conferences across Europe, including Devoxx, Devfest, and NDC, talking about sustainability in cloud computing. 
+
+ I am also part of Carbon13, the Venture Builder for the Climate Emergency, in Berlin Cohort, where I collaborate with a cohort of over 80 founders to launch ventures capable of reducing CO2e emissions by 10 million tonnes annually at scale.
+type: normal
+social:
+  github: obierlaire
+  linkedin: olivierbierlaire
+  twitter: obierlaire
+  website: https://bsky.app/profile/obierlaire.bsky.social
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-12-14
+    dateTo: 2023-12-14
+    title: Your cloud emits CO2
+    subtitle: Internet Of things
+    description: Talk introducing carbon aware cloud infra
+    url: https://www.youtube.com/watch?v=kFX9E5PkqLo
+    relatedEvent: Conf42
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-11-23
+    dateTo: 2023-11-23
+    title: Vers un cloud carbon-aware
+    description: Talk in french at Devops D-Day organised by Accenture in Velodrome stadium in Marseille. Introduction to carbon aware cloud infra. 
+    url: https://www.devopsdday.com/programme2023
+    relatedEvent: Devops D-Day
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2023-11-21
+    dateTo: 2023-11-21
+    title: Toward a carbon-aware cloud
+    description: Talk introducing carbon aware cloud infrastructures.
+    url: https://www.youtube.com/watch?v=fbmkTbuBORA
+    relatedEvent: JCON WORLD ONLINE
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-19
+    dateTo: 2023-10-19
+    title: Towards a 'carbon-aware' cloud
+    description: Introduction talk to carbon awareness cloud infrastructure
+    url: https://www.youtube.com/watch?v=RCb9peXqRfM
+    relatedEvent: Devfest Nantes
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: Toward a carbon-aware Cloud
+    description: Intro to carbon awareness of Cloud infra
+    url: https://youtu.be/l9WQFcgaJ_I?si=BUFY_EQtP1r2tBkQ
+    relatedEvent: NDC Porto 2023
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2023-10-12
+    dateTo: 2023-10-12
+    title: DevOps and the Carbon-aware Cloud
+    description: Talk at Chef Conf 23 in Munich, Germany, organised by ProgressChef. I talked about carbon footprint of the cloud and how devops practices and carbon awareness can mitigate that. 
+    url: https://www.linkedin.com/posts/olivierbierlaire_chefconf-2023-munich-activity-7117841097757741056-yUfb?utm_source=share&utm_medium=member_desktop
+    relatedEvent: ChefConf.23
+  - contributionType: speaking
+    linkedGSFProject: SCI Guide
+    subtype: conference-talk
+    dateFrom: 2023-10-04
+    dateTo: 2023-10-04
+    title: Toward a carbon-aware Cloud
+    description: Talk about how to build a carbon aware cloud infrastructure
+    url: https://www.youtube.com/watch?v=WvoRz5EYR7Y
+    relatedEvent: Devoxx Belgium 2023
