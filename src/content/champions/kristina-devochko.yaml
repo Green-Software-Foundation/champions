@@ -22,6 +22,74 @@ social:
   website: https://www.biodrop.io/guidemetothemoon
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2024-04-19
+    dateTo: 2024-04-19
+    title: "nCast Episode 12: Optimizing for Sustainability"
+    description: Kristina Devochko joins nCast podcast episode to talk all things cloud cost optimization, Kubernetes and green tech. We start by talking about the fact that many companies aren’t even using HALF of their compute resources. But does slashing your public cloud bill always mean that you’re saving the plant? We delve into cost optimization and how it aligns (or not) with sustainability. Kristina shares her insights on measuring your cloud carbon footprint and the tools you need (KEDA, Karpenter, Kepler) to increase cloud sustainability. We discuss key practical ways to get started cutting unnecessary cloud waste, from eliminating orphaned resources to utilizing spot instances and scheduling during off hours.
+    url: https://www.nops.io/ncast/ncast-episode-12-optimizing-for-sustainability
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2024-03-27
+    dateTo: 2024-03-27
+    title: "KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape"
+    description: In this talk Kristina and Niki did a recap of their lightning talk from KubeCon+CloudNativeCon Europe 2024 where they addressed and debunked some popular misconceptions related to environmental sustainability in the cloud native and open source space, as well as tech industry in general.
+    url: https://youtu.be/PLjX3gpnmjo?si=lyRFjw4wk2Ycom41
+    relatedEvent: Cloud Native Austria and Saar
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: conference-talk
+    dateFrom: 2024-03-20
+    dateTo: 2024-03-20
+    title: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group
+    description: During CloudNativeHacks, the first-ever hackathon organized by KubeCon + CloudNativeCon Europe 2024, CNCF, in collaboration with the United Nations panelists discussed the importance of sustainability in tech, how technologists can make an important impact for more sustainable software and systems. Panelists also discussed useful tools, standards and frameworks that can be used to implement green software practices, as well as how organizations like GSF and CNCF TAG ENV are contributing to more sustainable tech industry and how community members can get involved.
+    url: https://sched.co/1Yvvp
+    relatedEvent: KubeCon + CloudNativeCon Europe 2024
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: lightning-talk
+    dateFrom: 2024-03-19
+    dateTo: 2024-03-19
+    title: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape
+    description: Environmental sustainability is an increasingly important topic in general and in the cloud native and open source realm as well. However, with the steadily growing attention to the topic, misconceptions and doubts appear regarding the actual impact of proposed actions that are meant to promote environmental sustainability in the cloud. We would like to put our myth-busting hats on to address and debunk some of these misconceptions. We will provide an objective, evidence-based understanding of the real implications some actions may have on environmental sustainability in the cloud-native context. Join the Cloud Native Sustainability Mythbusters Squad, bring your open mind, discover facts, challenge assumptions, and contribute to a more informed and greener community.
+    url: https://sched.co/1YeLF
+    relatedEvent: KubeCon + CloudNativeCon Europe 2024
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-02-26
+    dateTo: 2024-02-26
+    title: Organizer of Green Software Foundation Oslo - February Meetup
+    url: https://www.meetup.com/gsf-oslo/events/298048644
+    relatedEvent: Organizer of Green Software Foundation Oslo - February Meetup
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2024-02-26
+    dateTo: 2024-02-26
+    title: Updates on ongoing projects and activities in green software and cloud native sustainability space
+    description: In this session Kristina provided latest updates on the ongoing activities and projects that are happening in the green software and cloud native sustainability space, including organizations like Green Software Foundation and CNCF TAG Environmental Sustainability. Kristina did a brief walkthrough of projects like SCI specification, Impact Framework from GSF and sustainability footprint assessment platform for CNCF projects by Green Reviews Working Group that operates under the TAG ENV umbrella. Also Kristina touched upon international and local sustainability-related events, interesting talks and open source projects that are looking for contributors and how anyone can get involved in any of the mentioned activities.
+    url: https://www.meetup.com/gsf-oslo/events/298048644
+    relatedEvent: Green Software Foundation Oslo - February Meetup
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2024-01-25
+    dateTo: 2024-01-25
+    title: "Environment Variables Podcast - The Week in Green Software: CNCF TAG Environmental Sustainability"
+    description: In this episode TWiGS host Chris Adams in talking to Kristina Devochko, tech lead of the Environmental Sustainability TAG at the Cloud Native Computing Foundation. Kristina shares her journey from economics to tech sustainability, and eventually joining this Technical Advisory Group. Further, they discuss the mission and projects of the group, as well as how anyone interested and willing is able to contribute. She elaborates on her experience of diving into this new field with no prior knowledge and acts as a reminder that no matter how scary it seems, you can do it too.
+    url: https://podcast.greensoftware.foundation/e/q802j038-the-week-in-green-software-cncf-tag-environmental-sustainability
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: podcast
+    dateFrom: 2023-12-21
+    dateTo: 2023-12-21
+    title: Women in Cloud Native podcast interview - Journey in Tech & all about Sustainability in Tech w/ Kristina
+    description: In this episode Kristina and Nancy talked about Kristina's journey to tech and her personal passion for sustainability, why sustainability is relevant and important in ICT as well, how organizations like GSF and CNCF TAG ENV are making an impact for a more sustainable tech space and how you can get involved.
+    url: https://youtu.be/EoL2X4QB33M?si=GdNGLGzEof2nT3Ff
+  - contributionType: speaking
     linkedGSFProject: GSF Meetup Network
     subtype: meetup-talk
     dateFrom: 2023-10-09
