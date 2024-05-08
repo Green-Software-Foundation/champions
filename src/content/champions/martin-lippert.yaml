@@ -17,6 +17,14 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2024-04-25
+    dateTo: 2024-04-25
+    title: The Sustainability Mythbuster
+    url: https://jax.de/software-architecture/sustainability-mythbuster/
+    relatedEvent: JAX 2024
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: online-talk
     dateFrom: 2024-03-12
     dateTo: 2024-03-12
