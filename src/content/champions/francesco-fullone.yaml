@@ -16,6 +16,51 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: mentoring
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: all
+    dateFrom: 2024-05-24
+    dateTo: 2024-05-24
+    title: Sustainable Software Masterclass
+    subtitle: sostenibilità digitale delle infrastrutture IT
+    description: In this masterclass for DIR (IT companies district of Romagna) I teach green principles, software maturity matrix, SCI and how to create and action plan do calculate software impact and to decarbonize it. All the "students" are IT entrepreneur
+    url: https://www.distrettodellinformaticaromagnolo.org/sustainable-software-24-maggio-2024/
+  - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: internal-event-talk
+    dateFrom: 2024-05-24
+    dateTo: 2024-05-24
+    title: Sustainable Software
+    description: Distretto Informatico Romagnolo is a community of IT companies that helps each others to learn and grow in a good ecosystem
+    url: https://www.distrettodellinformaticaromagnolo.org/sustainable-software-24-maggio-2024/
+    relatedEvent: Sustainable Software for DIR
+  - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: meetup-talk
+    dateFrom: 2024-05-14
+    dateTo: 2024-05-14
+    title: Sostenibilità dell'IT, l'impatto ambientale e sociale del software
+    url: https://www.meetup.com/it-IT/bologna-front-end/events/300733205/
+    relatedEvent: Bologna Frontend Meetup
+  - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: meetup-talk
+    dateFrom: 2024-05-14
+    dateTo: 2024-05-14
+    title: BFE43 · Sostenibilità dell’IT
+    subtitle: Dall’impatto ambientale del software a quello sociale.
+    description: A talk about good practices in Green Software, I talked about Software Maturity Matrix, Green Principles and how to create, and put in action, a plan to decarbonize frontend applications.
+    url: https://bolognafrontend.it/2024/04/30/bfe43-%c2%b7-sostenibilita-dellit/
+    relatedEvent: Bologna Frontend Meetup
+  - contributionType: mentoring
+    linkedGSFProject: Higher Education Engagement
+    subtype: all
+    dateFrom: 2024-05-01
+    dateTo: 2024-11-30
+    title: Business Sustainability Master
+    subtitle: lectures about Green and Sustainable Software practices
+    description: Tutoring the students about (Digital) Business Design for Sustainability, I also held two lectures about Life Cycle Assessment of Digital Product, Green Software accounting and Corporate Digital Responsibility
+    url: https://academy.italian.tech/business-sustainability-master-part-time/
   - contributionType: speaking
     linkedGSFProject: Green Software Maturity Matrix
     subtype: conference-talk
