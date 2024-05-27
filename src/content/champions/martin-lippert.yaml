@@ -18,6 +18,14 @@ activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
+    dateFrom: 2024-05-16
+    dateTo: 2024-05-16
+    title: How to reduce the footprint of Spring Boot applications
+    url: https://2024.europe.jcon.one/schedule
+    relatedEvent: JCON Europe 2024
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
     dateFrom: 2024-04-25
     dateTo: 2024-04-25
     title: The Sustainability Mythbuster
