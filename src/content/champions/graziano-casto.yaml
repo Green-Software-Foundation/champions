@@ -1,0 +1,25 @@
+firstName: Graziano
+lastName: Casto
+role: Developer Relations Engineer
+organization: Mia Platform
+languages: 
+  - Italian
+  - English
+pronoun: He/Him
+country: Italy
+city: Milan
+bio: Wandering through the landscape of cloud-native technologies with the same hunger for knowledge as if it were the first day. From coding to product management, I'm all about agile vibes, software craftsmanship, and the magic of cloud technologies. Currently, I focus on evangelism for cutting-edge technologies, serving as a liaison between users and R&D teams while actively engaging with developer communities worldwide.
+type: normal
+social:
+  github: graz-dev
+  linkedin: castograziano
+activities:
+  - contributionType: writing
+    linkedGSFProject: Awesome Green Software
+    subtype: 3rd-party-article
+    dateFrom: 2024-03-20
+    dateTo: 2024-03-20
+    title: "Green Cloud Native Apps: Optimizing Kubernetes for Renewable Energy"
+    description: Here are some approaches to enhance the environmental sustainability of cloud native applications by implementing optimizations in Kubernetes runtimes. We will explore methods to shift resource usage toward renewable energy sources and minimize the so-called cloud zombies.
+    url: https://thenewstack.io/an-open-source-journey-to-greener-cloud-native-environments/
+    relatedEvent: The New Stack
