@@ -1,7 +1,7 @@
 firstName: Arne
 lastName: Tarara
 role: CEO
-organization: Green Coding Berlin GmbH
+organization: Green Coding Solutions GmbH
 languages: 
   - English
   - German
@@ -16,6 +16,28 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: podcast
+    dateFrom: 2024-05-17
+    dateTo: 2024-05-17
+    title: Programmier.bar Podcast
+    subtitle: Deep Dive 148 - Green Coding mit Arne Tarara
+    url: https://www.programmier.bar/podcast/deep-dive-148-green-coding-mit-arne-tarara
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2024-05-07
+    dateTo: 2024-05-07
+    title: Green Software Measurement WORKSHOP
+    description: |
+     We are extremely delighted to having had the opportunity to present the concept of understanding and measuring software carbon emissions to some young and information hungry students.
+
+     The workshop had a 2 hour format where we first went through all the nitty-gritties of how and why software emits CO2.
+
+     In the latter parts we then moved over to hands-on measuring by trying out some of our tools that work under various systems like macOS, Windows and Linux.
+    url: https://www.green-coding.io/talks-and-events/2024_05_07_htw_measurement_workshop/
+    relatedEvent: HTW BERLIN - Software Engineering
   - contributionType: organizing
     linkedGSFProject: Community WG
     subtype: green-software-conference
@@ -31,6 +53,16 @@ activities:
      We aim to bring together experts, and innovators to discuss and showcase sustainable practices across these technical domains.
     url: https://www.eco-compute.io/
     relatedEvent: EcoCompute 2024 Conference
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2024-04-04
+    dateTo: 2024-04-04
+    title: GREEN IT
+    subtitle: Green Software Engineering - Nachaltige Software-Entwicklung mit Arne Tarara
+    description: In his presentation, Arne looks at exactly what emissions are meant by this and why it is not just about energy and CO2. Arne shows which (open source) tools are available and what advantages and disadvantages they have. In this article, you will learn how emissions can be reduced and resources saved. Arne is the organizer of the EcoCompute conference and CEO and founder of Green Coding Solutions GmbH - so he has a lot of green experience.
+    url: https://www.green-coding.io/talks-and-events/programmier-bar-2024-04/
+    relatedEvent: PROGRAMMIER.BAR
   - contributionType: writing
     linkedGSFProject: other/unlisted
     subtype: 3rd-party-article
