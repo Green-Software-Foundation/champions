@@ -1,0 +1,216 @@
+firstName: Wilco
+lastName: Burggraaf
+role:  Green Software Practitioner / Architect / Advisor of CEO/CTO
+organization: HighTech Innovators
+languages: 
+  - English
+  - Dutch
+pronoun: He/Him
+country: The Netherlands
+city: Rijen
+bio: |
+ Wilco Burggraaf, Lead Green Practitioner & Green Architect @ HighTech Innovators, Wilco brings over 20 years of software development experience to the table (mainly C#), having thrived in diverse roles – developer, architect, requirements engineer, data migration specialist, agile tester, and IT management advisor. A passionate advocate for green coding, Wilco is actively engaged in promoting sustainable software practices.
+type: normal
+social:
+  github: WBurggraaf
+  linkedin: wilco-burggraaf-a6b15517
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: personal-blog-post
+    dateFrom: 2024-05-22
+    dateTo: 2024-05-22
+    title: Is this Green IT
+    description: In today's business landscape, sustainability is a critical objective. Integrating financial insights with sustainable IT practices is essential for reducing costs and minimizing environmental impact. By leveraging modern observability tools, companies can effectively connect financial data, performance metrics, and environmental impact, ensuring their IT operations are both cost-efficient and environmentally friendly.
+    url: https://www.linkedin.com/pulse/green-software-its-core-wilco-burggraaf-5ylhe/?trackingId=ruYjU9zCRIm0Q3JgTViBlw%3D%3D
+    relatedEvent: Green Software at its Core?
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-05-19
+    dateTo: 2024-05-19
+    title: The Quantum Entanglement of Software Sustainability
+    description: The universe of software, much like the cosmos itself, operates on vastly different scales, each governed by distinct yet interconnected laws. Just as physicists grapple with reconciling the quantum realm with the grandeur of general relativity, so too must the software industry bridge the chasm between the micro-level energy consumption of code and the macro-level environmental impact of digital infrastructure. This complex interplay mirrors the quantum entanglement phenomenon, where seemingly disparate particles are intrinsically linked, their fates intertwined across vast distances.
+    url: https://www.linkedin.com/pulse/quantum-entanglement-software-sustainability-micro-macro-burggraaf-olkwe/?trackingId=E1IqEvHpSn%2B8ikgc%2BOlyAA%3D%3D
+    relatedEvent: Navigating the Micro and Macro Scales of Carbon Footprint Measurement
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2024-05-16
+    dateTo: 2024-05-16
+    title: The Why, How and What on Green Software (Amsterdam edition)
+    description: |
+     "The Green Software – the Netherlands community is for anyone with a passion for green software development and supports the Green Software Foundation’s (GSF) mission to create a trusted ecosystem of people, standards, tooling and best practices for green software. We envision a thriving Dutch Green Software Community empowered to take charge of its future. The Green Software - The Netherlands community focuses on:
+     Raising awareness about green software development principles and their impact.
+     Encouraging action by sharing practical knowledge and fostering collaboration.
+     Creating a welcoming environment for individuals and organizations committed to greener software."
+    url: https://www.meetup.com/green-software-the-netherlands/events/300006633/
+    relatedEvent: Green Software - The Netherlands
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-05-14
+    dateTo: 2024-05-14
+    title: Let's discuss modern software development!
+    description: |
+     "Do you know any product owners? Feel free to mention them in the comments!🌍💡 Let's discuss modern software development! 🌱 I strongly believe that impact awareness is key to transforming our approach to work. Understanding the effects—both positive and negative—of our actions on the world around us is crucial.
+
+     This awareness should prompt fundamental changes in how we operate, prioritizing it even above principles like reduce, reuse, and recycle (which are also very relevant in software development).
+
+     What is impact? 
+     To me, it's "the effect that people or things have on the natural world.""
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_softwaredevelopment-sustainability-greenit-activity-7194215633398439937-yIS4?utm_source=share&utm_medium=member_desktop
+    relatedEvent: I strongly believe that impact awareness is key to transforming our approach to work. 
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-04-30
+    dateTo: 2024-04-30
+    title: Unlocking the Power of Energy Proportionality
+    description: I was thrilled to catch Max Körbächer's recent talk on "Building platforms for sustainable IT" (https://lnkd.in/erS34pCq) Also shout out to Luca Galante and platformengineering.org for making me aware! 
+
+     Max expertly highlighted a crucial concept that often gets overlooked...
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-sustainability-energyefficiency-activity-7189904185776046080-Tird?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Key Insights for Sustainable IT
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-04-26
+    dateTo: 2024-04-26
+    title: Smarter Tech, Better Reporting
+    description: |
+     "Sustainability: Not a Trend, But the New Normal. In today's business landscape, "sustainability" isn't merely a marketing buzzword – it's the very foundation upon which businesses are constructed. Regulations such as the EU's Corporate Sustainability Reporting Directive (CSRD) are now mandating transparency from large corporations regarding their environmental, social, and governance (ESG) practices. But here's the crucial point: this mandate extends far beyond industry giants to encompass every link in the supply chain. As a supplier, recognizing and embracing this paradigm shift is your ticket to staying ahead in the game."
+    url: https://www.linkedin.com/pulse/smarter-tech-better-reporting-delivering-data-csrd-wilco-burggraaf-r4mce/
+    relatedEvent: Delivering Sustainability Data to CSRD Customers
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-04-21
+    dateTo: 2024-04-21
+    title: Introducing SPORE
+    description: |
+     "Inspired by: https://lnkd.in/eT2uTSJJ
+     Introducing SPORE: The Green Coding Principles for a Sustainable Future
+     * DISCLAIMER: Welcome to my thought experiment.
+
+     The tech world is waking up to its environmental footprint. 
+
+     As software engineers, we have a unique responsibility to build applications that are not only powerful but also planet-friendly. That's the driving force behind
+
+     SPORE – Sustainable Performance Optimization and Resource Efficiency. 
+
+     Think of it as the green counterpart to the SOLID principles that have shaped our field."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greencoding-sustainabletech-greensoftware-activity-7178620379349839872-j5fJ?utm_source=share&utm_medium=member_desktop
+    relatedEvent: The Green Coding Principles for a Sustainable Future
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2024-04-18
+    dateTo: 2024-04-18
+    title: The Why, How and What on Green Software ('s-Hertogenbosch edition)
+    description: |
+     The Green Software – the Netherlands community is for anyone with a passion for green software development and supports the Green Software Foundation’s (GSF) mission to create a trusted ecosystem of people, standards, tooling and best practices for green software. We envision a thriving Dutch Green Software Community empowered to take charge of its future. The Green Software - The Netherlands community focuses on:
+
+     Raising awareness about green software development principles and their impact.
+     Encouraging action by sharing practical knowledge and fostering collaboration.
+     Creating a welcoming environment for individuals and organizations committed to greener software.
+    url: https://www.meetup.com/green-software-the-netherlands/events/299904678/
+    relatedEvent: Green Software - The Netherlands
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-04-09
+    dateTo: 2024-04-09
+    title: Building the Foundation for Sustainable Software
+    description: |
+     In our climate-conscious tech landscape, "Building Green Software" by Anne Currie, Sarah Hsu, and Sara Bergman stands out. It dispels the myth of sustainable software being just about optimized code. This book delivers a holistic view emphasizing design choices, hardware implications, and how to align our work with the realities of energy systems.
+    url: https://www.linkedin.com/pulse/building-foundation-sustainable-software-review-green-wilco-burggraaf-ytk9e/?trackingId=E1IqEvHpSn%2B8ikgc%2BOlyAA%3D%3D
+    relatedEvent: A Review of 'Building Green Software' – Beyond Code, to Systems and Hardware
+  - contributionType: writing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: personal-blog-post
+    dateFrom: 2024-03-21
+    dateTo: 2024-03-21
+    title: Is Your Software Truly Green?
+    description: |
+     The Green Software Maturity Matrix (https://lnkd.in/eyh4kzkf), recently pointed out to me by Anne Currie (thanks! & cannot wait to read Building Green Software: A Sustainable Approach to Software Development and Operations 
+     https://lnkd.in/eUNrYww5 ), is a beautiful tool for organizations on the sustainability journey. While initially, I saw it on the Green Software Foundation's project page, it somehow ended up at the back of my priority list of for example the Impact Framework and Awesome Green Software resources, because I love awesome software, but hey let's get back on track.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-sustainability-softwaredevelopment-activity-7170138434177613824-3r8u?utm_source=share&utm_medium=member_desktop
+    relatedEvent: The Green Software Maturity Matrix
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-03-21
+    dateTo: 2024-03-21
+    title: The last 3 months have been an extraordinary journey.
+    description: |
+     The last 3 months have been an extraordinary journey.
+
+     After deciding last year to pivot my career towards sustainability and nature-related topics, I found myself immersed in a world where ESG principles and the complexities of our energy consumption became the center of my focus.
+
+     Discovering the Green Software Foundation's website was a turning point. A simple message I sent on the 30th of January to Asim Hussain about organizing a GSF Meetup in the Netherlands ignited a spark that has since grown into a deep passion. (https://lnkd.in/exsveCgs)
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-sustainability-esg-activity-7190234992956833792-r8I0?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Discovering the Green Software Foundation's website was a turning point.
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-03-21
+    dateTo: 2024-03-21
+    title: Game Changer for CI/CD
+    description: |
+     Game Changer for CI/CD: Meet ecoCode!
+     Your SonarQube* Plugin for Sustainable Coding 
+     (With great thanks to Mathijs Hendriks!)
+
+     Looking to make your software more efficient and environmentally friendly? ecoCode is one of the tools you should consider.
+
+     What is ecoCode?
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenops-greensoftware-sustainability-activity-7176317189107433472-Gw8C?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Meet ecoCode
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-03-21
+    dateTo: 2024-03-21
+    title: The Conceptual Green IT 
+    description: |
+     Imagine this! 
+     The Conceptual Green IT 
+     Double Materiality Assessment Framework
+
+     Double Materiality as the Compass
+     This potential framework emphasizes the interdependence of financial health and environmental responsibility when it comes to IT operations. By analyzing both, you can make decisions that benefit your bottom line and promote sustainability.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-sustainability-esg-activity-7174646586222788609-rwZq?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Double Materiality Assessment Framework
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-03-21
+    dateTo: 2024-03-21
+    title: I've been heavily researching everything hashtag#greenit, hashtag#greenops & hashtag#greensoftware including cloud. 
+    description: |
+     If you are interested in all below, contact HighTech Innovators!
+
+     I've been heavily researching everything hashtag#greenit, hashtag#greenops & hashtag#greensoftware including cloud. Then I stumbled upon the tool Cloud Carbon Footprint (CCF), it is free & open-source, and this is a nice environment to start measuring, the most important step in getting closer to knowing more about your company's digital footprint. It has proven itself and is well known in the circle of people talking about this subject online.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_cloud-carbon-footprint-an-open-source-tool-activity-7167447953501077505-fivr?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Then I stumbled upon the tool Cloud Carbon Footprint (CCF)
+  - contributionType: GSF Contribution
+    linkedGSFProject: CarbonHack 2024
+    subtype: all
+    dateFrom: 2024-03-18
+    dateTo: 2024-04-08
+    title: contribution-project / registered / submitted / WINNER!
+    subtitle: "The Green Mile: Streamlining Impact Framework Accessibility (Team: Green HighTech #Innovators) #66"
+    description: |
+     Summary | A brief overview of your project | 100
+
+     The project tackles Impact Framework plugin challenges by re-engineering it into an accessible API for simpler manifest file creation and plugin development.
+
+     It introduces four innovative sustainability plugins (vehicle-embodied carbon, weather impact prediction, EV charging emissions, and package delivery emissions) to boost sustainability efforts.
+
+     Supported by a fictitious EV fleet sustainability case study, the project's clear README files and comprehensive analyses extend beyond carbon emissions to educate users.
+
+     Additionally, a simulation API streamlines Impact Framework use and spur innovation.
+
+     Concrete thought experiments inspire scientists to explore new uses of the Impact Framework by offering context, innovative modeling techniques, simulation basics, and simplified coding extensions through tangible examples.
+    url: https://github.com/Green-Software-Foundation/hack/issues/66
