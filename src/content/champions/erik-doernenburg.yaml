@@ -22,6 +22,15 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: keynote
+    dateFrom: 2024-05-15
+    dateTo: 2024-05-15
+    title: "A Developer's Perspective On Greener Future: GreenOps in practice"
+    description: Keynote on green computing – how to measure and reduce carbon emissions
+    url: https://2024.geecon.org/speakers/info.html?id=959
+    relatedEvent: geecon 2024
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: online-talk
     dateFrom: 2024-02-01
     dateTo: 2024-02-01
