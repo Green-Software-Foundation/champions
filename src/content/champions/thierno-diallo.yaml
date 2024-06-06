@@ -20,6 +20,47 @@ social:
 activities:
   - contributionType: writing
     linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: other
+    dateFrom: 2024-05-17
+    dateTo: 2024-05-17
+    title: Green Software by design
+    subtitle: Build a class to introduce Green software by design
+    description: The activity main goal is to build class of an introduction to green by design in software engineering
+    url: https://github.com/thiernodialloAFA/green-software-by-design
+    relatedEvent: Green by design in software engineering
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: personal-blog-post
+    dateFrom: 2024-05-13
+    dateTo: 2024-05-13
+    title: Introduction to Green Software Craftmanship Approaches
+    description: The Green Software Craftsmanship is an approach to software development that emphasizes the eco-responsibility of our applications by minimizing their environmental impacts. This can include practices such as reducing energy consumption, efficient resource management, lowering greenhouse gas emissions, and minimizing electronic waste. In other words, it is about sustainable and eco-responsible software development, considering the environmental impact at every stage of the development process.
+    url: https://medium.com/just-tech-it-now/green-coding-4-7-green-software-craftmanship-approaches-b809cac81f1d
+    relatedEvent: https://medium.com/just-tech-it-now/
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: internal-event-talk
+    dateFrom: 2024-03-11
+    dateTo: 2024-03-11
+    title: Talking about Green Software patterns and Axa France's Green Champion programme
+    description: |
+     The main goal was 
+     To presente green software best patterns that we are implementing or we intend to implement to our vendors/suppliers
+     To inform them the minimal green software practicies, learning and training that must have thier employees working with us.
+     The last one was the inform our top management about the local Green Software Champions Items advancement
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7174163411495190530/
+    relatedEvent: Vendors Event organized by Axa France CIO at Nanterre Officies
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2024-03-07
+    dateTo: 2024-03-07
+    title: Green Software principles, patterns and best practices
+    description: Its at the EPSI Paris engineering School. The main goal was meeting students, givint the talk on green software pattern and principles, raise thier awerness and discuss about green software engineering as path to be more sustainable as future IT producers or users
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7173404695787479041/
+    relatedEvent: Conférence Vers un monde numérique éco-responsable chez EPSI Paris
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
     subtype: gsf-article
     dateFrom: 2023-09-12
     dateTo: 2024-08-31
