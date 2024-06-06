@@ -1,0 +1,75 @@
+firstName: Marcel
+lastName: Russ
+role: Managing Director
+organization: mehr.wert Software und IT Beratung GmbH
+languages: 
+  - German
+  - English
+country: Germany
+city: Stuttgart
+bio: |
+ Specializing in mobile app development and agile methodologies, I took on a new role in 2024 as the CEO of mehr.wert Software und IT Consulting GmbH. In this position, I focus (alongside my team) on the relatively new topic of sustainable software development and our contribution as developers to Green IT.
+
+ Previously, I spent about two years as a Manager at Exxeta. In addition to leading the development team both professionally and disciplinarily, I served as an (Enterprise) Agile Coach for a leading German energy company, supporting ~20 teams in their agile transformation.
+
+ As the Team Leader for Web & Mobile Application, I worked for three and a half years at HUGO BOSS. There, I was responsible for UI/UX issues and served as a consultant for agile methodologies (e.g., Scrum), in addition to leading the development team.
+
+ Before my entry into the fashion world, I worked for nearly six years as an IT Consultant in various roles for the automotive industry in the Stuttgart area. My duties included consulting and development, technical management of traditional projects, and roles as Scrum Master and Product Owner in agile products.
+
+ I earned my degree (Diplom) in Computer Science, specializing in Software Engineering, from the University of Stuttgart in 2012.
+type: normal
+social:
+  github: napit-apps
+  linkedin: marcel-russ-82a277144
+  website: mehrwert.tech
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: conference-talk
+    dateFrom: 2024-04-15
+    dateTo: 2024-04-15
+    title: "Impuls: Energieeffiziente Software: Messen, Verstehen, Handeln"
+    url: https://ssl.vdivde-it.de/registration/3079
+    relatedEvent: Green Coding – Mit dem besseren Code das Klima schützen
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: meetup-talk
+    dateFrom: 2024-02-20
+    dateTo: 2024-02-20
+    title: Nachhaltigkeit beginnt im Code
+    description: Podiumsdiskussion zum Thema Green Coding in der Praxis
+    url: http://meet.meetup.com/ls/click?upn=yBf4llw5PeaY7leriFwBBkipzLsJ7uXZdea5ZSOL1NK0doeJsEXXPr-2BhqoO0zSXU-2Fw1VYKWxGRWGhuglST4u8GIavEV8iSlg8Vne8jlxZrD0y4GBJMGFZuNvKw5YjfYyw6BHXKQXZUhqyz0geTdes9UMhsl2YaNbRpEM3Uo9B9QtnQ61kxCvqcKiGi9eWdyDs8EWon1sHbQT72uk0q1EHL-2FzrDA1xd-2B4uwEYzNcD-2F3vwiphEoK8Q46Q447zBGcVhAxjf0OJwShaOIrN2XZC5rz2ek9l1oJvKx2gcNRTdNCZx9MkM7KO0kzs5HUO6LW3ZbpQMDRTYgHuB5HW-2FgycsMkW-2FRcX8o4556e5ujU-2BDVef9qgRWicfgvGKO-2Fc-2BrYkCPswoP05qdi3wjlZRNJ4bFRA-3D-3DWVLg_QuILPAKhJ7Y482iedJ4r1UY5zS0feUB7gwtNxMPStPxXM4bzIBZnpgMYY9aiBx1-2FxYztM61PWfHEB8BY0k3ro7u4i9TK3Jc-2BuhOnctff4zbX0ZzAoSmbr1VfhJyfyDOfa5eGPJCEyJX95Jexq9-2BcR-2BgXfNlR4U-2BHVF7DCgYlsXjRXDpOOvtjJbJ7c-2BTJxibWrOEntRifofedml0tgPIGHEJD5KkeJJjynj89EWVY9nLMQrncRaSTOm-2Bf2fFzyxOf6s3b09eP43K6MAUmKq9nZg-3D-3D
+    relatedEvent: Green Coding - Nachhaltigkeit in der Softwareentwicklung
+  - contributionType: organizing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: green-software-conference
+    dateFrom: 2023-12-08
+    dateTo: 2023-12-08
+    title: Green Coding Training at Hugo Boss
+    description: Successfully trained 15 developers as Green Software Practitioners.
+    url: https://mehrwert.tech/en/trainings/gsp.html
+    relatedEvent: Green Coding Training at Hugo Boss
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2023-11-13
+    dateTo: 2023-11-13
+    title: Nachhaltiges Programmieren umsetzen - Green Coding kulturell im Unternehmen verankern
+    url: https://www.dev-insider.de/green-coding-nachhaltige-softwareentwicklung-a-a6b6dd926903508b9302fe1b2c7f5b0d/
+    relatedEvent: devinsider
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2023-10-25
+    dateTo: 2023-10-25
+    title: "Green Coding: Wie nachhaltiges Programmieren die Digitalisierung unterstützt"
+    url: https://www.digitalbusiness-cloud.de/green-coding-wie-nachhaltiges-programmieren-die-digitalisierung-unterstuetzt/
+    relatedEvent: Digital Business Cloud
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2023-10-18
+    dateTo: 2023-10-18
+    title: "Green Coding: Die Zukunft der Softwareentwicklung ist nachhaltig"
+    url: https://exxeta.com/blog/green-coding-die-zukunft-der-softwareentwicklung-ist-nachhaltig
+    relatedEvent: Exxeta
