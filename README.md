@@ -12,4 +12,4 @@ Welcome to the GSF Champions repo.
 # Profile & Activity updates
 - [Create New Profile](https://grnsft.org/champions/new)
 - [Edit Existing Profile](https://grnsft.org/champions/edit)
-- [Add New Activity](https://grnsft.org/champions/activity)
+- [Add New Activity](https://noteforms.com/forms/new-activity-a2a0vr)
