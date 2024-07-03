@@ -16,15 +16,25 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
-  - contributionType: mentoring
+  - contributionType: speaking
     linkedGSFProject: Green Software Pratictioner (Principles)
-    subtype: all
-    dateFrom: 2024-05-24
-    dateTo: 2024-05-24
-    title: Sustainable Software Masterclass
-    subtitle: sostenibilità digitale delle infrastrutture IT
-    description: In this masterclass for DIR (IT companies district of Romagna) I teach green principles, software maturity matrix, SCI and how to create and action plan do calculate software impact and to decarbonize it. All the "students" are IT entrepreneur
-    url: https://www.distrettodellinformaticaromagnolo.org/sustainable-software-24-maggio-2024/
+    subtype: meetup-talk
+    dateFrom: 2024-06-27
+    dateTo: 2024-06-27
+    title: Sostenibilità dell’IT
+    subtitle: Dall’impatto ambientale del software a quello sociale.
+    description: A talk about good practices in Green Software, I talked about Software Maturity Matrix, Green Principles and how to create, and put in action, a plan to decarbonize applications and infrastructures.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7208361525080711168/
+    relatedEvent: XPUG Bologna Meetup
+  - contributionType: speaking
+    linkedGSFProject: Principles of Green Software Engineering
+    subtype: conference-demo
+    dateFrom: 2024-06-03
+    dateTo: 2024-06-05
+    title: Life cycle assessment e riduzione della digital footprint
+    description: We explore strategies to address the environmental impact of digital products. We will introduce Life Cycle Thinking (LCT) and Life Cycle Assessment (LCA), illustrating how the results can inform design and manufacturing. We will discuss techniques for measuring and reducing emissions, involving the entire development team. Finally, we will explore the Green Software Foundation's SCI project, an ISO standard for calculating and reducing the impact of software emissions.
+    url: https://www.festivalgreenandblue.makeitlive.it/m/workshop
+    relatedEvent: Green and Blue Festival
   - contributionType: speaking
     linkedGSFProject: Green Software Pratictioner (Principles)
     subtype: internal-event-talk
@@ -34,14 +44,6 @@ activities:
     description: Distretto Informatico Romagnolo is a community of IT companies that helps each others to learn and grow in a good ecosystem
     url: https://www.distrettodellinformaticaromagnolo.org/sustainable-software-24-maggio-2024/
     relatedEvent: Sustainable Software for DIR
-  - contributionType: speaking
-    linkedGSFProject: Green Software Pratictioner (Principles)
-    subtype: meetup-talk
-    dateFrom: 2024-05-14
-    dateTo: 2024-05-14
-    title: Sostenibilità dell'IT, l'impatto ambientale e sociale del software
-    url: https://www.meetup.com/it-IT/bologna-front-end/events/300733205/
-    relatedEvent: Bologna Frontend Meetup
   - contributionType: speaking
     linkedGSFProject: Green Software Pratictioner (Principles)
     subtype: meetup-talk
@@ -71,6 +73,15 @@ activities:
     description: I run a small workshop about the sustainability pillars in IT and how to use the software maturity matrix, among other frameworks, to design and put into action a transition plan to green software practices.
     url: https://businessdesignitalia.it/2024/04/09/business-design-camp-2024/
     relatedEvent: Business Design Camp 2024
+  - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: conference-demo
+    dateFrom: 2024-03-15
+    dateTo: 2024-03-15
+    title: Green Software AMA at Italian DevOps Conference (IDI)
+    description: I used my sponsor desk during the conference to organize a small AMA about Green and Sustainable Software. I talked with conference attendees and pointed them to GSF activities.
+    url: https://2024.incontrodevops.it
+    relatedEvent: IDI    
   - contributionType: speaking
     linkedGSFProject: Impact Framework (IF)
     subtype: conference-demo
