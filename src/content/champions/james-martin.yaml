@@ -17,6 +17,16 @@ social:
   github: jamesmartin75
   linkedin: jamesmartin75
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2024-05-24
+    dateTo: 2024-05-24
+    title: How sustainable is AI?
+    subtitle: A round table organized by VivaTech, Europe’s biggest startups & tech event
+    description: "I was invited to animate a round table with VivaTech delegates, to discuss how (generative) AI’s impact can be measured and limited. I shared information such as the estimation that the latest version of GPT *generates* 7-25x more emissions than the previous one (source: Ecologits.ai).  Participants included a project manager from France’s Ministry for the Economy, who requested a follow-up discussion."
+    url: https://www.linkedin.com/posts/jamesmartin75_vivatech-activity-7200020185397755905-pRYX?utm_source=share&utm_medium=member_desktop
+    relatedEvent: VivaTech
   - contributionType: organizing
     linkedGSFProject: Green Software Maturity Matrix
     subtype: green-software-conference
@@ -44,4 +54,4 @@ activities:
     title: Why adopt Green IT, and how? - webinar
     description: I organised and moderated a webinar introducing the concept of green IT to engineers and other tech experts. The GSF's Anne Currie notably discussed her Green IT Maturity Index. Fellow speakers were Carsten Windler, Principle Backend Engineer at Plan A; Romane Clément, Co-founder and executive director at Ctrl S; and Simon Shillaker, Engineering Manager Serverless Computing at Scaleway.
     url: https://www.youtube.com/watch?v=3CGxcS7W8pk
-    relatedEvent: Webinar organised by Scaleway
+    relatedEvent: Webinar organised by Scaleway 
