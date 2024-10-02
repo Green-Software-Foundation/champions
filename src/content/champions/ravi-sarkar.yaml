@@ -22,6 +22,13 @@ social:
   twitter: ravisarkar3
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: keynote
+    dateFrom: 2024-04-23
+    dateTo: 2024-04-23
+    title: "The EARTH DAY Presentation at NYC : Making software's development green and energy efficient"
+    url: https://community.cncf.io/events/details/cncf-new-york-kubernetes-meetup-presents-earth-day/
+  - contributionType: speaking
     linkedGSFProject: Meetup
     subtype: meetup-talk
     dateFrom: 2023-09-20
