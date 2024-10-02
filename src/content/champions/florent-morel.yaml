@@ -22,6 +22,31 @@ social:
   linkedin: florent-morel
 activities:
   - contributionType: speaking
+    linkedGSFProject: SCI Reporting
+    subtype: internal-event-talk
+    dateFrom: 2024-06-26
+    dateTo: 2024-06-26
+    title: Executive Committe SCI Demo
+    description: Presentation of Amadeus Carbon Measurement Project to Amadeus Executive Committee.
+    url: https://amadeusworkplace.sharepoint.com/Sites/Ourcompany_Official/SitePages/Howwearesetup.aspx?web=1
+  - contributionType: speaking
+    linkedGSFProject: SCI Reporting
+    subtype: conference-demo
+    dateFrom: 2024-05-22
+    dateTo: 2024-05-22
+    title: Presentation of Amadeus Carbon Measurement dashboard
+    description: Demo of the Carmen dashboard, how it can impact hospitality engineering internal teams.
+    url: https://www.linkedin.com/posts/world-sustainable-hospitality-alliance_sustainableaction-collaboration-collaboration-activity-7199017079012769792-rL-M
+    relatedEvent: Sustainable Hospitality Alliance Summit
+  - contributionType: writing
+    linkedGSFProject: SCI Reporting
+    subtype: company-article
+    dateFrom: 2024-04-18
+    dateTo: 2024-04-18
+    title: How Amadeus engineers are contributing to a carbon-aware software industry?
+    description: "Presentation of Amadeus Carbon Measurement Project: how it started, how it's going and what we aim for."
+    url: https://developers.amadeus.com/blog/how-amadeus-engineers-are-contributing-to-a-carbon-aware-software-industry
+  - contributionType: speaking
     linkedGSFProject: Impact Framework (IF)
     subtype: conference-talk
     dateFrom: 2023-11-28
