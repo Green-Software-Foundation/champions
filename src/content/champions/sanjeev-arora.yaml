@@ -1,0 +1,77 @@
+firstName: Sanjeev
+lastName: Arora
+role: Line of Business Custodian - Sustainability
+organization: Nagarro
+languages: 
+  - English
+  - Hindi
+pronoun: He/Him
+country: India
+city: Delhi
+bio: |
+ Spearheading the development and deployment of sustainable practices and solutions involves guiding the strategic planning, implementation, and execution of eco-friendly initiatives with a focus on reducing carbon emissions and advancing sustainability within the IT sector. This role includes integrating sustainability into IT operations and leveraging technology to drive environmental responsibility. Responsibilities encompass designing and promoting strategies to minimize carbon footprints, managing the implementation of sustainable IT solutions, and ensuring that all practices adhere to industry standards and regulatory requirements. Additionally, the role involves developing IT solutions that support sustainability efforts across various industries, enhancing their environmental performance through innovative technology. Collaborating with cross-functional teams, optimizing resource use, and measuring the impact of sustainability efforts are key aspects of this role. Engaging stakeholders, tracking progress, and continually refining processes ensure that the organization effectively advances its sustainability goals and supports broader environmental initiatives.
+type: normal
+social:
+  github: SanjeevArora01
+  linkedin: sanjeevarorapmp
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: personal-blog-post
+    dateFrom: 2024-08-24
+    dateTo: 2024-08-24
+    title: "Sustainable IT Project Management: Turning Up the Heat"
+    url: https://www.linkedin.com/pulse/sustainable-project-management-turning-up-heat-sanjeev-arora-tkntc/?trackingId=SvPavOIMQR6e2DyWsQi75Q%3D%3D
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: personal-blog-post
+    dateFrom: 2024-08-22
+    dateTo: 2024-08-22
+    title: "Building a Green Team: Cultivating a Sustainable Software Development Culture"
+    url: https://www.linkedin.com/pulse/building-green-team-cultivating-sustainable-software-culture-arora-o93wc/
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: personal-blog-post
+    dateFrom: 2024-08-19
+    dateTo: 2024-08-19
+    title: Circular Economy in Software Development
+    url: https://www.linkedin.com/pulse/circular-economy-software-development-sanjeev-arora-j16pc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: personal-blog-post
+    dateFrom: 2024-08-14
+    dateTo: 2024-08-14
+    title: "Green Your Scene: Sustainable UX is the Future"
+    url: https://www.linkedin.com/pulse/green-your-scene-sustainable-ux-future-sanjeev-arora-ztkxc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: personal-blog-post
+    dateFrom: 2024-08-13
+    dateTo: 2024-08-13
+    title: "Power Down, Planet Up: The Green Grind of Carbon-Aware Computing"
+    url: https://www.linkedin.com/pulse/power-down-planet-up-green-grind-carbon-aware-computing-sanjeev-arora-nx16c?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner (Principles)
+    subtype: personal-blog-post
+    dateFrom: 2024-08-12
+    dateTo: 2024-08-12
+    title: "Green Software Architecture : Building a Sustainable Digital World"
+    url: https://www.linkedin.com/pulse/green-software-architecture-building-sustainable-digital-arora-hum7c?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+  - contributionType: writing
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: personal-blog-post
+    dateFrom: 2024-08-11
+    dateTo: 2024-08-11
+    title: "Green and Mean: How FinOps and GreenOps Are Saving the Planet (and Your Wallet)"
+    url: https://www.linkedin.com/pulse/green-mean-how-finops-greenops-saving-planet-your-wallet-arora-sreec?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+    relatedEvent: Sanjeev Arora
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: meetup-talk
+    dateFrom: 2024-07-31
+    dateTo: 2024-07-31
+    title: Sustainable IT
+    description: Tech/IT Industry sustainability leadership round table
+    url: https://www.linkedin.com/posts/nasscom-community_nasscom-greentable-esg-ugcPost-7225126210702303234-UrMb?utm_source=share&utm_medium=member_android
+    relatedEvent: Nasscom GreenTable
+  
