@@ -1,6 +1,6 @@
 firstName: James
 lastName: Martin
-role: Content & Environment Lead
+role: Head of Content & Sustainability Communications
 organization: Scaleway
 languages: 
   - English
@@ -9,16 +9,24 @@ pronoun: He/Him
 country: France
 city: Paris
 bio: |
- Passionate about making technology more responsible, James Martin leads content and environment initiatives at French cloud provider Scaleway (part of Xavier Niel's telecom company, iliad Group). Author of the white paper "How can engineers make IT more sustainable?" (https://www.scaleway.com/en/why-shift-to-green-it/), he is a keen advocate of Green IT, having organised events such as webinars and panels on the topic with the GSF's Anne Currie (https://www.youtube.com/watch?v=3CGxcS7W8pk), French national environmental agency ADEME, GreenIT.fr and more. He also speaks on the topic, most recently at Epitech, one of France's leading IT universities (https://www.maddyness.com/2024/02/02/epitech-experience-greenit-web3-ia-les-etudiants-se-sont-penches-sur-les-sujets-tech-les-plus-brulants/#Echobox=1706884456). Martin is also responsible for Scaleway's annual Impact Reports, and is Scaleway's CSR Ambassador to iliad Group.
+ James is in charge of communications and editorial content for European cloud provider Scaleway (iliad Group), with a particular focus on sustainability. Recent publications include the white paper "How can engineers make IT more sustainable?", blogposts such as "How Sustainable is AI?" and Scaleway’s latest Impact Reports. 
 
- Previously, Martin secured and conceived speaking opportunities for Scaleway at Web Summit (https://www.youtube.com/watch?v=1BJDZZazaIY) and TNW Conference (https://www.youtube.com/watch?v=CZCKkDZnaXg), on how sustainability is good for the tech business. He has also organised VIP networking events for greentech startups, at global conferences like Slush.
-
- Prior to Scaleway, he founded a responsible technology blog in 2018 (https://BetterTech.blog), and wrote about technology for cultural/lifestyle magazines ELLE, A Nous Paris & Technikart.
+ Previously, James led content and social media strategy for world-leading event organiser RX France, and wrote about technology for titles such as A Nous Paris or ELLE. Passionate about how technology can be more responsible, he founded a blog on this topic, BetterTech.blog, in 2018.
 type: normal
 social:
   github: jamesmartin75
   linkedin: jamesmartin75
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2024-05-24
+    dateTo: 2024-05-24
+    title: How sustainable is AI?
+    subtitle: A round table organized by VivaTech, Europe’s biggest startups & tech event
+    description: "I was invited to animate a round table with VivaTech delegates, to discuss how (generative) AI’s impact can be measured and limited. I shared information such as the estimation that the latest version of GPT *generates* 7-25x more emissions than the previous one (source: Ecologits.ai).  Participants included a project manager from France’s Ministry for the Economy, who requested a follow-up discussion."
+    url: https://www.linkedin.com/posts/jamesmartin75_vivatech-activity-7200020185397755905-pRYX?utm_source=share&utm_medium=member_desktop
+    relatedEvent: VivaTech
   - contributionType: organizing
     linkedGSFProject: Green Software Maturity Matrix
     subtype: green-software-conference
@@ -46,4 +54,4 @@ activities:
     title: Why adopt Green IT, and how? - webinar
     description: I organised and moderated a webinar introducing the concept of green IT to engineers and other tech experts. The GSF's Anne Currie notably discussed her Green IT Maturity Index. Fellow speakers were Carsten Windler, Principle Backend Engineer at Plan A; Romane Clément, Co-founder and executive director at Ctrl S; and Simon Shillaker, Engineering Manager Serverless Computing at Scaleway.
     url: https://www.youtube.com/watch?v=3CGxcS7W8pk
-    relatedEvent: Webinar organised by Scaleway
+    relatedEvent: Webinar organised by Scaleway 
