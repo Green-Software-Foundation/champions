@@ -20,6 +20,22 @@ activities:
   - contributionType: writing
     linkedGSFProject: Standards WG
     subtype: other
+    dateFrom: 2024-06-28
+    dateTo: 2024-06-28
+    title: Challenges and Opportunities in Management for Green Networking
+    url: https://datatracker.ietf.org/doc/draft-irtf-nmrg-green-ps/
+    relatedEvent: Internet Research Task Force
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: documentation
+    dateFrom: 2024-06-08
+    dateTo: 2024-06-08
+    title: Architectural Considerations for Environmental Sustainability
+    url: https://datatracker.ietf.org/doc/draft-pignataro-enviro-sustainability-architecture/
+    relatedEvent: IETF Internet-Draft
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: other
     dateFrom: 2024-04-05
     dateTo: 2024-04-05
     title: ICMP Extensions for Environmental Impact
