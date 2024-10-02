@@ -1,0 +1,26 @@
+firstName: Andreas
+lastName: Schmidt
+role: Scientist
+organization: Saarland University
+languages: 
+  - English
+  - German
+pronoun: He/Him
+country: Germany
+city: Saarbrücken
+bio: |
+ I studied Computer Science at Saarland University in Saarbrücken, Germany. I did my PhD at the Telecommunications Lab at Saarland University, strongly collaborating with the Distributed Systems and Operating Systems Chair at FAU Erlangen-Nürnberg. Most of this work was part of Energy-, Latency- And Resilience-aware Networking (e.LARN), a project within German Science Foundation's (DFG) priority programme 1914 "Cyber-Physical Networking". Afterwards, I joined the Fraunhofer Institute for Experimental Software Engineering (IESE) in Kaiserslautern as a post-doctoral researcher.
+
+ Since 2022, I am working at the Dependable Systems and Software Chair at Saarland University—first as a visiting professor and now as a group leader.
+type: normal
+social:
+  github: netzdoktor
+  linkedin: darneas
+activities:
+  - contributionType: oss contribution
+    linkedGSFProject: Opensource WG
+    subtype: all
+    dateFrom: 2024-09-27
+    dateTo: 2024-09-27
+    title: carbond
+    url: https://gitlab.com/sustainable-computing-systems/carbond
