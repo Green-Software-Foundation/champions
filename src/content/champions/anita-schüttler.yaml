@@ -14,6 +14,16 @@ social:
   github: anitaschuettler
   linkedin: anita-schüttler-21095023b
 activities:
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2024-08-23
+    dateTo: 2024-08-23
+    title: CSRD & Green Software
+    subtitle: Wie die Nachhaltigkeit in die IT kommt
+    description: Article for ITSpektrum
+    url: https://webreader.objektspektrum.de/de/profiles/7d30f3fc5f62-itspektrum/editions/it-spektrum-5-2024/preview_pages/page/3
+    relatedEvent: EcoCompute 2024
   - contributionType: speaking
     linkedGSFProject: Transforming Organisational Software Sustainability
     subtype: conference-talk
