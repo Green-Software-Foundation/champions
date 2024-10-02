@@ -18,6 +18,15 @@ social:
   github: thiernodialloAFA
   linkedin: diallo-thierno-82b2524a
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: meetup-talk
+    dateFrom: 2024-06-25
+    dateTo: 2024-06-25
+    title: Green Coding as path to more sustainable IT
+    description: Le tremplin permet à des professionnels de l’informatique qui d'avoir une chance d'être présélectionner pour le Cloud Nord. L'évènement est organisé l’organise cette année avec le support de Julien Topçu
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7211621441585225731/
+    relatedEvent: Tremplin Cloud Nord
   - contributionType: writing
     linkedGSFProject: Green Software Practitioner (Principles)
     subtype: other
