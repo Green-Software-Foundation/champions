@@ -13,6 +13,13 @@ social:
   github: lwluc
   linkedin: luc-weinbrecht
 activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: company-article
+    dateFrom: 2024-03-14
+    dateTo: 2024-03-14
+    title: "Demand Shaping in Aktion: Eco-Modus für Ihr Reporting"
+    url: https://blog.envite.de/blog/post/demand_shaping_in_action/
   - contributionType: speaking
     linkedGSFProject: Carbon Aware SDK
     subtype: meetup-talk
