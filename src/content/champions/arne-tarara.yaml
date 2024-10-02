@@ -16,6 +16,14 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Speakers
+    subtype: 3rd-party-article
+    dateFrom: 2024-08-01
+    dateTo: 2024-08-01
+    title: AI must be transparent about CO2 costs - Tagesspiegel Background Article
+    description: In the Tagesspiegel background feature, our CEO Arne Tarara talks about the CO2 and energy costs of AI models and how to deal with them. how these are dealt with. Transparency is key to managing the risks properly.
+    url: https://background.tagesspiegel.de/energie-und-klima/briefing/klimakosten-und-nutzen-von-ki-muessen-transparent-werden
   - contributionType: speaking
     linkedGSFProject: Opensource WG
     subtype: podcast
