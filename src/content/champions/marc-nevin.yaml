@@ -15,6 +15,16 @@ social:
   linkedin: marcnevin
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2024-10-03
+    dateTo: 2024-10-03
+    title: Sustainable Intelligence
+    subtitle: Building Greener AI
+    description: Conference talk on the impact of AI on the environment and what leaders and practitioners can do to understand and mange the emissions of thier AI applications.
+    url: https://ai-con.ai/2024/Schedule-3rdOctober
+    relatedEvent: AI Con
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: metup-talk
     dateFrom: 2024-02-15
