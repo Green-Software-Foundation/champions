@@ -17,6 +17,14 @@ social:
   github: netzdoktor
   linkedin: darneas
 activities:
+  - contributionType: mentoring
+    linkedGSFProject: Higher Education Engagement
+    subtype: all
+    dateFrom: 2024-10-22
+    dateTo: 2024-10-22
+    title: Aspects of Sustainable Computer Systems
+    description: Seminar (Reading, Presenting, Writing) on Sustainable Compter Systems
+    url: https://dcms.cs.uni-saarland.de/ascs_2425/
   - contributionType: oss contribution
     linkedGSFProject: Opensource WG
     subtype: all
