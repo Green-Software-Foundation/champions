@@ -16,6 +16,35 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: green-software-conference
+    dateFrom: 2024-10-11
+    dateTo: 2024-10-11
+    title: BetterSoftware.it
+    subtitle: a Sustainable IT conference
+    description: BetterSoftware is a conference about Sustainable IT and Green Software, mostly in Italian will have speeches about good practices and case studies to decarbonize the IT and Software infrinfrastructure.
+    url: https://2024.bettersoftware.it
+    relatedEvent: BetterSoftware
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: meetup-talk
+    dateFrom: 2024-10-07
+    dateTo: 2024-10-07
+    title: CNCF Sustainability Week
+    subtitle: virtual meetup about sustainability in IT and Green Code
+    url: https://www.meetup.com/digital-platform-builders/events/303350378
+    relatedEvent: CNCF Sustainability Week Milan
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2024-09-21
+    dateTo: 2024-09-21
+    title: FuoridiTest.it
+    subtitle: a Sustainable IT conference
+    description: A conference about quality assurance in software development
+    url: https://www.youtube.com/watch?v=7aJj96OQ0vA&t=3s
+    relatedEvent: Fuori di Test 2024
   - contributionType: speaking
     linkedGSFProject: Green Software Pratictioner (Principles)
     subtype: meetup-talk
