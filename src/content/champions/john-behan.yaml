@@ -1,0 +1,41 @@
+firstName: John
+lastName: Behan
+role: Software Engineering
+organization: Thrive 2050
+languages: 
+  - English
+pronoun: He/Him
+country: Ireland
+city: Dublin
+bio: |
+ A technology leader with over 25 years of experience in software engineering, John has a proven track record of leading agile teams, driving sustainable growth, and building strong client relationships. Passionate about green software and tech.
+type: normal
+social:
+  github: jjmax75
+  linkedin: johnbehan
+activities:
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-09-11
+    dateTo: 2024-09-11
+    title: Green Software Ireland September Event
+    subtitle: Your chance to connect with like-minded individuals, share your experiences, and learn from experts in the field.
+    url: https://www.meetup.com/green_software_ireland/events/302610040/
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-05-29
+    dateTo: 2024-05-29
+    title: Green Software Ireland - Launch
+    subtitle: This meetup was be the jumping off point for our new community
+    url: https://www.meetup.com/green_software_ireland/events/300353565
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-conference
+    dateFrom: 2024-03-11
+    dateTo: 2024-03-11
+    title: Established Green Software Ireland
+    subtitle: Green Software Ireland is a community of software developers in Ireland passionate about building sustainable and environmentally-friendly software.
+    description: Build community by facilitating meetups and providing access to resourses
+    url: https://www.meetup.com/green_software_ireland/
