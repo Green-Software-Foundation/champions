@@ -16,6 +16,16 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: mentoring
+    linkedGSFProject: SCI Guide
+    subtype: all
+    dateFrom: 2024-10-23
+    dateTo: 2024-10-23
+    title: Business Sustainability Master
+    subtitle: virtual meetup about sustainability in IT and Green Code
+    description: I`m a teacher and tutor of the Master, I teach the basics of Sustainable and Green Software, talked about Green Software Maturity Matrix, Impact Framework, Practices and Principles.
+    url: https://academy.italian.tech/business-sustainability-master-part-time/
+    relatedEvent: CNCF Sustainability Week Milan
   - contributionType: organizing
     linkedGSFProject: Green Software Champions & Experts
     subtype: green-software-conference
