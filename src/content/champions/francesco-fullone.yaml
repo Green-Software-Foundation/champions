@@ -16,6 +16,16 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: speaking
+    linkedGSFProject: SCI Guide
+    subtype: conference-talk
+    dateFrom: 2024-11-07
+    dateTo: 2024-11-07
+    title: Software's LCA
+    subtitle: Software Carbon Intensity and other frameworks
+    description: talk about LCA and Digital LCA
+    url: https://www.digitalethicsforum.com/interventi/
+    relatedEvent: Digital Ethics Forum
   - contributionType: mentoring
     linkedGSFProject: SCI Guide
     subtype: all
