@@ -1,0 +1,49 @@
+firstName: Valeria
+lastName: Salis
+role: Software developer
+organization: none
+languages: 
+  - Italian
+  - English
+pronoun: She/Her
+country: Italy
+city: Castano Primo
+bio: |
+ I always describe myself as someone with a hybrid background and too many interests. My passion for technology ignited in my early years, when I'd toggle between a soccer ball and a "toy" PC, oblivious to the concept of "programming. In the end, I chose the latter path, I studied computer technology at school, I enrolled in Music Information Technology at University and during those years I discovered web development.
+ I started off as a backend developer but then I switched to the dark side (front end, obviously). Along this journey, a particular sensibility lead me to become passionate about accessibility and sustainability.
+type: normal
+social:
+  github: vallss
+  linkedin: valeria-salis
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Opensource WG
+    subtype: meetup-talk
+    dateFrom: 2024-10-22
+    dateTo: 2024-10-22
+    title: "Building a Sustainable Web: a practical exploration of Open Source tools and strategies"
+    url: https://conferences.codemotion.com/milan2024/talks/
+    relatedEvent: Codemotion Milan 2024
+  - contributionType: organizing
+    linkedGSFProject: other/unlisted
+    subtype: online-event
+    dateFrom: 2024-10-07
+    dateTo: 2024-10-07
+    title: Cloud Native Sustainability Week 2024 - Milan virtual meetup
+    description: Me and other sustainability&inclusion&accessibility interested people got together and organized a virtual event in occasion of the Sustainability Week 2024.
+    url: https://www.youtube.com/live/zsUpiRWahUM?si=9echrT9eQ5zNFE2w
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: meetup-talk
+    dateFrom: 2024-09-30
+    dateTo: 2024-09-30
+    title: "Impatto Digitale: Riflessioni sull'Utilizzo Responsabile delle Innovazioni Tecnologiche"
+    url: https://www.meetup.com/digital-platform-builders/events/303350378/
+    relatedEvent: Cloud native sustainability week 2023 - Milan meetup
+  - contributionType: organizing
+    linkedGSFProject: Opensource WG
+    subtype: other
+    dateFrom: 2024-09-30
+    dateTo: 2024-09-30
+    title: Cloud Native Sustainability Week 2024 - Milan in-person meetup
+    url: https://www.meetup.com/digital-platform-builders/events/303350215
