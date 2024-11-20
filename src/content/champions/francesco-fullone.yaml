@@ -17,6 +17,16 @@ social:
   website: https://www.fullo.net
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Pratictioner (Principles)
+    subtype: conference-talk
+    dateFrom: 2024-11-13
+    dateTo: 2024-11-13
+    title: Decarbonize your digital product
+    subtitle: a talk about Green Software Principles, SCI, Sustainable Design and Sustainable UX
+    description: a talk about Green Software Principles, SCI, Sustainable Design and Sustainable UX
+    url: https://www.productmanagementday.com/programma-2024/
+    relatedEvent: Product Managment Day
+  - contributionType: speaking
     linkedGSFProject: SCI Guide
     subtype: conference-talk
     dateFrom: 2024-11-07
