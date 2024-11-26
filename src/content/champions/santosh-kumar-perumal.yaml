@@ -1,0 +1,54 @@
+firstName: Santosh Kumar
+lastName: Perumal
+role: Sr Technical Cloud Consultant
+organization: Tata Consultancy services
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: London
+bio: |
+ As a certified Green Software Practitioner, I am dedicated to advancing sustainability in software development and cloud operations. I organized and hosted the inaugural CNCF TAG Sustainability Week in London, pioneering discussions around eco-conscious development and sustainable open-source practices. My contributions to the CNCF TAG Sustainability project include hands-on efforts, active community engagement, and mentorship of new developers in sustainable practices.
+
+ With over a decade of experience in the tech industry, I am a seasoned Cloud and DevOps Consultant based in London, UK. Holding a Master's degree in Software Engineering, I specialize in Google Cloud, application modernization, and open-source tool adoption, all with a focus on reducing environmental impact throughout the software lifecycle. My goal is to support businesses in accelerating cloud migrations on Google Cloud, always emphasizing sustainability.
+
+ I am also:
+
+ - Google Cloud WTM Ambassador
+ - Google Cloud Innovator
+ - STEM Ambassador
+ - FinOps Member
+ - Tigera Calico Big Cat
+ - Astronomer Champion for Apache Airflow
+ - Open-source Contributor
+ - Public Speaker
+ - Google Developer Expert - Google Cloud
+ - Google Champion Innovator - Google Cloud
+ - OpenUK Ambassador
+ - CD Foundation Ambassador
+ - Peoplecert Ambassador - DevOps Institute
+
+ Dedicated to inspiring change in the tech industry, I combine expertise in cloud and DevOps with a commitment to green software practices. As a Green Software Champion, I aim to mentor and influence the next wave of sustainable tech leaders, helping drive a greener, more eco-conscious tech ecosystem.
+
+ https://sessionize.com/santosh-kumar-perumal/
+type: normal
+social:
+  github: Santosh-Kumar-Perumal
+  linkedin: santosh-kumar-perumal
+  website: https://medium.com/@santosh.personalid
+activities:
+  - contributionType: oss-contribution
+    linkedGSFProject: other/unlisted
+    subtype: all
+    dateFrom: 2024-10-25
+    dateTo: 2024-10-25
+    title: GitHub contribution for CNCF project tag-sustainability
+    description: GitHub contribution
+    url: https://github.com/Santosh-Kumar-Perumal
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: conference-track
+    dateFrom: 2024-10-24
+    dateTo: 2024-10-24
+    title: CNCF sustainability week London Westminster
+    url: https://community.cncf.io/events/details/cncf-cloud-native-westminster-presents-cncf-sustainability-week-2024-london-meetup/
