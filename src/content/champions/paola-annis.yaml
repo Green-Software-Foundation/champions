@@ -16,6 +16,22 @@ social:
   website: https://nevermindthedigital.com/
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: meetup-talk
+    dateFrom: 2024-09-30
+    dateTo: 2024-09-30
+    title: FinOps e sostenibilità
+    url: https://www.linkedin.com/posts/valeria-salis_manca-meno-di-una-settimana-al-meetup-activity-7244620441531666433-jYGu?utm_source=share&utm_medium=member_desktop
+    relatedEvent: Milan Sustainability Week - CNCF Meetup
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: podcast
+    dateFrom: 2024-03-06
+    dateTo: 2024-03-06
+    title: Green Adoption Framework su Azure con Paola Annis
+    description: podcast in italian
+    url: https://open.spotify.com/episode/68fpnnDTrJxnBlxtM9jqhG
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: online-talk
     dateFrom: 2023-11-28
