@@ -1,0 +1,49 @@
+firstName: John
+lastName: Behan
+role: Software Engineering
+organization: Thrive 2050
+languages: 
+  - English
+pronoun: He/Him
+country: Ireland
+city: Dublin
+bio: |
+  John is a Green Software practitioner and advocate with over 25 year's experience in the IT industry. He is the cofounder of Thrive 2050, a sustainability consultancy focused on Green Software and Tech. John organises the Green Software Ireland community  - a community of software developers in Ireland passionate about building sustainable and environmentally-friendly software.
+type: normal
+social:
+  github: jjmax75
+  linkedin: johnbehan
+activities:
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: conference-talk
+    dateFrom: 2024-10-08
+    dateTo: 2024-10-08
+    title: Green Software Foundation Dublin Summit hosted by Mastercard
+    subtitle: Part of GSF Global Summit 2024
+    description: "Talk on "Practical Green Software Strategies for Startups: Our code shouldn't cost the earth". This talk outlined strategies for implementing a Green Software project within an organisation. Linked strategies to my own practical experience at a scale up."
+    url: https://summit24.greensoftware.foundation/
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-09-11
+    dateTo: 2024-09-11
+    title: Green Software Ireland September Event
+    subtitle: Are you passionate about building a more sustainable tech industry? Join us for our next meetup where we'll explore the latest trends and challenges in green software development.
+    url: https://www.meetup.com/green_software_ireland/events/302610040/
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-05-29
+    dateTo: 2024-05-29
+    title: Green Software Ireland - Launch
+    subtitle: This meetup will be the jumping off point for our new community. We can discuss the ideas and goals of green software, what it means to us, what we want from a community like this and ideas for future events.
+    url: https://www.meetup.com/green_software_ireland/events/300353565
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-conference
+    dateFrom: 2024-03-27
+    dateTo: 2024-03-27
+    title: Established Green Software Ireland
+    description: Green Software Ireland is a community of software developers in Ireland passionate about building sustainable and environmentally-friendly software.  Our group's mission is to empower our community with the tools and knowledge needed to build sustainable and carbon aware software solutions.
+    url: https://www.meetup.com/green_software_ireland/
