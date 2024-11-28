@@ -19,6 +19,35 @@ social:
   linkedin: diallo-thierno-82b2524a
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: conference-talk
+    dateFrom: 2024-11-07
+    dateTo: 2024-11-07
+    title: Green API Design
+    subtitle: Design/Build/Run
+    description: Embark on an enlightening journey with me as we explore the fundamental principles and cutting-edge best practices for crafting, developing, and operating sustainable APIs. Uncover the art of crafting APIs that not only excel in efficiency and scalability but also play a pivotal role in fostering an environmentally conscious and sustainable digital landscape. Delve into a treasure trove of tools and strategies aimed at ensuring that APIs are meticulously fashioned with longevity and environmental mindfulness at their core, promising an insightful and enjoyable learning experience.
+    url: https://www.devday.be/Schedule
+    relatedEvent: DevDays Belgique 2024
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: conference-talk
+    dateFrom: 2024-11-06
+    dateTo: 2024-11-06
+    title: Vers un numérique plus responsable
+    subtitle: Le rôle du logiciel libre et de l'open source
+    description: GreenTech Forum est le grand rendez-vous professionnel dédié au Numérique et à l'Environnement. Il réunit tous les ans à Paris près de 2 000 participants engagés dans le GreenIT et l'IT for Green.
+    url: https://www.greentech-forum.com/conferences/vers-un-numerique-plus-responsable-le-role-du-logiciel-libre-et-de-lopen-source
+    relatedEvent: GreenTech Forum 2024 Paris
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: online-talk
+    dateFrom: 2024-09-11
+    dateTo: 2024-09-11
+    title: Sustainable Software and APIs
+    description: As part of the event, we will host keynote sessions featuring customers and Kong executives, breakout sessions and workshops. We also plan to host a happy hour with time for networking among our attendees.
+    url: https://konghq.com/resources/videos/sustainable-api-development
+    relatedEvent: API Summit 24
+  - contributionType: speaking
     linkedGSFProject: Green Software Patterns
     subtype: meetup-talk
     dateFrom: 2024-06-25
