@@ -18,6 +18,24 @@ social:
   linkedin: jamesmartin75
 activities:
   - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: conference-talk
+    dateFrom: 2024-09-27
+    dateTo: 2024-09-27
+    title: "Assessing the environmental impact of GenAI: Challenges & opportunities - panel"
+    description: I was invited to take part in a panel about the impact of AI, at a generative-AI-focused conference at Station F in Paris. Other speakers were Samuel Rincé of GenAI Impact/Ecologits.ai (whom I invited to speak) & Ilda Metani of Schneider Electric. I notably pointed out how generating 100 words from GPT4 can use up to 1.5L of water.
+    url: https://www.linkedin.com/posts/jamesmartin75_aipulse-activity-7246577387927216128-ODPa/?utm_source=share&utm_medium=member_desktop
+    relatedEvent: XYZ Paris 2024
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: keynote
+    dateFrom: 2024-09-19
+    dateTo: 2024-09-19
+    title: How to limit your Cloud impact, from Bare Metal to AI
+    description: I was invited to speak at Green IO London, about how to limit your digital impact, giving a cloud provider's perspective via Scaleway. Highlights included a comparison table between Scaleway's Environmental Footprint Calculator, and a focus on the impact of AI.
+    url: https://www.youtube.com/watch?v=oQ1FujytYHo
+    relatedEvent: Green IO London 2024
+  - contributionType: speaking
     linkedGSFProject: Green AI
     subtype: conference-talk
     dateFrom: 2024-05-24
