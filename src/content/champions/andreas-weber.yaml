@@ -1,0 +1,113 @@
+firstName: Andreas
+lastName: Weber
+role: Senior Software Engineer
+organization: QAware GmbH
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Germany
+city: Bamberg
+bio: |
+ Andreas Weber is a Senior Software Engineer at QAware and an advocate for software sustainability. He believes the IT industry must take responsibility for its role in the climate crisis and is committed to driving change. Andreas co-initiated the Green Software Development Manifesto (greenmanifesto.de), organizes the associated Munich meetup community, and authored the Green Software Big Picture (green-software-big-picture.org). He shares his insights on Green IT through talks, lectures, and articles.
+type: normal
+social:
+  github: andreaswe
+  linkedin: andreas-weber-green
+activities:
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-10-10
+    dateTo: 2024-10-10
+    title: "Meetup: Converging Perspectives"
+    subtitle: Co-Benefits of Sustainable Software
+    url: https://www.meetup.com/de-DE/green-software-development-munich/events/302688297/
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2024-08-23
+    dateTo: 2024-08-23
+    title: Nachhaltige Microservices
+    subtitle: Geeignete Messtools und energieeffiziente Technologien
+    description: Article in IT-Spektrum 05/2024
+    url: https://webreader.itspektrum.de/de/profiles/7d30f3fc5f62-itspektrum/editions/it-spektrum-5-2024/
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-03-14
+    dateTo: 2024-03-14
+    title: "Meetup: Sustainable UX & Web"
+    url: https://www.meetup.com/de-DE/green-software-development-munich/events/299195198/
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: other
+    dateFrom: 2024-02-02
+    dateTo: 2024-02-02
+    title: Green Software Big Picture (green-software-big-picture.org)
+    subtitle: Website Launch
+    url: https://green-software-big-picture.org/
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: other
+    dateFrom: 2024-01-12
+    dateTo: 2024-01-12
+    title: "Guest Lecture: Green Software"
+    url: https://docs.google.com/presentation/d/17JW25iRSLUaf4mAt-XyncUWre5LveXMbbOr4qqLNWaQ/edit?usp=sharing
+    relatedEvent: Lecture Software Architecture at Rosenheim University of Applied Sciences
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2023-11-20
+    dateTo: 2023-11-20
+    title: Green Software
+    subtitle: A Big Picture
+    description: Talk at the first in-person meetup of the GSF-Munich Meetup Community
+    url: https://docs.google.com/presentation/d/1kmV8xl21siRKb_4c_uJOipOTrvbmnDnO8ieKIpi0Qxw/edit?usp=sharing
+    relatedEvent: "Meetup: Green Software Munich"
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2023-11-09
+    dateTo: 2023-11-09
+    title: "Meetup: Cloud meets Sustainability"
+    url: https://www.meetup.com/de-DE/green-software-development-munich/events/295586253
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2023-07-19
+    dateTo: 2023-07-19
+    title: CO2 Footprint of ChatGPT
+    description: Talk about the emissions of ChatGPT
+    url: https://de.slideshare.net/slideshow/co2-footprint-of-chatgpt-259368670/259368670
+    relatedEvent: "GSD Meetup: Artificial Intelligence in context of sustainability"
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2023-04-25
+    dateTo: 2023-04-25
+    title: "Meetup: Tools and Best-Practices for Sustainable Software"
+    url: https://www.meetup.com/de-DE/green-software-development-munich/events/292555622
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2023-01-19
+    dateTo: 2023-01-19
+    title: "Meetup: Sustainability in Research and Practice"
+    url: https://www.meetup.com/de-DE/green-software-development-munich/events/289894709
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2022-03-31
+    dateTo: 2022-03-31
+    title: Launch of the Green Software Development Manifesto Meetup community
+    url: https://www.meetup.com/de-DE/green-software-development-munich/events/284795576
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: other
+    dateFrom: 2022-02-11
+    dateTo: 2022-02-11
+    title: Green Software Development Manifesto
+    subtitle: Launch of the manifesto website
+    description: Andreas co-initiated the Green Software Development Manifesto (greenmanifesto.de)
+    url: https://www.greenmanifesto.de
