@@ -37,7 +37,7 @@ social:
   linkedin: santosh-kumar-perumal
   website: https://medium.com/@santosh.personalid
 activities:
-  - contributionType: oss-contribution
+  - contributionType: oss contribution
     linkedGSFProject: other/unlisted
     subtype: all
     dateFrom: 2024-10-25
