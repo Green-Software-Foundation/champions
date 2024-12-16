@@ -20,6 +20,15 @@ activities:
   - contributionType: speaking
     linkedGSFProject: other/unlisted
     subtype: conference-talk
+    dateFrom: 2024-12-04
+    dateTo: 2024-12-04
+    title: "Accurately measuring your cloud activity’s full impact:  Wishful thinking?"
+    description: Diane Sempéré, Head of Product and myself presented the new Environmental Footprint Calculator, created for Scaleway cloud clients by Diane's team, at Green IO Paris 2024. I began by pointing out that 65% of tech companies' emissions are simply not reported, whence the pressing need for transparent and full-scope reporting (not just all 3 scopes, but also hardware and water).
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7270391455922237441/
+    relatedEvent: Green IO Paris 2024
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: conference-talk
     dateFrom: 2024-09-27
     dateTo: 2024-09-27
     title: "Assessing the environmental impact of GenAI: Challenges & opportunities - panel"
