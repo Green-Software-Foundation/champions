@@ -1,0 +1,35 @@
+firstName: Julien
+lastName: Nioche
+role: Director
+organization: DigitalPebble Ltd
+languages: 
+  - French
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: Bristol
+bio: |
+ I am a software developer which a passion for sustainability and environmental issues. With a background in Natural Language Processing, search systems, web crawling and big data processing, I use my technical skills on green software related projects. I have expertise in open source software and have contributed or created numerous projects over the years, notably as a member of the Apache Software Foundation and Boavizta.
+ I also regularly speak at conferences, review books and articles and give presentations at meetups.
+ I am based in Bristol, UK and am a keen furniture maker and musician outside work.
+type: normal
+social:
+  github: jnioche
+  linkedin: julien-nioche-4b7b453
+activities:
+  - contributionType: writing
+    linkedGSFProject: Real Time Cloud
+    subtype: 3rd-party-article
+    dateFrom: 2024-03-02
+    dateTo: 2024-03-02
+    title: The environmental impact of the cloud - the Common Crawl case study
+    description: "Article on the environmental impact of the Common Crawl Foundation, which introduces some key concepts in #greensoftware and #greenops and should be a good intro for newcomers."
+    url: https://www.linkedin.com/posts/julien-nioche-4b7b453_greensoftware-greenops-ai-activity-7178299638267973633-R4UR?utm_source=share&utm_medium=member_desktop
+  - contributionType: oss contribution
+    linkedGSFProject: Real Time Cloud
+    subtype: all
+    dateFrom: 2024-02-01
+    dateTo: 2024-02-01
+    title: Committer on Boavizta's CloudScanner
+    description: I am a member of Boavizta and contribute to some of its open source tools
+    url: https://github.com/Boavizta/cloud-scanner
