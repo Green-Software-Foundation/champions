@@ -15,6 +15,284 @@ social:
   github: WBurggraaf
   linkedin: wilco-burggraaf-a6b15517
 activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2024-12-06
+    dateTo: 2024-12-06
+    title: The Quantum Entanglement of Software Sustainability with Wilco Burggraaf
+    description: |
+     In this episode of Environment Variables, host Anne Currie speaks to Wilco Burggraaf, a lead green practitioner and architect at HighTech Innovators, for an engaging discussion on integrating sustainability into software development. Wilco shares his journey into green software, the inspiration behind his innovative workshops, and his efforts to build a vibrant green tech community in the Netherlands. The conversation explores his articles on the Software Carbon Intensity standard, the complexities of balancing micro and macro sustainability goals, and the synergy between FinOps and green software. Tune in for actionable insights and strategies to make greener choices in tech while aligning sustainability with business goals.
+    url: https://podcasts.castplus.fm/e/x8vqlw6n-the-quantum-entanglement-of-software-sustainability-with-wilco-burggraaf
+    relatedEvent: Environment Variables
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2024-12-04
+    dateTo: 2024-12-04
+    title: "Green coding @ it's core (literally)"
+    description: |
+     Explore the Power of Green Coding: Discover how sustainable software development reduces energy use and environmental impact. Wilco Burggraaf highlights techniques like optimization, energy profiling, and the EQUAL framework, providing actionable insights to measure and improve software efficiency. Join the movement to create greener, smarter IT solutions for a sustainable future.
+    url: https://greenio.tech/conference/10/paris-2024-december-green-it
+    relatedEvent: Green IO Paris
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-11-30
+    dateTo: 2024-11-30
+    title: "Redefining UX: Thorsten Jonas and the Movement for Sustainable Digital Design"
+    description: |
+     "At Green IO 🎙️ London, Thorsten Jonas inspired with his talk on sustainable UX, urging designers to prioritize environmental, societal, and ethical impacts. Through the SUX Network and Academy, he equips a global community with tools to design consciously, proving sustainability isn’t optional—it’s a responsibility for a better future. #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ux-sustainability-greenertogether-activity-7256353543735930880-3CH3?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-11-30
+    dateTo: 2024-11-30
+    title: Celebrating Innovation and Sustainability at the Green Waves Hackathon 2024 Closing Event
+    description: |
+     "Standing on stage at TU Delft’s Green Village for the Green Waves Hackathon 2024 Closing Event was unforgettable! Representing the Green Software Foundation NL, I shared insights on Green IT while celebrating groundbreaking, practical ideas. Huge thanks to participants, organizers, and sponsors for an inspiring day of innovation and collaboration. #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-sustainability-water-activity-7265803035430289408-9Ppe?utm_source=share&utm_medium=member_desktop
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: online-talk
+    dateFrom: 2024-11-26
+    dateTo: 2024-11-26
+    title: "From Code to Kilowatts: Unraveling Computing’s Energy Secrets"
+    description: |
+     Computing is more complex than it seems. It’s about managing workloads, how compute units work together—or sometimes shouldn’t—and how tasks queue up, much like waiting lines at grocery stores. The longer the queue, the more complex it becomes to make the right choices and manage the scenarios efficiently. We often assume more capacity or compute power leads to better energy use, but software and hardware don’t always align. Understanding how these queues are handled is key to improving both energy efficiency and performance.
+    url: https://www.meetup.com/agility-impact/events/304420535/?eventOrigin=group_past_events
+    relatedEvent: Agilists4Sustainability
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2024-11-26
+    dateTo: 2024-11-26
+    title: Green Software Awareness
+    description: |
+     Discover how your role in IT—whether developer, operations, manager, designer, or tester—can impact the environment and energy transition. Wilco Burggraaf, Green Software Champion, shares actionable insights, innovations like Green AI, and practical steps toward sustainability. Join us and contribute to change!
+    url: https://topicus.nl/
+    relatedEvent: TopiBreak
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2024-11-22
+    dateTo: 2024-11-22
+    title: "Get-together (including talks) on Green Waves Hackathon Closing Day"
+    description: |
+     The Green Waves Hackathon Closing Day on November 22 at The Green Village, TU Delft, celebrated innovation in Sustainable IT and Water Research. Attendees explored groundbreaking hackathon projects, insightful presentations, live demos, and interactive Q&A sessions. The event featured networking, an award ceremony, and collaborative opportunities to drive sustainability solutions forward. 
+    url: https://www.meetup.com/green-software-the-netherlands/events/304002801/?eventOrigin=group_events_list
+    relatedEvent: Green Software - The Netherlands
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2024-11-21
+    dateTo: 2024-11-21
+    title: "AI Meets Green: Powering Sustainability Through Innovation"
+    description: |
+     "The hidden cost of AI: Energy consumption, security, and sustainability
+
+     The first talk will focus on the AI Act, security concerns, and the often-overlooked issue of AI’s high energy consumption. We’ll explore how running AI systems, especially large models, can significantly increase energy usage, contributing to carbon emissions. You’ll learn how to account for these factors in the design phase of your AI systems, and how your choices around infrastructure, algorithms, and training models can reduce this impact. We’ll also discuss decision-making strategies with suppliers who prioritize sustainability, giving you practical tools to ensure your AI deployment is not only compliant with emerging regulations but also energy-efficient. Whether you’re just starting your AI journey or looking to optimize existing systems, this talk will offer fresh perspectives on how to balance innovation with sustainability."
+    url: https://www.yoursoftwarebetter.nl/ai-meets-green-powering-sustainability-through-innovation/
+    relatedEvent: HighTech Innovators
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2024-11-16
+    dateTo: 2024-11-16
+    title: "Building a Greener Future: The Power of Green Coding and Community with Wilco Burggraaf"
+    description: |
+     We talk to Wilco Burggraaf, Green IT lead at HighTech Innovators, to shine the spotlight on the world of Green Coding - a transformative approach that prioritizes energy efficiency. 
+    url: https://open.spotify.com/episode/13Zk1gkY5KF22goEYPXWrg?si=d-pOzKK-QGu9avTbgwQI-w 
+    relatedEvent: GREEN IT ON A CLOUD
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "Simple Yet Powerful: Achieving High-Precision CPU Monitoring in Docker"
+    description: |
+     "A breakthrough in gathering CPU stats asynchronously in Docker: using "cat /proc/stat" delivers real-time metrics with 20ms delta accuracy. Simple, elegant, and highly effective, this method converts data into Prometheus-readable precision. Kudos to Subhi Hamidi for fresh insight—proving teamwork and simplicity can drive powerful, sustainable engineering results. #greensoftware"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7245308004865044481-rzUx?utm_source=share&utm_medium=member_desktop
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "Green-by-design: duurzaam denken in software-architectuur"
+    description: |
+     In this podcast episode, Hildo van Es and Wilco Burggraaf explore green-by-design—sustainable software architecture. Wilco discusses reducing energy, CO₂, and resource usage through conscious design choices. Key topics include observability, cloud computing considerations, and the Software Carbon Intensity model, offering actionable insights for greener, more efficient software development practices.
+    url: https://greatminds.nl/podcast/green-by-design-duurzaam-denken-in-software-design/
+    relatedEvent: Greatminds
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "Green-by-design in actie: van theorie naar praktijk"
+    description: |
+     Sustainability is a strategic necessity in IT architecture. Green-by-design integrates energy efficiency and environmental impact from the start. Wilco Burggraaf shares how awareness, measurability, and techniques like AI fine-tuning and WebAssembly drive cost savings, efficiency, and innovation. Discover how green strategies give businesses a competitive edge while promoting sustainability.
+    url: https://greatminds.nl/podcast/green-by-design-in-actie-van-theorie-naar-praktijk/
+    relatedEvent: Greatminds
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "The Uncomfortable Truth: Mark Butcher on Cloud Sustainability and Accountability"
+    description: |
+     "Mark Butcher’s Green IO talk delivered a bold wake-up call on cloud sustainability. Highlighting misleading emissions claims, he urged accountability, transparency, and a focus beyond cost savings. His critique and challenge resonated, pushing the tech community to demand genuine environmental progress and consider long-term social and environmental impacts. #greenit #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenertogether-sustainability-activity-7244425602429063168-5hCj?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "Rethinking Green Software: Designing for Renewable Energy Dynamics"
+    description: |
+     "After a lively Green IO London meetup, Anne Currie’s insight—green software as “all software running on renewable energy”—sparked a new perspective. What if software dynamically adjusted features and performance based on renewable energy availability? This energy-aware approach could redefine green architecture for a sustainable, adaptable user experience."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenertogether-greeniolondon-activity-7243846059301441536-g00f?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "Starting Your Journey in Tech Sustainability: Simplifying the Path Forward"
+    description: |
+     "Starting with sustainability in tech can feel overwhelming. From initiatives like the Green Software Foundation to podcasts and academia, the landscape is vast. The key is clarity—finding your path without information overload. Let’s collaborate to simplify the journey, making it easier for newcomers to take impactful steps. #greensoftware #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7252634019140448256-5Apj?utm_source=share&utm_medium=member_desktop
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: lightning-talk
+    dateFrom: 2024-10-12
+    dateTo: 2024-10-12
+    title: Green Coding in Practice - The CNCF Way
+    description: |
+     A virtual meetup hosted by the CNCF Environmental Sustainability Technical Advisory Group (TAG ENV) as part of the Global Week of Cloud Native Sustainability to address the emerging topic of environmental sustainability in the cloud native industry and open source space. 
+    url: https://www.youtube.com/live/9gHoTJ4wbbs?si=MzPFAzb8pcJvQljO&t=5087
+    relatedEvent: Virtual Mini Conference Cloud Native Sustainability Week
+  - contributionType: organizing
+    linkedGSFProject: State of Green Software
+    subtype: green-software-meetup
+    dateFrom: 2024-10-10
+    dateTo: 2024-10-10
+    title: GSF NL Collaboration with CNCF Sustainability Week
+    description: |
+     The Dutch Green Software Community joined CNCF TAG ENV for a global event during CNCF Sustainability Week at the University of Amsterdam. Featuring insightful workshops, inspiring talks—including a professor on sustainable AI—and open spaces for collaboration, the event fostered innovation and connection to drive cloud-native software sustainability forward.
+    url: https://www.meetup.com/green-software-the-netherlands/events/303111539/?eventOrigin=group_events_list
+    relatedEvent: Green Software - The Netherlands
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2024-10-03
+    dateTo: 2024-10-03
+    title: DAPR(e) Sustainable Decision-Making met .NET 9 en WASM
+    description: |
+     In this presentation, we will explore how .NET 9, OpenTelemetry, WebAssembly (WASM), Blazor, DAPR, Prometheus, and Grafana contribute to data-driven decision-making and sustainable software development. Discover how to build, monitor, and optimize efficient, scalable applications while remaining mindful of your Software Carbon Intensity. I will demonstrate how to use real-time data to make strategic decisions and minimize the impact of your software. Join us for an inspiring session full of practical examples, live demos, and tips for a future filled with green software.
+    url: https://www.youtube.com/watch?v=N2RJJu0PASk
+    relatedEvent: .NET Assemble!
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-09-30
+    dateTo: 2024-09-30
+    title: "The Power of Human Connection: Reflections on Green IO London"
+    description: |
+     "Attending Green IO London reinforced the importance of human connection in digital sustainability. Face-to-face conversations inspire action, overcoming the complexity of Green IT. Collaboration, shared responsibility, and small steps forward drive progress. Together, across roles and disciplines, we can align, connect, and advance sustainability on a human level. #greensoftware #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greeniolondon-greenit-greensoftware-activity-7243102055177891840-ivyi?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-09-30
+    dateTo: 2024-09-30
+    title: "ecoCode: Enhancing Software Efficiency for a Sustainable Future"
+    description: |
+     "ecoCode reduces software's environmental impact by identifying inefficient code through static analyzers integrated with SonarQube. Supporting major languages like Java, Python, and C#, it flags energy-intensive patterns for improvement. With comprehensive documentation and a vibrant community, ecoCode helps developers create efficient, sustainable software—making the digital world greener, one line at a time. #greensoftware"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-sustainability-activity-7238618916204212225-vp6m?utm_source=share&utm_medium=member_desktop
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2024-09-11
+    dateTo: 2024-09-11
+    title: Green Software Ireland September Event
+    description: |
+     "Join us for an inspiring green software meetup in Ireland! Explore sustainable tech trends, hear insights from John Behan on the Greening Tixserve project, and Wilco Burggraaf on understanding impact and sustainable practices. Network, learn, and collaborate to reduce software's environmental footprint. Let’s build a greener future together!"
+    url: https://www.meetup.com/green_software_ireland/events/302610040/?eventOrigin=group_events_list
+    relatedEvent: Green Software Ireland
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-08-31
+    dateTo: 2024-08-31
+    title: "The Green Software Foundation Forum: A Hub for Collaboration and Innovation"
+    description: |
+     "The Green Software Foundation's GitHub forum is a hub for green software innovation and collaboration. It offers resources, community discussions, and support on sustainability topics, from technical challenges to AI practices. With introductions, event updates, and brainstorming opportunities, it connects enthusiasts globally, driving impactful solutions for a greener digital future. #greensoftware"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-softwaredevelopment-activity-7220314270578679808-CZDJ?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-08-31
+    dateTo: 2024-08-31
+    title: "The Psychology of Familiarity: Why We Accept Fuel Efficiency Stats but Question Green Coding Metrics"
+    description: |
+     "When discussing familiar topics, like fuel efficiency, we accept numbers easily. Yet, improvements in green coding spark curiosity and questions—rightly so. This highlights our need for trust and deeper understanding when facing unfamiliar metrics. True progress requires curiosity, questioning, and not taking numbers at face value. #greensoftware #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-sustainability-activity-7223978538473820162-lRNO?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-08-31
+    dateTo: 2024-08-31
+    title: "Building Momentum: 4 Green Software Meetups in 5 Months"
+    description: |
+     "In just 5 months, we organized 4 Green Software Foundation NL meetups, growing to 450 members. Seeing so much enthusiasm for sustainable IT is inspiring. Thank you to the community and Ko Turk for contributing! Join us on October 10th in Amsterdam for the next step toward greener software. #greensoftware"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7234456528081104897-Egk6?utm_source=share&utm_medium=member_desktop
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2024-08-27
+    dateTo: 2024-08-27
+    title: It is time! The dawn of Green Coding is here.
+    description: |
+     "JThe Dutch Green Software Community hosted an engaging event on August 27th at Hightech Innovators, 's-Hertogenbosch. Attendees explored green coding through hands-on demos with Wilco Burggraaf and learned to measure frontend impact with CO2.js presented by Ko Turk. The event featured practical insights, interactive sessions, networking, and sustainable coding solutions."
+    url: https://www.meetup.com/green-software-the-netherlands/events/302197504/?eventOrigin=group_events_list
+    relatedEvent: Green Software - The Netherlands
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-07-31
+    dateTo: 2024-07-31
+    title: "Decoding Software Energy Consumption: Lessons from the Automotive Industry"
+    description: |
+     "Measuring software energy consumption is complex, but insights from the automotive industry offer a solution. By analyzing execution patterns, like driving routes, we measure energy usage efficiently in kWh. This approach enables predictions, benchmarking, and actionable insights without tracking every variable, balancing optimization with environmental impact. #greensoftware #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-softwaredevelopment-activity-7214519687227813891-Ol80?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-07-31
+    dateTo: 2024-07-31
+    title: "Measuring Software Carbon Intensity (SCI): A Practical C# Example"
+    description: |
+     "Explore how to calculate Software Carbon Intensity (SCI) using a C# "Hello World" application. By analyzing energy consumption, hardware emissions, and location-based carbon intensity, we estimate the software's environmental impact. This practical example highlights how sustainable development can reduce carbon emissions, promoting greener software and informed decision-making in IT."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7216314956051312641-wsmc?utm_source=share&utm_medium=member_desktop
+  - contributionType: organizing
+    linkedGSFProject: State of Green Software
+    subtype: green-software-meetup
+    dateFrom: 2024-07-04
+    dateTo: 2024-07-04
+    title: "Inspiration Event: Real Life Examples for working with Green Software Principles"
+    description: |
+     Join the Dutch Green Software Community for an inspiring event on sustainable tech. Attendees explored reducing carbon emissions with Kubernetes, optimizing Microsoft Azure for sustainability, and understanding AI/cloud footprints. Featuring expert keynotes, networking, and practical insights, the event empowered participants to embrace greener software solutions for a sustainable future.
+    url: https://www.meetup.com/green-software-the-netherlands/events/301457262/?eventOrigin=group_events_list
+    relatedEvent: Green Software - The Netherlands
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-06-30
+    dateTo: 2024-06-30
+    title: "Rethinking Big Data: Harnessing AI for Sustainable Data Management"
+    description: |
+     "As global data generation soars to 147 ZB by 2024, it’s time to rethink our approach. Using AI as a "data garbage collector" can streamline management, reduce environmental impact, and prioritize quality over quantity. By embracing sustainable data practices, we uncover actionable insights while curbing digital waste. #sustainability"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_bigdata-ai-sustainability-activity-7202168720058662912-PLAI?utm_source=share&utm_medium=member_desktop
   - contributionType: writing
     linkedGSFProject: Green Software Practitioner (Principles)
     subtype: personal-blog-post
