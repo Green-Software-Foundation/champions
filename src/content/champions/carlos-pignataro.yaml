@@ -17,6 +17,15 @@ social:
   linkedin: cpignata
   website: https://carlos.pignataro.net/
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: podcast
+    dateFrom: 2024-12-12
+    dateTo: 2024-12-12
+    title: Green Networking with Carlos Pignataro
+    description: In this episode of Environment Variables, Anne Currie welcomes Carlos Pignataro, a leading expert in sustainable network architecture, to explore how networks can balance energy efficiency with performance and resilience. Carlos shares insights from his career at Cisco and beyond, including strategies for reducing emissions through dynamic software principles, energy-aware networking, and leveraging technologies like IoT and Content Delivery Networks (CDNs). They discuss practical applications, the alignment of green practices with business interests, and the role of multidisciplinary collaboration in driving innovation. Tune in for actionable advice and forward-thinking perspectives on making networks greener while enhancing their capabilities.
+    url: https://podcasts.castplus.fm/e/2861qwln-green-networking-with-carlos-pignataro
+    relatedEvent: Environment Variables
   - contributionType: writing
     linkedGSFProject: Standards WG
     subtype: other
