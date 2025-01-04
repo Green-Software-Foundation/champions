@@ -19,6 +19,35 @@ social:
   linkedin: annie-freeman-4b1008150
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: podcast
+    dateFrom: 2024-11-26
+    dateTo: 2024-11-26
+    title: Episode 49 - How to actually do Green Software in my company? with Annie Freeman
+    subtitle: Green IO Podcast with Gaël Duez 
+    description: "#E49 Annie Freeman joins Gaël Duez in Episode 49 to explain how she kick-started an initiative to build and deploy an internal tool to monitor carbon emissions in the SaaS company Xero."
+    url: https://greenio.tech/blog/43/episode-49-how-to-actually-do-green-software-in-my-company-with-annie-freeman-greenit
+  - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: personal-blog-post
+    dateFrom: 2024-11-19
+    dateTo: 2024-11-19
+    title: How to create a green software culture at your company
+    description: In today's climate-conscious world, technology companies have a responsibility to minimise their environmental impact. That includes the environmental impact of the software itself. 
+
+     It can be easy to look at sustainability tips like building carbon aware products or reducing the size of webpages. But in large companies with complex systems, it can be hard to enact change. 
+
+     As a green software advocate, I've learned that implementing sustainable practices doesn't require a complete system overhaul—it starts with small, actionable steps that create lasting change.
+    url: https://www.anniefreeman.nz/blog/green-software-culture
+  - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: personal-blog-post
+    dateFrom: 2024-10-07
+    dateTo: 2024-10-07
+    title: AWS Says It’s 100% Renewable - But Should Software Engineers Be Doing More?
+    description: In July 2024, Amazon announced it had met its goal of 100% renewable energy seven years early. Does that mean you don't need to do anything to make your software greener?
+    url: https://www.anniefreeman.nz/blog/data-centres-sustainability
+  - contributionType: speaking
     linkedGSFProject: Speakers
     subtype: conference-talk
     dateFrom: 2023-09-27
