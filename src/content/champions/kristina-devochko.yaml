@@ -21,6 +21,43 @@ social:
   twitter: kristhecodingu1
   website: https://www.biodrop.io/guidemetothemoon
 activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: 3rd-party-article
+    dateFrom: 2024-12-02
+    dateTo: 2024-12-02
+    title: 24 Days of Kubernetes - Kubernetes Sustainability Thought Leader Interviews
+    description: In this interview Kristina addresses questions around sustainability in context of Kubernetes, cloud native and open source, as well as highlights all the great work that is being done in CNCF TAG Environmental Sustainability.
+     Kristina shares thoughts around challenges in Kubernetes cluster optimization, tools that can help engineers measure and optimize platform resource utilization and practical steps engineers can start with to optimize for sustainability in Kubernetes. And so much more!
+    url: https://aknostic.com/articles/24-days-kubernetes-kristina-devochko-interview
+    relatedEvent: 24 Days of Kubernetes community initiative by Aknostic
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-10-09
+    dateTo: 2024-10-09
+    title: Green Software Foundation Oslo - October Meetup
+    description: Green Software Oslo group meetup in October that was also organized as part of CNCF Cloud Native Sustainability Week global initiative.
+    url: https://youtube.com/playlist?list=PL_3_oSSuNpD7I2OHgywlAuKnJf700wcXH&si=nOczfm-9Fy6jK72N
+    relatedEvent: Green Software Foundation Oslo - October Meetup
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-06-11
+    dateTo: 2024-06-11
+    title: Green Software Oslo at NDC Community Tuesday
+    description: Green Software Oslo meetup as part of the NDC Oslo Community Tuesday event
+    url: https://www.meetup.com/gsf-oslo/events/300942997
+    relatedEvent: NDC Community Tuesday
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: meetup-talk
+    dateFrom: 2024-06-11
+    dateTo: 2024-06-11
+    title: Exploring best practices for sustainability of Kubernetes clusters and Kubernetes-hosted workloads
+    description: In this session Kristina and Marta will talk about how sustainable software engineering principles can be applied to Kubernetes and it’s workloads, and what actions you can take in your projects in order to measure and improve sustainability footprints of your Kubernetes clusters and workloads.
+    url: https://www.meetup.com/gsf-oslo/events/300942997
+    relatedEvent: Green Software Oslo at NDC Community Tuesday 
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: podcast
