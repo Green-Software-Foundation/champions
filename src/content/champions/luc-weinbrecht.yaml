@@ -13,6 +13,14 @@ social:
   github: lwluc
   linkedin: luc-weinbrecht
 activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2024-12-15
+    dateTo: 2024-12-15
+    title: Einführung Green BPM
+    description: Eine Einführung in Green Business Process Management (BPM). Es wird aufgezeigt, wie Unternehmen durch umweltbewusste Prozessgestaltung ökologische Verantwortung mit wirtschaftlichem Erfolg verbinden können. Themen wie Carbon Awareness und Time Shifting werden beleuchtet, um die Auswirkungen von Prozessen auf den CO₂-Fußabdruck zu minimieren und durch zeitliche Optimierung Ressourcen effizienter zu nutzen.
+    relatedEvent: Gastvorlesung an der Hochschule Karlsruhe (University of Applied Sciences)
   - contributionType: writing
     linkedGSFProject: Green Software Patterns
     subtype: company-article
