@@ -15,6 +15,24 @@ social:
   github: SanjeevArora01
   linkedin: sanjeevarorapmp
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: online-talk
+    dateFrom: 2024-11-08
+    dateTo: 2024-11-08
+    title: Sustainability Practices in Tech Organizations
+    subtitle:  nasscom community & insights
+    description: Sustainability Practices in Tech Organizations
+    url: https://www.youtube.com/watch?v=bxQBmG_W1Kk
+  - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: company-article
+    dateFrom: 2024-09-11
+    dateTo: 2024-09-11
+    title: "Sustainability debt: The cost of making less sustainable decisions for enterprises"
+    subtitle: Identify use cases  for sustainability debt and draw value at the confluence of technology and sustainability.
+    description: "Company Blog: Sustainability debt: The cost of making less sustainable decisions for enterprises"
+    url: https://www.nagarro.com/en/blog/sustainability-debt-in-enterprises
   - contributionType: writing
     linkedGSFProject: Green Software Practitioner (Principles)
     subtype: personal-blog-post
