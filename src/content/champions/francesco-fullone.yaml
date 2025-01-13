@@ -17,6 +17,28 @@ social:
   website: https://www.fullo.net
 activities:
   - contributionType: speaking
+    linkedGSFProject: Higher Education Engagement
+    subtype: other
+    dateFrom: 2024-12-16
+    dateTo: 2024-12-16
+    title: Green Software Management course
+    subtitle: a masterclass about Green Software Management policies
+    description: "Il corso in Green Software Management affronta l'impatto ambientale e sociale del software e fornirà ai partecipanti le best practice per sviluppare e gestire software in maniera sostenibile. L'approccio sia tecnico che concettuale permetterà ai partecipanti di comprendere i concetti chiave del Green Software, imparare a valutare l'impatto ambientale delle architetture IT ma non solo.
+
+     La giornata formativa, consigliata ai professionisti in ambio digital, IT e tecnologico, fornirà, oltre alle migliori pratiche per sviluppare e utilizzare i software in maniera sostenibile, le best practices in ambito: W3C, GSF, Sustainability, Digital Sustainability, Sustainable IT."
+    url: https://www.ctecobo.it/servizi/corsi/green-software-management/
+    relatedEvent: CTE COBO Masterclass
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: meetup-talk
+    dateFrom: 2024-11-19
+    dateTo: 2024-11-19
+    title: Codice Futuro - IT Sostenibile
+    subtitle: Codice Futuro - IT Sostenibile
+    description: A meetup about best practices for Green and Sustainable Software in the Open Innovation Center of Credem Bank.
+    url: https://docs.google.com/forms/d/e/1FAIpQLSegoQALkE4xnsObHI_Lsrv5UbYPe-7EiOXTph5PYqSlYVVctQ/closedform
+    relatedEvent: Codice Futuro - IT Sostenibile
+  - contributionType: speaking
     linkedGSFProject: Green Software Pratictioner (Principles)
     subtype: conference-talk
     dateFrom: 2024-11-13
@@ -26,6 +48,14 @@ activities:
     description: a talk about Green Software Principles, SCI, Sustainable Design and Sustainable UX
     url: https://www.productmanagementday.com/programma-2024/
     relatedEvent: Product Managment Day
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-08-01
+    dateTo: 2024-08-01
+    title: Sustainable IT 
+    description:  a weekly newsletter about Sustainable IT and Green Software
+    url: https://www.sustainableit.it
   - contributionType: speaking
     linkedGSFProject: SCI Guide
     subtype: conference-talk
