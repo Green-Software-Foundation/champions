@@ -1,0 +1,29 @@
+firstName: Aditya
+lastName: Manglik
+role: Researcher
+organization: ETH Zurich
+languages: 
+  - English
+  - German
+  - Hindi
+  - Punjabi
+pronoun: He/Him
+country: Switzerland
+city: Zurich
+bio: |
+ I am a researcher and a graduate student at ETH Zurich, Switzerland. My research focuses on green software and sustainable computing, especially from the hardware and system software stack perspective. I have been working in green software for the past 6 years, starting as a Google Summer of Code student with the GNOME Foundation, where I built a kernel module to estimate the energy consumed by an application in the Linux kernel. In addition, I have three years of professional experience in high‑performance code optimization and three years of research experience in computer architecture and operating systems. I have delivered more than 10 talks worldwide on my research in green software and sustainable computing.
+type: normal
+social:
+  github: adityamanglik
+  linkedin: adityamanglik
+  twitter: adityamanglik
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: conference-talk
+    dateFrom: 2024-04-18
+    dateTo: 2024-04-18
+    title: Power measurement and attribution for processes and hardware devices in the Linux kernel
+    description: This talk aims to detail the recent developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications.
+    url: https://www.youtube.com/watch?v=ODIiTKgB9cE
+    relatedEvent: Linux Foundation Open Source Summit North America 2024
