@@ -15,6 +15,37 @@ social:
   github: WBurggraaf
   linkedin: wilco-burggraaf-a6b15517
 activities:
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-12-31
+    dateTo: 2024-12-31
+    title: "Rethinking Abstraction: Balancing Human-Centric Design and Runtime Efficiency in Software Development"
+    description: |
+     "Modern software paradigms like hexagonal and clean architecture prioritize maintainability and collaboration but often introduce inefficiencies described as "human-centric code overhead." These abstractions—naming conventions, mapping layers, and modular structures—address human constraints yet persist as tangible runtime inefficiencies. While compilers optimize some redundancies, many human-focused constructs inflate runtime performance costs and energy consumption.
+
+     This raises critical questions: Can we achieve clarity and maintainability without carrying this overhead into execution? Could new abstractions strip away inefficiencies before runtime? Rethinking how we design and execute systems could transform software performance, bridging the gap between human-centric design and energy-efficient, high-performance execution."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greensoftware-greenit-activity-7279757335026143232-PZBr?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-12-30
+    dateTo: 2024-12-30
+    title: "Developer Psychology vs. Compiler Intelligence: Balancing Functionality, Efficiency, and Sustainability in Software Development"
+    description: |
+     Software development often prioritizes functionality over understanding code execution, driven by cognitive shortcuts like the satisficing heuristic. While this boosts productivity, it fosters suboptimal practices, relying heavily on compilers to fix inefficiencies. Historical parallels, such as early web development's dependence on Internet Explorer’s leniency, highlight the consequences of such approaches: inconsistent standards and technical debt.
+
+     Today’s flexible languages further encourage this “it works, don’t worry about how” mentality, impacting energy efficiency and sustainability. Though modern compilers optimize code, they can’t fully compensate for poor design. Achieving greener, high-performing software requires developers to embrace intentional coding practices alongside functionality.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-greenertogether-activity-7279069257018011648-weO0?utm_source=share&utm_medium=member_desktop
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-12-29
+    dateTo: 2024-12-29
+    title: "Optimizing Code for Energy Efficiency: Harnessing LLM Insights on uOps, Parallelism, and Hardware Interaction"
+    description: |
+     Large Language Models (LLMs) offer exciting opportunities to optimize software by bridging the gap between code and hardware. They not only generate human-readable code but also analyze its efficiency, focusing on micro-operations (uOps), computation cycles, and energy usage. For instance, Python’s dynamic nature demands more uOps than compiled languages like Rust or C#, but built-in functions can mitigate overhead. Efficient hardware interaction involves leveraging parallelism, minimizing pipeline hazards, and optimizing core utilization to reduce power consumption. LLMs enable developers to write greener software by providing insights into uOps, pipeline efficiency, and multi-core optimization, fostering sustainable and high-performance computing.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7278688789454065664/
   - contributionType: speaking
     linkedGSFProject: State of Green Software
     subtype: podcast
