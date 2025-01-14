@@ -1,0 +1,25 @@
+firstName: Thiago
+lastName: Falcao da Silva
+role: Software Developer
+organization: NTT DATA
+languages: 
+  - Portugese
+  - English
+pronoun: He/Him
+country: Brazil
+city: Nova Friburgo
+bio: |
+ I'm enthusiastic about green technologies and their potential to create positive change. As someone who utilizes solar energy, I'm particularly drawn to innovations that offer practical solutions to environmental challenges. I believe technology plays a crucial role in building a sustainable future.
+type: normal
+social:
+  github: tfalc
+  linkedin: thiagofalcaosilva
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner
+    subtype: other
+    dateFrom: 2024-12-19
+    dateTo: 2024-12-19
+    title: Translation to brazilian portuguese
+    description: I translated to brazilian portuguese of the learning material about Green Software.
+    url: https://github.com/Green-Software-Foundation/learn/issues/243#issuecomment-2549731346
