@@ -14,6 +14,108 @@ social:
   linkedin: juttaeckstein
   website: https://bsky.app/profile/juttaeckstein.bsky.social
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: meetup-talk
+    dateFrom: 2024-12-12
+    dateTo: 2024-12-12
+    title: Agile Development for Digital Sustainability
+    description: |
+     "According to the World Economic Forum, digital technologies can help reduce global carbon emissions by up to 15%. However, digitalization also comes with some challenges. Thus, if we want to make a positive impact by increasing sustainability, we need to address challenges like the digital divide, energy consumption of IT, or the rise of electronic waste. In this talk, I want to explore how Agile can help to leverage Digital Sustainability.
+
+     Speaker:
+     Jutta Eckstein works as an independent coach, consultant, and trainer. She has recently co-created an assessment for (agile) teams to gauge the environmental, social, and economic impact of their products and services. Besides that, she has published her experience in various books, having pair-written the most recent one with John Buck on Company-wide Agility with Beyond Budgeting, Open Space & Sociocracy (dubbed BOSSA nova)."
+    url: https://www.meetup.com/green-software-hamburg/events/304074861
+    relatedEvent: Green Software Hamburg
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2024-10-18
+    dateTo: 2024-10-18
+    title: AI 4 Sustainability Needs to be Less Artificial and More Intelligent
+    description: |
+     "AI-based recruiting tools don’t like women. An average ChatGPT conversation consumes 500ml/ 16,91oz of water. Data annotators are not only challenged by low wages but also by mental health issues. These examples show that AI has issues addressing social, environmental, and economic sustainability.
+
+     All too often we are looking at the bright side only: the opportunities, innovations, conveniences (e.g., write that article for me), and fun (e.g., create that fun image). And certainly, AI does or can enhance both our private and professional lives. However, these enhancements come at a price. This has been observed by the UN, with the consequence that a resolution has been adopted to promote “safe, secure, and trustworthy AI systems that also benefit sustainable development.” 
+
+     In this session, I want to explore practices that can help us all to become aware of our blind spots and this way be able to create AI 4 Sustainability. So, it seems AI 4 Sustainability requires a lot of work. Let’s get started!"
+    url: https://events.agilealliance.org/sosa2024/agenda
+    relatedEvent: "SoSA 2024: State of Sustainability in Agile"
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2024-07-25
+    dateTo: 2024-07-25
+    title: Creating Better Products by Focusing on Sustainability.
+    description: |
+     The software operating body scanners at the airports is based on the male/female gender binary. Some accounts require the last name to be at least three characters long. These examples show that there is quite some software that doesn't support diversity. 
+     Too many products have been developed with a narrow focus on the users. One reason is that the composition of the teams leads (subconsciously) to the development of products that serve only people who resemble the people in the team. 
+     If teams are really cross-functional and resemble the diversity of the market, the products they’re creating will also be better. Thus, if the whole team has full business expertise, knows the market, and reflects the full diversity of the users, then it can even disrupt the market. With this real cross-functionality, a team combines different perspectives from business, markets, cultures, beliefs, etc. This way cross-functional teams overcome not only the limitations of organizational silos but also of a singular view on the market.
+     In this session, I want to explore practices that can help any team become aware of its blind spots and this way be able to create products that are more inclusive and accessible. 
+    url: https://www.agilealliance.org/agile2024-manchester/
+    relatedEvent: Agile 2024 European Experience Manchester, UK
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: keynote
+    dateFrom: 2024-06-20
+    dateTo: 2024-06-20
+    title: Digitale Nachhaltigkeit Ermöglichen
+    description: |
+     "Laut des Weltwirtschaftsforums können die globalen CO2-Emissionen um bis zu 15 % allein durch digitale Technologien reduziert werden. Folglich: Ärmel hochkrempeln und los geht’s! 
+     Wobei… leider bringt die Digitalisierung ein auch paar Herausforderungen mit sich, so zum Beispiel die digitale Spaltung (engl. digital divide), den Energieverbrauch der IT oder den kontinuierlichen Zuwachs unseres Elektroschrotts. Wenn wir also durch mehr Nachhaltigkeit eine positive Wirkung erzielen wollen, müssen wir uns diesen Herausforderungen stellen bzw. sie von vornherein mitdenken. In diesem Vortrag möchte ich aufzeigend, wie und was Agilität zur Ermöglichung digitaler Nachhaltigkeit beitragen kann."
+    url: https://www.scrum-day.de/archiv/scrum-day-juni-2024
+    relatedEvent: Scrum Day 2024, Stuttgart, Germany
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: meetup-talk
+    dateFrom: 2024-06-18
+    dateTo: 2024-06-18
+    title: Enabling Digital Sustainability
+    description: According to the World Economic Forum, digital technologies can help reduce global carbon emissions by up to 15%. However, digitalization also comes with some challenges. Thus, if we want to make a positive impact by increasing sustainability, we need to address challenges like the digital divide, energy consumption of IT, or the rise of electronic waste. In this talk, I want to explore how Agile can help to leverage Digital Sustainability.
+    url: https://www.meetup.com/business-agility-meetup-berlin/
+    relatedEvent: Business Agility Meetup
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2024-04-18
+    dateTo: 2024-04-18
+    title: Creating Better Systems by Focusing on Sustainability
+    description: |
+     The planetary challenges like the climate crisis are asking for our attention. Yet, our work keeps us busy. So, what if we could for example reduce the carbon footprint of the system we are creating while improving it? 
+     Luckily, more and more support for increasing environmental, social, and economic sustainability is available. For example, we can now pick the region for our cloud by e.g., specifying that carbon reduction is an important criterion for us. We can also find out what kind of energy is available when and where. The questions are: Are we aware of the available support? How can we make use of it while developing a system? And what can we actually easily do?
+     In this session, I want to explore various practices that can help us increase sustainability in software development. The focus is on simple changes to create better and more sustainable products.
+    url: https://accuconference.org/session/creating-better-systems-by-focusing-on-sustainability
+    relatedEvent: ACCU 2024, Bristol, UK
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2024-04-11
+    dateTo: 2024-04-11
+    title: "Sustainable software development: More usable, valuable, and feasible!"
+    description: |
+     "The world is on fire! None of our software development efforts will matter at all if we do not change the course of the climate crisis. The software lifecycle also causes direct and indirect CO2 emissions: it leaves a footprint and exacerbates environmental problems.
+     However, the environmental aspect is not the only one we need to focus on. If we take our responsibility seriously, we have to look at software development holistically in the sense of the so-called triple bottom line from all three sustainability perspectives: social, economic, and ecological. On the one hand, sustainability is a necessity in the current crisis, and, on the other hand, it is increasingly a key factor that determines the success of companies, both in the search for talent and for customers and markets. So, it’s time to understand to what extent software development can help take this holistic perspective and at the same time achieve higher software productivity through more sustainability."
+    url: https://codecamp.ro/conferences/codecamp-timisoara-2024/
+    relatedEvent: Codecamp 2024, Temeswar, Romania
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: meetup-talk
+    dateFrom: 2024-04-09
+    dateTo: 2024-04-09
+    title: Enabling Digital Sustainability
+    description: According to the World Economic Forum, digital technologies can help reduce global carbon emissions by up to 15%. However, digitalization also comes with some challenges. Thus, if we want to make a positive impact by increasing sustainability, we need to address challenges like the digital divide, energy consumption of IT, or the rise of electronic waste. In this talk, I want to explore how Agile can help to leverage Digital Sustainability.
+    url: https://www.youtube.com/watch?v=Fdqlqkg56zQ
+    relatedEvent: Auckland Agile Coaching Meetup
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2024-01-31
+    dateTo: 2024-01-31
+    title: Die Welt sendet S.O.S.! Nachhaltigkeit beginnt in der Produktentwicklung
+    description: Alle Innovationen in der Software-Entwicklung werden nur eine Rolle spielen, wenn wir den Verlauf der Klimakrise verändern. Auch der Software-Lifecycle verursacht direkte und indirekte CO2-Emissionen. D.h. es gilt auch als PO oder BA von Beginn an Nachhaltigkeit bei der Produktentwicklung mit zu denken.
+     In dieser Session stelle ich unterschiedliche Techniken vor, die uns dabei unterstützen, für mehr Nachhaltigkeit in der Nutzung & Entwicklung von Produkten zu sorgen. Der Fokus liegt dabei auf der Integration der Techniken in den Alltag.
+    url: https://www.oop-konferenz.de/oop-2024/programm/konferenzprogramm#item-6743
+    relatedEvent: OOP 2024
   - contributionType: organizing
     linkedGSFProject: Community WG
     subtype: online-event
