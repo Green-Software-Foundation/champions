@@ -17,6 +17,15 @@ social:
   github: netzdoktor
   linkedin: darneas
 activities:
+   - contributionType: writing
+    linkedGSFProject: SCI Spec
+    subtype: other
+    dateFrom: 2024-11-02
+    dateTo: 2024-11-02
+    title: "Dirty Electrons: On the Carbon Intensity of Stored Energy"
+    description: To reduce carbon emissions, system software must accurately trace and properly attribute these emissions to applications that cause energy consumption and hardware degradation. While the carbon intensity of the grid energy is readily available from online services, it is often overlooked that computing systems do not directly and immediately consume this energy. Instead, energy coming from the grid is first transformed by power supplies (PSUs) and then often stored in batteries.In this work, we investigate how PSUs and batteries affect the carbon intensity of the energy that actually powers the computer system. We analyze the extent to which specific hardware characteristics need to be taken into account in order to accurately attribute operational and embodied emissions to applications. To do this, we propose an analytical model for the carbon intensity of stored energy, which includes power supply and charging efficiency (which inflates operational emissions) and battery degradation (which causes embodied emissions). We conclude with a look at the future of system-level management of emissions caused by stored energy.
+    url: https://doi.ieeecomputersociety.org/10.1109/IGSC64514.2024.00018
+    relatedEvent: 2024 IEEE 15th International Green and Sustainable Computing Conference (IGSC)
   - contributionType: mentoring
     linkedGSFProject: Higher Education Engagement
     subtype: all
