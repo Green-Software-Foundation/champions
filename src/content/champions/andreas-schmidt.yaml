@@ -17,7 +17,7 @@ social:
   github: netzdoktor
   linkedin: darneas
 activities:
-   - contributionType: writing
+  - contributionType: writing
     linkedGSFProject: SCI Spec
     subtype: other
     dateFrom: 2024-11-02
