@@ -18,6 +18,14 @@ social:
   linkedin: adityamanglik
   twitter: adityamanglik
 activities:
+  - contributionType: oss contribution
+    linkedGSFProject: SCI Spec
+    subtype: all
+    dateFrom: 2025-01-12
+    dateTo: 2025-01-12
+    title: Green Software for Practitioners course
+    description: Completed the course Green Software for Practitioners from Green Software Foundation on Linux Foundation courses platform
+    url: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c8d2752a-049f-4c91-b4de-4f9923d9f986-aditya-manglik-f3a66789-b2d0-44e8-beb7-a9961d4a6b4e-certificate.pdf
   - contributionType: speaking
     linkedGSFProject: Impact Framework (IF)
     subtype: conference-talk
