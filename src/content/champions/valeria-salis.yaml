@@ -16,6 +16,14 @@ social:
   github: vallss
   linkedin: valeria-salis
 activities:
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-12-24
+    dateTo: 2024-12-24
+    title: "Advent Calendar: Green Tech Edition"
+    description: For the first twenty-four days of December, every day I shared a Linkedin post talking about a specific resource, approach and/or topic related to the environmental impact of tech. The URL leads to a blog post that contains a collection of all the posts I shared on Linkedin.
+    url: https://vallss.github.io/2024/12/24/advent-calendar.html
   - contributionType: speaking
     linkedGSFProject: Opensource WG
     subtype: meetup-talk
