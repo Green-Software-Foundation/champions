@@ -1,7 +1,7 @@
 firstName: Aditya
 lastName: Manglik
-role: Researcher
-organization: ETH Zurich
+role: Volunteer
+organization: SCER
 languages: 
   - English
   - German
@@ -11,7 +11,7 @@ pronoun: He/Him
 country: Switzerland
 city: Zurich
 bio: |
- I am a researcher and a graduate student at ETH Zurich, Switzerland. My research focuses on green software and sustainable computing, especially from the hardware and system software stack perspective. I have been working in green software for the past 6 years, starting as a Google Summer of Code student with the GNOME Foundation, where I built a kernel module to estimate the energy consumed by an application in the Linux kernel. In addition, I have three years of professional experience in high‑performance code optimization and three years of research experience in computer architecture and operating systems. I have delivered more than 10 talks worldwide on my research in green software and sustainable computing.
+ Aditya Manglik is a graduate student at ETH Zurich, specializing in sustainable computing. He has three years of professional experience in high‑performance code optimization, coupled with three years of research experience in computer architecture and energy optimization. He has contributed to open-source software as a Google Summer of Code student with the GNOME Foundation.
 type: normal
 social:
   github: adityamanglik
