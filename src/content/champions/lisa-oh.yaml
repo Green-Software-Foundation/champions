@@ -1,0 +1,34 @@
+firstName: Lisa
+lastName: Oh
+role: Technical Support Engineer
+organization: Red Hat
+languages: 
+  - Japanese
+  - English
+pronoun: She/Her
+country: Japan
+city: Tokyo
+bio: |
+ I'm a technical support engineer familiar with platform technologies such as Linux, Ansible, and container technologies.
+
+ Here are my green software experiences:
+ Participated in the Hackathon called "Build for Better Code Challenge" and I got a prize for my project called "GreenOps Tracker"(https://github.com/mahoutukaisali/GreenOps-Tracker). Kindly refer to: https://blogs.cisco.com/developer/announcing-the-build-for-better-code-challenge-winners
+
+ Gave a Lightning Talk at Green Software Foundation Global Summit 2024 Tokyo(https://connpass.com/event/330157/) organized by Microsoft.
+
+ Beginning a blog about green code practices called  GreenOps Lab.
+type: normal
+social:
+  github: mahoutukaisali
+  linkedin: lisaoh-666706119
+  website: https://greenopslab.com/
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: meetup-talk
+    dateFrom: 2024-10-09
+    dateTo: 2024-10-09
+    title: "A lightning talk - introduce my green software project called "GreenOps Tracker"(https://github.com/mahoutukaisali/GreenOps-Tracker)."
+    description: Gave a Lightning Talk at Green Software Foundation Global Summit 2024 Tokyo.
+    url: https://connpass.com/event/330157/
+    relatedEvent: Green Software Foundation Global Summit 2024 Tokyo
