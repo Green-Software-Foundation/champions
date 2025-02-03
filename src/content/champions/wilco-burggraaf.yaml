@@ -1,6 +1,6 @@
 firstName: Wilco
 lastName: Burggraaf
-role:  Green Software Practitioner / Architect / Advisor of CEO/CTO
+role: Principal Lead of Green Software Engineering
 organization: HighTech Innovators
 languages: 
   - English
@@ -9,12 +9,112 @@ pronoun: He/Him
 country: Netherlands
 city: Rijen
 bio: |
- Wilco Burggraaf, Lead Green Practitioner & Green Architect @ HighTech Innovators, Wilco brings over 20 years of software development experience to the table (mainly C#), having thrived in diverse roles – developer, architect, requirements engineer, data migration specialist, agile tester, and IT management advisor. A passionate advocate for green coding, Wilco is actively engaged in promoting sustainable software practices.
+ "Wilco Burggraaf, Principal Lead of Green Software Engineering @ HighTech InnovatorsWith over 20 years of experience in software development (mainly C#), Wilco has excelled in roles like developer, architect, agile tester, and IT management advisor. Recently stepping into the role of Principal Lead of Green Software Engineering, Wilco is dedicated to advancing Extreme Software Performance—creating efficient, impactful systems with minimal environmental impact. Since January 2024, he has championed sustainable practices, balancing innovation with responsibility.At HighTech Innovators, Wilco focuses on research, training, and practical solutions to drive purposeful software engineering while fostering collaboration and diversity, including supporting initiatives like Women in Tech®Netherlands.”
 type: normal
 social:
   github: WBurggraaf
   linkedin: wilco-burggraaf-a6b15517
 activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2025-01-24
+    dateTo: 2025-01-24
+    title: "Sustainability in Kubernetes: Exploring Greener IT Practices"
+    subtitle: Best Practices for Sustainable Kubernetes Operations
+    description: |
+     "Today, we recorded an exciting episode on #Sustainability and #Kubernetes featuring Wilco Burggraaf, Rick Slinkman, and the one and only Jan Stomphorst. 🎉 Dive into an engaging conversation packed with insights on how Kubernetes can contribute to more sustainable IT practices, practical tips for greener deployments, and a fresh perspective on innovation in the tech landscape. Stay tuned for an inspiring session full of expertise and actionable ideas to drive sustainability in your Kubernetes workflows! 🌱"
+    url: https://www.linkedin.com/posts/ronaldkers_sustainability-kubernetes-activity-7288586291863027712-p8lQ
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-20
+    dateTo: 2025-01-20
+    title: Enhancing Software Sustainability Through Performance Monitoring and Resource Efficiency
+    subtitle: Exploring OpenTelemetry Extensions for Sustainability Metrics
+    description: |
+     "I’m excited to connect with Prof. Dr. Andreas Brunnert (Hochschule München & RETIT GmbH) after discovering his team’s innovative work in the Green Software Foundation newsletter. Their GitHub repository highlights an OpenTelemetry Java agent extension that integrates resource demand data to calculate carbon emissions. By attaching metrics like CPU time, memory use, and network activity to application traces, this tool transforms performance monitoring into a sustainability-focused process. Java developers can easily adopt this extension, aligning code performance with environmental impact. Their broader focus on efficiency through load testing and capacity planning inspires sustainable software practices that reduce hardware and energy waste."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_softwaredevelopment-innovation-greenit-activity-7286451030739857409-0CrC
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-20
+    dateTo: 2025-01-20
+    title: "Revolutionizing Data Centers: Harnessing Heat for a Sustainable Future"
+    subtitle: Exploring the Environmental Impact of Traditional Data Centers
+    description: |
+     "Listening to the Environment Variables podcast, I was struck by how transformative sustainable data center solutions can be. Traditional data centers waste 97% of their consumed energy as heat, vented into the atmosphere like heating a home with open windows. Deep Green offers a game-changing approach: colocated data centers in urban areas that redirect heat for practical use—warming swimming pools, powering district heating, or fueling industrial processes. It’s a shift toward integrating digital infrastructure into physical spaces for societal benefit. While bureaucratic challenges persist, innovations like Amsterdam’s Leafcloud prove the potential of combining technology and sustainability to build a smarter future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_innovation-greenit-greensoftware-activity-7286276110114279424-cPxE
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2025-01-16
+    dateTo: 2025-01-16
+    title: Green inspiration morning for IT & Data
+    subtitle: Empowering Engineers to Drive Sustainable Impact
+    description: |
+     "After this morning, you'll be ready to contribute to a more sustainable IT landscape. As a Product Owner, you'll gain tools to make IT strategies more sustainable. Dian van Heijningen (Wigo4IT) will share how to make green IT choices and integrate them into your strategy, showing how every contribution can make a difference. Wilco Burggraaf, Green Software Champion, will inspire with practical code adjustments to reduce our ecological footprint. A morning filled with insights and inspiration for a greener IT future. Location: Greenchoice office, Rotterdam, from 09:30 to 12:00. Together, we take the first steps toward a sustainable future!"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenertogether-greensoftware-activity-7285749506162241536-o_bu
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-13
+    dateTo: 2025-01-13
+    title: "Scaling Sustainably: Leveraging Software to Maximize Impact Responsibly"
+    subtitle: Understanding the Dual Impact of Scaling in Software
+    description: |
+     "As software developers, our greatest tool for change is scaling sustainable solutions. While preventing overprovisioning and deleting unnecessary resources is important, the true power lies in how efficient code can multiply impact. However, scaling brings responsibility—small inefficiencies in one instance can result in massive energy waste when multiplied. Conversely, lean, optimized code can create a significant positive ripple effect. Production environments offer the most potential for sustainable scaling by balancing functionality, value, and environmental responsibility. Leveraging strategies like caching, static pages, and efficient resource use is a start, but innovation remains key. Sustainability isn’t optional—it’s our obligation to scale wisely."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greenit-greensoftware-activity-7284832556103946241-k-Sr
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-13
+    dateTo: 2025-01-13
+    title: "Advancing Green IT: Turning Knowledge into Sustainable Action"
+    subtitle: Exploring Practical Approaches to Green IT
+    description: |
+     "Green IT is an emerging field with immense potential, requiring consistent, thoughtful action to create practical and sustainable solutions. Knowledge of climate impact is vital, but it’s action that drives change. Small, steady steps build momentum, and excuses or delays won’t suffice. Collaboration is key—sharing ideas, learning, and supporting one another leads to innovative, impactful solutions. Progress demands continuous effort, testing, and refinement to meet real-world needs. Together, we can navigate challenges, fostering a supportive, proactive community to create meaningful, lasting change. Let’s focus on today, plan for tomorrow, and build a sustainable future for ourselves and the planet."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greentech-greenertogether-sustainableit-activity-7284469014284623872-qh2L
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-06
+    dateTo: 2025-01-06
+    title: Empowering Grassroots Sustainability Through Community Participation
+    subtitle: "Join the Movement: Driving Sustainability Through Grassroots Action"
+    description: |
+     "The sustainability movement needs you—no matter your location, expertise, or resources. Grassroots initiatives, driven by passionate communities, thrive on collaboration and small contributions. Whether it’s joining a Zoom call, reviewing a document, or moderating a Slack discussion, your presence and effort matter. Spaces like ClimateAction.tech, CNCF TAG Environmental Sustainability, Green Software Foundation, and Agilists for Planet welcome volunteers to drive impactful projects, from meetups to frameworks like the Impact Framework. Your small actions strengthen these communities, creating meaningful change. You don’t need all the answers—just take the first step. Together, we can build a more sustainable future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-sustainbleit-greensoftware-activity-7283741225650688000-Cdm3
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-06
+    dateTo: 2025-01-06
+    title: "Rethinking Sustainability in IT: Beyond the AI Narrative"
+    subtitle: Understanding the Fundamentals of Ahead-of-Time (AOT) Compilation
+    description: |
+     "Are we losing focus in sustainability discussions? While AI dominates headlines as a key driver of environmental challenges, it risks becoming a convenient scapegoat. AI is just software on hardware—not the sole cause of inefficiencies. Broader systemic issues, like rushed CO₂ data interpretations and superficial analyses, deserve more attention. As developers, we prioritize speed and convenience, often overlooking long-term environmental impacts. Measuring software’s energy use remains challenging, reflecting our industry’s growing pains. Instead of targeting AI alone, let’s improve sustainable practices across IT. Deeper understanding, optimized tools, and thoughtful methodologies are crucial to building a genuinely sustainable future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greenit-ai-activity-7282651507936641025-g9vU
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-12-31
+    dateTo: 2024-12-31
+    title: Revolutionizing Software Efficiency with Ahead-of-Time (AOT) Compilation
+    subtitle: Understanding the Fundamentals of Ahead-of-Time (AOT) Compilation
+    description: |
+     "Ahead-of-Time (AOT) compilation brings back the precision of old-school computing with modern tools. By converting source code directly into native machine code for specific hardware, AOT eliminates runtime interpretation, enabling faster execution, reduced latency, and lower energy consumption. In C#, native .NET tools create lightweight, standalone executables, while Java’s GraalVM and Python’s Nuitka transform applications into efficient binaries. Rust, Zig, and Go excel with static binaries, showcasing unparalleled performance. Modern CI/CD pipelines automate AOT, ensuring tailored builds for deployment. AOT demonstrates that revisiting timeless principles, combined with innovative technology, can drive sustainable, high-performance software development for a greener future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-sustainability-activity-7280635918179336192-4y-1
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-12-31
+    dateTo: 2024-12-31
+    title: Optimizing Code Efficiency and Energy Use with Large Language Models (LLMs)
+    subtitle: Understanding Micro-Operations (uOps) and Their Impact on Performance
+    description: |
+     "Large Language Models (LLMs) excel in generating code and optimizing its efficiency for hardware. For instance, Python, C#, and Rust handle tasks like summing a range of numbers differently, with Python's interpreted nature requiring more micro-operations (uOps) than Rust or C#. Built-in functions like Python's sum() can leverage efficient C implementations, but dynamic loops increase energy use. Beyond uOps, factors like CPU cores, frequency, and async execution impact energy efficiency. Parallelism and optimized instruction ordering reduce pipeline hazards and energy costs. Developers can align software performance with hardware strengths for greener solutions by analyzing and optimizing code with LLM insights."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-greenertogether-activity-7278688789454065664-h3Mx
   - contributionType: writing
     linkedGSFProject: State of Green Software
     subtype: other
@@ -46,6 +146,16 @@ activities:
     description: |
      Large Language Models (LLMs) offer exciting opportunities to optimize software by bridging the gap between code and hardware. They not only generate human-readable code but also analyze its efficiency, focusing on micro-operations (uOps), computation cycles, and energy usage. For instance, Python’s dynamic nature demands more uOps than compiled languages like Rust or C#, but built-in functions can mitigate overhead. Efficient hardware interaction involves leveraging parallelism, minimizing pipeline hazards, and optimizing core utilization to reduce power consumption. LLMs enable developers to write greener software by providing insights into uOps, pipeline efficiency, and multi-core optimization, fostering sustainable and high-performance computing.
     url: https://www.linkedin.com/feed/update/urn:li:activity:7278688789454065664/
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2024-12-18
+    dateTo: 2024-12-18
+    title: Empowering the Next Generation of Sustainable IT Leaders
+    subtitle: Guest Lecture on Sustainable IT Practices
+    description: |
+     Giving back to the IT community is a passion we cherish. Today, I had the privilege of speaking to Year 4 HBO ICT Software Engineering students at De Haagse Hogeschool, inspiring the future of sustainable technology. At HighTech Innovators, we believe innovation isn’t just about creating solutions and shaping green, impactful ones. Corporate Social Responsibility is at our core, advocating for Green IT strategies to drive environmental progress by 2030 and beyond. Sharing knowledge with these talented individuals reaffirms our commitment to fostering sustainable practices. Together, we can make technology smarter, greener, and more responsible for a better future.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenertogether-greenit-activity-7275117660642631680-dOTM
   - contributionType: speaking
     linkedGSFProject: State of Green Software
     subtype: podcast
