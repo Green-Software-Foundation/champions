@@ -15,6 +15,15 @@ social:
   linkedin: anita-schüttler-21095023b
 activities:
   - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2025-02-06
+    dateTo: 2025-02-06
+    title: Shared responsibility - how the energy transition will influence the way we build and run software
+    description: We're in the middle of the energy transition: from reliable, always-on and dirty fossil fuel to volatile but clean renewable energy. This means that requirements for when, where and how much energy to consume will change, in IT as anywhere else. In this talk, you'll learn what cloud providers' and software architecture's roles in this are, how the future energy market will affect IT systems and what software architects can do today to make sure their products aren't just ready for, but can even profit from this development.
+    url: https://www.oop-konferenz.de/de/programm/konferenzprogramm
+    relatedEvent: OOP - Konferenz für Softwarearchitektur
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: meetup-talk
     dateFrom: 2025-01-14
