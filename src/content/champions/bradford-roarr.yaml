@@ -1,0 +1,47 @@
+firstName: Bradford
+lastName: Roarr
+role: Lead Research Software Engineer - Sustainability and Performance
+organization: Brown University - Center for Computation and Visualization
+languages: 
+  - English
+pronoun: They/Them
+country: USA
+city: Providence
+bio: |
+ Hey all, I'm relatively new to green software. I pitched a new position to my high-performance computing team at the university where I work. I'll be looking into how to make our super computing facility a little more green. Right now I got a grant from Brown University to build out a carbon-aware super computer scheduler. I'll be presenting the SCI standard to our data science community here at Brown. And I've even got a (tiny) PR for `if-core`.  I'm looking for ways to broaden my impact at Brown and beyond. I thought this might be a fun way to get more involved with the green tech community
+ 
+ https://github.com/brown-ccv/s12y-dscov-sci
+ https://sustainability.brown.edu/get-involved/sustainability-seed-grants
+ https://github.com/Green-Software-Foundation/if-core/pull/30
+type: normal
+social:
+  github: broarr
+  linkedin: bradford-roarr-b48791340
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: Greening Code
+    subtitle: A brief tour of Software Sustainability and Software Carbon Intensity
+    description: Small lunch workshop on software sustainability and the Software Carbon Intensity (SCI) standard using Impact Framework
+    url: https://events.brown.edu/dsi/event/303891-dscov-workshop-pizza-lunch-introduction-to-
+  - contributionType: gsf contribution
+    linkedGSFProject: Impact Framework (IF)
+    subtype: all
+    dateFrom: 2025-02-04
+    dateTo: 2025-02-04
+    title: First GSF contribution
+    description: Quick patch for Impact Framework Core to better handle metrics from Prometheus
+    url: https://github.com/Green-Software-Foundation/if-core/pull/30
+  - contributionType: oss contribution
+    linkedGSFProject: SCI Spec
+    subtype: all
+    dateFrom: 2025-01-13
+    dateTo: 2025-01-13
+    title: Sustainability Seed Grant
+    subtitle: "EcoPace:  A Carbon-Conscious Scheduler for Research Computing Environments"
+    description: Awarded a Sustainability Seed Grant to research and develop a carbon-aware scheduler for the slurm high-performance cluster scheduler
+    url: https://sustainability.brown.edu/get-involved/sustainability-seed-grants
+  
