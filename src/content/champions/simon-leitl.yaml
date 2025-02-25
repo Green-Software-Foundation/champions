@@ -1,0 +1,29 @@
+firstName: Simon
+lastName: Leitl
+role: Head of Backend-Development
+organization: esentri AG
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Germany
+city: Ettlingen
+bio: |
+ I completed my computer science studies in Karlsruhe and have been working in software development for over seven years. For the past five years, I have been supporting clients as a consultant with a focus on software engineering, guiding them through the Twin-Transformation—a combination of digital and sustainable transformation. At esentri, I help companies develop future-proof, efficient, and sustainable business models, with a special emphasis on the sustainable development of software solutions.
+
+ In the area of Green Software, I have gained extensive experience, particularly through researching and applying Green Software patterns as well as determining SCI scores. Since sustainability affects us all, I place great importance on exchanging ideas with other software developers and proponents of Green Software. I regularly attend community meetings and events to share my knowledge and experiences, and to contribute to discussions on how we can collectively leverage software to support a sustainable future.
+type: inactive
+social:
+  github: SimonLeitl
+  linkedin: simon-leitl-755b121a0
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2024-07-04
+    dateTo: 2024-07-04
+    title: Der Einfluss von Message-Brokern auf die Nachhaltigkeit von verteilten Systemen
+    subtitle: Veröffentlichung im Tagungsband 2024 des Forschungstags der Dualen Hochschule Baden-Württemberg
+    description: During the DHBW Research Day, I presented a contribution on resource optimization through asynchronous communication, where I examined the impact of message brokers on the sustainability of distributed systems. In my paper, I introduced concepts such as temporal shifting from the Green Software Foundation, measured efficiency improvements using the SCI specification, and considered the Green Software pattern “queue non urgent requests.” This contribution was presented during the Research Day and later published as a paper in the conference proceedings.
+    url: https://www.dhbw.de/fileadmin/user_upload/Dokumente/Forschung/Forschungstag_2024/Tagungsband_DHBW_Forschungstag_2024.pdf
+    relatedEvent: DHBW Forschungstag 2024
