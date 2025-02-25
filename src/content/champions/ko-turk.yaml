@@ -1,0 +1,59 @@
+firstName: Ko
+lastName: Turk
+role: Architect / Voxxed Days Amsterdam Organizer
+organization: Codelab
+languages: 
+  - Netherlands
+  - English
+pronoun: He/Him
+country: The Netherlands
+city: Amsterdam
+bio: |
+ Ko Turk is a seasoned Software Architect, Java Engineer, and community leader with over 15 years of experience in software development and architecture. Passionate about green coding and sustainable software development, he focuses on optimizing systems for both high performance and minimal environmental impact.
+ Believing that software should be not only scalable and efficient but also designed with sustainability in mind, Ko actively promotes eco-friendly coding practices. Through his work, conference talks, and community contributions, he advocates for reducing software’s carbon footprint, inspiring developers to build greener, more responsible digital solutions.
+type: normal
+social:
+  github: KoTurk
+  linkedin: ko-turk-b271b929
+  twitter: KoTurk77
+  website: https://bsky.app/profile/koturk.nl
+activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2025-01-15
+    dateTo: 2025-01-15
+    title: "Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js"
+    description: "🌍 Building Greener Front-End Applications 🌱
+
+     Discover how software development impacts the environment and learn practical ways to reduce the carbon footprint of front-end applications. Using CO2.js by the Green Web Foundation, we measured coding emissions and explored strategies for more sustainable software.
+
+     This session was all about action—empowering developers to make informed decisions and build a greener web. Let's continue driving change for a more sustainable future! 🚀♻️"
+    url: https://mobile.devoxx.com/events/vdcern25/talks/1404/details
+    relatedEvent: CERN (Voxxed Days)
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2024-11-07
+    dateTo: 2024-11-07
+    title: "Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js"
+    description: "🌍 Building Greener Front-End Applications 🌱
+
+     Discover how software development impacts the environment and learn practical ways to reduce the carbon footprint of front-end applications. Using CO2.js by the Green Web Foundation, we measured coding emissions and explored strategies for more sustainable software.
+
+     This session was all about action—empowering developers to make informed decisions and build a greener web. Let's continue driving change for a more sustainable future! 🚀♻️"
+    url: https://youtu.be/UNmusfWlhTk?si=C8YK3tKFdPpTlFOU
+    relatedEvent: JFall
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2024-10-08
+    dateTo: 2024-10-08
+    title: "Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js"
+    description: "🌍 Building Greener Front-End Applications 🌱
+
+     Discover how software development impacts the environment and learn practical ways to reduce the carbon footprint of front-end applications. Using CO2.js by the Green Web Foundation, we measured coding emissions and explored strategies for more sustainable software.
+
+     This session was all about action—empowering developers to make informed decisions and build a greener web. Let's continue driving change for a more sustainable future! 🚀♻️"
+    url: https://youtu.be/lSi0new5mDM
+    relatedEvent: Devoxx Belgium
