@@ -17,6 +17,15 @@ social:
   linkedin: arne-tarara
 activities:
   - contributionType: writing
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: 3rd-party-article
+    dateFrom: 2024-12-11
+    dateTo: 2024-12-11
+    title: Green Coding study for German Energy agency (dena)
+    subtitle: Using energy-saving software to achieve more sustainable digitalization
+    description: The content is the analysis and recommendations for action for politics, companies, research and civil society on how green coding can contribute to sustainable digitalization and reduced electricity consumption.
+    url: https://www.dena.de/infocenter/green-coding-mit-stromsparender-software-zu-einer-nachhaltigeren-digitalisierung
+  - contributionType: writing
     linkedGSFProject: Green Software Speakers
     subtype: 3rd-party-article
     dateFrom: 2024-08-01
