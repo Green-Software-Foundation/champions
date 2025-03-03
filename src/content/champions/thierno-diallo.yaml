@@ -19,6 +19,16 @@ social:
   linkedin: diallo-thierno-82b2524a
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2024-12-06
+    dateTo: 2024-12-06
+    title: "Talk: Measurement, observability and efficient code as path for more sustainability"
+    subtitle: Vers un monde numérique plus sobre et éco-responsable
+    description: Le DevFest Dijon 2024 est la troisième édition de la plus grande conférence technique de Bourgogne-Franche-Comté destinée aux développeurs. Elle s’adresse aux étudiants, aux professionnels ou tout simplement curieux, passionnés de technologies.
+    url: https://youtu.be/epqgbWex_2M?si=8fOMCIKLgeLkWBGu
+    relatedEvent: DevFest Dijon 2024
+  - contributionType: speaking
     linkedGSFProject: Green Software Champions & Experts
     subtype: conference-talk
     dateFrom: 2024-11-07
