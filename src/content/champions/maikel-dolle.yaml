@@ -1,0 +1,28 @@
+firstName: Maikel
+lastName: Dolle
+role: IT4IT Architect
+organization: Rabobank
+languages: 
+  - Dutch
+  - English
+pronoun: He/Him
+country: The Netherlands
+city: Zwanenburg
+bio: |
+ I am the solution architect for the Sustainable IT Initiative Wavemakers at the Rabobank and was part of the 2024 Sustainable IT campagn of the Rabobank. Currently I'm setting up a IT4IT way of working with sustainability by design as a standard for the Rabobank organization.
+
+ Love to attend Sustainable IT Meetups and for this year I am planning to present my IT4IT experiences with Sustainable IT by design in Meetups.
+type: normal
+social:
+  github: itmagix
+  linkedin: maikeldolle
+activities:
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2025-02-15
+    dateTo: 2025-02-15
+    title: Maikel Dollé
+    description: It doesn't have to be hard to contribute to a greener planet. Everything you do, is great!
+    url: https://www.youtube.com/watch?v=JZs9M8K55zw
+    relatedEvent: Reduce your carbon footprint at work
