@@ -1,0 +1,22 @@
+firstName: Malini
+lastName: Jeyachandran
+role: Engineering lead
+organization: Lloyds bank
+languages: 
+  - English
+country: United Kingdom
+city: Croydon
+bio: I am Malini, Engineering lead in Lloyds Banking group UK. I champion for sustainable software engineering through unified approach if defining standard, Opensource mindset and building tools.
+type: normal
+social:
+  github: lbg-malinij
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: conference-talk
+    dateFrom: 2024-11-05
+    dateTo: 2024-11-05
+    title: Embracing sustainable software development 
+    description: Embrace, Embed and Enrich the sustainable software development in all phases of software development and how can we inclusively use the technology as a catalyst to drive this.
+    url: https://womenintechfestivalglobal.com/womenintechfestivalglobal2024/en/page/line-up
+    relatedEvent: Women in tech conference 
