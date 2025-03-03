@@ -1,0 +1,35 @@
+firstName: Pini
+lastName: Reznik
+role: CEO
+organization: re:cinq
+languages: 
+  - English
+  - Hebrew
+  - Russian
+pronoun: He/Him
+country: The Netherlands
+city: Amstelveen
+bio: |
+ Pini Reznik is a seasoned technology leader with extensive experience in the software industry. He is the CEO and Co-Founder of re:cinq, experts in Cloud Native and AI platform engineering. Former software engineer, Co-Founder of a Cloud Native consultancy and O’Reilly author. 
+type: normal
+social:
+  github: pinireznik
+  linkedin: pinireznik
+  twitter: pini42
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2024-06-10
+    dateTo: 2024-06-10
+    title: "Go Green: Reducing Emissions, Costs & Greenwashing"
+    description: Conference talk at goto Amsterdam 2024
+    url: https://youtu.be/mlUjxYbQ_2U
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-01-01
+    dateTo: 2024-01-01
+    title: Green Software the Netherlands
+    description: Co-organizing a monthly meetup in the Netherlands 
+    url: https://www.meetup.com/green-software-the-netherlands
