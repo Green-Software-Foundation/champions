@@ -1,0 +1,37 @@
+firstName: Aditya
+lastName: Manglik
+role: Volunteer
+organization: SCER
+languages: 
+  - English
+  - German
+  - Hindi
+  - Punjabi
+pronoun: He/Him
+country: Switzerland
+city: Zurich
+bio: |
+ Aditya Manglik is a graduate student at ETH Zurich, specializing in sustainable computing. He has three years of professional experience in high‑performance code optimization, coupled with three years of research experience in computer architecture and energy optimization. He has contributed to open-source software as a Google Summer of Code student with the GNOME Foundation.
+type: normal
+social:
+  github: adityamanglik
+  linkedin: adityamanglik
+  twitter: adityamanglik
+activities:
+  - contributionType: oss contribution
+    linkedGSFProject: SCI Spec
+    subtype: all
+    dateFrom: 2025-01-12
+    dateTo: 2025-01-12
+    title: Green Software for Practitioners course
+    description: Completed the course Green Software for Practitioners from Green Software Foundation on Linux Foundation courses platform
+    url: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c8d2752a-049f-4c91-b4de-4f9923d9f986-aditya-manglik-f3a66789-b2d0-44e8-beb7-a9961d4a6b4e-certificate.pdf
+  - contributionType: speaking
+    linkedGSFProject: Impact Framework (IF)
+    subtype: conference-talk
+    dateFrom: 2024-04-18
+    dateTo: 2024-04-18
+    title: Power measurement and attribution for processes and hardware devices in the Linux kernel
+    description: This talk aims to detail the recent developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications.
+    url: https://www.youtube.com/watch?v=ODIiTKgB9cE
+    relatedEvent: Linux Foundation Open Source Summit North America 2024
