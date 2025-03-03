@@ -14,6 +14,34 @@ social:
   github: anitaschuettler
   linkedin: anita-schüttler-21095023b
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2025-02-06
+    dateTo: 2025-02-06
+    title: Shared responsibility - how the energy transition will influence the way we build and run software
+    description: We're in the middle of the energy transition: from reliable, always-on and dirty fossil fuel to volatile but clean renewable energy. This means that requirements for when, where and how much energy to consume will change, in IT as anywhere else. In this talk, you'll learn what cloud providers' and software architecture's roles in this are, how the future energy market will affect IT systems and what software architects can do today to make sure their products aren't just ready for, but can even profit from this development.
+    url: https://www.oop-konferenz.de/de/programm/konferenzprogramm
+    relatedEvent: OOP - Konferenz für Softwarearchitektur
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2025-01-14
+    dateTo: 2025-01-14
+    title: "Green IT: Erfahrungen aus der Praxis"
+    description: Attending a Green Software meetup as a guest speaker to talk about my experiences with implementing Green Software principles in the daily work of IT companies - how to teach people and get them to act, where to start, what to do or not to do etc.
+    url: https://www.meetup.com/green-software-hamburg/events/305112012/
+    relatedEvent: Green Software Meetup Hamburg
+  - contributionType: speaking
+    linkedGSFProject: Green Software Playbooks
+    subtype: conference-talk
+    dateFrom: 2024-11-13
+    dateTo: 2024-11-13
+    title: Sustainable Tech – how the principles of the Circular Economy can transform IT
+    description: „Reduce, Reuse, Recycle“ – the Circular Economy is gaining traction for physical products, in many cases thanks to digital innovations. What’s still under-utilized, however, is the potential for reducing waste and emissions by applying circular principles to IT itself.
+     In this talk, we will explore what „Design out waste“ or „Keep products and materials in use“ translate to for digital products. You will learn what the environmental footprint of tech is and why it’s still such a secret. And finally, Anita will present you with some tangible, real-world examples from her work with clients that will leave you inspired to start your own Sustainable Tech journey.
+    url: https://www.digitale-leute.de/summit/24/schedule/sustainable-tech-how-the-principles-of-the-circular-economy-can-transform-it/
+    relatedEvent: Digitale Leute
   - contributionType: writing
     linkedGSFProject: Community WG
     subtype: 3rd-party-article
@@ -24,6 +52,15 @@ activities:
     description: Article for ITSpektrum
     url: https://webreader.objektspektrum.de/de/profiles/7d30f3fc5f62-itspektrum/editions/it-spektrum-5-2024/preview_pages/page/3
     relatedEvent: EcoCompute 2024
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: conference-talk
+    dateFrom: 2024-07-04
+    dateTo: 2024-07-04
+    title: Green Coding in der Praxis – how it started, how it’s going
+    description: Talk about how to go about Green Software in practice, with some theory about what's important, what hinders teams and prevents companies from starting at all, ending with a real-world example about measuring and how about 50% of a team's emissions were saved.
+    url: https://www.developer-week.de/programm/#/talk/green-coding-in-der-praxis-how-it-started-how-its-going
+    relatedEvent: Developer Week '24
   - contributionType: speaking
     linkedGSFProject: Transforming Organisational Software Sustainability
     subtype: conference-talk
