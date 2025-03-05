@@ -28,7 +28,7 @@ activities:
     subtype: meetup-talk
     dateFrom: 2024-10-09
     dateTo: 2024-10-09
-    title: "A lightning talk - introduce my green software project called "GreenOps Tracker"(https://github.com/mahoutukaisali/GreenOps-Tracker)."
+    title: "A lightning talk - introduce my green software project called \"GreenOps Tracker\"(https://github.com/mahoutukaisali/GreenOps-Tracker)."
     description: Gave a Lightning Talk at Green Software Foundation Global Summit 2024 Tokyo.
     url: https://connpass.com/event/330157/
     relatedEvent: Green Software Foundation Global Summit 2024 Tokyo
