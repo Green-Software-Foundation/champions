@@ -1,0 +1,31 @@
+firstName: Maarten 
+lastName: Küppers
+role: Head of Advice - Maritime Data Science Center
+organization: Royal Dutch Navy
+languages: 
+  - English
+  - Dutch
+  - German
+  - French
+  - Spanish
+country: The Netherlands
+city: Den Helder
+bio: Active as Sustainability Ambassador since 2022. Working in Green IT since 2023. Organized the international Green Waves Hackathon with Delft University of Technology in October - November 2024. One of the three community leads of the Dutch branch of the Green Software Foundation.
+type: normal
+social:
+  github: mfaking
+activities:
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: online-event
+    dateFrom: 2024-10-04
+    dateTo: 2024-10-04
+    title: Green Waves Hackathon 2024
+    description: |
+     "Alarmed by a series of heatwaves and inspired by leading Delft University of Technology climate science professor Herman Russchenberg I initiated an international hackathon to promote sustainable innovation and community building.  For more info about how the hackathon idea was born, see: 
+     https://www.linkedin.com/posts/maartenkuppers_how-the-green-waves-hackathon-idea-was-born-activity-7265859248390127617-EVIl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAW9EwBVnTjOvcEmSNf6vldeSBj5aC-cAk.
+
+     This hackathon, with main organizer TU Delft - Climate Action Programme, was a huge success, with over 160 participants from all over the world. The closing event on Friday, November 22nd, 2024, was a sustainability event in its own right. The Netherlands branch of Green Software Foundation supported the hackathon, as well as sponsors and co-organizers ilionx, Rabobank and Microsoft. 
+
+     In this new year 2025, quarterly meetups are organized and we are considering making the hackathon a recurring annual event."
+    url: https://www.tudelft.nl/climate-action/agenda/green-waves-hackathon-sustainable-it-water
