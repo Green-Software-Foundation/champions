@@ -1,0 +1,29 @@
+firstName: Julian
+lastName: Gommlich
+role: Software Engineer
+organization: Independent
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: German
+city: Nuremberg
+bio: |
+ My name is Julian Gommlich and I am a software engineer currently living and working in Nuremberg, Germany. 
+ I began my career as a requirements engineer in 2018 when I started my bachelor studies in IT systems and management. By the time I have finished my bachelor studies and continued with my master studies I already worked as a web software engineer.
+ During my master studies I stumbled across Green IT which fascinated my right from the beginning. In 2022 I have joined the Green IT community in the company I am working at and gave my first presentations. In the following year I managed a Green IT research project about the energy consumption of different software architecture patterns. Multiple smaller projects followed since.
+ A highlight of 2023 is that I was invited to contribute to an online course on Green IT by "Software Campus."
+ Apart from these projects I also went on stage to present Green IT to people interested in IT. Since October 2024 I am also one of the hosts of a local meetup community on green software development in Nuremberg.
+type: normal
+social:
+  github: JulianGommlich
+  linkedin: julian-gommlich-2451431a5
+activities:
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-10-29
+    dateTo: 2024-10-29
+    title: Green Software Development Community Nürnberg
+    description: Together with Jürgen Leger and Tantive GmbH, I organize a local meetup community in Nurmberg about Green Software Development. So far four meetups took place with an average of 25 participants.
+    url: https://www.meetup.com/green-software-development-nurnberg/
