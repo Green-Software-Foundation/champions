@@ -1,0 +1,68 @@
+firstName: Arin
+lastName: Roy
+role: Tech Lead
+organization: Capgemini
+languages: 
+  - English
+pronoun: He/Him
+country: The Netherlands
+city: Utrecht
+bio: |
+ As a Lead Architect with a specialization in Azure and AI, Arin excels at pioneering new services in Azure, bringing innovative and sustainable solutions to his clients. He is committed to integrating green software practices into cloud design, ensuring that his solutions are not only cutting-edge but also environmentally responsible.
+
+ He is dedicated to keeping the developer community updated with new technology, advocating for best practices and fostering a culture of continuous learning and innovation. Arin actively promotes the adoption of Green Software principle and practices, helping developers understand the importance of sustainability in software development.
+
+ He combines his expertise in Azure and AI with a passion for mentoring and leadership, driving technological excellence and community engagement. He is also deeply passionate about the Microsoft Development Ecosystem and .NET, integrating these technologies seamlessly into his projects to deliver optimal results while minimizing environmental impact.
+type: normal
+social:
+  github: royarin
+  linkedin: arinroy
+  twitter: IamArinRoy
+activities:
+  - contributionType: writing
+    linkedGSFProject: Awesome Green Software
+    subtype: personal-blog-post
+    dateFrom: 2025-01-05
+    dateTo: 2025-01-05
+    title: Building Sustainability Into your Cloud Architecture
+    description: A blog on how to incorporate sustainability by design in Cloud Architectures
+    url: https://royarin.blogspot.com/2025/01/building-sustainability-into-your-cloud.html
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: internal-event-talk
+    dateFrom: 2024-11-13
+    dateTo: 2024-11-13
+    title: Sustainability by design in your cloud Architecture
+    description: |
+     In cloud design, the advantages and impacts of cloud-hosted applications have typically been assessed through financial and efficiency metrics, and the Well-Architected Frameworks from the hyperscalers  follow this trend.
+     Currently, organizations globally are increasingly prioritizing sustainability, seeking ways in which cloud technology can assist in reducing carbon emissions and minimizing their environmental impact to meet their sustainability objectives.
+     In this session, we will explore how to create solutions that optimize resource utilization while minimizing waste, all grounded in the Well-Architected Framework as our technical foundation.
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2024-06-18
+    dateTo: 2024-06-18
+    title: Exploring the Environmental Impact and Sustainable Solutions of Artificial Intelligence
+    description: With the current industry focus on AI, we overlook rapid innovation’s environmental impact. This forward-thinking session will examine how some modern AI algorithms work, the impact of training and running modern AI models, and sustainable solutions to reduce this impact. Get ready to explore innovative strategies and discover technologies to create a greener future!
+    url: https://www.capgemini.com/nl-nl/nieuws/evenementen/techsummit-2024-accelerate-the-future/
+  - contributionType: writing
+    linkedGSFProject: Awesome Green Software
+    subtype: company-article
+    dateFrom: 2024-01-31
+    dateTo: 2024-01-31
+    title: "SUSTAINABILITY BY DESIGN: EEN CRUCIALE NIEUWE NORM IN CLOUD-ARCHITECTUUR"
+    subtitle: KLIMAATVERANDERING? HET IS HOOG TIJD DAT WE SOFTWARE  GAAN BESCHOUWEN ALS DEEL VAN DE OPLOSSING – EN NIET  VAN HET PROBLEEM
+    description: I wrote this submission for Capgemini Netherlands annual application trends publication called "Applications Unleashed" talking about why organizations using the cloud should take action to start going green with their software, cloud and data estates,
+    url: https://www.capgemini.com/nl-nl/applications-unleashed-2024
+    relatedEvent: Application Unleashed
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2023-06-07
+    dateTo: 2023-06-07
+    title: Designing for Sustainability on Azure
+    description: When designing for the cloud, the impact and benefits of a cloud hosted application have always been traditionally measured with financial and efficiency metrics. The Well Architected Framework for Azure has been no different.
+     Right now, organizations around the world are putting a renewed focus on sustainability and are trying to understand how cloud can help organizations reduce their carbon emissions and lessen their environmental footprint to help them achieve their sustainability and environmental goals.
+     In this session, we will look at how we can design solutions that maximize utilization but reduce waste while still using the Well-Architected Framework as a technical foundation.
+    url: https://careersatcapgemini.nl/events/tech-summit-2023
+    relatedEvent: Capgemini Tech Summit 2023
