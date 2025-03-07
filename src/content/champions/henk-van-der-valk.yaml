@@ -1,0 +1,27 @@
+firstName: Henk
+lastName: van der Valk
+role: Founder
+organization: CloudXcellence
+languages: 
+  - Dutch
+  - English
+pronoun: He/Him
+country: The Netherlands
+city: Utrecht
+bio: I'm an early adaptor in driving sustainable cloud operations and helping customers to optimize their cloud emissions.  How? By educating teams where to look how to   lower CO2 emissions. Top-down as well hands-on Bottom-Up!
+type: normal
+social:
+  github: cloudxcellence
+  linkedin: cloudxcellence
+  twitter: HenkvanderValk
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: meetup-talk
+    dateFrom: 2025-02-06
+    dateTo: 2025-02-06
+    title: Architecting the cloud for performance, cost and an fresh view on sustainability
+    subtitle: Connecting the dots to Go for More!
+    description: Optimize your cloud performance, reduce cost & reduce emissions. How? By connecting the dots based on your actual cloud usage!
+    url: https://www.meetup.com/iasa-bustech-architecture-amsterdam-chapter/?
+    relatedEvent: IASA Netherlands - Architecture Quarterly Summit
