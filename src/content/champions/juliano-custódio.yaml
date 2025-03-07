@@ -1,0 +1,45 @@
+firstName: Juliano
+lastName: Custódio
+role: DevOps Leader for Cloud Solutions
+organization: GFT
+languages: 
+  - Portugese
+  - English
+pronoun: He/Him
+country: Brazil
+city: São José dos Campos
+bio: |
+ Graduated in Systems Analysis and Development from FATEC in Sorocaba, MBA in Project Management from USP, 7x Microsoft MVP, 3x AWS Community Builder. Currently working as a DevOps Leader for Cloud Solutions, FinOps and GreenOps.
+type: normal
+social:
+  github: juucustodio
+  linkedin: julianocustodio
+activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2024-12-07
+    dateTo: 2024-12-07
+    title: "GreenOps: Reducing the carbon footprint in the cloud"
+    description:  "I was in Piracicaba-SP at the DEVPIRA Festival event presenting my talk on "GreenOps: Reducing the carbon footprint in the cloud"
+
+     I talked about the principles of Green Software, and how we can use tools like Azure Carbon Optimization to monitor the CO2 emissions of our cloud infrastructure."
+    url: https://www.linkedin.com/posts/julianocustodio_greenit-itsustainability-greenops-activity-7273349922467241987-CfiP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAykypUBbtlAdBt0jmWXMocxW7eLyNhJfuY
+    relatedEvent:  DEVPIRA Festival - Piracicaba-SP
+  - contributionType: speaking
+    linkedGSFProject: other/unlisted
+    subtype: internal-event-talk
+    dateFrom: 2024-11-14
+    dateTo: 2024-11-14
+    title: Exploring the Azure carbon optimization tool
+    description: I had the opportunity to be a speaker at Rabobank Engineer's Week. This is a global event organized by Rabobank for the Rabobank technology community. My presentation was in english, and I talked about "Exploring the Azure carbon optimization tool"
+    url: https://www.linkedin.com/posts/julianocustodio_raboengineersweek-azure-carbonfootprints-activity-7264277376233005057-4en3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAykypUBbtlAdBt0jmWXMocxW7eLyNhJfuY
+    relatedEvent: Rabobank Engineer's Week
+  - contributionType: writing
+    linkedGSFProject: other/unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-10-16
+    dateTo: 2024-10-16
+    title: "FinOps & GreenOps: We can align Financial Accountability with Cloud Sustainability"
+    description: I wrote a Linkedin article where I explain what GreenOps and FinOps are and how I have noticed the importance of the correlation between these themes in my daily work.
+    url: https://www.linkedin.com/pulse/finops-greenops-we-can-align-financial-accountability-cust%C3%B3dio-nooge/?trackingId=S4FWCIMiI2CjfGqol%2FR74Q%3D%3D
