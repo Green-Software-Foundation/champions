@@ -1,0 +1,27 @@
+firstName: Alessandro
+lastName: Vozza
+role: Sr. Technical Specialist
+organization: Microsoft
+languages: 
+  - English
+  - Italian
+  - Dutch
+pronoun: He/Him
+country: The Netherlands
+city: Amsterdam
+bio: |
+ Alessandro, a seasoned community leader and CNCF ambassador, has spent the last few years architecting cloud-native infrastructures for Microsoft customers, energizing the Dutch tech community, and helping professionals achieve CKx certification. With over 25 years immersed in open-source technologies, Alessandro is deeply passionate about the cloud-native ecosystem. He's now back at Microsoft as a Senior Technical Specialist in Application Innovation & AI.
+type: normal
+social:
+  github: ams0
+  linkedin: alessandrovozza
+  website: https://bsky.app/profile/ams0.bsky.social
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Green Software Practitioner
+    subtype: green-software-meetup
+    dateFrom: 2024-10-16
+    dateTo: 2024-10-16
+    title: CNCF TAG Environmental Sustainability Week 2024
+    description: "I am Tech Lead at the CNCF TAG Environmental Sustainability (https://tag-env-sustainability.cncf.io), and we run the sustainability week both physically in Amsterdam and virtually (https://community.cncf.io/events/details/cncf-cloud-native-sustainability-presents-virtual-mini-conference-cloud-native-sustainability-week-2024/ and https://community.cncf.io/events/details/cncf-amsterdam-presents-tag-environmental-sustainability-week-dutch-edition/)"
+    url: https://community.cncf.io/events/details/cncf-amsterdam-presents-tag-environmental-sustainability-week-dutch-edition/
