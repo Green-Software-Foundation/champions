@@ -1,0 +1,26 @@
+firstName: Saleh
+lastName: Bagheri
+role: Co-founder and CTO
+organization: Umweltify
+languages: 
+  - English
+  - Persian
+pronoun: He/Him
+country: Canada
+city: Surrey
+bio: |
+ I'm a software developer and electrical engineer, and I spend a lot of my time measuring how much energy devices, apps, and games use—and how much carbon they emit—while they're running. My goal is to help users understand and reduce their carbon footprint, while also giving software companies insights into how much their products contribute to emissions during the use phase. I developed ThingsApp, a tool that allows Windows users to measure their electricity consumption and carbon emissions. We're also building new features on top of it to help broadcast the 'greenness' of a device on social media and integrate it into apps and games, so users can benefit from incentives for using low-carbon technology. I love finding ways to make technology and software more carbon-aware and low-carbon by enabling the use of renewable energy, making a positive impact on the planet!
+type: normal
+social:
+  github: SalehBagheri
+  linkedin: saleh-bagheri
+activities:
+  - contributionType: writing
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: other
+    dateFrom: 2021-01-01
+    dateTo: 2021-01-01
+    title: ThingsApp – Measuring Energy Consumption & Carbon Emissions on Windows
+    subtitle:  Helping users and developers track and reduce carbon footprints in software & devices
+    description: I developed ThingsApp, a tool that helps Windows users measure their electricity consumption and carbon emissions. It provides insights for reducing energy usage and helps software companies understand their products' environmental impact. We are expanding its capabilities to broadcast device ‘greenness’ on social media and integrate with other apps and games, enabling users to benefit from sustainability incentives.
+    url: https://climatein.umweltify.com/ThingsApp
