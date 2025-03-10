@@ -6,7 +6,7 @@ If you are an active practitioner in the green tech and software sustainability 
 We’re looking for community builders, thought leaders and technical experts who are passionate about inspiring, educating and mobilizing individuals & organizations towards the decarbonization of software and the wider IT industry.
 
 - [Read more about the program](https://wiki.greensoftware.foundation/champion)
-- [Apply to be a Champion]([https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/89718883/Apply+to+be+a+Green+Software+Champion](https://wiki.greensoftware.foundation/champions-apply))
+- [Apply to be a Champion](https://wiki.greensoftware.foundation/champions-apply)
 
 # Profile & Activity updates
 - [Create New Profile](https://grnsft.org/champions/new)
