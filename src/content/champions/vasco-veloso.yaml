@@ -1,0 +1,44 @@
+firstName: Vasco
+lastName: Veloso
+role: Lead Software Engineer
+organization: ING
+languages: 
+  - English
+  - Portugese
+  - French
+pronoun: He/Him
+country: The Netherlands
+city: Amsterdam
+bio: |
+ I've been building software for almost thirty years. From assembly, through C, C++, and Prolog, to Java, Scala, and Kotlin, on big and small computers, from floppy disks to SSDs, on-premises, IoT, and cloud, I can confidently say that I've touched on a bit of everything.
+
+ This experience means that I've worked on environments where every byte and clock cycle mattered, and every little bit of energy saved was a win. I became interested in green software to attempt to counteract this cycle.
+
+ I was one of the first persons to kickstart a Green IT initiative at ING's Daily Banking Netherlands in 2023. I also present talks within the organization and at conferences to promote green software.
+
+ I'm also a theatrical improviser, amateur photographer, and a former ultralight student pilot.
+type: normal
+social:
+  github: vveloso
+  linkedin: vascoveloso
+  twitter: vveloso
+  website: https://bsky.app/profile/vasco-veloso.bsky.social
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Going green with native: efficient, sustainable software"
+    description: A talk explaining why green software is important, which software design patterns can be easily applied today to help reducing emissions, and a demo of how native compilation has the potential to lower Java applications' footprints.
+    url: https://app.swapcard.com/widget/event/devworld-conference-2025-1/planning/UGxhbm5pbmdfMjU1MjY4MQ==
+    relatedEvent: DevWorld Amsterdam 2025
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2024-07-05
+    dateTo: 2024-07-05
+    title: "Going green with native: efficient, sustainable software"
+    description: A talk explaining why green software is important, which software design patterns can be easily applied today to help reducing emissions, and a demo of how native compilation has the potential to lower Java applications' footprints.
+    url: https://sessionize.com/vveloso/
+    relatedEvent: Developer Week 2024
