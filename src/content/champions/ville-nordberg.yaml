@@ -1,0 +1,38 @@
+firstName: Ville
+lastName: Nordberg
+role: CEO & Founder
+organization: Trail Openers Oy
+languages: 
+  - English
+  - Finnish
+  - Swedish
+  - Frech
+pronoun: He/Him
+country: Finland
+city: Helsinki
+bio: |
+ I am a Green ICT veteran in the Nordics, serving as the founder and CEO of Trail Openers Oy. I have delivered numerous public and private lectures on Green ICT, including engagements at the University of Helsinki, VISIIRI (Finland’s national Green ICT program), and various private companies. Currently, I provide advisory services to help organizations integrate Green ICT principles and develop an unified approach toward sustainable digital practices. Additionally, I am an active member of the Green Software standardization group.
+type: normal
+social:
+  github: VilleNordberg
+  linkedin: villenordberg
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: keynote
+    dateFrom: 2025-03-04
+    dateTo: 2025-03-04
+    title: Sustainability in digital services
+    description: |
+     I have delivered several speeches on sustainability in digital services. My keynotes cover essential insights into the ICT industry's energy consumption and environmental impact, along with an introduction to Green Software—what it is, why it matters, and how to approach it. I also provide practical guidance on actionable steps tailored to different roles within the industry.
+    url: https://tapahtumat.tieke.fi/green-ict-kiertue-sjk
+    relatedEvent: VISIIRI - Green ICT Tour in Finland
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: company-article
+    dateFrom: 2024-12-02
+    dateTo: 2024-12-02
+    title: Resource-wise Digital Strategy
+    description: |
+     Nearly all new business opportunities and innovations require the activation of corporate strategy, the creation of a digital strategy, and digital development. Our aim is to ensure solutions are sustainable from goal-setting to implementation.
+    url: https://trailopeners.com/en/articles/resource-wise-digital-strategy/
