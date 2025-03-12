@@ -1,0 +1,25 @@
+firstName: Sophie
+lastName: Vos
+role: Sustainability & Technology Consultant
+organization: Accenture
+languages: 
+  - English
+  - Dutch
+pronoun: She/Her
+country: The Netherlands
+city: Amsterdam
+bio: |
+ Sophie Vos is a Sustainability & Technology consultant at Accenture. She has a strong commitment to Sustainable IT, which began during her Computer Science studies, where she published a paper on sustainability in the public cloud. Sophie has extensive experience in developing sustainable digital platforms and strategies for clients across various industries. She actively promotes sustainable software practices and organizes green IT events, ranging from industry conferences to community events.
+type: normal
+social:
+  github: so-vos
+  linkedin: sovos
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-track
+    dateFrom: 2025-01-28
+    dateTo: 2025-01-28
+    title: Accenture x TNO Sustainable IT Event
+    description: Exclusive panel event for leaders in IT and Sustainability strategy of large IT deployers to accelerate the Green IT transition.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7292131001026121729/
