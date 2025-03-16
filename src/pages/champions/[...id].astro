@@ -250,8 +250,12 @@ const contributionIcon: ContributionIcon = {
                     <h3 class="md:ml-16 font-bold text-primary-darker mb-2 mt-4 md:mt-0">
                       {year}
                     </h3>
-                    {Object.keys(activitiesByYear[year]).map((month) =>
-                      Object.keys(activitiesByYear[year][month]).map((day) =>
+                    {Object.keys(activitiesByYear[year])
+                      .sort((a, b) => parseInt(b) - parseInt(a))
+                      .map((month) =>
+                        Object.keys(activitiesByYear[year][month])
+                          .sort((a, b) => parseInt(b) - parseInt(a))
+                          .map((day) =>
                         activitiesByYear[year][month][day].map(
                           (activity: Activity) => (
                             <div class="md:grid md:grid-cols-[4rem_1fr] gap-4">
