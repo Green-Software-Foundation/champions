@@ -19,6 +19,14 @@ social:
   linkedin: arinroy
   twitter: IamArinRoy
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2025-03-11
+    dateTo: 2025-03-11
+    title: Sustainable by Design in your cloud architecture
+    description: Session for a group of IT students from De Haagse Hogeschool / The Hague University of Applied Sciences and introducing to the concepts of Green Software and how to build greener applications for the cloud.
+    url: https://www.linkedin.com/posts/arinroy_vandaag-met-mijn-sustainable-it-studenten-activity-7305505043527417856-3gzn
   - contributionType: writing
     linkedGSFProject: Awesome Green Software
     subtype: personal-blog-post
