@@ -1,0 +1,102 @@
+firstName: Rafael
+lastName: Ferreira
+role:  Senior Azure DevOps Solution Engineer
+organization: Softensity Inc
+languages: 
+  - Portugese
+  - English
+pronoun: He/Him
+country: Brazil
+city: Sao Jose
+bio: |
+ Hi, I’m Rafael, a curious and good-humored individual who has always been fascinated by understanding how things work. At the age of nine, I received my first computer, which sparked my passion for turning the impossible into reality.
+
+ Throughout my career, I’ve worked in multinational companies, consulting firms, and international corporate environments. My focus has been on driving digital transformation through innovative cloud solutions that meet the demands of an ever-evolving market.
+
+ Although I don't yet work directly with Green Software in my daily routine, I dedicate part of my time studying and advocating for sustainable software practices, especially from a DevOps and infrastructure perspective. I'm passionate about the role that cloud optimization, efficient architectures, and automation play in reducing the environmental impact of digital systems. I regularly explore and share insights on the topic through blog posts, talks, and community engagements. 
+type: normal
+social:
+  github: rafaelmaferreira
+  linkedin: rafaelmaferreira
+  website: https://rafaelmaferreira.com.br/
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: meetup-talk
+    dateFrom: 2024-12-17
+    dateTo: 2024-12-17
+    title: Speaker - Cloud Native Sustainability Week 2024
+    description: Speaker
+    url: https://www.youtube.com/watch?v=mIgEJseOt0U&t
+    relatedEvent: Sustainability Week 2024
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: online-talk
+    dateFrom: 2024-10-22
+    dateTo: 2024-10-22
+    title: "Deploying a Sustainable Future: GreenOps in the Cloud – #27 Cloud Native São Paulo – Sustainability Day at AWS"
+    description: Speaker
+    url: https://www.youtube.com/live/mIgEJseOt0U
+    relatedEvent: Cloud Native Sustainability Day
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: online-talk
+    dateFrom: 2024-07-27
+    dateTo: 2024-07-27
+    title: "GreenOps in the Cloud: Building a Sustainable Future – DevOps Experience"
+    description: Speaker
+    url: https://www.youtube.com/watch?v=qT1Uo-tiBjE&ab_channel=DevOpsHeroes
+    relatedEvent: DevOps Experience
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2024-06-01
+    dateTo: 2024-06-01
+    title: GreenOps in the Cloud: Building a Sustainable Future – Tech Connection Balneário Camboriú
+    description: Speaker
+    url: https://rafaelmaferreira.com.br/posts/tc.bc24/
+    relatedEvent: Tech Connection Balneário Camburiú
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: online-talk
+    dateFrom: 2024-05-11
+    dateTo: 2024-05-11
+    title: "Sustainability and Cloud: Building the Future of Technology with Awareness"
+    description: Speaker
+    url: https://www.youtube.com/watch?v=VzykJi_qqDI&ab_channel=FabricioVeronez
+    relatedEvent: Solidarity Chain | All for RS
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: online-demo
+    dateFrom: 2024-04-20
+    dateTo: 2024-04-20
+    title: "GreenOps: From Foundation to Sustainable Innovation in the Azure Cloud – Global Azure feat Azure Floripa"
+    description: Speaker
+    url: https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6
+    relatedEvent: Global Azure feat Azure Floripa
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: conference-talk
+    dateFrom: 2024-02-24
+    dateTo: 2024-02-24
+    title: Before Cloud Native: Building a Solid Foundation for the Cloud to Impact a Sustainable Future – KCD São Paulo - Brazil 2024
+    description: Speaker
+    url: https://rafaelmaferreira.com.br/posts/kcdsp24/
+    relatedEvent: KCD São Paulo
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: meetup-talk
+    dateFrom: 2024-02-21
+    dateTo: 2024-02-21
+    title: "Before Cloud Native: Building a Solid Foundation for the Cloud to Impact a Sustainable Future – Cloud Native Floripa – 2nd Edition"
+    description: Speaker
+    url: https://www.youtube.com/watch?v=yP_oynLWOJI&ab_channel=CNCF%7CCloudNativeCommunityGroupSantaCatarina
+    relatedEvent: Cloud Native Floripa - 2º edition
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner
+    subtype: personal-blog-post
+    dateFrom: 2023-12-17
+    dateTo: 2024-02-21
+    title: "Before Cloud Native: Building a Solid Foundation for the Cloud to Impact a Sustainable Future"
+    description: Writer
+    url: https://rafaelmaferreira.com.br/posts/green-computing-foundation-cloud/
