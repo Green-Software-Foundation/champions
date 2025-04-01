@@ -16,6 +16,20 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2025-04-01
+    dateTo: 2025-04-01
+    title: Green Software Development Karlsruhe
+    subtitle: Measuring CO2 emissions of Software
+    description: |
+     This deep-dive session gives an all-round insight into the topic of software measurements with background knowledge on the underlying standards for measurements (GHG Protocol, Green Software Foundation SCI) and then dives into a very concrete hands-on part.
+
+     It explains what types of measurement there are, which components need to be included in an energy measurement of software and what limitations there currently are, as well as how these are addressed by the community. We will look at specific tools that can output the energy of a system (perf, codecarbon, scaphandre, IPMI) as well as tools that can generate energy values from proxy metrics in restrictive environments such as the cloud or GitHub Actions.
+
+     APIs and databases are presented with which we can get the necessary values to turn energy values into CO2 values. The whole thing is rounded off with a presentation of complex tools for container architectures that can be integrated directly into GitOps development workflows and also measurement methods for websites. A deep dive session for all those who have always wanted to dive into the topic of energy measurement of software.
+    url: https://www.green-coding.io/talks-and-events/gsd-karlsruhe-co2-messen_2025_03/
   - contributionType: writing
     linkedGSFProject: Transforming Organisational Software Sustainability
     subtype: 3rd-party-article
