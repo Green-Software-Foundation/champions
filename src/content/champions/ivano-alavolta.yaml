@@ -1,0 +1,38 @@
+firstName: Ivano
+lastName: Malavolta
+role: Associate professor
+organization: Vrije Universiteit Amsterdam
+languages: 
+  - English
+  - Italian
+pronoun: He/Him
+country: The Netherlands
+city: Amsterdam
+bio: |
+ Associate professor and Director of the Network Institute at the Vrije Universiteit Amsterdam (The Netherlands). His research focuses on software engineering, with a special emphasis on Green software and software architecture. He applies empirical methods to assess practices and trends in the field of software engineering. He authored more than 150 scientific articles in international journals and peer-reviewed international conference proceedings. He is a program committee member and reviewer of international conferences and journals in the software engineering field. He received a PhD in computer science from the University of L'Aquila in 2012. He is a member of ACM, IEEE, VERSEN, and Amsterdam Data Science. More info at: www.ivanomalavolta.com 
+type: normal
+social:
+  github: iivanoo
+  linkedin: ivanomalavolta
+  twitter: IMalavolta
+  website: https://bsky.app/profile/imalavolta.bsky.social
+activities:
+  - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: conference-talk
+    dateFrom: 2025-03-30
+    dateTo: 2025-03-30
+    title: "Transparency First: Assessing and Reporting the Software Carbon Intensity of Large-Scale AI Systems"
+    subtitle: Invited talk 
+    description: The activity is about an invited talk I will give at the GreenSys workshop (co-located with EuroSys 2025). The talk will be about the SCI specification and how to apply it.
+    url: https://greensys-org.github.io/workshop/program/
+    relatedEvent: GreenSys workshop (co-located with EuroSys 2025)
+  - contributionType: mentoring
+    linkedGSFProject: Higher Education Engagement
+    subtype: all
+    dateFrom: 2025-03-19
+    dateTo: 2025-03-19
+    title: Green Lab - Ten Years of Teaching Empirical Software Engineering in the context of Energy-efficient Software
+    subtitle: Since 10 years researchers at VU Amsterdam are teaching Master students how to conduct experiments on Green software
+    description: Since 10 years researchers at VU Amsterdam are teaching Master students how to conduct experiments on Green software
+    url: https://arxiv.org/abs/2407.05689
