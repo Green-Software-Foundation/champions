@@ -1,0 +1,23 @@
+firstName: Morris
+lastName: Wu
+role: Enterprise Architecture 
+organization: CTBC
+languages: 
+  - Traditional Chinese
+pronoun: He/Him
+country: Taiwan
+city: Taipei
+bio: My primary role is as an Enterprise IT Architect in the financial industry, focusing on IT strategy planning and driving digital transformation initiatives. Starting in 2023, I participated in the CNCF Sustainability Community Forum held in Taiwan, where I shared practical experiences and professional insights on green software, and connected with Sarah, a member of the foundation. Subsequently, in 2024 and 2025, I actively participated in Taiwan's prominent community organization, iThome, where I organized and hosted the Tech Sustainability Summit and served as a speaker on sustainable software engineering topics. Additionally, I undertook the translation work for the book "Building Green Software", authored by foundation members Anne, Sara, and Sarah, which is soon to be officially published.
+type: normal
+social:
+  github: morris-sys
+  linkedin: morris-wu-b42148b1
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: keynote
+    dateFrom: 2025-03-07
+    dateTo: 2025-03-07
+    title: Taiwan Science and Technology Sustainability Summit
+    description: This sharing will delve into the practice of Well-Architected Framework and Green Software and explore how to minimize the carbon footprint while taking into account system performance. We will reveal the innovation trends of sustainable technology and share practical tips from cloud architecture to code optimization, showing how software development can coexist and prosper with the earth. Let’s explore the infinite possibilities of green computing and create efficient and environmentally friendly digital solutions!
+    url: https://dss.ithome.com.tw/2025/agenda.html
