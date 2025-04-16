@@ -21,6 +21,72 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: writing
+    linkedGSFProject: Awesome Green Software
+    subtype: personal-blog-post
+    dateFrom: 2025-01-24
+    dateTo: 2025-01-24
+    title: Salesforce Developer Carbon Dashboard
+    description: |
+     In multi-tenant architectures there is a line of responsibility and feasibility for one to make changes. That is where lobbing, supplier procurement commitments and public pressure can move the needle.
+
+     'Don't wash your hands of' so quickly, that's not it.
+
+     There are in fact things to account and adjust at instance level, that is OUR responsibility.
+
+     Today I want to introduce you to The Salesforce Developer Carbon Dashboard
+    url: https://www.linkedin.com/pulse/salesforce-developer-carbon-dashboard-ines-garcia-dloce/?trackingId=JY8zaMS%2FTlSzePYxNCX8Aw%3D%3D
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: personal-blog-post
+    dateFrom: 2024-10-31
+    dateTo: 2024-10-31
+    title: "Software: Greener is Leaner & Cleaner"
+    description: |
+     And THAT (chances are you are part of that 'large segment of the software-development ecosystem that cares') would be my first action oriented call for you, head over the Green Web Foundation and particularly take the course that is hosted in Linux Foundation.
+
+     In essence we all are to half our emissions by 2030. Regardless of pledges, this is UN target which is legally binding. 
+
+     We ALL, humans, as an individual, household, hobby activity, village, city, council, county, country, industry, company, department, product, team... ain't exceptions--half our emissions in all dimensions.
+
+     No small task. No time to waste.
+
+     Software is everywhere. I argue is no longer 'an industry' per se, but a fabric layer of any business. The question then becomes: how to half your software emissions.
+    url: https://www.linkedin.com/pulse/software-greener-leaner-cleaner-ines-garcia-qat4e/?trackingId=bwUSkti5RRueTQLb6rMdYw%3D%3D
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: lightning-talk
+    dateFrom: 2024-07-30
+    dateTo: 2024-07-30
+    title:  "Agile Sustainability: The Coalition of the Willing"
+    description: |
+     [LIVE session - Agilist4thePlaner]
+     Find out about the Coalition of the Willing
+     www.tiny.cc/agilesustainability
+     the Pay It Forward Scheme and how Agile & Sustainability can in fact go hand in hand, including Circular Economy Sustainable Development Goals (SDGs) and Complexity Science on this lightning talk! 
+
+     About the Speaker
+     Author | Agile & Climate Coach | Salesforce MVP Hall of Fame | www.inesgarcia.me 
+
+     I help individuals, teams and organisations to deliver better value & reduce waste (time, effort, materials energy) To focus on impact. To leave the place better than how we found: Product, People & Planet | https://tiny.cc/agilesustainability
+
+     With over a decade of dual work in Agile & Salesforce, boosted by Circular Economy & Biomimicry practices 
+
+     Active contributor to: scrumalliance.org, Agile Alliance (Sustainability Initiative), Pledge1%, Business Declares, Doughnut Economics Action Lab, Work on Climate & Business of Purpose communities, The Mentorship Central & YeurLeadin.
+     ---
+     Ready to take the first step? Sign up now and embark on this exciting journey towards a better world.
+     www.inesgarcia.me/agile-sustainability-registration
+    url: https://www.youtube.com/watch?v=z9EiYZ-WKTM&t=1s
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: keynote
+    dateFrom: 2024-05-20
+    dateTo: 2024-05-20
+    title: "Keynote: Agile Sustainability"
+    subtitle: Evolving Our Practice
+    description: As Agile practitioners product & organisation sustainability is our responsibility. In this session we will delve from the business case for Sustainability (& debunking top excuses) right into the responsibility in shaping efficient, modular and natural-capital aware products and systems. Not just by the mantra of “less is more” (simplifying & optimizing), we’ll explore the concept of Circular Economy and how can be applied to our daily practices. Skill up for what’s on-demand and what we ought to achieve within the next 6 years: The legally binding Paris Agreement. Not long!
+    url: https://leanagile.london/schedule/agile-sustainability-evolving-our-practice/
+    relatedEvent: Lean Agile London
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: lightning-talk
