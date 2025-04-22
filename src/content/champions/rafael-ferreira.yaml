@@ -52,7 +52,7 @@ activities:
     subtype: conference-talk
     dateFrom: 2024-06-01
     dateTo: 2024-06-01
-    title: GreenOps in the Cloud: Building a Sustainable Future – Tech Connection Balneário Camboriú
+    title: "GreenOps in the Cloud: Building a Sustainable Future – Tech Connection Balneário Camboriú"
     description: Speaker
     url: https://rafaelmaferreira.com.br/posts/tc.bc24/
     relatedEvent: Tech Connection Balneário Camburiú
@@ -79,7 +79,7 @@ activities:
     subtype: conference-talk
     dateFrom: 2024-02-24
     dateTo: 2024-02-24
-    title: Before Cloud Native: Building a Solid Foundation for the Cloud to Impact a Sustainable Future – KCD São Paulo - Brazil 2024
+    title: "Before Cloud Native: Building a Solid Foundation for the Cloud to Impact a Sustainable Future – KCD São Paulo - Brazil 2024"
     description: Speaker
     url: https://rafaelmaferreira.com.br/posts/kcdsp24/
     relatedEvent: KCD São Paulo
