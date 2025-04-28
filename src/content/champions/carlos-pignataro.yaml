@@ -17,6 +17,15 @@ social:
   linkedin: cpignata
   website: https://carlos.pignataro.net/
 activities:
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: 3rd-party-article
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: Environmental Sustainability Terminology and Concepts
+    description: This document defines a set of sustainability-related terms and concepts to be used while describing and evaluating the negative and positive environmental sustainability impacts and implications of Internet technologies.
+    url: https://datatracker.ietf.org/doc/draft-pignataro-green-enviro-sust-terminology/
+    relatedEvent: IETF Internet-Draft
   - contributionType: speaking
     linkedGSFProject: Green Software Champions & Experts
     subtype: podcast
