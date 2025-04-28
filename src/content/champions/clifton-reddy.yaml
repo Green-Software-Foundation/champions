@@ -1,0 +1,51 @@
+firstName: Clifton
+lastName: Reddy
+role: Web Consultant - Manager
+organization: American National Insurance
+languages: 
+  - English
+  - Hindi
+  - Telugu
+  - Marathi
+  - Little Russian
+pronoun: He/Him
+country: USA
+city: Houston
+bio: |
+ "Clifton Reddy is a seasoned software engineer and technology leader with over 24 years of experience designing and architecting enterprise-grade solutions for mission-critical business needs. He currently leads DevOps and cloud migration initiatives, driving innovation, scalability, and operational excellence across his organization. He is a Senior Member of IEEE and a Fellow of the British Computer Society (BCS). He currently serves as the Chair of the Young Professionals Affinity Group and Vice Chair of the Systems Council within the IEEE Galveston Bay Section, Region 5.
+
+ Clifton is also a passionate advocate for sustainability in tech. He serves on the leadership team of the Green Software Foundation, where he champions practices to reduce Software Carbon Intensity and organizes the Houston Chapter Meetup to grow awareness and community engagement.
+
+ As a respected thought leader, Clifton has been a guest speaker at events including FITP at the University of Houston, University of Houston–Clear Lake, and global conferences such as Conf42. He is also the author of several scholarly and industry articles focused on green software and tech career development, including:
+
+ FITP Recap – Building Better Tech Careers and Connections: https://www.linkedin.com/pulse/fitp-recap-building-better-tech-careers-connections-fitp-uh-m8q3c/
+
+ Conf42 Talk – Green Software Practices in the Real World: https://www.linkedin.com/pulse/fitp-recap-building-better-tech-careers-connections-fitp-uh-m8q3c/
+
+ reen Software Practices: A Guide for IT Leaders: https://medium.com/@cliftonreddy/green-software-practices-a-guide-for-it-leaders-to-reduce-carbon-intensity-397fb6f5fde7
+
+ ML-Driven Dynamic Optimization for Energy-Efficient Software Execution: A
+ Sustainable Approach at The 7th International Conference on Intelligent Sustainable Systems (ICISS 2025)
+ http://icoiss.com/2025/conference-schedule.html
+
+ Clifton brings a unique blend of technical depth, strategic insight, and a strong commitment to sustainable innovation in the tech industry."
+type: normal
+social:
+  github: cliftonreddy
+  linkedin: cliftonreddy
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: conference-talk
+    dateFrom: 2025-03-19
+    dateTo: 2025-03-19
+    title: Building Better Tech
+    description: "I recently led an interactive workshop focused on the intersection of software development and sustainability. Rather than just diving into code, I challenged participants to think more critically about the environmental impact of the work we do in tech.
+     Key Insights I Shared:
+     The future of AI and quantum computing demands a more mindful approach to energy consumption and emissions.
+     I explained how hardware serves as a proxy for carbon, and why increasing utilization and extending hardware lifespan are essential strategies.
+     We explored the Greenhouse Gas Protocol (Scopes 1, 2, and 3), the Software Carbon Intensity (SCI) formula, and how the Green Software Foundation's tools and frameworks can help us measure and reduce our carbon impact.
+     One eye-opening takeaway: not all fast programs are carbon-efficient—the choice of programming language can make a real difference when it comes to sustainability.
+     It was a powerful session aimed at equipping tech professionals with the knowledge to code more consciously and contribute to a greener digital future."
+    url: https://www.linkedin.com/pulse/fitp-recap-building-better-tech-careers-connections-fitp-uh-m8q3c/?trackingId=qLhouIdIQU6bCZ7d7mOVew%3D%3D
+    relatedEvent: Invited Guest Speaker
