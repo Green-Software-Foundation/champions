@@ -22,6 +22,33 @@ social:
   twitter: inescapinezka
 activities:
   - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: personal-blog-post
+    dateFrom: 2025-03-28
+    dateTo: 2025-03-28
+    title: "Legislation: Simpler Recycling (England)"
+    subtitle: and Green Software principles!
+    description: |
+     "Policy update: 29 Nov 2024 — by 31 March 2026, local authorities will be required to collect the core recyclable waste streams from all households in England.
+
+     As an Agile & climate coach, often my role is to help businesses not just comply with regulations but embrace change in a way that adds value, reduces risk, and supports long-term sustainability goals. The upcoming waste and recycling regulations present an opportunity for organisations to rethink their approach to waste management, ensuring that they align with both environmental and economic priorities.
+
+     With my Circular Economy professional hat on and also as Green Software Foundation champion, I'm going to try to outline here the principles and synergies. (Brace yourself!)"
+    url: https://www.linkedin.com/pulse/legislation-simpler-recycling-england-ines-garcia-udm8e
+  - contributionType: organizing
+    linkedGSFProject: Green Software Practitioner
+    subtype: other
+    dateFrom: 2025-03-26
+    dateTo: 2025-03-26
+    title: Agile Sustainability Practitioner programme March'25
+    subtitle: Become a Leader for Sustainable Value Creation
+    description: |
+     "Coalition of the Willing
+     A professional collaborative alliance to move the needle from “theory” to “practice” to the biggest challenges our species has faced to date.
+     4 weeks programme covering Circular Economy, SDGs (Sustainable Development Goals) and Complexity Studies.
+     More details: https://tiny.cc/agilesustainability"
+    url: https://www.linkedin.com/posts/coalition-of-the-willing_agile-sustainability-ugcPost-7318329927475367936-n2ku?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmhzuIB8WHvKmLHrp00fVugzg-NxxzG8LM
+  - contributionType: writing
     linkedGSFProject: Awesome Green Software
     subtype: personal-blog-post
     dateFrom: 2025-01-24
@@ -54,6 +81,16 @@ activities:
      Software is everywhere. I argue is no longer 'an industry' per se, but a fabric layer of any business. The question then becomes: how to half your software emissions.
     url: https://www.linkedin.com/pulse/software-greener-leaner-cleaner-ines-garcia-qat4e/?trackingId=bwUSkti5RRueTQLb6rMdYw%3D%3D
   - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2024-09-12
+    dateTo: 2024-09-12
+    title:  "Agile Sustainability: Our Responsability"
+    subtitle: Evolving Our Practice
+    description: "As Agile practitioners product & organisation sustainability is our responsibility. In this session we will delve from the business case for Sustainability (& debunking top excuses) right into the responsibility in shaping efficient, modular and natural-capital aware products and systems. Not just by the mantra of “less is more” (simplifying & optimizing), we’ll explore the concept of Circular Economy and how can be applied to our daily practices. Skill up for what’s on-demand and what we ought to achieve within the next 6 years: The legally binding Paris Agreement. Not long!"
+    url: https://agiletampere.fi/speakers2024/
+    relatedEvent: Agile Tampere
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: lightning-talk
     dateFrom: 2024-07-30
@@ -77,6 +114,36 @@ activities:
      Ready to take the first step? Sign up now and embark on this exciting journey towards a better world.
      www.inesgarcia.me/agile-sustainability-registration
     url: https://www.youtube.com/watch?v=z9EiYZ-WKTM&t=1s
+  - contributionType: writing
+    linkedGSFProject: SCI for AI
+    subtype: personal-blog-post
+    dateFrom: 2024-06-21
+    dateTo: 2024-06-21
+    title: "AI: don't be fooled by the "hype" that I got"
+    subtitle: Green Software Practitioners beware (& take informed decisions)
+    description: |
+     "Before you spin a lazy post or useless image, I think it is time...
+     that at regular intervals, we pause and reflect on how to be more effective. 
+     Then tune and adjust accordingly.
+     (rings a bell?! - Agile Manifesto) 
+     Time. Is. Now
+
+     We look at:
+     - Confronting the AI hype costs
+     - Beyond energy & sound architectural decisions
+     - Product Ethics
+     - How to get into ACTION now."
+    url: https://www.linkedin.com/pulse/ai-dont-fooled-hype-i-got-ines-garcia-1kgme/
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: conference-talk
+    dateFrom: 2024-06-13
+    dateTo: 2024-06-13
+    title: The Business Case for Sustainability
+    subtitle: and debunking top excuses
+    description: "We will delve from the business case for Sustainability (& debunking top excuses) right into the responsibility in shaping efficient, modular and natural-capital aware products and systems. Not just by the mantra of "less is more" (simplifying & optimizing), we’ll explore the myths, perspective and finance. As Agile practitioners we are key placed, let's equip you to tackle those myths of resistance."
+    url: https://www.agilists4planet.com/ines-garcia-2024
+    relatedEvent: Agilists4Planet
   - contributionType: speaking
     linkedGSFProject: Green Software Patterns
     subtype: keynote
@@ -87,6 +154,58 @@ activities:
     description: "As Agile practitioners product & organisation sustainability is our responsibility. In this session we will delve from the business case for Sustainability (& debunking top excuses) right into the responsibility in shaping efficient, modular and natural-capital aware products and systems. Not just by the mantra of “less is more” (simplifying & optimizing), we’ll explore the concept of Circular Economy and how can be applied to our daily practices. Skill up for what’s on-demand and what we ought to achieve within the next 6 years: The legally binding Paris Agreement. Not long!"
     url: https://leanagile.london/schedule/agile-sustainability-evolving-our-practice/
     relatedEvent: Lean Agile London
+  - contributionType: organizing
+    linkedGSFProject: Green Software Practitioner
+    subtype: online-event
+    dateFrom: 2024-01-01
+    dateTo: 2024-01-01
+    title: "Series: Agile Sustainability Manifesto"
+    subtitle: Signatories Agile Sustainability Manifesto
+    description: |
+     "Learning From Peers: Manifesto Series https://www.agilealliance.org/sustainability-manifesto/
+     2024 : https://www.agilealliance.org/sustainability-manifesto-signatories/
+     16 January Lisa Crispin
+     23 January Sabine Canditt
+     30 January Heather Cowap
+     6 February Sasha Akhavi
+     13 February Maryse Meinen
+     20 February Andreas Kolmer
+     27 February Anita Schuttler
+     5 March David Ajowi
+     12 March Allison Lazarz
+     19 March Carsten Pitz
+     26 March Peter Jetter
+     2 April Kaye Ricamora
+     9 April Edwin Burgers
+     16 April Saroj Adhikari
+     30 April Jutta Eckstein
+     7 May Victoria Freire Triep
+     14 May Colleen Kirtland
+     4 June Dustin Thostenson
+     11 June Helen Garcia https://www.linkedin.com/events/7193622713104560130/comments/
+     18 June Tim Schade https://www.linkedin.com/events/7203395126549696512/comments/
+     2nd July Maryse Meinen Jutta Eckstein Ines Garcia https://www.linkedin.com/events/7209147487180201984/comments/
+     16 July Henri van der Horst https://www.linkedin.com/events/7206331765953572865/comments/
+     23 July Sophia Ashley https://www.linkedin.com/events/7208859380262260736/comments/
+     30 July Ani Angelini https://www.linkedin.com/events/7216463413772722176/comments/
+     7 August María Valeria Thompson https://www.linkedin.com/events/7219002781402087425/comments/
+     13 August Joanna Masraff 🌱 https://www.linkedin.com/events/7221550682531663874/comments/
+     20 August Marco Braun https://www.linkedin.com/events/7224079863102496770/comments/
+     27 August Thomas Martin https://www.linkedin.com/events/7226977741378592768/comments/
+     3 September Damián Buonamico https://www.linkedin.com/events/7229157360689164290/comments/
+     10 September Katarina Podboj https://www.linkedin.com/events/7203782477629284352/comments/
+     1 October Willy Wijnands https://www.linkedin.com/events/7234223367845740544/comments/
+     8 October Faith Peterson https://www.linkedin.com/events/7236765753071288320/comments/ 
+     15 October Sebastian Sobeslavsky https://www.linkedin.com/events/7246909529429348353/comments/
+     22 October Martina Hofmann https://www.linkedin.com/events/7246911778259972097/comments/
+     29 October Joanne Stone https://www.linkedin.com/events/7249492011785809920/comments/
+     5 November Pia Fåk Sunnanbo https://www.linkedin.com/events/7251978550696624128/comments/
+     12 November Paul Selvadurai https://www.linkedin.com/events/7254519881696481280/comments/
+     19 November Brad Peirce https://www.linkedin.com/events/7262482366596583425/comments/
+     26 November Dr. Gail Ferreira https://www.linkedin.com/events/7259615157469818880/comments/
+     3 December Giles Lindsay (FIAP FBCS FCMI) https://www.linkedin.com/events/7257071237900775424/comments/ "
+    url: https://www.linkedin.com/pulse/learning-from-peers-manifesto-series-ines-garcia-zkf3c/
+    relatedEvent: Agile Alliance Sustainability Initiative
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: lightning-talk
