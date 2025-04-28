@@ -17,6 +17,36 @@ social:
   twitter: IMalavolta
   website: https://bsky.app/profile/imalavolta.bsky.social
 activities:
+  - contributionType: writing
+    linkedGSFProject: Green AI
+    subtype: other
+    dateFrom: 2025-04-27
+    dateTo: 2025-04-27
+    title: On-Device or Remote? On the Energy Efficiency of Fetching LLM-Generated Content
+    subtitle: Scientific publication at CAIN 2025
+    description: |
+     We recently published a scientific publication at CAIN 2025. Here is the abstract of the publication:
+
+     Context. While on-device LLMs offer higher privacy over their remotely-hosted counterparts and do not require Internet connectivity, their energy consumption on the client device still remains insufficiently investigated.
+
+     Goal. This study empirically evaluates the energy usage of client devices when fetching LLM-generated content on-device versus from a remote server. Our goal is to help software developers make informed decisions on the most energy-efficient method for fetching content in different scenarios, so as to optimize the client device’s energy consumption.
+
+     Method. We conduct a controlled experiment with seven LLMs with varying parameter sizes running on a MacBook Pro M2 and on a remote server. The experiment involves fetching content of different lengths from the LLMs deployed either on-device or remotely, while measuring the client device’s energy usage and performance metrics such as execution time, CPU, GPU, and memory usage.
+
+     Results. Fetching LLM-generated content from a remote server uses 3.5 to 8.9 times less energy compared to the on-device method, with a large effect size. We observe a consistent strong positive correlation between energy usage and execution time across all content lengths and fetch methods. For the on-device method, GPU and memory usage are positively correlated with energy usage.
+
+     Conclusions. We recommend offloading LLM-generated content to a remote server rather than generating it on-device to optimize energy efficiency on the client side. LLM maintainers should optimize on-device L
+    url: https://conf.researchr.org/details/cain-2025/cain-2025-call-for-papers/14/On-Device-or-Remote-On-the-Energy-Efficiency-of-Fetching-LLM-Generated-Content
+    relatedEvent: CAIN 2025 — 4th International Conference on AI Engineering – Software Engineering for AI
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: keynote
+    dateFrom: 2025-04-16
+    dateTo: 2025-04-16
+    title: "Software for the Planet: Energy Efficiency and Large Language Models"
+    description: Keynote in the Software Engineering track of ICT.Open 2025. ICT.Open is the national conference for all ICT research disciplines and industries in the Netherlands, and it is organized by NWO, the Dutch Research Council.
+    url: https://www.ivanomalavolta.com/ict-open-2025/
+    relatedEvent: ICT.Open 2025
   - contributionType: speaking
     linkedGSFProject: SCI Spec
     subtype: conference-talk
