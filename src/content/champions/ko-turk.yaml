@@ -18,6 +18,17 @@ social:
   twitter: KoTurk77
   website: https://bsky.app/profile/koturk.nl
 activities:
+  - contributionType: organizing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-04-03
+    dateTo: 2025-04-03
+    title: Voxxed Days Amsterdam - Sessions around sustainability
+    description: "At Voxxed Days Amsterdam, a proud part of the Devoxx family, you learn everything about Java and it's ecosystem. We spotlight Green Coding and sustainability, helping developers and architects make informed decisions about sustainable coding practices.
+
+     Join us to exchange ideas, gain new insights, and be part of the conversation shaping the future of Java and sustainable software development."
+    url: https://youtu.be/cT4FkRj6SPc?si=dFcuQizNSKQy03pe
+    relatedEvent: Voxxed Days Amsterdam
   - contributionType: speaking
     linkedGSFProject: State of Green Software
     subtype: conference-talk
