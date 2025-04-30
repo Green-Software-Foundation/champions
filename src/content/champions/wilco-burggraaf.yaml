@@ -15,6 +15,393 @@ social:
   github: WBurggraaf
   linkedin: wilco-burggraaf-a6b15517
 activities:
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: personal-blog-post
+    dateFrom: 2025-04-29
+    dateTo: 2025-04-29
+    title: "Sustainable Software, Smarter Systems: My Ongoing Journey into Green IT, AI, and Digital Impact"
+    description: |
+     "Exploring the intersection of technology, sustainability, and innovation—one story at a time. From green software and energy-aware AI to the future of digital infrastructure, this collection dives deep into the tools, mindsets, and movements shaping a smarter, more responsible tech industry. Follow along as we build what's next—sustainably."
+    url: https://medium.com/@wilco.burggraaf
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2025-04-16
+    dateTo: 2025-04-16
+    title: "Keynote at the 4TU.NIRICT (Netherlands Institute for Research on ICT)"
+    description: |
+     "Ready to deliver a keynote at the 4TU.NIRICT (Netherlands Institute for Research on ICT) on the NWO ICT.OPEN (Beatrix Theater the Royal Jaarbeurs)."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ready-to-deliver-a-keynote-at-the-4tunirict-activity-7318147332020080644-U-1I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-04-12
+    dateTo: 2025-04-12
+    title: "Voices for Climate Action: Where Storytelling Meets Climate Leadership"
+    description: |
+     "Voices for Climate Action is a powerful new program empowering women entrepreneurs across the EU to share their climate stories through podcasting. Combining vocational training, storytelling guidance, and community support, it brings regenerative values and human connection into the climate movement—where every voice, every story, and every action truly matters."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_kubernetes-greensoftware-sustainability-activity-7315430957434515457-BSE9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2025-04-08
+    dateTo: 2025-04-08
+    title: "From Carbon-Aware Kubernetes to GreenOps: A Conversation Worth Revisiting"
+    description: |
+     "In Episode 89 of the Dutch Kubernetes Podcast, Rick Slinkman and I explored how sustainable software starts with transparency. From carbon-aware scheduling to cultural shifts in daily standups, we discussed why visibility—not perfection—is key to greener cloud-native practices. Check out my reflection to dive deeper into the conversation."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_kubernetes-greensoftware-sustainability-activity-7315430957434515457-BSE9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: podcast
+    dateFrom: 2025-04-03
+    dateTo: 2025-04-03
+    title: "Unscripted, Unfiltered, Unmissable: Architect Tomorrow Podcast at Voxxed Days"
+    description: |
+     "Straight from the floor at Voxxed Days Amsterdam, Oliver and I recorded a live, unscripted episode of the Architect Tomorrow podcast. Packed with fresh insights on green IT, software architecture, and innovation, this conversation captures the energy and ideas shaping the future. Can’t wait to share it when it drops!"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_vdams25-greenit-greensoftware-activity-7313501775502663680-5wz6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Bringing Sustainability to Kubernetes: Real Tools, Real Impact"
+    description: |
+     "Kubernetes is stepping into a new role: climate-conscious engineering. With tools like KEIT and Kepler, we can now track real-time energy consumption per pod, bringing transparency and actionability to cloud-native sustainability. This is more than DevOps—it’s the future of building infrastructure that works for both business and the planet."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greenit-innovation-activity-7310392378480033792-a2I6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "From Data Centers to Communities: How GreenPT.ai Redefines Sustainable AI"
+    description: |
+     "GreenPT.ai, powered by LeafCloud, offers a sustainable, privacy-friendly alternative for AI hosting. By repurposing server heat to warm communities and running on renewable energy, it challenges the traditional data center model. Combining open-source AI models with a commitment to environmental responsibility, GreenPT.ai is a bold step toward greener, smarter AI."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ai-greenai-greenit-activity-7303643182720831488-9MSz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Building Sustainable Software Starts with Preparing Sustainable Developers"
+    description: |
+     "New research by Dennis M. Junger and Volker Wohlgemuth highlights how preparing junior developers for green coding requires more than technical skills. It’s about education, mentorship, and resilience. Their insights show how to embed sustainability into company culture, helping green software move from theory to real-world impact. The future starts now."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greencoding-greensoftware-activity-7310585114831343616-OTWb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "From Expense to Asset: Rethinking Software’s Role in Sustainability Reporting"
+    description: |
+     "AI’s rise in boardroom conversations is shifting how companies perceive digital systems—from invisible expenses to critical, material assets. This new visibility offers a rare chance to push for sustainable IT reporting under frameworks like CSRD and ESRS. By acting now, we can reshape digital sustainability for the future economy."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ai-is-changing-the-conversation-in-boardroomsand-activity-7309640788877926401-KjAi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "The Shrinking Sky: How Emissions and Space Debris Endanger Connectivity"
+    description: |
+     "A new MIT study warns that space junk and climate-driven atmospheric shrinkage could slash the number of satellites we can safely operate. With growing reliance on satellite services for connectivity, weather, and navigation, making space sustainable isn’t optional—it’s urgent. Global collaboration and smarter policies are needed before orbit becomes unmanageable."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenertogether-innovation-activity-7308749581146554370-S4s7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "The True Impact of Tech: Rethinking Digitalization for Real Sustainability"
+    description: |
+     "The IT4Green report highlights a critical truth: digital technologies can support sustainability—but only if we rigorously measure and govern their impact. From direct energy use to systemic rebound effects, digitalization must prove its environmental benefits. It's time to move beyond assumptions and prioritize real, measurable climate action in tech."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenrtogether-greenit-sustainability-activity-7308035764196421632-SAkx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Built to Last: Rethinking Sustainable Software Design for a Greener Future"
+    description: |
+     "At Dev Talents TechDay 2025, I’ll be presenting "Built to Last: The Art of Sustainable Software Design." We’ll explore how smart coding practices impact hardware longevity, energy use, and system stability—showing that true sustainability in tech isn’t just about efficiency, but about building software that endures and makes a lasting difference."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7306408709272858624-4gC7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Smarter, Greener AI: How A-SWIM Is Transforming Machine Learning Efficiency"
+    description: |
+     "Researchers from the Technical University of Munich introduced A-SWIM, a breakthrough method for training Hamiltonian Neural Networks without backpropagation. By using sampling-based training, they achieved 100x faster performance on CPUs with significantly lower energy use. This innovation paves the way for a greener, more sustainable future in machine learning."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-ai-activity-7305842177975242752-HscH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Decentralized, Private, and Now Sustainable: The Promise of GreenDFL"
+    description: |
+     "GreenDFL is reshaping the future of decentralized AI by making federated learning both privacy-first and sustainability-focused. By optimizing local training, communication, and aggregation processes, it reduces energy use without sacrificing model accuracy. As AI scales globally, frameworks like GreenDFL are crucial for aligning innovation with environmental responsibility."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenai-ai-activity-7305317881209122816-ib7q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Connecting the Dots: Engineering Challenges and Sustainable Innovation"
+    description: |
+     "Our visit to Delft University of Technology reinforced a crucial truth: sustainable innovation demands deep collaboration, precise challenge mapping, and measurable impact. From Rust optimizations to DevOps footprint research, connecting software, hardware, and real-world sustainability is key. Progress isn’t about waiting for perfect solutions—it’s about refining what’s already possible."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_today-frank-nikola-and-i-visited-delft-activity-7304940416397639680-bqAY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Using AI Wisely: Balancing Innovation and Sustainability"
+    description: |
+     "At Rabobank, I had the opportunity to discuss AI’s growing environmental impact and why sustainability must be embedded into its entire lifecycle. Smarter models, efficient hardware use, and responsible deployment can align AI innovation with planetary boundaries. The future isn’t about less tech—it’s about using technology wisely and sustainably."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ai-greenit-innovation-activity-7303491037790957568-wY9x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Beyond Computations: The Real Story Behind AI’s Energy Footprint"
+    description: |
+     "The latest Environment Variables episode dives deep into AI’s true energy impact, revealing that idle power and data movement—not just computations—are major energy drains. Featuring insights from Charles Tripp and Dawn Nafus, it’s a must-listen for anyone passionate about building more transparent, efficient, and sustainable AI systems."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ai-greenai-greenit-activity-7304037850004508672-NPpA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "Beyond Aesthetics: Exploring the Power of Sustainable Digital Design"
+    description: |
+     "DesignWhine’s latest issue brings together leading voices in digital sustainability, from UX pioneers to tech activists. Featuring insights from Thorsten Jonas, Sandy Dähnert, Tim Frick, and more, it highlights how designers and technologists are reimagining digital spaces with purpose, ethics, and environmental responsibility at the core. Action starts here."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-sustainability-activity-7302936318823616514-LDFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-03-31
+    dateTo: 2025-03-31
+    title: "From Green Software to Native Efficiency: Highlights from DEVWorld 2025"
+    description: |
+     "DEVWorld Conference was a vibrant reminder of how crucial sustainability in software has become. From ING’s insightful session on green coding practices to reconnecting with the sustainability community, the event offered fresh perspectives on building efficient, responsible technology. Small optimizations today can lead to a much greener tech future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7301517323113230336-1RJz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "From Code to Carbon: The Case for Software Material Passports"
+    description: |
+     "Software isn’t weightless—it runs on real machines, consuming real energy. A software material passport could track libraries, frameworks, and dependencies by their true cost: compute cycles, energy use, security, and longevity. It’s time to rethink software as infrastructure and make sustainability and accountability a built-in part of our systems."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7299679018646134784-YNuz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Pushing the Energy Transition Forward: Join the NCDD Symposium at IBM Amsterdam"
+    description: |
+     "On April 10th, the NCDD Symposium at IBM Amsterdam brings together tech, energy, and policy leaders to tackle the urgent challenges of the energy transition. With insights from TNO, Alliander, Conclusion, and IBM, this event focuses on turning digital innovation into real-world, scalable solutions. Big ideas meet real impact—don’t miss it."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenertogether-sustainability-activity-7298815053825265665-J3Zb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "From Ideas to Action: Shaping the Future of Sustainable IT Together"
+    description: |
+     "This March, the Sustainable IT Netherlands Meetup and GSF NL gatherings are uniting passionate minds around technology, sustainability, and innovation. With themes like regenerative intelligence and cloud sustainability, these events go beyond talks—they're about building real alliances for change. Join us to spark ideas, collaboration, and a greener future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenai-ai-greensoftware-activity-7297850860598906880-M7-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Shining a Light on AI’s Energy Use: The Launch of the AI Energy Score Leaderboard"
+    description: |
+     "Hugging Face’s AI Energy Score Leaderboard finally brings transparency to AI energy use, ranking models by kWh per 1,000 inferences. With real, comparable data across tasks like text generation and summarization, we can now factor efficiency into AI decisions—paving the way for smarter, leaner, and more sustainable AI development."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenai-ai-greensoftware-activity-7297850860598906880-M7-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "When a Movement Is Bigger Than a Slack Channel: WordPress Sustainability’s Story"
+    description: |
+     "The sudden shutdown of the WordPress Sustainability Team exposed deeper issues of governance, control, and priorities in open-source communities. But while a Slack channel was closed, the mission endures. Sustainability in digital ecosystems remains critical—and the movement continues to evolve, fueled by the passion and resilience of its people."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-softwaredevelopment-greenit-activity-7297704713804808193-wWjp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: green-software-meetup
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Why Showing Up Matters: Building Meaningful Communities in Sustainability"
+    description: |
+     "Last week’s talk on sustainability communities reminded me: real change starts with connection, not numbers. It’s not about massive platforms or endless metrics—it’s about showing up, sharing, and building spaces where people feel seen and heard. Small conversations spark big movements. Community grows when we simply keep showing up."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-greenertogether-activity-7297182831431094272-ra65?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: Celebrating Community at the GSF NL Meetup — And Looking Ahead!
+    description: |
+     "The GSF NL Meetup was an incredible gathering of the green software community, full of insights, energy, and great conversations. Despite a few speakers and attendees being down with the flu, the spirit of collaboration stayed strong. Thanks to everyone who joined—excited for even bigger things at the next meetup!"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-sustainableit-activity-7296069503975604224-FFMy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Building Software That Sustains: Schneider Electric’s Commitment to Green Innovation"
+    description: |
+     "Hervé Guirado and Schneider Electric are setting new standards in green software, blending sustainability with innovation. By reducing technical debt, integrating green principles into R&D, and actively shaping industry frameworks through the Green Software Foundation, they prove that building efficient, low-impact software is key to achieving real climate goals."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greenit-greensoftware-activity-7295339187568848896-radG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Green IT in Action: Sharing Strategies for Sustainable Software Development"
+    description: |
+     "Last Friday, I had the opportunity to speak about Green IT and Sustainable Software to leaders from Germany’s insurance sector and beyond. We explored practical tools like Equal Power Tracer and Kepler, linking code to emissions. Cross-industry collaboration like this is essential to drive real, measurable sustainability in technology."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greenit-innovation-activity-7294438694122340356-S8h_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Beyond Carbon: Digitalization’s Unequal Ecological Exchange"
+    description: |
+     "The UN’s latest report reveals a harsh truth: digitalization isn’t a climate savior—it’s an unequal ecological exchange. While developed countries reap the benefits, developing regions bear the environmental and social costs. It’s time for tech to face its global impact and prioritize a just, transparent, and sustainable digital future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-sustainableit-greensoftware-activity-7293705078543114241-55i-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Beyond Buzzwords: How the SAF-Toolkit Turns Sustainability into Action"
+    description: |
+     "Finding real, actionable insights on sustainable software isn’t easy—but the SAF-Toolkit from VU Amsterdam changes that. It offers structured, research-backed tools like the Decision Map, Dependency Matrix, and SQ Model to turn sustainability principles into measurable action. Real progress starts when we move beyond buzzwords and focus on application."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-innovation-activity-7293505145898762240-RKLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Making Your Code Greener: CO2.js and the Impact Framework in Action"
+    description: |
+     "CO2.js and the Green Software Foundation’s Impact Framework are empowering developers to measure and reduce the carbon footprint of their digital projects. By combining data transfer estimates with sustainability pipelines, these tools offer a practical starting point for building greener, more eco-conscious web experiences. Every small step toward awareness counts."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-greenertogether-activity-7293147073770627073-r45z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Beyond Reporting: Sustainability Is About Decisions, Not Just Data"
+    description: |
+     "Sustainability isn't just about emissions reports or compliance checklists—it’s about making informed decisions at every level of an organization. From strategic oversight to technical precision, impact data must be actionable and context-driven. Real change happens when the right people have the right insights to steer sustainability toward meaningful outcomes."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenertogether-sustainability-activity-7292581451957456899-Skbj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "From Idle to Impactful: Repurposing GPUs for Greener SQL Databases"
+    description: |
+     "As GPUs become more common in data centers, repurposing them for SQL databases offers a sustainable opportunity. GPU-accelerated engines like BlazingSQL, PG-Strom, and HeavyDB show how we can boost performance while cutting energy use. It’s not about replacing CPUs everywhere—it's about smarter, greener workload optimization using existing hardware."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_first-of-all-i-completely-understand-this-activity-7291519852408680448-ir4e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: internal-event-talk
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "rom Barcelona Dreams to a Global Reality: Sharing Green Coding with AXA"
+    description: |
+     "Today, I had the incredible opportunity to speak remotely with 140 passionate attendees from around the world about Green Software. We explored how smart coding practices can cut carbon emissions and drive real change. It’s inspiring to see global momentum building—one code block, one conversation, one greener future at a time."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-sustainableit-innovation-activity-7291166651922731008-Ug4v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: organizing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "The Endless Pursuit: Knowing When Optimization Becomes a Trap"
+    description: |
+     "During a Green Coding Workshop at Topicus, a powerful question emerged: "When do you stop optimizing?" It sparked a deep reflection on efficiency, impact, and the fine line between meaningful improvements and diminishing returns. In green software engineering, knowing when to pause optimization is as important as optimizing itself."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-innovation-activity-7290821374149840897-uP5q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-02-28
+    dateTo: 2025-02-28
+    title: "Green SEO: Building Faster, Smarter, and More Sustainable Websites"
+    description: |
+     "Green SEO is about more than just rankings—it's about creating faster, cleaner, and more intuitive websites. By focusing on user intent, streamlining content, and optimizing site structure, you boost both user experience and sustainability. Modern SEO means less fluff, more value, and building websites that truly serve their purpose."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_seo-greenit-greensoftware-activity-7290583692039647233-rnS4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: "Inside EQUAL: Crafting the Future of Green Software Engineering"
+    description: |
+     "Deep into EQUAL, I’m driving green software innovation with precision workflows, eco-conscious CI/CD pipelines, and high-time-resolution energy tracking. From supporting National Databank Flora & Fauna to evolving HighTech Innovators’ Green Coding Workshop, we're pushing sustainability in tech forward—measuring impact, optimizing architectures, and redefining how software development supports a greener future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greensoftware-greenit-softwaredevelopment-activity-7289919360159150081-rvcH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: A 30-Line Linux Fix That Could Cut Data Center Energy Use by 30%
+    description: |
+     "A 30-line Linux kernel tweak from the University of Waterloo could slash data center energy use by up to 30%. By optimizing CPU cache usage and introducing IRQ suspension, this practical innovation boosts performance while cutting emissions—proving that small, smart changes can drive massive global sustainability impacts."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-sustainability-innovation-activity-7289735724281548802-SY-W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: "The AI Boom: Are We Building a Future or Fueling a Collapse?"
+    description: |
+     "The explosion of AI innovation isn’t the problem—unchecked overinvestment is. Without sustainable systems to guide growth, we risk economic instability, rising debt, and environmental damage. It’s time to rethink how we manage AI’s future, balancing progress with responsibility before the tsunami of consequences becomes unstoppable."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_the-tsunami-of-ai-posts-just-keeps-growingmore-activity-7289238063455600640-Xmkr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: "Making Green Coding Actionable: Exploring e-footprint for Sustainable Software Design"
+    description: |
+     "Discovered through the Green Software Foundation, e-footprint helps model and understand the environmental impact of digital services. By simulating changes before implementation and integrating real-world data, it empowers developers to make smarter, greener decisions. Practical, accessible, and data-driven, it’s a powerful addition to any sustainable software engineering toolkit."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_sustainableit-greenit-greensoftware-activity-7288830743097573376-A7kx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: "Proud to Lead: Advancing Sustainable Software Engineering at HighTech Innovators"
+    description: |
+     "I'm thrilled to step into the role of Principal Lead of Green Software Engineering and Software Engineering at HighTech Innovators. Focused on extreme performance and sustainability, I’m committed to driving responsible innovation, supporting inclusive initiatives like Women in Tech Netherlands, and helping shape a greener, more impactful future through technology."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_yesterday-was-a-huge-moment-for-mei-officially-activity-7288453848434655234-qLkw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: "Greener AI: How FrugalGPT Reduces Costs and Carbon Footprints"
+    description: |
+     "As AI rapidly evolves, its environmental cost grows. FrugalGPT, from Databricks and Stanford researchers, offers a smarter way to reduce large language model costs and carbon footprints without sacrificing performance. Techniques like prompt adaptation and LLM cascading pave the way for greener, more efficient AI innovation."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greenertogether-greensoftware-activity-7287725601405206528-Jq3a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-01-31
+    dateTo: 2025-01-31
+    title: "Beyond SCI: The Future of Green Software Lies in Predictive Energy Optimization"
+    description: |
+     "Championing Software Carbon Intensity (SCI) has been crucial, but the future is predictive. Electricity Maps’ API forecasts carbon intensity 72 hours ahead, enabling proactive optimization for greener software operations. It’s a transformative shift—aligning IT workloads with sustainability goals through foresight, not hindsight. The future of green computing is now."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-innovation-sustainability-activity-7286672748737646593-ZBhx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
   - contributionType: speaking
     linkedGSFProject: State of Green Software
     subtype: podcast
