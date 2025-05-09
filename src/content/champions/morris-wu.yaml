@@ -14,6 +14,15 @@ social:
   linkedin: morris-wu-b42148b1
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: keynote
+    dateFrom: 2025-03-07
+    dateTo: 2025-03-07
+    title: Digital Sustainability Summit - Taiwan 2025
+    subtitle: Sustainable Software Engineering
+    description: "Amid the wave of digital transformation, green software development is spearheading a sustainable technology revolution! In this session, we will delve into the Well-Architected Framework and the practical application of Green Software, examining how to minimize carbon footprints while maintaining system performance. We will uncover cutting-edge trends in sustainable technology and share actionable techniques—from cloud architecture to code optimization—that demonstrate how software development can coexist in harmony with our planet. Join us to explore the limitless possibilities of green computing and to create high-performance, eco-friendly digital solutions!"
+    url: https://dss.ithome.com.tw/2025/agenda.html
+  - contributionType: speaking
     linkedGSFProject: Green Software Maturity Matrix
     subtype: keynote
     dateFrom: 2025-03-07
@@ -21,3 +30,20 @@ activities:
     title: Taiwan Science and Technology Sustainability Summit
     description: This sharing will delve into the practice of Well-Architected Framework and Green Software and explore how to minimize the carbon footprint while taking into account system performance. We will reveal the innovation trends of sustainable technology and share practical tips from cloud architecture to code optimization, showing how software development can coexist and prosper with the earth. Let’s explore the infinite possibilities of green computing and create efficient and environmentally friendly digital solutions!
     url: https://dss.ithome.com.tw/2025/agenda.html
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: keynote
+    dateFrom: 2024-03-29
+    dateTo: 2024-03-29
+    title: Digital Sustainability Summit 2024 - Taiwan
+    subtitle: Sustainable Software Engineering
+    description: "Amid the wave of digital transformation, green software development is spearheading a sustainable technology revolution! In this session, we will delve into the Well-Architected Framework and the practical application of Green Software, examining how to minimize carbon footprints while maintaining system performance. We will uncover cutting-edge trends in sustainable technology and share actionable techniques—from cloud architecture to code optimization—that demonstrate how software development can coexist in harmony with our planet. Join us to explore the limitless possibilities of green computing and to create high-performance, eco-friendly digital solutions!"
+    url: https://dss.ithome.com.tw/2024/agenda.html
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: meetup-talk
+    dateFrom: 2023-10-24
+    dateTo: 2023-10-24
+    title: Cloud Native Sustainability week
+    description: By sharing experiences in green software and sustainable software engineering, articulate the responsibilities and mission of an IT professional, and offer insights from the perspectives of infrastructure, development practice, and organizational management.
+    url: https://community.cncf.io/events/details/cncf-cloud-native-taiwan-user-group-presents-cncf-sustainability-week-taiwan-x-green-software-foundation/
