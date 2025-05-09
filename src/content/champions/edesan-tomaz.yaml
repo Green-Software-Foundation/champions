@@ -1,0 +1,87 @@
+firstName: Edesan
+lastName: Tomaz
+role: Cloud Solutions Architect
+organization: Banco Bradesco S/A
+languages: 
+  - Portuguese
+  - English
+pronoun: He/Him
+country: Brazil
+city: São Paulo
+bio: |
+ I'm Edesan, an IT professional with over six years of experience in Cloud Computing, specializing in Microsoft Azure. My journey began in traditional infrastructure, but I soon realized the transformative power of the cloud — since then, I've been focused on solution architecture, governance, and automation in cloud environments.
+
+ I've been working deeply with the Azure Well-Architected Framework, helping organizations build more secure, scalable, and cost-efficient environments. I'm passionate about leveraging automation to simplify management and boost the efficiency of IT teams, always with a strategic eye on cost and performance.
+
+ In 2024, I was honored to be recognized as a Microsoft MVP in Azure, a reflection of my dedication to sharing knowledge and actively engaging with the tech community. I’m also the creator of the IT LifeHacks YouTube channel, where I share practical content to help professionals and businesses accelerate their cloud journey.
+type: normal
+social:
+  github: EdesanTomaz
+  linkedin: edesan-tomaz
+  website: https://www.instagram.com/itlife.hacks/
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner
+    subtype: other
+    dateFrom: 2025-04-22
+    dateTo: 2025-04-22
+    title: Dia da Terra - Green Software Practitioners
+    description: No Dia da Terra, compartilhei minha experiência com o curso "Green Software for Practitioners" da Linux Foundation. Essa formação me proporcionou insights valiosos sobre práticas de desenvolvimento sustentável, reforçando meu compromisso com a criação de soluções tecnológicas mais ecológicas. Se você também busca reduzir o impacto ambiental da tecnologia, recomendo fortemente essa capacitação.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7320512447839150080/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-04-07
+    dateTo: 2025-04-07
+    title: FinOps sobre ambientes SaaS
+    description: Nesta publicação, compartilho insights sobre como a adoção de práticas de FinOps pode transformar a gestão financeira em ambientes SaaS. Ao implementar FinOps, é possível obter visibilidade total dos custos, otimizar recursos e tomar decisões estratégicas que impulsionam a eficiência financeira do seu negócio. Se sua empresa utiliza soluções SaaS, entender e aplicar FinOps é essencial para manter a competitividade e escalabilidade sem surpresas no orçamento
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7304818379989696516/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2024-12-20
+    dateTo: 2024-12-20
+    title: Publicação sobre o Microsoft Cloud for Sustainability
+    description: Nesta publicação, compartilho informações sobre o Microsoft Cloud for Sustainability, uma iniciativa que ajuda organizações a acelerar o progresso em sustentabilidade e impulsionar o crescimento dos negócios. O portal oferece recursos para unificar dados ESG, identificar oportunidades de infraestrutura de TI sustentável, reduzir o impacto ambiental e promover cadeias de valor sustentáveis. Uma ferramenta valiosa para empresas que buscam integrar práticas sustentáveis em suas operações.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7265650308087750657/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2024-12-18
+    dateTo: 2024-12-18
+    title: Publicação sobre Emissions Impact Dashboard da Microsoft
+    description: Nesta publicação, compartilho insights sobre o Emissions Impact Dashboard da Microsoft, uma ferramenta essencial para organizações que buscam monitorar e reduzir suas emissões de carbono associadas ao uso do Azure e Microsoft 365. Com recursos como estimativas de emissões evitadas, integração com Power BI e APIs para sustentabilidade, essa solução oferece visibilidade detalhada para apoiar metas ambientais e promover práticas de TI mais verdes.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7265363402175246336/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2024-12-16
+    dateTo: 2024-12-16
+    title: Publicação sobre Sustentabilidade no Azure Well-Architect Framework
+    description: Nesta publicação, compartilho informações sobre as novas diretrizes de sustentabilidade incorporadas ao Azure Well-Architected Framework. Desenvolvidas em colaboração com a Green Software Foundation, essas orientações ajudam arquitetos de soluções a alinhar suas cargas de trabalho na nuvem com metas ambientais, promovendo práticas de TI mais sustentáveis e eficientes.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7264563107853729795/
+  - contributionType: writing
+    linkedGSFProject: Green Software Practitioner
+    subtype: other
+    dateFrom: 2024-12-15
+    dateTo: 2024-12-15
+    title: Publicação sobre a Green Software Foundation
+    description: Nesta publicação, compartilho informações sobre a Green Software Foundation, uma organização sem fins lucrativos fundada por Accenture, GitHub, Microsoft e Thoughtworks, em parceria com a The Linux Foundation. Seu objetivo é criar um ecossistema confiável de pessoas, padrões, ferramentas e melhores práticas para o desenvolvimento de software sustentável. Destaco também o curso Green Software for Practitioners, oferecido pela The Linux Foundation, que é uma excelente introdução para profissionais de TI interessados em práticas sustentáveis no desenvolvimento de software.
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7264283761393991681/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2024-09-02
+    dateTo: 2024-09-02
+    title: "Governança no Azure: Organizando seu Ambiente de Nuvem"
+    description: Neste post, exploro como aplicar práticas de governança no Microsoft Azure para estruturar e manter um ambiente de nuvem organizado, seguro e escalável. A partir de conceitos fundamentais até recursos nativos da plataforma, compartilho insights práticos que ajudam profissionais a evitarem o caos na nuvem e a impulsionarem sua maturidade em Cloud Computing.
+    url: https://medium.com/@edesantomaz/governan%C3%A7a-no-azure-organizando-seu-ambiente-de-nuvem-f78a9aabf0a1
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: online-demo
+    dateFrom: 2024-04-20
+    dateTo: 2024-04-20
+    title: Governança no Azure - Recursos e práticas para organizar seu ambiente em Nuvem
+    description: Aprenda como estruturar e otimizar seu ambiente de nuvem no Azure com práticas eficazes de governança! Neste vídeo, Edesan Tomaz apresenta recursos e boas práticas que garantem um crescimento seguro, escalável e sustentável na nuvem. Ideal para quem quer dominar a gestão de ambientes cloud com eficiência e controle.
+    url: https://www.youtube.com/watch?v=w1b4uv_XRdQ
+    relatedEvent: Global Azure 2024
