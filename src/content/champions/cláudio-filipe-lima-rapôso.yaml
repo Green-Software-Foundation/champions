@@ -1,0 +1,29 @@
+firstName: Cláudio Filipe
+lastName: Lima Rapôso
+role: Systems Architect Project Lead
+organization: NTT Data
+languages: 
+  - Portugese
+  - English
+  - Spanish
+pronoun: He/Him
+country: Brazil
+city: São José
+bio: |
+  At NTT DATA Europe & Latam, my role as a Systems Architect harnesses the power of Typescript, Java and Phyton to creating robust and scalable solutions. My expertise in these technologies not only shapes complex systems but also elevates the tech landscape through cutting-edge implementations. Teaching at UniAnchieta, Faculdade Prepara and Faculdade Microlins, I blend technical prowess with educational innovation, delivering courses in client-side programming and algorithms that shape the next generation of developers.
+
+  My mission is to drive progress at the intersection of technology,education and Green tecnologies. With a focus on specific data structures and algorithmic thinking, I empower students to excel in the digital era. As a constant learner, I'm immersed in a Master's program in Business Administration with a Digital Marketing Concentration, where I refine the strategies that underpin my approach to systems architecture and pedagogy. My approach is grounded in practical experience and a commitment to fostering an environment where technology meets real-world needs.
+type: normal
+social:
+  github: sertaoseracloud
+  linkedin: cfraposo
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: meetup-talk
+    dateFrom: 2024-10-22
+    dateTo: 2024-10-22
+    title: "Otimizando DevEx e Sustentabilidade: Como o Backstage Transforma Infraestruturas com GreenOps"
+    description:  A crescente demanda por eficiência operacional e sustentabilidade em infraestruturas de TI desafia empresas a encontrar soluções que otimizem o uso de recursos, reduzam custos e garantam a experiência dos desenvolvedores. Como alinhar práticas de DevOps com iniciativas sustentáveis como o GreenOps? 
+    url: https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/
+    relatedEvent: "#27 Cloud Native São Paulo - Sustainability Day na AWS"
