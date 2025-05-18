@@ -1,0 +1,63 @@
+firstName: Dennis
+lastName: Adrians
+role: Cloud Architect
+organization: QUIBIQ Hamburg GmbH
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Germany
+city: Hamburg
+bio: |
+ I am working as Cloud Architect at QUIBIQ, a company specialized on integration solutions based on the Microsoft stack. I have over a decade of experience in implementing cloud solutions on Azure. Starting in 2013 as an Azure developer, I am now focusing on the optimization of cloud architectures and operations for sustainability since about a year. Additionally trying to spread the word as much as possible.
+type: normal
+social:
+  github: denadr
+  linkedin: dennis-adrians-227086138
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-demo
+    dateFrom: 2025-05-09
+    dateTo: 2025-05-09
+    title: LightSwitchOps
+    subtitle: have you tried turning it off and on again?
+    description: Demonstration on how to apply LightSwitchOps on Azure.
+    url: https://global.azure.hamburg/
+    relatedEvent: Global Azure 2025 (Hamburg)
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: online-event
+    dateFrom: 2025-03-25
+    dateTo: 2025-03-25
+    title: IAMCP Business Circle Sustainability
+    subtitle: Webinar
+    description: Hosting a webinar for Microsoft community partners. Domain experts invited to speak about sustainability in IT.
+    url: https://www.eventbrite.de/e/sei-ganz-vorne-mit-dabei-wettbewerbsvorteile-durch-eine-esg-strategie-tickets-1098772200229
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-02-20
+    dateTo: 2025-02-20
+    title: "Roundtable: Zukunftsfähigkeit durch ESG: Praxisnahe Strategien für CO2-Bilanzierung und Mitarbeiterpartizipation"
+    description: Practical report on how to kick off the sustainability journey in an IT company.
+    url: https://iamcp.de/resharp2025/
+    relatedEvent: "IAMCP re:sharp 2025"
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: online-event
+    dateFrom: 2024-11-19
+    dateTo: 2024-11-19
+    title: IAMCP Business Circle Sustainability
+    subtitle: Webinar
+    description: Hosting a webinar for Microsoft community partners. Domain experts invited to speak about sustainability in IT.
+    url: https://www.youtube.com/watch?v=KESkKuSEy_M
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: online-event
+    dateFrom: 2024-09-25
+    dateTo: 2024-09-25
+    title: IAMCP Business Circle Sustainability
+    subtitle: Webinar
+    description: Hosting a webinar for Microsoft community partners. Domain experts invited to speak about sustainability in IT.
+    url: https://www.youtube.com/watch?v=4PWPzS6DxnY
