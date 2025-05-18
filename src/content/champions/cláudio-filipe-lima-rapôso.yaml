@@ -18,12 +18,27 @@ social:
   github: sertaoseracloud
   linkedin: cfraposo
 activities:
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2025-05-19
+    dateTo: 2025-05-19
+    description: A transformação digital revolucionou a forma como empresas operam, mas também trouxe um desafio urgente: o impacto ambiental das operações de TI. Data centers funcionam 24 horas por dia, consumindo grandes quantidades de energia para manter servidores e sistemas de resfriamento. Nesse cenário, surge o GreenOps, uma abordagem que une eficiência operacional com responsabilidade ambiental. E quando combinamos isso com o Azure Well-Architected Framework (WAF), temos uma estratégia poderosa para construir soluções tecnológicas sustentáveis e inteligentes.
+    url: https://dev.to/sertaoseracloud/greenops-e-azure-well-architected-framework-2oo
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2025-05-14
+    dateTo: 2025-05-14
+    title: "🌱 Automatizando Indicadores de Sustentabilidade com GitHub Actions e Azure Data Lake"
+    description: Em projetos de sustentabilidade digital — como GreenOps e Green Software — é comum criar e manter critérios de maturidade em arquivos como maturity.json. Embora o formato JSON seja simples, ele precisa ser versionado, rastreável e armazenado com segurança em nuvem. Este artigo mostra como automatizar o envio e versionamento desse arquivo usando GitHub Actions e Azure Data Lake Storage Gen2 (ADLS Gen2), sem depender de etapas manuais ou ferramentas pesadas.
+    url: https://dev.to/sertaoseracloud/automatizando-indicadores-de-sustentabilidade-com-github-actions-e-azure-data-lake-4j1
   - contributionType: speaking
     linkedGSFProject: Other/Unlisted
     subtype: meetup-talk
     dateFrom: 2024-10-22
     dateTo: 2024-10-22
     title: "Otimizando DevEx e Sustentabilidade: Como o Backstage Transforma Infraestruturas com GreenOps"
-    description:  A crescente demanda por eficiência operacional e sustentabilidade em infraestruturas de TI desafia empresas a encontrar soluções que otimizem o uso de recursos, reduzam custos e garantam a experiência dos desenvolvedores. Como alinhar práticas de DevOps com iniciativas sustentáveis como o GreenOps? 
+    description: A crescente demanda por eficiência operacional e sustentabilidade em infraestruturas de TI desafia empresas a encontrar soluções que otimizem o uso de recursos, reduzam custos e garantam a experiência dos desenvolvedores. Como alinhar práticas de DevOps com iniciativas sustentáveis como o GreenOps? 
     url: https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/
     relatedEvent: "#27 Cloud Native São Paulo - Sustainability Day na AWS"
