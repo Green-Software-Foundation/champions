@@ -1,0 +1,81 @@
+firstName: Rut
+lastName: Palmero
+role: Project Manager and Technical support
+languages: 
+  - Spanish
+  - English
+  - French
+pronoun: She/Her
+country: Spain
+city: Valladolid
+bio: |
+ "I’m Rut Palmero. I live in Valladolid (Spain). I have a Master in IT and more than 20 years experience in the field. What I like the most is doing different things, learning a little bit about everything. That is why I have developed a variety of profiles throughout my career, always connected with technology: systems administration, teaching, research, project management... I have also lived and worked in different places (Spain, Argentina, Brazil, Namibia, Afghanistan...), what gave me the opportunity to work in multicultural teams, having to accommodate to different points of view and cultural backgrounds.
+
+ My actual primary role is Delivery Manager, overseeing various projects and teams that involve different technologies, such as Smart Buildings, DevOps, and AI. This role, along with my previous experience as a Research Project Director, closely aligns with the position I am applying for. But since I worked as a lecturer for many years, and I like teaching and learning, I also collaborate with an online university. And because I like to be close to innovation activities, I collaborate with entities in the evaluation of the viability of research projects. It might seem like a lot of things, but I have the ability to organize my time and be efficient.
+
+ In 2019, I joined a decarbonization group at the company I was working for, and that’s where I first got into the topic. I was surprised I hadn’t realized earlier the impact my tech-related decisions could have on the environment. I’ve always cared about sustainability and try to be frugal when it comes to using resources, so I was excited to bring that mindset into my professional life too.
+ Later on, at the company where I carry out my main activity, I set up a group of experts in different technologies with the goal of self-training in Green IT. The idea was to gradually bring the good practices we learned into the design of our products and services. Unfortunately, the initiative didn’t take off. Sustainability is still seen as a cost, and client demand is low, so there’s little understanding of why it’s worth investing on it.
+
+ With everything I’d learned, I created a course and published it in the catalog of a training company I was already collaborating with. I believe it’s the first Green IT course in Spanish (link). Through some contacts in the sustainability world, I got in touch with the Green Software Foundation, and now I’m the Coordinator of the MeetUp Community in Spain. The community keeps growing — we started building it earlier this year with support from the GSF — and we’re now also collaborating with the friendly community in Colombia, in Spanish.
+ Recently, I started teaching a Software Ecodesign course for a major software company in Spain, and I’ve also given a few environmental awareness talks in IT, both at companies and in schools for younger kids."
+type: normal
+social:
+  github: rutpal
+  linkedin: rutpal
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: other
+    dateFrom: 2025-04-23
+    dateTo: 2025-04-23
+    title: Training in software eco-design for Indra
+    description: Indra approached me to develop a software ecodesign course as part of a training program they are implementing for all employees, which also includes engineers from other areas. They found the software field difficult to cover, given that there are no people with the appropriate knowledge. They are currently undergoing training, and the evaluations so far have been very positive. There is interest in training other groups of people.
+    url: https://www.flickr.com/photos/eoi/albums/72177720325361850/
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-04-16
+    dateTo: 2025-04-16
+    title: Environmental awareness talk on ICT for young people.
+    description: A talk on the environmental impact of ICTs was given at a secondary school, where students were amazed at the environmental consequences of their use of technology.
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: meetup-talk
+    dateFrom: 2025-02-20
+    dateTo: 2025-02-20
+    title: Coordinator of the Spanish Meetup community for the Green Software Foundation
+    description: Creación del equipo que propone actividades online a llevar a cabo con el objetivo de sensibilizar a los profesionales en España sobre la necesidad de incluir en el ciclo de vida del software buenas prácticas medioambientales. Coordinación con organizadores de otros sitios a través del canal de Slack.
+    url: https://www.meetup.com/gsf-spain/?eventOrigin=home_groups_you_organize
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2024-10-10
+    dateTo: 2024-10-10
+    title: Environmentally Sustainable Software Development Course (Green Software)
+    description: Online course published in a catalog by ADR Formación. It's possibly the only course on this topic in Spanish. It has been very well received.
+    url: https://www.adrformacion.com/cursos/greensoft/greensoft.html
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2023-11-20
+    dateTo: 2023-11-20
+    title: Participation in the roundtable on sustainability in AI
+    description: The College of Computer Engineers of Catalonia (GRAUSTIC) organizes an annual conference series called "Diada TIC." I participated in a roundtable discussion on the impact of sustainability on ICT.
+    url: https://www.youtube.com/watch?v=BeKh230oEq8
+    relatedEvent: Diada de les TIC a Catalunya
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2023-01-02
+    dateTo: 2023-01-02
+    title: Training of employees at Getronics.
+    description: Talks at various levels, from employees to company executives, on the need to incorporate good environmental practices into our professional development.
+    url: https://www.getronics.com/getronics-launches-its-new-sustainability-plan-in-spain/
+  - contributionType: organizing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2022-11-02
+    dateTo: 2022-11-02
+    title: Creation of the IT working group at Getronics.
+    description: As part of the company's sustainability team, I created a working group with experts from different areas to investigate how software sustainability practices could be incorporated into our products and services. To do so, I self-taught myself for a period of time.
+    url: https://www.linkedin.com/in/rutpal/
