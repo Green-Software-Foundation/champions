@@ -18,6 +18,27 @@ social:
   twitter: KoTurk77
   website: https://bsky.app/profile/koturk.nl
 activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2025-05-27
+    dateTo: 2025-05-27
+    title: "From Space to Code: Using NASA's Open Data APIs with Kepler"
+    description: |
+     "Exploring NASA’s Open APIs for a Sustainable Future 🌍
+
+     In this session, we explore NASA’s vast open APIs, unlocking data from across our solar system to build applications that educate, inspire, and promote sustainability.
+
+     Key topics included:
+     ✨ APOD – Stunning space imagery that reveals the universe’s mysteries.
+     🔴 Mars Exploration – Insights into future missions and human habitation.
+     🪐 Exoplanet Discoveries – The search for life beyond Earth.
+     🌏 Earth Observation – Using satellite data to analyze climate and environmental health.
+
+     We will demonstrate Kepler, a tool for measuring power efficiency in applications, helping developers optimize their impact.
+
+     Harnessing NASA’s data, we took steps toward a more sustainable digital future, one line of code at a time! 🌱💡"
+    url: jnation.pt
   - contributionType: organizing
     linkedGSFProject: State of Green Software
     subtype: other
