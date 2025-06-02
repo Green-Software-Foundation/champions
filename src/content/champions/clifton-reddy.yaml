@@ -37,6 +37,41 @@ activities:
   - contributionType: speaking
     linkedGSFProject: Green Software Practitioner
     subtype: conference-talk
+    dateFrom: 2025-05-16
+    dateTo: 2025-05-16
+    title: "Greening the Stack: Sustainable AI and Tech Infrastructure from Dev to Deploy"
+    description: |
+     "It was a privilege to be the keynote speaker to discuss a topic of growing importance — the intersection of climate action and the digital technology industry. I spoke about how it was our responsibility as professionals in this space we had the opportunity to ddress one of the defining challenges of our time: the climate crisis. I aimed to explore how our work in software could contribute meaningfully to global sustainability efforts, and how practical frameworks and community initiatives were making this vision a reality.
+     The conversation covered the urgency of climate action in our field, the principles and practices of green software, practical frameworks for carbon reduction, the importance of ethical AI development, integrating sustainable DevOps practices — including scientific calculations within pipelines — and the role of community and collaboration in driving lasting change."
+    url: https://srmmcet.edu.in/srm-events/international-conference/
+    relatedEvent: "International Conference  on  ENGINEERING HORIZONS:  INNOVATION, ADVANCEMENTS, & SUSTAINABILITY  (ICON: EHIAS’25)"
+  - contributionType: speaking
+    linkedGSFProject: SCI Guide
+    subtype: internal-event-talk
+    dateFrom: 2025-04-29
+    dateTo: 2025-04-29
+    title: Software Development and Environmental Sustainability
+    description: |
+     "I was presented with an opportunity to participate as an invited guest speaker at the recent event conducted by the University of Houston–Clear Lake. It was an honor to engage with students and faculty as an industry professional with over two decades of experience in delivering impactful technology solutions across the STEM disciplines.
+
+     During my session, I aimed to provide students with a timely and meaningful perspective on the evolving relationship between software development and environmental sustainability. By introducing software carbon emissions as a non-functional requirement, I encouraged attendees to rethink how they design and build systems, emphasizing sustainability as an essential aspect of modern software architecture.
+
+     I also had the opportunity to discuss the Software Carbon Intensity (SCI) formula, the Greenhouse Gas Protocol (Scopes 1, 2, and 3), and the practical tools offered by the Green Software Foundation. These resources, I believe, provide valuable, real-world strategies that students can carry forward into their future careers. My goal was to connect complex technical concepts with actionable sustainability practices in a way that was both accessible and impactful."
+    url: https://github.com/cliftonreddy/presentations/blob/main/Guest%20Speaker%20Letter.pdf
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: internal-event-talk
+    dateFrom: 2025-04-16
+    dateTo: 2025-04-16
+    title: Green Software - An Insight into Decarbonizing Software Solutions
+    description: |
+     "I delivered a presentation to the Application Development and IT Operations teams at my organization, with over 100 IT professionals joining from various locations across the United States. I used this opportunity to shed light on the topic of carbon emissions resulting from software-related activities and their broader environmental impact.
+
+     During the session, I introduced practical methods for measuring our carbon footprint, highlighting real-time examples through the use of the Impact Framework. Additionally, I conducted a detailed demonstration covering the three core principles of Green Software: Energy Efficiency, Hardware Efficiency, and Carbon Awareness. It was a valuable platform to raise awareness and encourage more sustainable practices within our technology operations."
+    url: https://github.com/cliftonreddy/presentations/blob/main/ADS%20Lunch%20%26%20Learn%20-%20Reddy%2C%20Clifton%20-%20Outlook.pdf
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: conference-talk
     dateFrom: 2025-03-19
     dateTo: 2025-03-19
     title: Building Better Tech
