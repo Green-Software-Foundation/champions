@@ -1,0 +1,25 @@
+firstName: Rene
+lastName: Bostic
+role: Independent Consultant
+organization: IBM (Retired)
+languages: 
+  - English
+country: United States
+city: Atlanta
+bio: |
+ Rene Bostic is a technical professional passionate about driving green software innovation through AI-enabled solutions. With 20 years of global executive leadership at IBM, she steered the technical sales agenda for worldwide IBM Sustainability Software, partnering internally and externally to deliver technological advancements that aid companies in achieving their sustainability goals. Rene has in-depth expertise in presenting and demonstrating sustainability topics, including ESG Reporting, Climate Risk, Sustainable Operations, Green IT, and Supply Chain Circularity. She is a member of the International Society of Sustainability Professionals.
+type: normal
+social:
+  github: rrenebostic
+  linkedin: renebostic
+  website: https://medium.com/@renebostic
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2025-05-27
+    dateTo: 2025-05-27
+    title: Top 5 Ways to Work with Suppliers to Reduce Emissions
+    subtitle: ESG (Environmental, Social, and Governance) in utilities
+    description: Rene Bostic will be presenting at the World Utilities Congress, taking place from 27 - 29 May 2025 in Abu Dhabi (UAE). As the world shifts towards a sustainable energy future, the World Utilities Congress will be pivotal in addressing the challenges and opportunities surrounding energy transition, water security, and digitization. Bringing together industry leaders, policymakers, and innovators, the event offers a unique opportunity to showcase groundbreaking technologies, forge strategic partnerships, and explore investment prospects. 
+    relatedEvent: World Utilities Congress
