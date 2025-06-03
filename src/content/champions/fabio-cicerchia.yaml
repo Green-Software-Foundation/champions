@@ -1,0 +1,27 @@
+firstName: Fabio
+lastName: Cicerchia
+role: Head of Platform Engineering
+organization: Treatwell
+languages: 
+  - Italian
+  - English
+pronoun: He/Him
+country: Italy
+city: Rome
+bio: I’m a passionate Engineer and Engineering Manager with nearly 20 years of experience, focusing on optimising architecture and infrastructure (containers and VMs) as well as processes (pipelines and deployments). My career journey has been quite diverse, moving from freelancing to various roles such as employee, start-up founder, CTO, and alternating between software engineering and management. This varied experience has given me hands-on exposure across numerous industries and markets, helping me develop a thorough understanding of the entire web application life cycle, from gathering requirements to maintenance. My primary focus is bringing value by helping engineering teams in delivering value faster with higher standards.
+type: normal
+social:
+  github: fabiocicerchia
+  linkedin: fabiocicerchia
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: book
+    dateFrom: 2025-05-17
+    dateTo: 2025-05-17
+    title: GreenOps & GreenCoding
+    subtitle: Practical Approaches for Sustainable Software
+    description: |
+     This book is a practical roadmap to building sustainable software systems. Learn how to make your code and architectures more energy-efficient, adopt GreenOps practices for cloud and DevOps, and embrace lifecycle thinking from development to decommissioning.
+     Packed with real-world strategies, examples, and frameworks, it’s an essential guide for developers, architects, DevOps engineers, and CTOs who want to shape a more sustainable future through technology.
+    url: https://leanpub.com/greenops
