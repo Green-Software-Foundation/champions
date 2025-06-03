@@ -14,6 +14,14 @@ social:
   linkedin: luc-weinbrecht
 activities:
   - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: internal-event-talk
+    dateFrom: 2025-05-27
+    dateTo: 2025-05-27
+    title: Introduction into Green BPM
+    subtitle: Guest Lecture at University of Applied Sciences Karlsruhe
+    description: This introduction to the topic of to Green Business Process Management (BPM) explores how companies can align ecological responsibility with economic performance by adopting environmentally sustainable process designs. It highlights key concepts such as carbon awareness and time shifting, demonstrating how these strategies help reduce the carbon footprint of business processes while enabling more efficient resource utilization through optimized timing.
+  - contributionType: speaking
     linkedGSFProject: State of Green Software
     subtype: internal-event-talk
     dateFrom: 2024-12-15
