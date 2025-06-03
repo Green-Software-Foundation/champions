@@ -21,6 +21,23 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: gsf-article
+    dateFrom: 2025-04-25
+    dateTo: 2025-04-25
+    title: Core Carbon Principles 
+    subtitle: (ICVCM, CCPs, and Green Software Principles)
+    description: |
+     "Since 2021... yet most who I spoke with this week didn't know know about The Core hashtag#Carbon Principles from the hashtag#ICVCM.
+     So here I go, the what, the how and the why.
+     With a pinch of hashtag#GreenSoftware
+
+     Have you come across them? Do you have a framework in place for them? How (and if) do you handle hashtag#Offsets?
+
+     hashtag#ClimateAction now.
+     hashtag#Sustainability"
+    url: https://www.linkedin.com/pulse/core-carbon-principles-icvcm-ccps-green-software-ines-garcia-lpsee/?trackingId=jshGJi9dyfxq4fSTFEaxvQ%3D%3D
   - contributionType: organizing
     linkedGSFProject: Green Software Practitioner
     subtype: other
