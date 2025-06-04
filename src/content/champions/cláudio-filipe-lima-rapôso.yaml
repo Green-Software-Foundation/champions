@@ -23,7 +23,8 @@ activities:
     subtype: personal-blog-post
     dateFrom: 2025-05-19
     dateTo: 2025-05-19
-    description: A transformação digital revolucionou a forma como empresas operam, mas também trouxe um desafio urgente: o impacto ambiental das operações de TI. Data centers funcionam 24 horas por dia, consumindo grandes quantidades de energia para manter servidores e sistemas de resfriamento. Nesse cenário, surge o GreenOps, uma abordagem que une eficiência operacional com responsabilidade ambiental. E quando combinamos isso com o Azure Well-Architected Framework (WAF), temos uma estratégia poderosa para construir soluções tecnológicas sustentáveis e inteligentes.
+    title: ""
+    description: "A transformação digital revolucionou a forma como empresas operam, mas também trouxe um desafio urgente: o impacto ambiental das operações de TI. Data centers funcionam 24 horas por dia, consumindo grandes quantidades de energia para manter servidores e sistemas de resfriamento. Nesse cenário, surge o GreenOps, uma abordagem que une eficiência operacional com responsabilidade ambiental. E quando combinamos isso com o Azure Well-Architected Framework (WAF), temos uma estratégia poderosa para construir soluções tecnológicas sustentáveis e inteligentes."
     url: https://dev.to/sertaoseracloud/greenops-e-azure-well-architected-framework-2oo
   - contributionType: writing
     linkedGSFProject: Other/Unlisted
