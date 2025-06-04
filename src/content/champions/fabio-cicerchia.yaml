@@ -22,6 +22,14 @@ activities:
     title: GreenOps & GreenCoding
     subtitle: Practical Approaches for Sustainable Software
     description: |
-     This book is a practical roadmap to building sustainable software systems. Learn how to make your code and architectures more energy-efficient, adopt GreenOps practices for cloud and DevOps, and embrace lifecycle thinking from development to decommissioning.
+     "This book is a practical roadmap to building sustainable software systems. Learn how to make your code and architectures more energy-efficient, adopt GreenOps practices for cloud and DevOps, and embrace lifecycle thinking from development to decommissioning.
      Packed with real-world strategies, examples, and frameworks, it’s an essential guide for developers, architects, DevOps engineers, and CTOs who want to shape a more sustainable future through technology.
-    url: https://leanpub.com/greenops
+     In the book GreenOps & GreenCoding, you’ll find a practical guide for building more sustainable software systems.
+
+     - Discover how to optimise code and architectures for energy efficiency.
+     - Learn how GreenOps practices can make cloud and DevOps workflows greener.
+     - Understand lifecycle thinking: from development to decommissioning.
+     - Real-world strategies, examples, and frameworks you can apply immediately.
+
+     Let’s write better software, for people and the planet. 🌍"
+    url: https://greenops.fabiocicerchia.it/
