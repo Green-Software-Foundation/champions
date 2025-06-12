@@ -17,6 +17,15 @@ social:
   linkedin: arne-tarara
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-demo
+    dateFrom: 2025-05-27
+    dateTo: 2025-05-27
+    title: Blauer Engel für Software - Messaufbau
+    description: This talk covers why and how to measure software energy use—for understanding, tracking, optimizing, and reporting around the German Blue Angel for Software and introduces the Green Metrics Tool. Real-world examples, including work with Nextcloud, illustrate the data, time, and setup needed for certification. Website measurement and the large differences in their energy use are also discussed.
+    url: https://www.youtube.com/watch?v=lyMOGZZ0QZE
+    relatedEvent: Bundesverband Green Software - Lunch&Learn
+  - contributionType: speaking
     linkedGSFProject: GSF Meetup Network
     subtype: meetup-talk
     dateFrom: 2025-04-01
