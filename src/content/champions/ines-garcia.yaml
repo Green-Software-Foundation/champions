@@ -21,6 +21,26 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2025-06-12
+    dateTo: 2025-06-12
+    title: Agile Sustainability Practitioner programme June'25
+    subtitle: Become a Leader for Sustainable Value Creation
+    description: |
+     "Coalition of the Willing A professional collaborative alliance to move the needle from “theory” to “practice” to the biggest challenges our species has faced to date. 4 weeks programme covering Circular Economy, SDGs (Sustainable Development Goals) and Complexity Studies."
+    url: https://tiny.cc/agilesustainability
+  - contributionType: writing
+    linkedGSFProject: Impact Framework (IF)
+    subtype: personal-blog-post
+    dateFrom: 2025-06-03
+    dateTo: 2025-06-03
+    title: FREE - Impact Framework (GSF)
+    subtitle: Become a Leader for Sustainable Value Creation
+    description: |
+     "Still to-date I'm surprised how peeps in the tech sector do not know about the Green Software Foundation’s (GSF) Impact Framework, we had a call as GSF Champions recently about the latest and greatest. Which triggered me to do my bit to share about this commons (opens-source) resource."
+    url: https://www.linkedin.com/pulse/free-impact-framework-gsf-ines-garcia-ir3ke/
   - contributionType: writing
     linkedGSFProject: Other/Unlisted
     subtype: gsf-article
@@ -66,6 +86,36 @@ activities:
 
      Today I want to introduce you to The Salesforce Developer Carbon Dashboard
     url: https://www.linkedin.com/pulse/salesforce-developer-carbon-dashboard-ines-garcia-dloce/?trackingId=JY8zaMS%2FTlSzePYxNCX8Aw%3D%3D
+  - contributionType: organizing
+    linkedGSFProject: Other/Unlisted
+    subtype: online-event
+    dateFrom: 2025-01-01
+    dateTo: 2025-01-01
+    title: "Series: Agile Sustainability Manifesto"
+    subtitle: Agile Alliance Sustainability Initiative
+    description: |
+     "Learning From Peers: Manifesto Series
+     https://www.agilealliance.org/sustainability-manifesto/ 2025 : 
+     https://www.agilealliance.org/sustainability-manifesto-signatories/
+     
+     28 January Lenuta Alina Thapliyal https://www.linkedin.com/events/7267214578852286466/comments/
+     4 February Daniele Davi' https://www.linkedin.com/events/7267219801171750912/comments/
+     11 February Heiko Erhardt https://www.linkedin.com/events/7269756813892329473/comments/
+     18 February Soledad González Arismendi https://www.linkedin.com/events/7290047893841805314/comments/
+     25 February Richelle Bixler, SPC, RTE https://www.linkedin.com/events/7292588047450136576/comments/
+     4 March Craig Cockburn https://www.linkedin.com/events/7297654201877196802/comments/
+     11 March Dominika Bula https://www.linkedin.com/events/7297656043747045377/comments/
+     18 March Allen Gunderson https://www.linkedin.com/events/7300196339823300608/about/
+     25 March David Barnholdt https://www.linkedin.com/events/7302729698541731848/comments/
+     8 April James (Jimi) McManus, SPC 6, PAL-EBM, ICC-ACC, ICA-POPM/Coach https://www.linkedin.com/events/7305267587536306177/comments/ 
+     15 April Boris Steiner https://www.linkedin.com/events/7307806341652201472/comments/
+     22 April Andrea Pinna https://www.linkedin.com/events/7317932167668424704/comments/
+     6 May Evelina Dineva https://www.linkedin.com/events/7318169329676521472/comments/
+     13 May Richard Metcalf https://www.linkedin.com/events/7320476319434117120/
+     17 June Deepti Jain https://www.linkedin.com/events/7338189505457278976/comments/
+     8 July Uula Muoniovaara https://www.linkedin.com/events/7328739242208038912/comments/ "
+    url: https://www.linkedin.com/pulse/learning-from-peers-manifesto-series-ines-garcia-zkf3c/
+    relatedEvent: Agile Alliance Sustainability Initiative
   - contributionType: writing
     linkedGSFProject: Green Software Patterns
     subtype: personal-blog-post
