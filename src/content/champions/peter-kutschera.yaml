@@ -15,6 +15,44 @@ social:
   linkedin: peter-kutschera-a27345260
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2025-06-03
+    dateTo: 2025-06-03
+    title: Ist Clean gleich Green? – Wir haben nachgemessen
+    description: |
+     "Have you been using the Clean Architecture Pattern for years? Then you certainly know its advantages and disadvantages: It provides a clear structure, facilitates maintainability and clearly separates responsibilities. The advantages are valuable - and we have accepted the disadvantages.
+
+     But have you ever asked yourself whether clean architecture is also ecologically sustainable? Does ‘clean’ automatically mean ‘green’?
+
+     In our presentation, we will get to the bottom of this exciting question. We will look at different levels of architecture - from system architecture to integration architecture and application architecture - and analyse the impact that clean architecture has on the sustainability of software. We base our statements on concrete measurements and offer practical insights into how a well thought-out software architecture can contribute to ecological sustainability. "
+    url: https://entwicklertag.de/programm/ist-clean-gleich-green
+    relatedEvent: Karlsruher Entwicklertag 2025
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2025-03-24
+    dateTo: 2025-03-24
+    title: Ist Clean gleich Green? – Wir haben nachgemessen
+    description: |
+     "Have you been using the Clean Architecture Pattern for years? Then you certainly know its advantages and disadvantages: It provides a clear structure, facilitates maintainability and clearly separates responsibilities. The advantages are valuable - and we have accepted the disadvantages.
+
+     But have you ever asked yourself whether clean architecture is also ecologically sustainable? Does ‘clean’ automatically mean ‘green’?
+
+     In our presentation, we will get to the bottom of this exciting question. We will look at different levels of architecture - from system architecture to integration architecture and application architecture - and analyse the impact that clean architecture has on the sustainability of software. We base our statements on concrete measurements and offer practical insights into how a well thought-out software architecture can contribute to ecological sustainability. "
+    url: https://clean-architecture.bettercode.eu/veranstaltung-83348-se-0-ist-clean-gleich-green--wir-haben-nachgemessen.html
+    relatedEvent: betterCode() Clean Architecture 2025
+  - contributionType: writing
+    linkedGSFProject: Green Software Speakers
+    subtype: 3rd-party-article
+    dateFrom: 2024-08-30
+    dateTo: 2024-08-30
+    title: Wie Softwarearchitekten zur Nachhaltigkeit beitragen können
+    description: |
+     "The climate crisis is mainly caused by the burning of fossil fuels. However, the IT industry also contributes significantly to global carbon dioxide emissions. It is therefore important that we take measures to reduce CO2 emissions. This can only succeed if we see energy efficiency as part of our quality requirements. We achieve the best results when this aspect is taken into account in the requirements, architecture and implementation through to operation. "
+    url: https://www.sigs.de/artikel/wie-softwarearchitekten-zur-nachhaltigkeit-beitragen-koennen/
+    relatedEvent: IT Spektrum Ausgabe 5/2024
+  - contributionType: speaking
     linkedGSFProject: Green Software Patterns
     subtype: meetup-talk
     dateFrom: 2023-12-05
