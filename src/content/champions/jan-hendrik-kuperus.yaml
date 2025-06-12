@@ -21,6 +21,14 @@ social:
   linkedin: jhkuperus
   twitter: jhkuperus
 activities:
+  - contributionType: hosting
+    linkedGSFProject: GSF Meetup Network
+    subtype: all
+    dateFrom: 2025-02-13
+    dateTo: 2025-02-13
+    title: GSF Meetup @ Yoink
+    description: We hosted a great GSF Meetup at our company. The night was filled with interesting talks and a lot of community energy. We look forward to hosting the GSF Meetup NL group again in the future!
+    url: https://www.meetup.com/green-software-the-netherlands/events/305046844/?eventOrigin=group_events_list
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: internal-event-talk
