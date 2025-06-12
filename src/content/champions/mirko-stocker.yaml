@@ -1,0 +1,28 @@
+firstName: Mirko
+lastName: Stocker
+role: Professor of Software Engineering
+organization: Eastern Switzerland University of Applied Sciences
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Switzerland
+city: St. Gallen
+bio: |
+ "Mirko is a software engineer, author, and professor with over twenty years of experience building and teaching software systems. He has worked across web, mobile, and cloud systems, and co-founded multiple startups. He teaches programming and cloud solutions and leads the computer science degree program at OST – Eastern Switzerland University of Applied Sciences. He's also a co-author of the book Patterns for API Design and has published on API design, quality, and refactoring.
+ His current focus is sustainable software engineering. He researches how software design, infrastructure choices, and developer practices affect energy use and emissions."
+type: normal
+social:
+  github: misto
+  linkedin: misto
+  twitter: m_st
+  website: https://mastodon.social/@stocker
+activities:
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: personal-blog-post
+    dateFrom: 2025-05-26
+    dateTo: 2025-05-26
+    title: Are Cloud-Native Applications the Answer to Software Sustainability?
+    description: "In this post, we will look at Cloud-Native Applications and how they can help us to leverage the cloud’s inherent efficiency."
+    url: https://medium.com/growing-green-software/are-cloud-native-applications-the-answer-to-software-sustainability-42e16b33bc76
