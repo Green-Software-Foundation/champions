@@ -1,0 +1,40 @@
+firstName: Mpho 
+lastName: Mathabathe
+role: Technical Founder and Program Lead
+organization: Data Immigrant LLC
+languages: 
+  - English
+pronoun: She/Her
+country: Hungary
+city: Budapest
+bio: |
+ "I’m a South-African-born backend engineer currently based in Budapest, Hungary, where I lead the tech pillar of Data Immigrant LLC. My core stack is in Python Frameworks plus open source cloud-native tooling; I build mobile back-ends, web-based ERP systems, and data-science workflows that are both reliable and resource-efficient.
+
+ Recent contributions (past 12 months)
+
+ Jun – Aug 2025: Team leadership under TraceLab Mentorship (24 h/week, global, remote) – I designed and will co-lead a 3-month open-source program where participants build carbon-aware data pipelines and SDG dashboards for food-system transparency.	Upskills 30+ early-career data scientists.
+
+ Jun 2025: Budapest Meetup Launch “Measuring the Carbon Impact of Software.” First Hungarian forum dedicated to green software; establishes a recurring local chapter under GSF guidelines.
+
+ Why I seek Champion recognition:
+ 1.) Hungary’s tech community is hungry for guidance on sustainable software, listing in the Green Software Champions Directory would:
+ Lend credibility that helps our new Budapest chapter attract venues, sponsors and guest speakers.
+ 2.) Signal quality to universities and corporate dev-rel teams as we embed the GSF Practitioner course in curricula.
+
+ With a record of mentoring and proven team-lead experience, I’m ready to mobilise Central European developers toward software that serves both people and planet. "
+type: normal
+social:
+  github: data-immigrant
+  linkedin: mpho-mathabathe
+  website: https://medium.com/@mphomathabathe
+activities:
+  - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2025-06-02
+    dateTo: 2025-06-02
+    title: Measuring the Carbon Impact of Software
+    subtitle: Learn how to quantify the CO₂ footprint of the software you build and run.
+    description: "The mission is to empower our community with the tools and knowledge needed to build sustainable and carbon aware software solutions. I aim to build an inclusive community in Budapest that accelerates the adoption of environmentally sustainable software practices through knowledge‑sharing, hands‑on learning, and collaboration, in alignment with the Green Software Foundation (GSF) principles."
+    url: https://www.meetup.com/green-reliable-software-budapest/events/307695554/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+    relatedEvent: Budapest Meetup Launch
