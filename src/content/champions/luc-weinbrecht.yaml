@@ -15,6 +15,31 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Carbon Aware SDK
+    subtype: conference-talk
+    dateFrom: 2025-07-03
+    dateTo: 2025-07-03
+    title: Shaping the future with Carbon-Aware Process Execution
+    description: |
+     "Join us on a journey into the future of business process optimization! Using our innovative Camunda Connector as an example, we’ll demonstrate how simple it can be to execute business processes in a climate-conscious way.
+
+     The Camunda Carbon Reductor leverages various APIs to predict CO2 levels in the electricity grid, enabling process steps to be executed during periods of lower carbon intensity. By intelligently accounting for SLAs, the connector ensures processes are executed at the optimal time, minimizing the carbon footprint while meeting all service requirements.
+
+     In our talk and live demo, discover how you too can sustainably shape the future of your business processes with carbon-aware concepts."
+    url: https://www.developer-world.de/dwx/dwx-programm
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
+    subtype: conference-talk
+    dateFrom: 2025-06-25
+    dateTo: 2025-06-25
+    title: Die Zukunft gestalten mit Carbon-Aware Process Execution
+    description: |
+     "Wie können Geschäftsprozesse effizient und klimafreundlich zugleich sein?
+     Am Beispiel unseres innovativen Camunda Connectors zeigen wir, wie einfach sich CO₂-Emissionen in Prozessen reduzieren lassen - ohne dass dabei Kompomisse bei den SLAs gemacht werden müssen.
+     Unser Camunda Carbon Reductor nutzt CO₂-Vorhersagen im Strommix, um Prozesse in Zeiten geringer Emissionen auszuführen. Durch intelligente SLA-Berücksichtigung minimiert er den CO₂-Fußabdruck, ohne die Servicequalität zu beeinträchtigen. Erfahren Sie im Vortrag und in unserer Demo, wie mit Carbon Awareness Ihre Geschäftsprozesse nachhaltig optimiert werden können."
+    url: https://www.eventbrite.de/e/die-zukunft-gestalten-mit-carbon-aware-process-execution-tickets-1373252096989?aff=oddtdtcreator
+    relatedEvent: Lunch & Lern
+  - contributionType: speaking
+    linkedGSFProject: Carbon Aware SDK
     subtype: internal-event-talk
     dateFrom: 2025-05-27
     dateTo: 2025-05-27
