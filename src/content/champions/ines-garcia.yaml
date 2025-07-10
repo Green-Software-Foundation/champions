@@ -21,6 +21,16 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: writing
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: personal-blog-post
+    dateFrom: 2025-06-27
+    dateTo: 2025-06-27
+    title: "Beyond Net Zero: Regenerative Tech?!"
+    description: |
+     "We talk a lot about net zero… but what if tech could go beyond that? What would it mean to regenerate by design? 
+     Tech is a fabric layer of any business, in my mind there are 3 key areas to move out Tech industry 'beyond mission Zero' into Regeneration By Design."
+    url: https://www.linkedin.com/newsletters/net-zero-salesforce-cloud-7133833140141199361/
   - contributionType: organizing
     linkedGSFProject: Green Software Patterns
     subtype: other
