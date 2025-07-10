@@ -1,0 +1,29 @@
+firstName: Zouhir
+lastName: Bellal
+role: PhD student 
+organization: École de technologie supérieure ÉTS
+languages: 
+  - English
+  - French
+  - Arabic
+country: Canada
+city: Montreal
+bio: |
+ As a PhD researcher focused on energy efficiency optimization and sustainable cloud computing, I am deeply engaged with the principles and tools of green software on a daily basis. My research centers on reducing the energy footprint of cloud-native systems through intelligent workload management, dynamic CPU frequency scaling, and application-aware power control.
+
+ I actively work with tools such as CNCF’s Kepler, PowerAPI, and the Carbon Aware SDK to monitor and optimize energy consumption in distributed environments. These tools form the backbone of my experimental setups, enabling me to quantify sustainability metrics and integrate green principles into system-level decisions.
+
+ Beyond tool usage, I am committed to advancing the green software movement by embedding sustainability into the design and operation of edge and cloud ecosystems. My goal is to develop solutions that not only meet performance requirements but also contribute to net-zero computing by design.
+type: normal
+social:
+  github: bellalzohir
+  linkedin: bellal-zouhir-8644aa23b
+activities:
+  - contributionType: writing
+    linkedGSFProject: Standards WG
+    subtype: 3rd-party-article
+    dateFrom: 2024-07-09
+    dateTo: 2024-07-09
+    title: "GAS: DVFS-Driven Energy Efficiency for Latency-Guaranteed Edge Computing Microservices"
+    description: In this IEEE Transactions on Green Communications and Networking paper, we propose a green software-aware approach named GAS to optimize energy consumption for microservice-based applications deployed at the edge. The method dynamically adjusts CPU core frequencies using DVFS while ensuring latency constraints are met, addressing both performance and energy goals. This research directly supports the Green Software Foundation’s mission of building sustainable software systems, especially in edge and cloud environments.
+    url: https://ieeexplore.ieee.org/abstract/document/10578041
