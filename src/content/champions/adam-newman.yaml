@@ -14,6 +14,46 @@ social:
   linkedin: acanewman
 activities:
   - contributionType: speaking
+    linkedGSFProject: GSF Meetup Network
+    subtype: meetup-talk
+    dateFrom: 2025-06-24
+    dateTo: 2025-06-24
+    title: Digital Sustainability Talk
+    subtitle: Measuring What Matters & Making Better Decisions
+    description: This talk was on the importance of decision making across the whole product develpoment lifceycle and how they influence sustainability impacts. Placing knowledge and data with the humans making those decisions is crucial and this talk presents a concrete example of how we did this on a real world project by setting measurable energy and carbon KPIs from tender to delivery and monitorable after launch. 
+    url: https://docs.google.com/presentation/d/1tPTLeLCb2Lry5J7ZKVy6petus5tdXwXzAaJdge_X2zU/
+    relatedEvent: Code Green London
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2024-10-01
+    dateTo: 2024-10-01
+    title: "GSF Global Summit - Live Demo, OSS dev tools for Green Software (Cardamon)"
+    subtitle: Building Green Software, with Cardamon
+    description: A talk on our open source measurement tool to estimate the energy of running software processes. 
+    url: https://github.com/Root-Branch/cardamon-core
+    relatedEvent: GSF Global Summit Launch, London
+  - contributionType: organizing
+    linkedGSFProject: Higher Education Engagement
+    subtype: green-software-meetup
+    dateFrom: 2024-04-29
+    dateTo: 2024-04-29
+    title: Green Software For Computer Science
+    subtitle: Lecture
+    description: Lecture for undergraduates of University Of Sussex
+    url: https://docs.google.com/presentation/d/1f1LvdYXtl5-l4A2Vc7J2bfDSiiS__yCntXklGgUjBb4
+    relatedEvent: University Of Surrey, Computer Science BSc Lecture
+  - contributionType: organizing
+    linkedGSFProject: GSF Meetup Network
+    subtype: green-software-meetup
+    dateFrom: 2024-01-24
+    dateTo: 2024-01-24
+    title: Green Software Brighton
+    subtitle: Monthly Community Events
+    description: We host regular events in Brighton, South East, UK - since January 2024. Our community is supported by GSF and Silicon Brighton and our events are inclusive, accessible with all the talks streamed online for free. We also have pizza (vegan/vegetarian) and beers. We usually meet every 3rd Weds of the month at Runway East (with the odd exception)
+    url: https://www.youtube.com/playlist?list=PLi0kHjUZDgWZB5_cw79tC9ouBmJcPFxXR
+    relatedEvent: Talks, Workshops, Roundtables
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: meetup-talk
     dateFrom: 2023-09-28
