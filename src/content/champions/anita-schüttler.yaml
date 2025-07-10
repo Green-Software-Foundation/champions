@@ -15,6 +15,40 @@ social:
   linkedin: anita-schüttler-21095023b
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: podcast
+    dateFrom: 2025-07-08
+    dateTo: 2025-07-08
+    title: "Episode #61 - Scaling Green Software"
+    description: |
+     "Topics of the episode were:
+     - the Bundesverband Green Software's plans for rolling out a big Green Software project in multiple EU countries
+     - neuland's process of certifying with the Blue Angel for resource-efficient software
+     - the role specific Sustainable IT trainings I did for 300+ IT professionals of a corporate customer"
+    url: https://link.chtbl.com/txnxNePY?sid=WID
+    relatedEvent: Green IO Podcast
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: other
+    dateFrom: 2025-07-03
+    dateTo: 2025-07-03
+    title: " Panel discussion at Green IO conference Munich: "Is AI yet another software to eco-design?" "
+    description: " participated in the NGO panel on the topic "Is AI yet another software to eco-design?" "
+    url: https://greenio.tech/conference/13/2025
+    relatedEvent: Green IO conference Munich
+  - contributionType: speaking
+    linkedGSFProject: Transforming Organisational Software Sustainability
+    subtype: conference-talk
+    dateFrom: 2025-07-02
+    dateTo: 2025-07-02
+    title: "Shared Responsibility - How The Energy Transition Will Influence the Way we Build and Run Software"
+    description: |
+     "The energy transition is in full swing: from reliable, always-on and dirty fossil fuel to volatile but clean renewable energy. Requirements for when, where and how much energy to consume will change and also affect IT. At the same time, the pressure for data center providers to decarbonize keeps rising as IT emissions and energy consumption increase at an unprecedented rate.
+
+     This talk will explain why cloud providers alone won't be able to meet their climate ambitions and what role software and its architecture plays in this. You'll also learn how the future energy market will affect IT systems and what you can do today to make sure your products aren't just ready for, but can even profit from this development."
+    url: https://leanleadersummit.com/agenda/
+    relatedEvent: Lean Leader Summit
+  - contributionType: speaking
     linkedGSFProject: Transforming Organisational Software Sustainability
     subtype: conference-talk
     dateFrom: 2025-02-06
