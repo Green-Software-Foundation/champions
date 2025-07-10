@@ -1,0 +1,89 @@
+firstName: Charles
+lastName: Humble
+role: Founder
+organization: Conissaunce
+languages: 
+  - English
+pronoun: He/Him
+country: United Kingdom
+city: Bramley
+bio: |
+ " I am an IT industry veteran with 30 years' experience. A former software engineer, architect and CTO, I have worked as a senior leader and executive of both technology and content groups. I was InfoQ’s editor-in-chief from 2014-2020 championing InfoQ's early coverage of sustainability on the site and at QCon.
+
+ From a green software point of view I have:
+ Written "The Developer's Guide to Cloud Infrastructure, Efficiency and Sustainability" for The New Stack - https://thenewstack.io/ebooks/cloud-infrastructure/developers-guide-to-cloud-infrastructure-efficiency-and-sustainability/
+
+ Written a number of articles about AI and sustainability such as: 
+ https://thenewstack.io/ai-at-the-edge-federated-learning-for-greater-performance/
+ https://thenewstack.io/ai-consumes-lots-of-energy-can-it-ever-be-sustainable/
+ https://www.conissaunce.com/demand-shifting-and-shaping.html
+ https://thenewstack.io/what-do-you-lose-when-you-abandon-the-cloud/
+
+ In the last year I've given sustainability talks at GOTO Copenhagen, Devoxx London, and "AI for the rest of us".  Upcoming sustainability talks include  RepresentAI & Ladies of London Hacking Society, YOW! Melbourne, YOW! Brisbane, and YOW! Sydney
+
+ Talk examples:
+ https://www.conissaunce.com/presentations.html#green-ai
+ https://www.conissaunce.com/presentations.html#writing-greener-software
+
+ I've also been on multiple podcasts, including environment variables to talk about the topic:
+ https://podcasts.castplus.fm/e/4892y9wn-cloud-infrastructure-efficiency-and-sustainability
+ https://climatestack.buzzsprout.com/2384883/episodes/15457679-architecting-carbon-conscious-software-with-charles-humble
+ https://thenewstack.io/why-software-developers-should-be-thinking-about-the-climate/
+
+ And have interviewed Anne Currie to talk about the Building Green Software book:
+ https://thenewstack.io/want-to-create-software-sustainably-anne-curries-got-ideas/ "
+type: normal
+social:
+  github: chhum
+  linkedin: charleshumble
+  website: charleshumble.bsky.social
+activities:
+  - contributionType: writing
+    linkedGSFProject: Real-Time Cloud
+    subtype: 3rd-party-article
+    dateFrom: 2025-05-28
+    dateTo: 2025-05-28
+    title: AWS Revives and Updates Its Customer Carbon Footprint Tool
+    description: Although significantly behind competitors like Google and Microsoft Azure, AWS’s carbon reporting capabilities are improving.
+    url: https://thenewstack.io/aws-revives-and-updates-its-customer-carbon-footprint-tool/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2025-05-08
+    dateTo: 2025-05-08
+    title: AI Consumes Lots of Energy. Can It Ever Be Sustainable?
+    description: Data centers are projected to consume more electricity than all U.S. heavy industry combined by 2030. AI's explosive growth demands sustainable practices.
+    url: https://thenewstack.io/ai-consumes-lots-of-energy-can-it-ever-be-sustainable/
+  - contributionType: speaking
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: conference-talk
+    dateFrom: 2025-05-08
+    dateTo: 2025-05-08
+    title: Writing Greener Software Even When You Are Stuck On-Prem
+    description: There is a real efficiency advantage in high compute density via managed cloud services. Such services, which can share resources between thousands or millions of users, can achieve extremely high hardware and energy utilisation. Because of this, an awful lot of the still rather limited publicly available material on writing software with sustainability in mind emphasises shifting to cloud services. But what happens if you can’t?
+    url: https://www.youtube.com/watch?v=O9RL9OObUbM
+    relatedEvent: Devoxx London
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2025-04-16
+    dateTo: 2025-04-16
+    title: "AI at the Edge: Federated Learning for Greater Performance"
+    description: Federated learning, introduced by Google nearly a decade ago, can offer stronger data privacy and a greener way to train models for use at the edge.
+    url: https://thenewstack.io/ai-at-the-edge-federated-learning-for-greater-performance/
+  - contributionType: writing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: book
+    dateFrom: 2025-04-01
+    dateTo: 2025-04-01
+    title: The Developer's Guide to Cloud Infrastructure, Efficiency and Sustainability
+    description: This short, practical guide examines how developers can reduce the environmental impact of their software through operational strategies and thoughtful design choices. The book explores key concepts, including energy proportionality, carbon emissions tracking, and the various approaches to measuring and reducing IT’s carbon footprint.
+    url: https://thenewstack.io/ebooks/cloud-infrastructure/developers-guide-to-cloud-infrastructure-efficiency-and-sustainability/
+  - contributionType: writing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: company-article
+    dateFrom: 2024-12-13
+    dateTo: 2024-12-13
+    title: What are Demand Shifting and Shaping in Green Software?
+    description: "If you’ve ever looked at the Maturity Matrix produced by the Green Software Foundation (GSF), or spent time thinking about green software more broadly, you’ve probably come across the terms ‘Demand Shifting’ and ‘Demand Shaping’."
+    url: https://www.conissaunce.com/demand-shifting-and-shaping.html
