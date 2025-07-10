@@ -19,6 +19,16 @@ social:
 activities:
   - contributionType: writing
     linkedGSFProject: Standards WG
+    subtype: internal-event-talk
+    dateFrom: 2025-06-12
+    dateTo: 2025-06-12
+    title: The Evolving Landscape of Green Networking
+    subtitle: From current standardization efforts to  practical steps we can all take
+    description: The Evolving Landscape of Green Networking
+    url: https://www.linkedin.com/posts/cpignata_gsfabrchampions-greensoftware-sustainabletech-activity-7346638065722925057-ZSkT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABgoVABuDXWttAeIj-ekSsQBnF53Gwr9Vc
+    relatedEvent: Green Software Champions
+  - contributionType: writing
+    linkedGSFProject: Standards WG
     subtype: 3rd-party-article
     dateFrom: 2025-03-31
     dateTo: 2025-03-31
