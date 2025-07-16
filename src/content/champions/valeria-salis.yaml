@@ -16,6 +16,79 @@ social:
   github: vallss
   linkedin: valeria-salis
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2025-06-24
+    dateTo: 2025-06-24
+    title: We need to talk about AI, Sustainable AI
+    description: In this talk, that was less of a talk and more of a theatrical piece, me and my co-speaker improvised a conversation between the two of us about the social and environmental impacts of AI. 
+    url: https://www.aiconf.it/e/sessione/3709/We-need-to-talk-about-AI-Sustainable-AI
+    relatedEvent: AI Conf - by Improove
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-06-20
+    dateTo: 2025-06-20
+    title: From shy contributor to (kinda) confident community leader
+    description: Same as the previous one with the same title but in this occasion I didn't have a co-speaker and I focused a bit more on the Italian community I co-founded, Green Software Italia.
+    url: https://www.techcommunityday.it/speakers/speaker-2
+    relatedEvent: Community Day 2025 
+  - contributionType: organizing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-06-19
+    dateTo: 2025-06-19
+    title: Green Software Italia - 2nd meetup
+    description: |
+     "Co-organized a meetup around the topics of:
+     - cultural inclusion and accessibility
+     - a real example of a company that puts into practice sustainability strategy "
+    url: https://www.eventbrite.com/e/biglietti-green-software-italia-2-meetup-1404316742179
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-05-24
+    dateTo: 2025-05-24
+    title: "Costruire un Web sostenibile: un'esplorazione pratica degli strumenti e delle strategie Open Source"
+    description: "In this talk I shared how my experience related to sustainability started and some key issues related to it: starting from how to create a more sustainable UX to the Cloud and green software, I also made an introduction of the Green Software for Practitioners course. "
+    url: https://gdg.community.dev/events/details/google-gdg-cloud-torino-presents-devfest-torino/
+    relatedEvent: DevFest Torino 2025
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: other
+    dateFrom: 2025-05-05
+    dateTo: 2025-05-05
+    title: Green Tech Tales
+    description: My YouTube channel where every week/every ten days, I shared resources, links and/or results of scientific papers related to sustainability and the environmental impacts of technology. My mission is spreading awareness about sustainability sharing various types of content, in an clear way even for non-tech people.
+    url: https://www.youtube.com/@GreenTechTales
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-03-28
+    dateTo: 2025-03-28
+    title: "Stranger Grids: quando accessibilità e sostenibilità cambiano il CSS"
+    description: In this talk I talked about the strong connection between accessibility and sustainability.
+    url: https://www.cssday.it/talks_speakers/#stranger-grids-quando-accessibilita-e-sostenibilita-cambiano-il-CSS
+    relatedEvent: CSS Day 2025 - by GrUSP
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-03-21
+    dateTo: 2025-03-21
+    title: From shy contributor to (kinda) confident community leader
+    description: "In this talk me and my co-speaker, both ambassadors of the WG Sustainability Advocacy from the TAG Environmental Sustainability, shared a heartfelt session about overcoming barriers and finding your place in the Open Source world. We also shared initiatives and achievements from our community, highlighting the importance of sustainability in the tech and Cloud Native world."
+    url: https://youtu.be/h6eu7keBbCs?si=X-0joRGYeSjD79vp
+    relatedEvent: Open Source Day 2025 by Schrödinger Hat
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2025-03-17
+    dateTo: 2025-03-17
+    title: "Impatto Digitale: Riflessioni sull'Utilizzo Responsabile delle Innovazioni Tecnologiche"
+    description: "The idea for this talk started with a question: "What if we lived in a world where we had to pay for the environmental impact of every digital activity? Would we make the same choices? Or not?". I then analyse some common digital activities and their environmental impacts such as writing/sending emails, watching a TV series on a streaming platform and so on."
+    url: https://www.youtube.com/live/_xlHncHAOoo?si=DrdVLML6lgQTUPZT&t=877
+    relatedEvent: Locanda Tech Tales
   - contributionType: writing
     linkedGSFProject: other/unlisted
     subtype: personal-blog-post
