@@ -16,6 +16,20 @@ social:
   twitter: fullo
   website: https://www.fullo.net
 activities:
+  - contributionType: organizing
+    linkedGSFProject: SCI Guide
+    subtype: green-software-meetup
+    dateFrom: 2025-05-22
+    dateTo: 2025-05-22
+    title: GSF Italian Meetup
+    subtitle: "Decarbonizza il tuo prodotto digitale: SCI e best practices"
+    description: |
+     "Primo incontro ufficiale della Green Software Foundation del 2025 (a Torino) per parlare di tecniche di decarbonizzazione dei prodotti digitali.
+
+     Esploreremo strategie attuabili per i product manager e gli operatori esperti all'interno delle aziende di prodotti digitali, affinché affrontino proattivamente l'impatto ambientale delle proprie organizzazioni.
+
+     Partendo dall'esplorazione dei metodi per misurare le emissioni dei prodotti digitali, come il Software Carbon Intensity standard, si introdurranno tecniche di riduzione delle emissioni coinvolgendo tutto il team di sviluppo e progettazione, dalla definizione strategie di ottimizzazione del design fino a best practices da applicare durante le fasi di sviluppo e consegna del prodotto. "
+    url: https://www.meetup.com/it-IT/gsf-milan/events/306321570/?eventOrigin=group_past_events
   - contributionType: speaking
     linkedGSFProject: Higher Education Engagement
     subtype: other
