@@ -1,0 +1,26 @@
+firstName: Manuel
+lastName: Steinberg
+role: Scientist
+organization: Hochschule München
+languages: 
+  - English
+  - German
+pronoun: He/Him
+country: Germany
+city: Nuremberg
+bio: |
+ Manuel is a Doctoral Candidate at University of Applied Sciences in Munich, specializing in Green Software Metrics. His research focuses on developing and applying sustainability metrics to evaluate the environmental impact of software systems.
+type: normal
+social:
+  github: Manuel-Steinberg
+  linkedin: manuelsteinberg
+activities:
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2025-06-24
+    dateTo: 2025-06-24
+    title: "Green Software Metrics: A Systematic Literature Review"
+    description: Manuel is a Doctoral Candidate at University of Applied Sciences in Munich, specializing in Green Software Metrics. His research focuses on developing and applying sustainability metrics to evaluate the environmental impact of software systems.
+    url: https://buis-tage25.vlba.net/wp-content/uploads/2025/06/bookOfAbstracts.pdf
+    relatedEvent: BUIS Tage 2025 (https://buis-tage25.vlba.net/startseite/)
