@@ -32,8 +32,8 @@ activities:
     subtype: other
     dateFrom: 2025-07-03
     dateTo: 2025-07-03
-    title: " Panel discussion at Green IO conference Munich: "Is AI yet another software to eco-design?" "
-    description: " participated in the NGO panel on the topic "Is AI yet another software to eco-design?" "
+    title: " Panel discussion at Green IO conference Munich: \"Is AI yet another software to eco-design?\" "
+    description: " participated in the NGO panel on the topic \"Is AI yet another software to eco-design?\" "
     url: https://greenio.tech/conference/13/2025
     relatedEvent: Green IO conference Munich
   - contributionType: speaking

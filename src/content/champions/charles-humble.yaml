@@ -36,7 +36,7 @@ type: normal
 social:
   github: chhum
   linkedin: charleshumble
-  website: charleshumble.bsky.social
+  website: https://charleshumble.bsky.social/
 activities:
   - contributionType: writing
     linkedGSFProject: Real-Time Cloud
