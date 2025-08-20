@@ -1,0 +1,71 @@
+firstName: Stefan
+lastName: Aeschbacher
+role: Founder an CEO
+organization: Perito IT GmbH
+languages: 
+  - German
+  - French
+  - English
+  - Spanish
+pronoun: He/Him
+country: Switzerland
+city: Bern
+bio: |
+ I have a degree in Computer Science from EPFL (Federal Institute of Technology Lausanne, Switzerland) and 25 years of experience in the IT industry, mainly in public transport systems and datacenter services. Over the years, I’ve become increasingly focused on the environmental impact of technology and how we can make IT more sustainable.
+
+ I’m the founder of Perito IT, a consultancy that supports organizations in adopting Green-IT practices. I co-organized the ClimateAction.tech Green-IT Hackathon, co-founded the Way to Green IT education initiative, and am part of the Green-IT Community of Practice Switzerland. I'm also working on launching a Green-IT Meetup in Bern to bring practitioners together locally.
+
+ Through my work, I aim to connect technical expertise with sustainability, helping teams and companies take practical steps toward greener software and infrastructure.
+type: normal
+social:
+  github: imix
+  linkedin: stefan-aeschbacher
+activities:
+  - contributionType: organizing
+    linkedGSFProject: Awesome Green Software
+    subtype: green-software-meetup
+    dateFrom: 2025-05-23
+    dateTo: 2025-05-23
+    title: ClimateAction.tech Green-IT Hackathon
+    description: A one-day hackathon to raise awareness, engagement and network around Green IT and the environmental impact of technology.
+    url: https://zurichhack.climateaction.tech/
+  - contributionType: writing
+    linkedGSFProject: Green Software Maturity Matrix
+    subtype: personal-blog-post
+    dateFrom: 2025-05-08
+    dateTo: 2025-05-08
+    title: Introduction to the GSMM (in German)
+    description: In this blog post, I give a short overview of the Green Software Maturity Matrix for companies.
+    url: https://perito.ch/blog/2025/05/08/gsmm-intro/
+  - contributionType: organizing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: green-software-meetup
+    dateFrom: 2025-05-07
+    dateTo: 2025-05-07
+    title: Swiss community of practice - it sustainability
+    subtitle: Founding member
+    description: |
+     " The Community of Practice is a platform for impact, collaboration, and the transformation of businesses and public institutions through sustainable digitalization. Its goals are to promote:
+     • networking opportunities,
+     • knowledge sharing across language and industry boundaries,
+     • influence on sustainable political IT frameworks,
+     • and clear thought leadership in the field of digital sustainability."
+    url: https://www.linkedin.com/company/swiss-it-sustainability-community-of-practice/posts/?feedView=all
+  - contributionType: writing
+    linkedGSFProject: Higher Education Engagement
+    subtype: other
+    dateFrom: 2025-01-01
+    dateTo: 2025-01-01
+    title: Way to Green IT - Courses
+    subtitle: Courses in Green-IT
+    description: Way to Green IT offers courses on sustainable IT practices. We start with a high-level introduction designed for decision-makers and people wanting to understand the concepts. This course is aimed at everyone responsible for digital solutions—from executives and managers to technical professionals such as developers, architects, system administrators, QA experts, and more. Strategic decision-makers will also find valuable insights. A more technical course is currently in development.
+    url: https://waytogreenit.ch/
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: company-article
+    dateFrom: 2024-11-17
+    dateTo: 2024-11-17
+    title: What is green software
+    subtitle: An introduction in german
+    description: A blog post on the concept of green software for people that do not understand the concept yet.
+    url: https://perito.ch/blog/2024/11/17/what-is-green-software/
