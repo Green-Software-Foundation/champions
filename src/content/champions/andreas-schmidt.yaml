@@ -18,6 +18,15 @@ social:
   linkedin: darneas
 activities:
   - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-07-22
+    dateTo: 2025-07-22
+    title: "Dirty Bits in Low-Earth Orbit: The Carbon Footprint of Launching Computers"
+    description: "Low-Earth Orbit (LEO) satellites are increasingly proposed for communication and in-orbit computing, achieving low-latency global services. However, their sustainability remains largely unexamined. This paper investigates the carbon footprint of computing in space, focusing on lifecycle emissions from launch over orbital operation to re-entry. We present ESpaS, a lightweight tool for estimating carbon intensities across CPU usage, memory, and networking in orbital vs. terrestrial settings. Three worked examples compare (i) launch technologies (state-of-the-art rocket vs. potential next generation) and (ii) operational emissions of data center workloads in orbit and on the ground. Results show that, even under optimistic assumptions, in-orbit systems incur significantly higher carbon costs—up to an order of magnitude more than terrestrial equivalents—primarily due to embodied emissions from launch and re-entry. Our findings advocate for carbon-aware design principles and regulatory oversight in developing sustainable digital infrastructure in orbit."
+    url: https://dl.acm.org/doi/abs/10.1145/3757892.3757896
+    relatedEvent: 4th Workshop on Sustainable Computer Systems (HotCarbon)
+  - contributionType: writing
     linkedGSFProject: SCI Spec
     subtype: other
     dateFrom: 2024-11-02
