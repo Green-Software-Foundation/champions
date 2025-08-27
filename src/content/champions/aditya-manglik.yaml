@@ -18,6 +18,59 @@ social:
   linkedin: adityamanglik
   twitter: adityamanglik
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: internal-event-talk
+    dateFrom: 2025-06-11
+    dateTo: 2025-06-11
+    title: Research Presentation at Open Compute Platform Sustainability Group
+    description: Presentation on energy and carbon tracking for Linux
+    url: https://www.opencompute.org/w/index.php?title=OCP_Sustainability_Project
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: meetup-talk
+    dateFrom: 2025-05-23
+    dateTo: 2025-05-23
+    title: The environmental impact of software & carbon measurement in the linux kernel
+    description: |
+     "Details
+     Two exciting topics, two very experienced speakers and much networking opportunity. We are very much looking forward to the next DevOps Meetup Zurich. Here's what's planned for the evening:
+
+     17:30 - 18:00 - Arrival and first drinks
+
+     18:00 - 18:45 - The environmental impact of software by Christian Abegg
+
+     18:45 - 19:30 - Carbon Measurement And Attribution For Processes And Hardware Devices In The Linux Kernel by Aditya Manglik
+
+     19:30 - 20:30 - Networking, Open Space & More drinks
+
+     The environmental impact of software by Christian Abegg
+     At first glance, the IT industry seems to be a relatively clean sector. However, the development and operation of software have a significant environmental impact that is often overlooked. In this talk, we will explore the energy consumption and greenhouse gas emissions associated along the software lifecycle, and discuss ways to reduce it with measures ranging from coding over datacenter operation to the way individuals are working. By the end of the presentation, attendees will have an overview of the key factors, as well as actionable suggestions for addressing them.
+
+     Christian Abegg
+     Christians passion is sustainable software engineering. He's convinced that everyone's contribution is required to tackle the climate crisis. In his role as lead architect at Zühlke, he focuses on continuously improving quality, providing rock-solid architectures, writing the right tests and setting up reliable build pipelines. He never ceases to be amazed by what people can achieve together when they collaborate and work to each other’s strengths.
+
+     Carbon Measurement And Attribution For Processes And Hardware Devices In The Linux Kernel by Aditya Manglik
+     This talk details the development of carbon and energy measurement infrastructure in the Linux kernel. The objective is to determine the energy consumption and link it to carbon emissions of hardware devices and software applications (processes). This infrastructure allows the programmers and users to see which hardware devices and processes are responsible for the system’s energy consumption and carbon emissions. These statistics are extremely useful for both user-level applications and kernel developers.
+
+     Aditya Manglik
+     Aditya Manglik is a graduate student at ETH Zurich, specializing in sustainable computing. He has three years of professional experience in high‑performance code optimization, coupled with three years of research experience in research on computer architecture and cloud systems. He has contributed to open-source software as a Google Summer of Code student with the GNOME Foundation.
+
+     Many thanks to our sponsors:
+
+     Catering Sponsor: DevOpsDays Zürich https://www.devopsdays.ch/
+     Location Sponsor: Digicomp https://www.digicomp.ch/"
+    url: https://www.meetup.com/devops-meetup-zurich/events/299876014/
+    relatedEvent: DevOps Meetup Zürich
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: conference-talk
+    dateFrom: 2025-05-20
+    dateTo: 2025-05-20
+    title: "Green kernels: Carbon measurement and attribution for processes in the Linux kernel"
+    description: This talk aims to detail the recent developments in carbon tracking infrastructure in the Linux kernel for measuring the carbon (and energy) consumption of hardware devices and processes (software applications). 
+    url: https://devopsdays.org/events/2025-geneva/program/green-kernels/
+    relatedEvent: devopsdays Geneva
   - contributionType: oss contribution
     linkedGSFProject: SCI Spec
     subtype: all
