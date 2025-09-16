@@ -28,6 +28,15 @@ social:
   linkedin: mpho-mathabathe
   website: https://medium.com/@mphomathabathe
 activities:
+  - contributionType: hosting
+    linkedGSFProject: Green AI
+    subtype: all
+    dateFrom: 2025-08-29
+    dateTo: 2025-08-29
+    title: "Hack4Earth 2025: Doomsday Green AI Edition"
+    subtitle: The climate clock is ticking. In just one weekend, we're bringing together AI engineers, data scientists, climate researchers, product thinkers, and everyday tinkerers to harness the power of artificial intelligence to confront the climate crisis.
+    description: "Create green AI-powered tools for climate adaptation or mitigation, Your solution could tackle low-emission or climate-resilient development in sectors like agriculture, energy, water, waste, transport, health, or early warning systems. What matters is this: your submission must showcase how artificial intelligence can address climate-related challenges in impactful, innovative, and locally relevant ways."
+    url: https://www.linkedin.com/events/hack4earth2025-grsbudapest7333443227670175744/
   - contributionType: speaking
     linkedGSFProject: GSF Meetup Network
     subtype: meetup-talk
