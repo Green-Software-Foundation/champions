@@ -80,6 +80,15 @@ activities:
     description: Completed the course Green Software for Practitioners from Green Software Foundation on Linux Foundation courses platform
     url: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c8d2752a-049f-4c91-b4de-4f9923d9f986-aditya-manglik-f3a66789-b2d0-44e8-beb7-a9961d4a6b4e-certificate.pdf
   - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2024-04-25
+    dateTo: 2024-04-25
+    title: Carbon measurement and attribution for processes and hardware devices in the Linux kernel
+    description: This talk details the recent carbon measurement infrastructure developments in power subsystems in the Linux kernel. The objective is to determine the energy consumption and link it to carbon emissions of hardware devices and software applications (processes).
+    url: https://www.eco-compute.io/speaker/2024/aditya-manglik/
+    relatedEvent: Eco-Compute 2024
+  - contributionType: speaking
     linkedGSFProject: Impact Framework (IF)
     subtype: conference-talk
     dateFrom: 2024-04-18
@@ -88,3 +97,83 @@ activities:
     description: This talk aims to detail the recent developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications.
     url: https://www.youtube.com/watch?v=ODIiTKgB9cE
     relatedEvent: Linux Foundation Open Source Summit North America 2024
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2024-04-18
+    dateTo: 2024-04-18
+    title: Power Measurement and Attribution in Kernel for Embedded System Processes
+    subtitle: Seattle, United States
+    description: Linux Foundation Embedded Summit 2024 would be a great platform to present the work to the developer community and get feedback to improve the system. 
+    url: https://youtu.be/wnodFMWPRmE
+    relatedEvent: Linux Foundation Embedded Open Source Summit 2024
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: meetup-talk
+    dateFrom: 2024-02-03
+    dateTo: 2024-02-03
+    title: Carbon measurement and energy attribution in Linux 
+    subtitle: Brussels, Belgium
+    description: Open source community presentation of carbon attribution work
+    url: https://ftp.fau.de/fosdem/2024/h2214/fosdem-2024-1885-carbon-measurement-and-energy-attribution-for-processes-and-hardware-devices-in-the-linux-kernel.av1.webm
+    relatedEvent: FOSDEM 2024
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: podcast
+    dateFrom: 2023-08-10
+    dateTo: 2023-08-10
+    title: Green Kernels
+    subtitle: Guest Speaker
+    description:  The episode focused on measuring software energy consumption, with the emphasis that "you cannot improve what you cannot measure" when it comes to software's carbon footprint. The segment also touched upon the difficulty of measuring this energy consumption and the need for new ways to track it.
+    url: https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels
+    relatedEvent: Environment Variables Podcast
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: keynote
+    dateFrom: 2023-06-02
+    dateTo: 2023-06-02
+    title: Measuring Carbon Footprint of Personal Computing
+    subtitle: Paris, France
+    description: The focus was on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. 
+    url: https://www.youtube.com/watch?v=vOVlP9LjdCI
+    relatedEvent: Linux Foundation Energy Summit 2023
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-talk
+    dateFrom: 2023-12-03
+    dateTo: 2023-12-03
+    title: Estimating Energy Consumption of Embedded Platforms to Reduce the Carbon Footprint of Processes
+    subtitle: Tokyo, Japan
+    description: The talk focuses on power measurement and attribution for software (processes) and hardware devices in embedded platforms 
+    url: https://youtu.be/oxu-1Sx9_V0
+    relatedEvent: Linux Foundation Embedded IoT Summit 2023
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: conference-demo
+    dateFrom: 2022-07-20
+    dateTo: 2022-07-20
+    title: Energy attribution systems in Linux kernel 
+    subtitle: Online
+    description: Demo presentation of the design
+    url: https://www.youtube.com/live/wuFTiAcdBXk?t=407s
+    relatedEvent: GUADEC-2022
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: keynote
+    dateFrom: 2020-08-01
+    dateTo: 2020-08-01
+    title: Power management in Linux
+    subtitle: Virtual Conference
+    description: Talk on power management in Linux
+    url: https://www.youtube.com/watch?v=2_KEYtjw0Ps
+    relatedEvent: GNOME Users and Developers in Europe Conference‑2020
+  - contributionType: speaking
+    linkedGSFProject: Green Software Speakers
+    subtype: other
+    dateFrom: 2019-10-13
+    dateTo: 2019-10-13
+    title: Volunteer talk for high school students 
+    subtitle: Gresik, Indonesia
+    description: Volunteer talk for high school students on Linux and energy efficiency
+    url: https://2019.gnome.asia/#/#schedule
+    relatedEvent: GNOME.Asia 2019
