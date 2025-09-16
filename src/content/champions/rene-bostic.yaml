@@ -23,3 +23,73 @@ activities:
     subtitle: ESG (Environmental, Social, and Governance) in utilities
     description: Rene Bostic will be presenting at the World Utilities Congress, taking place from 27 - 29 May 2025 in Abu Dhabi (UAE). As the world shifts towards a sustainable energy future, the World Utilities Congress will be pivotal in addressing the challenges and opportunities surrounding energy transition, water security, and digitization. Bringing together industry leaders, policymakers, and innovators, the event offers a unique opportunity to showcase groundbreaking technologies, forge strategic partnerships, and explore investment prospects. 
     relatedEvent: World Utilities Congress
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-05-17
+    dateTo: 2025-05-17
+    title: Sustainable Edge AI for Coastal Monitoring
+    subtitle: Anthropic Claude AI and NOAA Tides and Currents MCP Server Integration
+    description: Created an AI-powered prototype using Anthropic Claude AI and the NOAA Tides and Currents MCP server for environmental monitoring of sargassum bloom. This case study demonstrates edge deployment for real-time coastal intelligence.
+    url: https://github.com/rrenebostic/ai-coastal-guardian
+  - contributionType: writing
+    linkedGSFProject: Green AI
+    subtype: personal-blog-post
+    dateFrom: 2025-05-09
+    dateTo: 2025-05-09
+    title: Making AI-enabled Workloads More Sustainable with an AI-RAN Common Platform
+    description: Authored a blog on the AI-RAN platform aligned with the top 3 methods IT companies use to develop Green AI. Explored the Red Hat and SoftBank Corporation collaboration for sustainable AI workloads.
+    url: https://medium.com/@renebostic/making-ai-enabled-workloads-more-sustainable-with-an-ai-ran-common-platform-21a736390beb
+  - contributionType: writing
+    linkedGSFProject: Green AI
+    subtype: personal-blog-post
+    dateFrom: 2025-03-03
+    dateTo: 2025-03-03
+    title: Top 3 Green AI Methods Advancing AI-enabled Sustainability Use Cases
+    description: "Authored a blog exploring the top 3 methods IT companies use to develop Green AI : (1) innovations in sustainable hardware architectures, (2) smaller, specialized AI models, and (3) carbon-aware computing."
+    url: https://medium.com/@renebostic/top-3-green-ai-methods-advancing-ai-enabled-sustainability-use-cases-f2b0d806cc6d
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: conference-talk
+    dateFrom: 2024-10-24
+    dateTo: 2024-10-24
+    title: AI-Powered IBM Sustainability Reference Architecture
+    description: Presented IBM's AI-powered Sustainability Reference Architecture and explored holistic AI integration for enterprise green initiatives.
+    url: https://reg.tools.ibm.com/flow/ibm/techxchange24/sessioncatalog/page/sessioncatalog?search=1813
+    relatedEvent: IBM TechXchange
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2024-10-24
+    dateTo: 2024-10-24
+    title: The watsonx Bootcamp for Sustainability
+    subtitle: "Start an Energy Efficiency Project with watsonx.ai" 
+    description: Led 3-hour bootcamp on energy efficiency using IBM granite-13b-chat-v2 and RAG. Participants tuned AI models for sustainability insights.
+    url: https://reg.tools.ibm.com/flow/ibm/techxchange24/sessioncatalog/page/sessioncatalog?search=3490
+    relatedEvent: IBM TechXchange
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2024-04-17
+    dateTo: 2024-04-17
+    title: "AI for Sustainability: Ushering in a New Era of Responsible Growth"
+    description: A C-Suite event for an in-depth conversation on leveraging AI to improve sustainability strategy and meet financial targets.
+    url: https://10times.com/e1d0-d5z4-x2dg-s
+    relatedEvent: "GDS Group: Meet the Boss"
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2024-02-27
+    dateTo: 2024-02-27
+    title: "AI for sustainability: ushering in a new era of responsible growth"
+    description: A C-Suite event for an in-depth conversation on the use of GenAI to address key sustainability data gaps, make reporting processes more efficient, reduce risk, and comply with rapidly changing requirements.
+    url: https://gdsgroup.com/events/in-person/ai-for-sustainability-ushering-in-a-new-era-of-responsible-growth/
+    relatedEvent: "GDS Group: Meet the Boss"
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: company-article
+    dateFrom: 2023-09-26
+    dateTo: 2023-09-26
+    title: Architect to Operationalize your Sustainability Goals 
+    description: Co-authored an IBM article on a Sustainability Reference Architecture depicting the various data sources that capture sustainability information critical for producing corporate sustainability reports and how these data sources are collected, assembled, analyzed, and reported, leveraging Green Software. 
+    url: https://www.ibm.com/think/insights/architect-to-operationalize-your-sustainability-goals
