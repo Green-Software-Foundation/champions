@@ -15,6 +15,33 @@ social:
   linkedin: anita-schüttler-21095023b
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: meetup-talk
+    dateFrom: 2025-09-16
+    dateTo: 2025-09-16
+    title: "KI & (ökologische) Nachhaltigkeit / AI & (ecological) sustainability"
+    description: |
+     "On this evening, we'll tackle the ultimate green software challenge, AI, and explore what can be done with today's capabilities to limit the damage without reducing the positive potential of the technology.
+     Anita covers four points:
+     1. What are the environmental impacts of AI?
+     2. efficiency, sufficiency, consistency - three pillars as the basis for sustainable AI
+     3. Measuring & estimating - which Open Source tools can help?
+     4. Further resources, best practices, and tips for everyday use
+
+     Afterwards, we want to exchange ideas, pool and supplement our knowledge, and learn from each other."
+    url: https://www.meetup.com/green-software-development-karlsruhe/events/310067299/
+    relatedEvent: Green Software Development Karlsruhe Meetup
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2025-06-26
+    dateTo: 2025-06-26
+    title: Masterclass on AI & Sustainability
+    description: |
+     "In this masterclass, we look at AI through the lens of sustainability: What environmental impact does it have, and what social impact does it have, especially in the digital realm? How can we estimate energy, water, and other resource consumption, and what tools can help us do so? How are emissions from the training and usage phases calculated, and what options are available to reduce them? What small tips can help in everyday use of AI, and what can I do if I build AI applications myself? These are big questions—in this session, we will go through them together, get an overview, try out tools, and understand the connections and options for action."
+    url: https://connext.bremen.ai/#masterclass
+    relatedEvent: CONNEXT Bremen
+  - contributionType: speaking
     linkedGSFProject: Green Software Champions & Experts
     subtype: podcast
     dateFrom: 2025-07-08
