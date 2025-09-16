@@ -22,6 +22,19 @@ social:
   twitter: inescapinezka
 activities:
   - contributionType: writing
+    linkedGSFProject: Green Software Practitioner
+    subtype: personal-blog-post
+    dateFrom: 2025-08-22
+    dateTo: 2025-08-22
+    title: Why Your ESG Tech Stack Needs an Audit-Ready Makeover
+    description: |
+     " The gap between pretty reports and audit-ready architecture is massive. And 2025 is the year that gap becomes expensive. 
+
+     Now we are talking on hashtag#ESG (as much the above applies to so many things!)
+     When auditors ask "how did you calculate this?", can you trace every data point back to its source?
+
+     From someone who's been in the trenches, I hope this piece brings some light and actions to get ready, and get ready now."
+  - contributionType: writing
     linkedGSFProject: Other/Unlisted
     subtype: personal-blog-post
     dateFrom: 2025-07-25
