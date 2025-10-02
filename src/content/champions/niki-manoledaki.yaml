@@ -1,0 +1,133 @@
+firstName: Niki
+lastName: Manoledaki
+role: Senior Software Engineer
+organization: Grafana Labs
+languages: 
+  - English
+  - Greek
+  - French
+  - Spanish
+pronoun: She/Her
+country: Spain
+city: Barcelona
+bio: |
+ " Niki Manoledaki is a senior software engineer, cloud sustainability advocate, community builder, speaker, and local meetup organizer based in Barcelona. 
+
+ Her day-to-day involves monitoring cloud costs and carbon at scale as a platform engineer. Her advocacy work is focused on building and sharing lessons learned on energy and carbon monitoring and optimization tooling. For example, she helped shape the CNCF Environmental Sustainability Technical Advisory Group and is a maintainer of Kepler, the CNCF-hosted tool for cloud native energy monitoring. 
+
+ She is passionate about finding solutions to make positive change happen, supporting the GSF since 2023 through the episode: "The Week in Green Software: Carbon Aware Spatial Shifting." In anticipation of the SCI specification's ISO approval, she co-created and chairs the CNCF Green Reviews Working Group to implement a SCI reference architecture using cloud native tooling.
+
+ Her green software advocacy included speaking about cloud native sustainability at conferences such as KubeCon + CloudNativeCon. As an organizer, she has served as a program committee member to advocate for more voices in performance optimization, energy monitoring, and GreenOps. She supports these local conversations as an organizer of Cloud Native Barcelona's Cloud Native Sustainability Week. She contributes blog posts and episodes on this topic, including, for example, the Green IO podcast's episode 55, "Decarbonizing Kubernetes." "
+type: normal
+social:
+  github: nikimanoledaki
+  linkedin: niki-manoledaki-9b505111b
+activities:
+  - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: podcast
+    dateFrom: 2025-03-25
+    dateTo: 2025-03-25
+    title: "Green IO: Decarbonizing Kubernetes"
+    description: "Containers, K8s & sustainability are the focus of Episode 55.  Flavia Paganelli, CTO at Aknostic and Niki Manoledaki join Gael Duez to discuss how DevOps need to embrace changes in auto-scaling and adapt monitoring to ensure efficiency across all operations. Both guests are involved in the development of the new tool Kubernetes Emissions Insights Tool (KEIT) which aims to empower developers and businesses by measuring the environmental impact of their cloud usage, from energy consumption to carbon emissions."
+    url: https://greenio.tech/blog/57/episode-55-wrap-up-article-decarbonizing-kubernetes-with-flavia-paganelli-and-niki-manoledaki
+  - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: conference-talk
+    dateFrom: 2024-03-20
+    dateTo: 2024-03-20
+    title: "CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group"
+    description: Set to run alongside KubeCon + CloudNativeCon Europe 2024, CNCF, in collaboration with the United Nations, offered the first-ever hackathon, CloudNativeHacks, to focus exclusively on advancing the delivery of the UN Sustainable Development Goals (SDGs). Panelists discussed the ecosystem of tooling related to monitoring and optimizing the carbon efficiency of software.
+    url: https://kccnceu2024.sched.com/event/1Yvvp
+    relatedEvent: KubeCon + CloudNativeCon Europe 2024
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: lightning-talk
+    dateFrom: 2024-03-19
+    dateTo: 2024-03-19
+    title: "Lightning Talk: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape"
+    description: Environmental sustainability is an increasingly important topic in general and in the cloud native and open source realm as well. However, with the steadily growing attention to the topic, misconceptions and doubts appear regarding the actual impact of proposed actions that are meant to promote environmental sustainability in the cloud. We would like to put our myth-busting hats on to address and debunk some of these misconceptions. We will provide an objective, evidence-based understanding of the real implications some actions may have on environmental sustainability in the cloud-native context. Join the Cloud Native Sustainability Mythbusters Squad, bring your open mind, discover facts, challenge assumptions, and contribute to a more informed and greener community.
+    url: https://www.youtube.com/watch?v=SL2q6uOQsEI
+    relatedEvent: KubeCon + CloudNativeCon Europe 2024
+  - contributionType: writing
+    linkedGSFProject: SCI Spec
+    subtype: 3rd-party-article
+    dateFrom: 2024-01-31
+    dateTo: 2024-01-31
+    title: Seeking Sustainable Cloud Native
+    description: Rachel Stephens interviews Niki Manoledaki (Software Engineer at Grafana Labs) on her work on the CNCF’s  Environmental Sustainability TAG. They discuss the Kepler project, the SCI standard, and other efforts to help engineering teams understand the carbon intensity of their cloud workloads.
+    url: hhttps://www.youtube.com/watch?v=LVk0Frjxx98
+  - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: keynote
+    dateFrom: 2023-11-07
+    dateTo: 2023-11-07
+    title: "Keynote: Environmental Sustainability in the Cloud Is Not a Mythical Creature"
+    description: Environmental sustainability is finally taking center stage among the priorities for technology. There is growing awareness of climate change, increased emphasis on corporate responsibility, and increasing costs for not addressing these. Ultimately, the goal is Net Zero. Cloud providers and users can start tackling this with power consumption accountability, energy efficiency, GreenOps, and cost optimization techniques. Initiatives exist to monitor and address these issues, such as the Software Carbon Intensity specification, but the data is still evolving. This panel has representatives from the Green Software Foundation, CNCF Environmental Sustainability TAG, and O-RAN. We will discuss areas applicable to our representative organizations, corresponding solutions, and how these complement each other. We will discuss the specifics of workloads such as Telco, HPC, AI/ML, and generic IT workloads, and the challenges around these.
+    url: https://www.youtube.com/watch?v=2_Sx9ElD3o8
+    relatedEvent: KubeCon + CloudNativeCon
+  - contributionType: organizing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2023-10-10
+    dateTo: 2023-10-10
+    title: Cloud Native Sustainability Week 2023 - Barcelona
+    description: Organized a Barcelona meetup as part of the global Cloud Native Sustainability Week in 2023
+    url: https://community.cncf.io/events/details/cncf-cloud-native-barcelona-presents-cloud-native-sustainability-week/
+    relatedEvent: KubeCon + CloudNativeCon
+  - contributionType: organizing
+    linkedGSFProject: SCI Spec
+    subtype: other
+    dateFrom: 2023-10-09
+    dateTo: 2023-10-09
+    title: Contributing to a More Sustainable Cloud-Native Landscape With the Green Reviews Working Group
+    description: " The Cloud Native Computing Foundation (CNCF) Technical Advisory Group for Environmental Sustainability (TAG ENV) created the Green Reviews Working Group a year ago. This Working Group has an important mission: gather green metrics for CNCF projects and help them become more environmentally sustainable. How are we planning to achieve that? We are building a pipeline to gather metrics and assess the sustainability footprint of CNCF Projects, starting with Falco. We’re currently at the beginning of the implementation journey. Join us to learn more about how carbon and energy metrics can be incorporated in a cloud-native benchmark testing pipeline. "
+    url: https://community.cncf.io/events/details/cncf-cloud-native-barcelona-presents-cloud-native-sustainability-week-2024-barcelona-edition/
+    relatedEvent: Cloud Native Sustainability Week 2024 - Barcelona
+  - contributionType: speaking
+    linkedGSFProject: SCI Reporting
+    subtype: conference-talk
+    dateFrom: 2023-09-28
+    dateTo: 2023-09-28
+    title: Using Green Metrics to Monitor your Carbon Footprint
+    description: |
+     " Carbon emissions from cloud computing are estimated to be more than the emissions from aviation. In this talk we will show you how to take a bottom-up approach to monitoring energy consumption and carbon emissions at a granular level when deploying cloud-native software and provisioning infrastructure.
+
+     In order to reduce the carbon footprint of our infrastructure and software, the first step is to measure the energy consumption and carbon intensity of the applications we run and the tools we build. In this talk, we want to empower engineers to take control of the environments they are working in by setting up easy monitoring flows for gathering green metrics. Kepler, an eBPF energy monitoring tool and CNCF sandbox project, can export green metrics to Prometheus. Those metrics can then be visualized in Grafana, which provides an out-of-the-box support for Prometheus. We will demonstrate how to write PromQL queries that use Kepler metrics to monitor the energy consumed by Pods in namespaces. We will also show you how to convert energy metrics into carbon emission metrics. "
+    url: https://www.youtube.com/watch?v=LO9UyTKnIzc
+    relatedEvent: PromCon
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: podcast
+    dateFrom: 2023-07-26
+    dateTo: 2023-07-26
+    title: "The Week in Green Software: Carbon Aware Spatial Shifting"
+    subtitle: Environment Variables podcast guest 
+    description: Host Chris Adams is joined by Niki Manoledeki of Grafana and Ross Fairbanks of Flatpeak in this edition of TWiGS focused on Carbon Aware Spatial Shifting. They dive into Amazon's 2022 Sustainability Report, highlighting 19 AWS regions powered by 100% renewable energy, and explore videos from the Linux Foundation energy summit (links below). They also discover the importance of measuring carbon footprints in personal computing and IT, and learn about Kepler Power Estimation and the PLATYPUS Attack. Plus, they share some exciting upcoming events from the CNCF and some interesting Barbenheimer inspired portmanteaus from the world of Green Software!
+    url: https://podcasts.castplus.fm/e/489vqm0n-the-week-in-green-software-carbon-aware-spatial-shifting
+  - contributionType: speaking
+    linkedGSFProject: SCI Reporting
+    subtype: conference-talk
+    dateFrom: 2023-05-08
+    dateTo: 2023-05-08
+    title: "Evaluating the Energy Footprint of GitOps Architectures: A Benchmark Analysis"
+    description: The ever-increasing adoption of DevOps practices such as Continuous Deployment (CD) has resulted in an increased demand for energy consumption. As organizations shift towards more environmentally conscious operations, it is of growing significance to consider, among other factors, evaluating the environmental impact of different software deployment methodologies. In this talk, the speakers present a comparative analysis of the energy consumption and corresponding CO2 emissions of GitOps architectures and processes based on a series of experiments. The research used a benchmarking technique to gather energy-related data using Kepler, a lightweight pod-level power consumption metrics exporter. The results provide insights into the energy efficiency of the said approaches and highlight the trade-offs involved. The talk also discusses the implications of the findings for the cloud native realm and helps to inform decision-making in terms of which approach is more eco-friendly.
+    url: https://www.youtube.com/watch?v=LEEEivdYns4
+    relatedEvent: cdCon+GitOpsCon
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: conference-talk
+    dateFrom: 2023-04-13
+    dateTo: 2023-04-13
+    title: "Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency & Telco Cloud Platforms"
+    description: " In November 2022, Linux Foundation Europe announced Project Sylva. As implied by the etymology of the word - “the forest trees growing in a particular region” - the code name stands for the first initiative hosted by LF Europe to create a cloud-native, open-source, production-grade telco stack with leading European carriers and vendors. In keeping with the project’s sylvan roots, in Project Sylva, energy efficiency takes center stage alongside environmental sustainability. What regulatory challenges and opportunities present themselves there? Project Sylva aims to consolidate the operating model of the Telco Cloud model with cloud-native patterns. While operating models such as GitOps make waves in the cloud-native ecosystem, where does that leave telcos? In this panel discussion, leading technologists discuss innovations in the Telco Cloud ecosystem in Europe and beyond, where we are, and where to go from here. "
+    url: https://www.youtube.com/watch?v=wnI0orAsJWI
+  - contributionType: speaking
+    linkedGSFProject: SCI Spec
+    subtype: conference-talk
+    dateFrom: 2022-10-24
+    dateTo: 2022-10-24
+    title: "Panel Discussion: Moving Towards Environmentally Sustainable Operations with Cloud Native Tools"
+    description: Power consumption is a large percentage of telco operation costs. We are taking steps to use fewer resources for the same or more compute potential. This benefits both local communities and the telcos paying for these resources, as well as achieving goals around carbon credits, net zero, and other organizational targets or climate-related regulations. We represent a broad range of technologists with expertise in CNF, 5G, Edge, mobile networks, and HPC. We regularly spend time reflecting on the community-driven collective efforts, bringing in new technologies and objectives, including energy-aware workload orchestration, power per watt optimization, energy-aware automation, and GitOps. This panel discusses approaches to identify tactical actions for resource efficiency and what tooling is currently in place to reduce resource consumption. We identify gaps to improve both the tooling for measurement and the ways to manage the resources.
+    url: https://www.youtube.com/watch?v=2_Sx9ElD3o8
+    relatedEvent: Clout Native Telco Day
