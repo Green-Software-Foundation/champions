@@ -22,6 +22,16 @@ social:
   linkedin: stefan-aeschbacher
 activities:
   - contributionType: organizing
+    linkedGSFProject: Green AI
+    subtype: other
+    dateFrom: 2025-09-18
+    dateTo: 2025-09-18
+    title: Measure Energy of LLMs challenges
+    subtitle: Measure Energy of LLMs challenges
+    description: I organized this challenge and participated in the challenge itself during the hackathon. The challenge was to measure and improve the environmental impact of the Swiss Large Language Model (Apertus, from the Swiss AI Initiative) and compare it with other models. Participants should design methods to quantify energy consumption during inference. Then, prompts should be tested to see the impact of different prompt types.
+    url: https://swissai.dribdat.cc/project/44
+    relatedEvent: SwissAI Weeks Hackathon
+  - contributionType: organizing
     linkedGSFProject: Awesome Green Software
     subtype: green-software-meetup
     dateFrom: 2025-05-23
