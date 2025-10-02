@@ -1,0 +1,62 @@
+firstName: Tia
+lastName: Haddad
+role: Doctoral Researcher in Sustainable Software Engineering
+organization: Kingston University London
+languages: 
+  - English
+  - Arabic
+pronoun: She/Her
+country: United Kingdom
+city: London
+bio: |
+ "I am a senior doctoral researcher in Sustainable Software Engineering, specialising in the design and development of cost-efficient and environmentally responsible software systems for resource-constrained settings. My work focuses on aligning digital health solutions with the global initiative of Universal Health Coverage (UHC), ensuring equitable access to sustainable digital healthcare services, particularly in processing big healthcare data (BHD) tasks.
+ My current research focuses on how Microservices Architecture (MSA) can be leveraged to optimise Quality of Service (QoS) while embedding sustainability as a primary quality attribute. I am developing a QoS-driven, sustainability-by-design control-adaptive feedback system for big data workflows. This framework ensures that workloads are executed in the most carbon-efficient way possible by measuring and optimising across proxies such as energy consumption, electricity usage, cost efficiency, networking overhead, and demand shaping/shifting—while also balancing key trade-offs of performance, such as reliability, availability, and response time.
+ A key contribution of my work is enabling microservice instances to become context-aware of the infrastructure they are deployed on and to make self-adaptive decisions based on their behavioural state. This is built on a framework I proposed for optimising software architectural tactics for sustainable data processing, which defines strategies to minimise energy impact while efficiently managing workloads. The framework integrates green computing techniques, sustainable software development practices, and intelligent systems, effectively aligning deployment choices (e.g., Kubernetes orchestration, cloud region selection) with green computing principles.
+ Crucially, my approach reflects a core principle of Sustainable Software Engineering (SSE), where sustainability is not just about reducing resource consumption, but about maximising value delivered per unit of energy and carbon emitted. In healthcare, this means meeting strict performance demands while also reducing environmental impact, especially in resource-constrained settings where cost and resource capacity are limited.
+ I have presented my work at international conferences, including sustainability-driven development conferences and a medical informatics conference on sustainability. These contributions have been published and are available through my Google Scholar profile. In addition, I have carried out a pilot implementation to evaluate the sustainability impact of microservices architectures (MACH – Microservice, API-first, Cloud-native, and Headless). 
+ Currently, I am advancing this work by developing a comprehensive, low-level framework for an adaptive and carbon-aware software, which defines sustainability-driven architectural tactics for decentralised, cloud-native systems."
+type: normal
+social:
+  github: tiahaddad1
+  linkedin: tiahaddad
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2025-05-20
+    dateTo: 2025-05-20
+    title: "A Sustainable Future in Digital Health: Leveraging Environmentally Friendly Architectural Tactics for Sustainable Data Processing"
+    description: Delivered a presentation at the Medical Informatics Europe 2025 (MIE2025) Conference in the Intelligent Health Systems – From Technology to Data and Knowledge track. I presented a pilot architectural framework for evaluating the sustainability of BHD systems using Microservices Architecture (MSA), highlighting how sustainability-driven metrics, such as energy and carbon efficiency, can be embedded for real-time optimisation.
+    url: https://pubmed.ncbi.nlm.nih.gov/40380550/
+    relatedEvent: Medical Informatics Europe 2025 (MIE2025) Conference
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2025-05-20
+    dateTo: 2025-05-20
+    title: A Sustainable Approach to Processing Big Healthcare Data (BHD) Workloads
+    description: The growing volume of Big Healthcare Data (BHD) workloads requires sustainable solutions to minimise environmental impact. This poster presents a pilot architectural framework that leverages Microservices Architecture (MSA) to enhance the sustainability of BHD workflows. The framework optimises cloud scaling strategies by integrating energy-efficient models with autoscaling tools, such as Kubernetes Event-driven Autoscaling (KEDA) and Horizontal Pod Autoscaling (HPA).
+    url: https://pubmed.ncbi.nlm.nih.gov/40380572/#:~:text=The%20growing%20volume%20of%20Big,the%20sustainability%20of%20BHD%20workflows.
+    relatedEvent: Medical Informatics Europe (MIE2025) 2025
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2024-12-16
+    dateTo: 2024-12-16
+    title: "Developing Sustainable and Scalable Cloud-Native Systems for Universal Health Coverage (UHC): A Pilot Study on Microservices Architecture for Big Healthcare Data Processing"
+    description: |
+     "Universal Health Coverage (UHC), a key target under United Nations Sustainable Development Goal 3 (SDG-3), aims to provide universal access to high-quality healthcare, which requires efficient disease surveillance, continuity of care, and reliable Healthcare Information Systems (HIS). The SDG-12 advocates for sustainable resource use with minimal environmental impact. These two SDGs may not be mutualy supportive; computationally advanced healthcare systems designed to leverage big healthcare data for care delivery, planning, and research, often have significant energy demands for data processing, require high levels of connectivity, and depend on a skilled workforce, posing sustainability challenges.
+     These challenges are particularly pronounced in low-resource settings typical of developing countries and are also noticeable in remote areas within developed countries. To address these challenges, we conducted a pilot study to develop a Microservices Architecture (MSA)-based cloud-native system for processing big healthcare data (BHD). The pilot, utilising Kubernetes for automating the management and deployment of containerised applications, processed a synthetic patient dataset focused on chronic disease management and risk assessment. The system demonstrated effective load balancing, robust service interactions, and real-time resource scaling, supported by Sidecar Proxies for communication and monitoring. The study's quantitative results indicate that cloud-native, event-driven solutions contribute to building sustainable and cost-efficient healthcare systems. This is particularly relevant given the increasing digitisation of information systems and the rising energy consumption driven by the proliferation of IoMT (Internet of Medical Things) solutions."
+    url: https://drive.google.com/file/d/1fEvDYCVA0kRShj5eniowc8qmY7m-TXyn/view?usp=drivesdk
+    relatedEvent: International Conference on Advancing Sustainable Futures (ICASF 2025)
+  - contributionType: writing
+    linkedGSFProject: Green Software Patterns
+    subtype: other
+    dateFrom: 2024-08-25
+    dateTo: 2024-08-25
+    title: "Advancing Healthcare Sustainability: Embracing MACH Architecture for Health IT System Transformation"
+    description: |
+     "Traditional software development principles often compromised scalability and sustainability aspects of system operations. New software architecture paradigms have emerged to rectify these oversights by integrating socio-ecological and technical considerations into software design principles, striking a balance between sustainability, scalability, and dependability aspects. Hence, integrating MACH (M: Microservices, A:
+     Application Programming Interface-API, C: Cloud Computing, H: Headless) could infuse sustainability features, and help shape next-generation software systems towards sustainability (SSE). It has the potential to manage complex data flows and alleviating bottlenecks while responding to evolving societal and technical demands."
+    url: https://pubmed.ncbi.nlm.nih.gov/39176505/
+    relatedEvent: Medical Informatics Europe Conference (MIE2024)
