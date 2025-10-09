@@ -1,0 +1,36 @@
+firstName: Tuomas
+lastName: Välimaa
+role: Chief Commercial Officer
+organization: Trail Openers
+languages: 
+  - English
+  - Finnish
+  - Swedish
+pronoun: He/Him
+country: Finland
+city: Helsinki
+bio: |
+ I am the CCO and partner at Trail Openers, a software and data consultancy focusing on green software. The company currently employs 11 people. My background is in technology and business. I consult with our clients and prospects daily on green software and how they can embark on a more sustainable journey. Additionally, I continually refine our go-to-market strategy and value proposition to align with the market, actively promote the topic on LinkedIn, attend local events, and network globally. I have successfully sold numerous green software projects and established agreements with top companies in Finland aiming to deliver green software. I'm excited about the possibility of helping others and sharing with others how to create a business with green software.
+type: normal
+social:
+  github: tuomasvalimaa
+  linkedin: tuomasvalimaa
+activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Playbooks
+    subtype: company-article
+    dateFrom: 2025-06-02
+    dateTo: 2025-06-02
+    title: Green Software Development Playbook by Trail Openers
+    subtitle: A playbook opening up the key concepts of green software development and Trail Openers' experiences in the field
+    description: Creating the Green Software Development Playbook by Trail Openers, which opens up the key concepts of green software development and shares Trail Openers' experiences in the field.
+    url: https://trailopeners.com/en/materials/playbook.pdf
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: company-article
+    dateFrom: 2025-03-12
+    dateTo: 2025-03-12
+    title: Trail Openers Green Bites Newsletter
+    subtitle: A monthly green software newsletter combining local (Finland & Nordics) and global news
+    description: Publishing first a bi-weekly green software newsletter, later switched to a monthly rhythm.
+    url: https://www.linkedin.com/newsletters/green-bites-newsletter-7305289368934506496/
