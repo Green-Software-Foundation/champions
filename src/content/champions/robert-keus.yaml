@@ -1,0 +1,30 @@
+firstName: Robert
+lastName: Keus
+role: CEO & Founder
+organization: GreenPT
+languages: 
+  - English
+  - Dutch
+pronoun: He/Him
+country: The Netherlands
+city: Utrecht
+bio: |
+ " As the founder of GreenPT, Brthrs and Accessibility Desk, I'm committed to revolutionizing the way technology intersects with society and environment. At Brthrs, our team of digital experts crafts innovative, ethically responsible, and privacy-focused AI solutions that drive positive change.
+
+ Meanwhile, GreenPT, the world's first green AI chat, sets a new standard for sustainable AI interactions, minimizing environmental impact by running on renewable energy and repurposing heat. By integrating these three pillars - innovative AI, digital accessibility, and eco-friendly technology - I aim to create a more equitable, responsible, and sustainable digital landscape for generations to come.
+
+ Through Accessibility Desk, my accredited research and training agency, we empower organizations to create inclusive digital experiences, ensuring equal access for all. Our mission is to bridge the gap between technology and accessibility, making the digital world a more inclusive and equitable place."
+type: normal
+social:
+  github: robertkeus
+  linkedin: robertkeus
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2025-08-01
+    dateTo: 2025-08-01
+    title: How to build a sustainable AI infrastructure
+    description: Founder & CEO GreenPT
+    url: https://greenpt.ai/
+    relatedEvent: Eco Compute Berlin
