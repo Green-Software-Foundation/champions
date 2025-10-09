@@ -1,0 +1,24 @@
+firstName: Arwel
+lastName: Owen
+role: Founder
+organization: Avilastar Limited
+languages: 
+  - English
+  - Welsh
+pronoun: He/Him
+country: Wales
+city: Isle of Anglesey
+bio: Treating carbon like money, I am passionate about helping companies to remove both CO2 and cost from their SAP and Cloud architectures.
+type: normal
+social:
+  github: Avilastar
+  linkedin: arwel-owen-47ba89
+activities:
+  - contributionType: writing
+    linkedGSFProject: Real-Time Cloud
+    subtype: personal-blog-post
+    dateFrom: 2025-10-06
+    dateTo: 2025-10-06
+    title: Carbon Intelligent SAP
+    description: Apply SCI to rate SAP emissions to help clients cut cost and carbon from SAP applications
+    url: https://www.linkedin.com/in/arwel-owen-47ba89/
