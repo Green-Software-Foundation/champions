@@ -21,6 +21,40 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-10-09
+    dateTo: 2025-10-09
+    title: Agile Sustainability Practitioner programme October'25
+    subtitle: Become a Leader for Sustainable Value Creation
+    description: |
+     "Coalition of the Willing A professional collaborative alliance to move the needle from “theory” to “practice” to the biggest challenges our species has faced to date. 4 weeks programme covering Circular Economy, SDGs (Sustainable Development Goals) and Complexity Studies."
+    url: https://tiny.cc/agilesustainability
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2025-10-08
+    dateTo: 2025-10-08
+    title: " 3 FREE Tools for hashtag#Agile Coaches to guide Teams from Climate Inaction to Innovation "
+    description: |
+     " As Agile teams, regardless of the role and framework at hand, we have been living by the mantra of welcoming change, customer value, self-managing teams, and continuous improvement for decades.
+     Yet many teams remain paralysed by the complexity of the challenge, uncertain where to begin or how to contribute meaningfully to solutions.
+
+     Start we can. And let us know how it goes. The time is now."
+    url: https://lnkd.in/eCaWYzaX
+  - contributionType: writing
+    linkedGSFProject: Impact Framework (IF)
+    subtype: personal-blog-post
+    dateFrom: 2025-10-07
+    dateTo: 2025-10-07
+    title: Doughnut Economics is now a data monitor!
+    subtitle: It's peer-reviewed and open-access in Nature. 
+    description: |
+     " The latest news from DEAL team and the release of the Doughnut as Data Explorer. [Doughnut Economics Action Lab (DEAL)]
+
+     This isn't theory anymore. It's an annual monitor with defendable data. For everyone claiming to care about people AND planet – the numbers are in."
+    url: https://lnkd.in/eeqECEvh
   - contributionType: writing
     linkedGSFProject: Green Software Practitioner
     subtype: personal-blog-post
