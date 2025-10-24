@@ -1,0 +1,26 @@
+firstName: Kent Inge
+lastName: Simonsen
+role: Consultant
+organization: Tietoevry
+languages: 
+  - Norwegian
+  - English
+pronoun: He/Him
+country: Norway
+city: Bergen
+bio: I have 20 years of software engineering (SE) experience including a PhD in SE. I have been interested in green software since 2022 authoring several articles, holding several talks. I also enjoy designing and conducting light-weight experiments to figure out what are the best/greenest choices for common coding tasks.
+type: normal
+social:
+  github: kentis
+  linkedin: kentis
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: online-talk
+    dateFrom: 2025-10-02
+    dateTo: 2025-10-02
+    title: "En introduksjon til grønn koding (translation: Introduction to Green Coding)"
+    description: |
+     "As part of a webinar series by the Eco Lighthouse Foundation and Tinkr I was invited to deliver a session on green coding. The session included first a presentation on green coding and then participants were able to dicuss related topics relevant to their own organizations."
+    url: https://teknorge.no/arrangementer/baerekraftig-it-en-webinarserie/ , https://tinkrtools.com/kurs/b%C3%A6rekraft-i-it--og-kommunikasjonsbransjen-
+    relatedEvent: "Bærekraftig IT – en webinarserie (translation: Sustainable IT - A webinar series)"
