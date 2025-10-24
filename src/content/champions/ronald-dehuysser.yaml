@@ -1,0 +1,37 @@
+firstName: Ronald
+lastName: Dehuysser
+role: Founder
+organization: JobRunr
+languages: 
+  - Dutch
+  - English
+pronoun: He/Him
+country: Belgium
+city: Leuven
+bio: |
+ " Ronald Dehuysser is the founder and lead developer behind JobRunr, the background job scheduler for Java trusted by engineers in healthcare, finance, and government. Ronald’s dedication to efficient, scalable software has always gone hand in hand with sustainability and social responsibility.
+
+ With the release of JobRunr v8, Ronald introduced Carbon Aware Jobs, a breakthrough feature that enables developers to schedule tasks during times of lower grid carbon intensity, helping reduce the environmental impact of server workloads. This innovation makes it easier for companies to align software operations with their climate goals, without sacrificing performance.
+
+ Beyond product features, Ronald has also embedded social impact into the business model: JobRunr donates 5% of its revenue annually to charities and causes that improve the world.
+
+ Thanks to Ronald’s leadership, JobRunr demonstrates how clean code and green tech can go hand in hand."
+type: normal
+social:
+  github: rdehuyss
+  linkedin: ronalddehuysser
+  twitter: rdehuyss
+activities:
+  - contributionType: OSS Cotribution
+    linkedGSFProject: Carbon Aware SDK
+    subtype: all
+    dateFrom: 2024-10-01
+    dateTo: 2024-10-01
+    title: JobRunr Carbon Aware Job Processing
+    subtitle: Carbon aware job processing in Java
+    description: |
+     " JobRunr allows you to run your jobs carbon aware using an incredible simple API: 
+     ```java
+     BackgroundJob.enqueue(CarbonAware.between(now(), now().plus(5, HOURS), () -> System.out.println("So easy!"));
+     ``` "
+    url: https://www.youtube.com/watch?v=XwWwOhITNMs
