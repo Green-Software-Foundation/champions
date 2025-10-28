@@ -23,7 +23,18 @@ let data = filenames.map((filename) => {
     return {
       url,
       objectID: url,
-      ...data,
+      firstName: data.firstName,
+      lastName: data.lastName,
+      role: data.role,
+      organization: data.organization,
+      languages: data.languages,
+      pronoun: data.pronoun,
+      country: data.country,
+      city: data.city,
+      bio: data.bio,
+      type: data.type,
+      social: data.social,
+      activitiesCount: data.activities?.length || 0,
       image: `${`https://github.com/${data.social.github}.png`}`,
     };
   } catch (e) {
