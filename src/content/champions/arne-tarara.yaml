@@ -18,6 +18,24 @@ social:
 activities:
   - contributionType: speaking
     linkedGSFProject: Community WG
+    subtype: online-talk
+    dateFrom: 2025-11-06
+    dateTo: 2025-11-06
+    title: Green PLM conference
+    subtitle: "Talk: Tackle Software Carbon Emissions – Tools & Management"
+    description: |
+     Software carbon emissions are seldomly tracked at all at the moment and even less so in an automated fashion.
+
+     Suprisingly so, as they relevantly contribute to an organizations total carbon emission and also they are by nature easily trackable through software tooling.
+
+     I will present an open source eco system we have developed at Green Coding Solutions that enables developers to track, analyze and optimize software carbon emissions in complex landscapes (cloud, on-prem, CI/CD, development etc.).And in extension to that Dashboards and Management Tools that help Management to create and track KPIs that give a realtime overview of the organizations software carbon emissions with clear pointers which emission source to tackle first and also estimate potential effects of planned optimizations.
+
+     This talk will share insights and numbers from our own organization how we use it internally as well as the companies and open source communites we have worked with.
+
+     Furthermore the talk outlines potential applications in automotive and non-digital industries to show its sector agnostic applicability.
+    url: https://greenplm.de/
+  - contributionType: speaking
+    linkedGSFProject: Community WG
     subtype: conference-talk
     dateFrom: 2025-07-03
     dateTo: 2025-07-03
