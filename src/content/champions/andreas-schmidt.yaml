@@ -17,6 +17,25 @@ social:
   github: netzdoktor
   linkedin: darneas
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: internal-event-talk
+    dateFrom: 2025-10-22
+    dateTo: 2025-10-22
+    title: Hey Siri, turn up the temperature!
+    subtitle: How to Warm Your Planet with AI 
+    description: "It is the year 2025: Ten years since the Paris Agreement, and over fifty since the Limits to Growth. Today, the headlines are dominated by the latest and greatest in artificial intelligence (AI), but also doomsday predictions on AI taking over everyone’s jobs. In this talk I take a critical look at the environmental implications of AI technology, which in many instances goes beyond what we know from classical, non-AI computing. After a general look at computing’s environmental impact, we take a closer look at the current sustainability of AI, where both embodied as well as operational resource demand and emissions will be investigated. Afterwards, various ways to make AI more sustainable are presented. Finally, a short detour is planned, covering „sustainable data centers“ as the physical hosts for AI training and serving."
+    url: https://informatik.rub.de/ai-lecture-series/
+    relatedEvent: Bochum AI Lecture Series
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: conference-talk
+    dateFrom: 2025-07-24
+    dateTo: 2025-07-24
+    title: "Computers in Orbit: Green & Efficient?"
+    description: Presenting our work on launch and reentry carbon emissions of low-Earth orbit applications.
+    url: https://github.com/irtf-spacerg/spacerg-materials/blob/main/meetings/123-side/slides-andreas.pdf
+    relatedEvent: IETF 123 - SPACE RG Side Meeting
   - contributionType: writing
     linkedGSFProject: Other/Unlisted
     subtype: other
