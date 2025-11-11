@@ -18,6 +18,241 @@ activities:
   - contributionType: writing
     linkedGSFProject: State of Green Software
     subtype: other
+    dateFrom: 2025-06-16
+    dateTo: 2025-06-16
+    title: "Join Me at the Green Computing Meetup: Built to Last in Rijswijk"
+    description: |
+     "On July 9, I’ll present Built to Last at the Green Computing Meetup (Luminis, Rijswijk)—a talk on designing software that endures in performance, efficiency, and purpose. Discover how sustainable thinking transforms architecture, DevOps, and cloud systems into resilient, resource-aware solutions that truly last."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-sustainability-activity-7341326333605470213-mFcX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-15
+    dateTo: 2025-06-15
+    title: "Voxxed Days Amsterdam: Building Software That Lasts"
+    description: |
+     "At Voxxed Days Amsterdam, I joined Oliver Cronk to discuss what sustainable software truly means—from idle compute costs to AI’s material footprint. We explored tools, real metrics, and the “Build to Last” mindset driving measurable impact in DevOps, cloud, and green software engineering."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-sustainability-activity-7340967907138416641-EWsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-13
+    dateTo: 2025-06-13
+    title: AI Meets Climate Data at the Green Waves Hackathon
+    description: |
+     "At the Green Software Foundation Netherlands Hackathon, Yongxing Loo and I transformed real LiDAR climate data into AI-driven insights—analyzing clouds with just 75g CO₂ of compute. Eight innovative teams tackled climate challenges, proving sustainable tech and rapid innovation can go hand in hand."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7339162258880491520-sh_w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-12
+    dateTo: 2025-06-12
+    title: "The Green IT Value Case: Making Sustainability a Core Business Strategy"
+    description: |
+     "TNO’s Green IT Value Case, with input from Accenture and 20 leading Dutch organizations, proves Green IT is essential to modern business. Addressing governance, data, and supply chain challenges, it offers concrete tools to embed sustainability into strategy—placing environmental impact at the heart of digital transformation."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7338854260148785152-d8f6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-11
+    dateTo: 2025-06-11
+    title: Making Sustainability a Design Constraint, Not a KPI
+    description: Sustainability fails when treated as an afterthought. It must be embedded in architecture, DevOps, and delivery—not dashboards. By engineering intent, feedback, and visibility into every decision, organizations can turn ESG from ambition into action and build software that’s efficient, resilient, and truly sustainable by design.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-softwaredevelopment-activity-7339535540226084865-Bf1y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-10
+    dateTo: 2025-06-10
+    title: "Where Sustainability Meets IT: Turning Tension into Change"
+    description: |
+     "Building a true green IT strategy means confronting governance gaps—not just reporting metrics. As EU digital product passports make accountability mandatory, organizations must align sustainability and IT priorities. Real progress begins when leaders face the tension between growth and responsibility—and choose to design technology that lasts."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-greensoftware-it-activity-7338425035486879744-P8eE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-08
+    dateTo: 2025-06-08
+    title: "Beyond Spend: Rethinking Cloud Costs and Sustainability"
+    description: |
+     "Spend-based carbon estimates are too blunt for modern IT. True sustainability means integrating visibility, measurement, and accountability into daily DevOps and architecture decisions. By connecting cost with impact, teams can design cleaner, more efficient systems—and turn financial insight into real environmental progress, starting today."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_sustainability-softwaredevelopment-innovation-activity-7337919277368324097-18vO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-07
+    dateTo: 2025-06-07
+    title: "Open-Sourcing the Sustainable IT Journey"
+    description: |
+     "After 16 months of exploring Sustainable IT, I’ve shared my insights openly on Medium—covering DevOps, AI, architecture, and leadership. These writings aim to spark conversation, challenge assumptions, and invite collaboration toward greener tech. It’s not perfect—but it’s real, practical, and built to inspire lasting change."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_sustainability-innovation-greenit-activity-7337358920216174593-1QUd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-06
+    dateTo: 2025-06-06
+    title: The Hidden Cost of LLM Agent Architectures
+    description: Multi-agent GenAI systems promise automation but often deliver inefficiency. Massive context sharing, high GPU costs, and slow coordination turn innovation into waste. Until memory, grounding, and agency improve, LLM orchestration remains more expensive noise than scalable productivity. Real progress starts with smarter, structured human-AI collaboration.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ai-genai-llm-activity-7336664796223746048-jg6B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-05
+    dateTo: 2025-06-05
+    title: Starting Your Journey in Sustainable Tech
+    description: Entering sustainability in tech can feel overwhelming, but every expert starts with curiosity. From energy-efficient coding to SAP and Scope 3 insights, there are countless ways to contribute. Join communities like ClimateAction.tech and discover how small, informed steps can drive big impact in building a greener digital future.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_innovation-greenit-greensoftware-activity-7337200765561700352-t6DU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-04
+    dateTo: 2025-06-04
+    title: Celebrating the Green Software Foundation’s Developer Relations Committee
+    description: |
+     "The Green Software Foundation’s new Developer Relations Committee marks a major step in embedding sustainability into software development. By empowering developers through education and guidance, this initiative drives industry-wide change toward greener, more responsible digital systems—a mission that inspires and unites the global green tech community."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenertogether-greensoftware-greenit-activity-7336629426266275840-2Avg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-03
+    dateTo: 2025-06-03
+    title: "Introducing DevOps++: Making Sustainable DevOps Actionable"
+    description: |
+     "DevOps++ integrates sustainability into existing DevOps workflows without disruption. Through the Footprint Scan, telemetry, and AI-driven insights, it identifies optimization opportunities, tracks real energy impact, and delivers measurable cost reductions. A practical framework turning sustainable DevOps from vision into scalable, data-driven reality."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_devops-is-an-implementation-framework-we-activity-7336258042377740288-ECfI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-02
+    dateTo: 2025-06-02
+    title: Discussing Built to Last with Dutch Higher Education Sustainability Leaders
+    description: |
+     "Honored to share insights on Built to Last—the Green Software mindset—with sustainability coordinators from the Dutch higher education sector at KNAW. Exploring how durable, energy-efficient software principles can shape long-term impact across academia and innovation."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_today-i-have-the-pleasure-of-discussing-activity-7335583724329218048-sohu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-06-01
+    dateTo: 2025-06-01
+    title: "Join the Green Waves Climate Codefest 2025 in Delft"
+    description: |
+     "On June 12, 2025, The Green Waves Hackathon returns with Climate Codefest at The Green Village, Delft—an evening of coding, collaboration, and climate innovation. Featuring hands-on projects, community connections, and a keynote by TU Delft’s Geet George, it’s where tech meets sustainability for real impact."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_httpslnkdine6tfcuth-excited-to-share-activity-7336088946071818242-A7JF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-29
+    dateTo: 2025-05-29
+    title: "From Green to Sustainable: Building to Last"
+    description: |
+     "Reflecting on the difference between “green” and true sustainability—short-term efficiency versus long-term resilience. Inspired by recent discussions at HighTech Innovators, this post reframes the mission: designing systems that endure, adapt, and create lasting value. It’s time to move beyond quick wins and start building to last."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_its-soul-reaching-sunday-and-im-not-struggling-activity-7334834823972220928-KSJO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-28
+    dateTo: 2025-05-28
+    title: "A Growing Movement: Connecting Through Sustainable IT"
+    description: |
+     "An inspiring day with Sustainable IT Netherlands and Green Software Foundation Netherlands—40+ passionate professionals united by curiosity and action. With over 700 members and more meetups ahead, this thriving community proves sustainability in tech isn’t a trend—it’s a movement that’s here to stay."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_sustainability-greenit-greensoftware-activity-7333741323411185664-bAr6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-28
+    dateTo: 2025-05-28
+    title: "Heading to Green IO London 2025: Sustainability in Action"
+    description: |
+     "Excited to join Green IO London 2025—a gathering of innovators driving sustainable IT and responsible tech. From low-carbon UX to green software engineering, it’s a community built on honesty, learning, and shared purpose. Grateful to reconnect, learn, and contribute to shaping a more sustainable digital future."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_httpslnkdineb5d5efe-this-september-activity-7334310454367805440-LUp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-27
+    dateTo: 2025-05-27
+    title: "Beyond Awareness: Embedding Sustainability and Observability in DevOps"
+    description: |
+     "Sustainability and observability can’t depend on good intentions—they require structure, feedback, and system-level design. This piece explores how to make them core operational requirements, ensuring teams build resilient, efficient systems that scale responsibly and sustainably."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-softwaredevelopment-devops-activity-7332297502051684352-bRgh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-26
+    dateTo: 2025-05-26
+    title: So a journey begins...GREENTECH FESTIVAL
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_so-a-journey-beginsgreentech-festival-activity-7330437490744377344-fRUh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-25
+    dateTo: 2025-05-25
+    title: "Bundesverband Green Software e.V. 🔍 Green Software Tool Landscape Now Online! 🌱"
+    description: Drop everything and go check it out.
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_bundesverband-green-software-ev-green-activity-7329408429683322880-tNp2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-24
+    dateTo: 2025-05-24
+    title: "Running Dry: The Netherlands’ Growing Water Crisis"
+    description: |
+     "The Dutch Court of Audit warns that drinking water demand is outpacing supply. Despite reduction goals, businesses use more water, and solutions like water-conscious building lag behind. Without urgent, practical action, the Netherlands risks widespread shortages affecting homes, industries, and future developments."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_httpslnkdinedds9-4-in-the-netherlands-activity-7329045303364382721-nDTc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-23
+    dateTo: 2025-05-23
+    title: "Sometimes, a single photo says more than words ever could. KickstartAI"
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_sometimes-a-single-photo-says-more-than-activity-7328870436828545052--G7i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-22
+    dateTo: 2025-05-22
+    title: "Kickstarting Sustainable AI: Smarter Power for a Smarter Future"
+    description: |
+     "Speaking at KickstartAI on building energy-aware AI systems that measure, predict, and reduce their carbon impact. From real-time energy tracking to smarter deployments, this talk explores how we can make AI not just intelligent—but sustainable, measurable, and truly green in practice."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_innovation-softwaredevelopment-ai-activity-7328646077908197377-wKx6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-21
+    dateTo: 2025-05-21
+    title: "Expanding the Circle: Inviting New Voices into Sustainability"
+    description: |
+     "Sustainability thrives when we grow together. By inviting new people, fostering inclusivity, and celebrating participation, we can expand beyond familiar circles and build a broader, more vibrant movement. Change begins with a simple act—bringing someone new into the conversation."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_innovation-sustainability-greensoftware-activity-7328264963993608192-6bek?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-20
+    dateTo: 2025-05-20
+    title: "Connecting at Signal25: Building the Green Tech Community"
+    description: |
+     " Grateful for an inspiring day at Signal25 by Software Improvement Group—insightful talks, meaningful panels, and great conversations with peers in sustainable tech. Events like these strengthen the Green Software and AI community, driving collaboration toward a more sustainable digital future. "
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_had-a-great-time-today-at-signal25-hosted-activity-7328100098821734400-LIxM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-19
+    dateTo: 2025-05-19
+    title: "After the Demo: The Hidden Cost of AI Software"
+    description: |
+     "AI lets us build fast—but at a cost. Beyond the prototypes lie energy use, technical debt, and unsustainable code. This reflection explores the real impact of AI-driven development and why responsible, lasting design matters more than quick wins."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_ai-softwaredevelopment-sustainability-activity-7327564618199937024-_akd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-05-18
+    dateTo: 2025-05-18
+    title: Growing Together in Sustainable AI and Green Software
+    description: |
+     "Sustainability is a shared learning journey—complex, evolving, and community-driven. By supporting one another with curiosity and respect, we accelerate innovation and build a more sustainable digital future through collaboration, humility, and continuous discovery in green software and AI."
+    url: https://www.linkedin.com/posts/wilco-burggraaf-a6b15517_greenit-sustainableit-greensorftware-activity-7327183181944659968-9pMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANnOLMBWggO6icvzYW6SYH5uQAqraXhTj0
+  - contributionType: writing
+    linkedGSFProject: State of Green Software
+    subtype: other
     dateFrom: 2025-05-17
     dateTo: 2025-05-17
     title: "Kicking Off GREENTECH FESTIVAL with Green Application Modernization in Berlin!"
