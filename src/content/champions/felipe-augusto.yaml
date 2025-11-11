@@ -1,0 +1,41 @@
+firstName: Felipe
+lastName: Augusto
+role: Technical Architecture Manager
+organization: Avanade
+languages: 
+  - Portuguese
+  - English
+pronoun: He/Him
+country: Brazil
+city: Curitiba
+bio: |
+ " Currently, I work as a Technical Architecture Manager at Avanade, with solid experience in systems architecture, Cloud, and DevOps. I lead initiatives that promote operational efficiency and environmental responsibility in the use of technology, focusing on GreenOps practices and optimizing cloud workloads. I have been recognized as a Microsoft MVP and have dedicated myself to spreading concepts of digital sustainability in lectures and technical events, highlighting how system architecture and design can contribute to reducing the carbon footprint of organizations. My work combines strategic vision, practical experience in Azure environments, and a commitment to sustainable innovation.
+
+ I am currently pursuing a master's degree at the Federal Technological University of Paraná, UTFPR, and I am taking a GreenOps course. Because I am enjoying it so much, I would like to join the program. I recently held an event on my channel about the topic as well, which can be viewed at this link: https://www.youtube.com/watch?v=roZtnXWfGV4 "
+type: normal
+social:
+  github: felipementel
+  linkedin: felipementel
+activities:
+  - contributionType: gsf contribution
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: all
+    dateFrom: 2025-03-11
+    dateTo: 2025-03-11
+    title: GreenOps - Reducing the carbon footprint in the cloud
+    description: |
+     " In this live stream that I'm posting on the form, I was joined by my friend Juliano Custodio, who is also part of the GSF program, and we discussed the topic of global warming extensively. This is indeed a topic I'm very interested in – especially since I'm a big diver, and I see how much this issue impacts marine life.
+
+     And we definitely need more events and lectures on this topic.
+
+     I also have the LFC131 certification: Green Software for Practitioners issued by The Linux Foundation (link: https://www.credly.com/badges/3e44727f-d3c9-4239-8a35-f6f3db93c217)
+
+     Recently, I started my master's degree at UTFPR in Curitiba, Paraná state, and I'm currently taking a GreenSE course and building software to simulate the energy consumption of electric bicycles – using two perspectives for calculation: the bicycles and the software/infrastructure.
+
+     - For the bicycle calculation, we are using Electric City Maps, which can be found at https://app.electricitymaps.com/developer-hub/playground
+
+     - For the software and infrastructure calculation, we chose to deploy on Azure, and from there we can use the carbon emissions dashboard. Documentation link: https://learn.microsoft.com/en-us/azure/carbon-optimization/
+
+     One idea I have is to associate GSF with community groups – for example, this year in Brazil, we held MVPConf – an event that brought together more than 2400 people and featured several talks by people recognized as Microsoft MVPs. We could use the GSF logo to convey the message that the event is a partner in sustainable initiatives. We could do the same in other communities, events, and universities. "
+    url: https://www.youtube.com/live/roZtnXWfGV4?si=-rKOT2Mta4ybEd8P
+    relatedEvent: I hosted a member of GSF on my channel to discuss carbon footprint and how to request and improve it – which is actually very much linked to FinOps.
