@@ -21,6 +21,16 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Practitioner
+    subtype: keynote
+    dateFrom: 2025-10-16
+    dateTo: 2025-10-16
+    title: "Agile Sustainability: Our Responsibility"
+    subtitle: Evolving Our Practice
+    description: |
+     " As Agile practitioners product & organisation sustainability is our responsibility. In this session we will delve from the business case for Sustainability (& debunking top excuses) right into the responsibility in shaping efficient, modular and natural-capital aware products and systems. Not just by the mantra of “less is more” (simplifying & optimizing), we’ll explore the concept of Circular Economy and how can be applied to our daily practices. Skill up for what’s on-demand and what we ought to achieve within the next 4 years: The legally binding Paris Agreement. Not long! "
+    url: https://leanagilebrighton.co.uk/schedule.html
   - contributionType: organizing
     linkedGSFProject: Other/Unlisted
     subtype: other
