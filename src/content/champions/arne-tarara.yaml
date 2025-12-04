@@ -16,6 +16,15 @@ social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-conference
+    dateFrom: 2025-11-13
+    dateTo: 2025-11-13
+    title: ecoCompute conference 2025
+    subtitle: The biggest engineering conference on sustainability in hardware & software
+    description: ecoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future. We want to bring all three worlds together to reduce implementation hurdles to get sustainability for digital infrastructures into action.
+    url: https://www.eco-compute.io/
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: online-talk
