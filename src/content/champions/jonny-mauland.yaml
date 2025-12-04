@@ -1,0 +1,56 @@
+firstName: Jonny
+lastName: Mauland
+role: Nordic Tech Sustainability Lead
+organization: Accenture
+languages: 
+  - Norwegian
+  - English
+pronoun: He/Him
+country: Norway
+city: Oslo
+bio: |
+ I am a technical architect with 20 years of experience in Accenture. As the Nordic Sustainability Lead in Accenture Technology I am focusing on how we can help our clients use technology to enable and accelerate the implementation of sustainability use cases and solutions, while ensuring that we apply the technology in a fair and sustainable manner. 
+
+ Also spending a significant amount of time to raise awareness and build a Green Software community within (and outside of) Accenture. As one of the largest employing organizations in the world, working with "all" the largest companies globally, our potential positive handprint is enormous. 
+
+ Technology has been a massive driver for innovation and development in our society in the recent decades, and its pace of growth is quicker than ever. As part of the tech industry we have an opportunity and obligation to ensure that technology is used sustainably and responsibly, and that the positive effects exceeds the potential negative impacts.
+type: normal
+social:
+  github: jonnymaul
+  linkedin: mauland
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: internal-event--talk
+    dateFrom: 2025-06-20
+    dateTo: 2025-06-20
+    title: Green Software awareness sessions
+    description: Multiple internal awareness sessions (5-10 on annual basis) on the importance of applying Green Software patterns, and in particular Green and Responsible AI
+    url: https://www.linkedin.com/posts/mauland_destinationnetzero-activity-7262459917482000384-AkAD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABaf1sBRHQxe0MG7yNhbESnhRG8WFWVvjk
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: meetup-talk
+    dateFrom: 2025-04-24
+    dateTo: 2025-04-24
+    title: Green and Responsible AI
+    description: AI is a rapidly advancing field with immense potential for innovation and positive impact, such as supporting the green transition, but it also brings environmental costs and risks of unethical or biased outcomes. This talk explores the importance of addressing these challenges by adopting Green AI principles to minimize resource consumption and applying Responsible AI guidelines to ensure ethical, fair, and transparent use of the technology
+    url: https://www.linkedin.com/posts/accenture-nordics_greensoftware-sustainability-techforgood-activity-7300103314103259136-ANTq/
+    relatedEvent: Green Software Foundation Meetup Oslo
+  - contributionType: organizing
+    linkedGSFProject: Green AI
+    subtype: green-software-meetup
+    dateFrom: 2025-02-27
+    dateTo: 2025-02-27
+    title: Green Software Foundation Oslo Meetup Host & Speaker
+    subtitle: Green and Responsible AI
+    description: AI is a rapidly advancing field with immense potential for innovation and positive impact, such as supporting the green transition, but it also brings environmental costs and risks of unethical or biased outcomes. This talk explores the importance of addressing these challenges by adopting Green AI principles to minimize resource consumption and applying Responsible AI guidelines to ensure ethical, fair, and transparent use of the technology
+    url: https://www.meetup.com/gsf-oslo/events/305698339
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2024-04-24
+    dateTo: 2024-04-24
+    title: OUGN2024
+    subtitle: "Twin Transition: How to rig Norway for a green industrial revolution driven by AI?"
+    description: Keynote at the EPM track of the largest Oracle conference in the Nordics, focusing on the importance of putting sustainability on the agenda, and how technology and AI can play a crucial part
+    url: https://www.linkedin.com/posts/mauland_ougn2024-oracle-sustainability-activity-7189523754996154369-rqu9/
