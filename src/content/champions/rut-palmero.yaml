@@ -25,6 +25,26 @@ social:
   linkedin: rutpal
 activities:
   - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: conference-talk
+    dateFrom: 2025-11-07
+    dateTo: 2025-11-07
+    title: "Green Software: from awareness to measurement and monitoring of sustainable software"
+    description: Awareness talk and demonstration of advances in the state of the art of Green Software that make it possible to monitor the actions carried out to make the software system more sustainable.
+    url: https://www.vallatechsummit.com/agenda
+    relatedEvent: VallaTech Summit from Google Developers Groups
+  - contributionType: speaking
+    linkedGSFProject: State of Green Software
+    subtype: other
+    dateFrom: 2025-04-24
+    dateTo: 2025-04-24
+    title: Software Ecodesign Course
+    subtitle: In-company training for Indra
+    description: |
+     "For 6 months in 3 editions, the company's Product Owners have been trained in Green Software. Starting with knowing where the environmental impact of software comes from, what good practices reduce it, and specific Green Software tools and methodologies to address sustainable design at all stages.
+     Curso de Desarrollo de software medioambientalmente sostenible (Green Software). For the development of the course, the contents of the online course https://www.adrformacion.com/curso-online/desarrollo-software-medioambiental-green were used"
+    url: https://www.adrformacion.com/curso-online/desarrollo-software-medioambiental-green
+  - contributionType: speaking
     linkedGSFProject: Transforming Organisational Software Sustainability
     subtype: other
     dateFrom: 2025-04-23
