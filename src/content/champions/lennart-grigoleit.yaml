@@ -1,0 +1,37 @@
+firstName: Lennart
+lastName: Grigoleit
+role: Software Engineer & Consultant
+organization: Netlight Consulting
+languages: 
+  - German
+  - English
+pronoun: He/Him
+country: Germany
+city: Munich
+bio: |
+ I first learned about the topic in mid 2023 when I joined Netlight and talked to a senior colleague about topic of sustainability. After that, I started researching and building knowledge in the field.
+ I decided to spread the word around Green Software internally to upskill other Netlighters on the topic. I also started to reach out to Communities out there, building a network of contacts in the field.
+ Since then, I've created an internal training for Green Software, have held several talks on the topic and published a whitepaper on it. I continue to be a champion for Green Software at Netlight and whereever I get the chance to do so.
+type: normal
+social:
+  github: lenngri
+  linkedin: lgrigoleit
+activities:
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: meetup-talk
+    dateFrom: 2025-06-10
+    dateTo: 2025-06-10
+    title: From Code to Carbon
+    subtitle: How Green IT Practices Drive Sustainable Cloud Computing
+    description: In this talk, we examined the environmental impact of IT and explore how concepts like GreenOps with cloud computing can help reduce carbon footprints and optimize energy and resource usage. From foundational principles to real-world examples, we dived into strategies for energy-efficient cloud operations and uncover synergies between IT and sustainability and costs. We discussed how innovative practices in the cloud can drive meaningful environmental impact and see why your actions in IT can contribute to a greener, more sustainable future.
+    url: https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-june-community-gathering-netlight/
+    relatedEvent: GDG Cloud Munich Meetup
+  - contributionType: writing
+    linkedGSFProject: SCI Guide
+    subtype: other
+    dateFrom: 2025-04-16
+    dateTo: 2025-04-16
+    title: "Green IT: How to get started with Sustainable Software"
+    description: The climate crisis is reshaping business priorities, and it’s vital to measure your digital infrastructure’s carbon emissions with ESG and CSRD metrics. We’ve put together a three-step guide to reducing your tech-related carbon footprint, without compromising efficiency and innovation.
+    url: https://www.linkedin.com/posts/green-it-how-to-get-started-with-sustainable-ugcPost-7318242288705449984-c-TN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOlfg4BwrTZpAK79AA0q5QVwfUN3CLpQ0Q
