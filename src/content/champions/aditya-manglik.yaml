@@ -18,6 +18,16 @@ social:
   linkedin: adityamanglik
   twitter: adityamanglik
 activities:
+  - contributionType: mentoring
+    linkedGSFProject: SCI for AI
+    subtype: all
+    dateFrom: 2025-11-10
+    dateTo: 2025-11-10
+    title: "Sustainable AI: Software and Hardware design"
+    subtitle: Demo Day - Hacktober
+    description: Invited keynote speaker at Hack4Earth Green AI Challenge Demo Day
+    url: https://dorahacks.io/hackathon/hack4earth-green-ai-2025
+    relatedEvent: Hack4Earth Green AI Challenge
   - contributionType: speaking
     linkedGSFProject: Green Software Champions & Experts
     subtype: internal-event-talk
