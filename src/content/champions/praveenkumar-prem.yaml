@@ -1,0 +1,28 @@
+firstName: Praveenkumar
+lastName: Prem
+role: Director
+organization: Wipro
+languages: 
+  - English
+  - Tamil
+country: Australia
+city: Sydney
+bio: |
+ I’m an AI-driven Quality Engineering leader with 20+ years’ experience helping organisations modernise, automate, and scale their engineering capabilities. Based in Sydney, I work with ANZ clients and Wipro’s global teams to drive QE transformation, enable intelligent test automation, and build future-ready QET organisations that deliver faster, safer, and more sustainably.
+
+ Passionate about ethical, explainable AI, I help teams move from reactive testing to proactive quality engineering. I focus on measurable impact — improving reliability, accelerating release cycles, and embedding AI, automation, and green engineering principles across the delivery ecosystem.
+
+ As a Delivery Leader and AI Transformation Partner managing a $15M P&L portfolio, I redefine how delivery creates strategic value, transforming Wipro into a trusted partner by driving AI-led innovation, operational excellence, and business outcomes. I lead programs to identify AI opportunities that improve client results and foster a change-ready, innovation-oriented culture within the delivery organisation.
+type: normal
+social:
+  github: Mailppk
+activities:
+  - contributionType: writing
+    linkedGSFProject: Community WG
+    subtype: 3rd-party-article
+    dateFrom: 2023-08-31
+    dateTo: 2023-08-31
+    title: Article published in Quality Matters Magazine by South East European Testing Board
+    subtitle: Sustainabilty in Software Engineering
+    description: Writeup on sustainable software engineering
+    url: https://www.quality-matters.org/index.php?page=qm-issues-archive&issue=16
