@@ -21,6 +21,34 @@ social:
   linkedin: inesgarciaagile
   twitter: inescapinezka
 activities:
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
+    dateFrom: 2025-11-20
+    dateTo: 2025-11-20
+    title: " Biomimicry: book recommendation, what can tech learn? "
+    description: |
+     " Nature has already solved the challenges we face. The blueprints exist. The question isn't whether we can create regenerative systems, it's whether we're willing to shed our hubris and learn from the greatest teachers we have. Are we willing to be part of the solution? It's up to us."
+    url: https://www.linkedin.com/pulse/book-series-biomimicry-innovation-inspired-nature-ines-garcia-i8dke/
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: other
+    dateFrom: 2025-11-14
+    dateTo: 2025-11-14
+    title: " Academia Paper: Integrating Sustainability into Practice "
+    subtitle: Evolving Agile
+    description: |
+     " As we approach the 25th anniversary of the Agile Manifesto: it's time to introspect, and to evolve our craft. (regardless of the 'titles/roles', how we do what we do MATTERS)"
+    url: https://www.academia.edu/144726730/Evolving_Agile_Integrating_Sustainability_into_Practice_Twenty_Five_Years_Beyond_the_Manifesto_
+  - contributionType: speaking
+    linkedGSFProject: Other/Unlisted
+    subtype: conference-talk
+    dateFrom: 2025-11-13
+    dateTo: 2025-11-13
+    title: "SoSA 2025: The State of Sustainability in Agile"
+    description: |
+     " Co-chair of Agile Alliance Sustainability initiative, organising event and activities. + Session on latest from initiative and more. "
+    url: https://agilealliance.org/the-state-of-sustainability-in-agile-2025/
   - contributionType: speaking
     linkedGSFProject: Green Software Practitioner
     subtype: keynote
