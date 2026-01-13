@@ -9,13 +9,22 @@ pronoun: He/Him
 country: Germany
 city: Berlin
 bio: |
- Arne is the CEO for the the Berlin based Green Software company Green Coding Berlin GmbH. 
- Professional software engineer for 16+ years with roles in CTO and CEO positions he is now a regular speaker at events and conferences for Green Software in Germany as well as the lead engineer of advanced software energy measurements tools like the Green Metrics Tool, Eco-CI and PowerHog with regular releases and contributions to open source tools and articles about research in the domain of sustainable software engineering.
+ Arne is the CEO for the Berlin based Green Software company Green Coding Solutions GmbH. 
+ Professional software engineer for 18+ years with roles in CTO and CEO positions he is now a regular speaker at events and conferences for Green Software as well as the lead engineer of advanced software carbon measurements tools like the Green Metrics Tool, Eco-CI and PowerHog, published researcher in academic journals and main organiser of the ecoCompute green tech conference.
 type: normal
 social:
   github: ArneTR
   linkedin: arne-tarara
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-conference
+    dateFrom: 2025-11-13
+    dateTo: 2025-11-13
+    title: ecoCompute conference 2025
+    subtitle: The biggest engineering conference on sustainability in hardware & software
+    description: ecoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future. We want to bring all three worlds together to reduce implementation hurdles to get sustainability for digital infrastructures into action.
+    url: https://www.eco-compute.io/
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: online-talk
