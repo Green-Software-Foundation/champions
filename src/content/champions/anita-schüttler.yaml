@@ -15,6 +15,60 @@ social:
   linkedin: anita-schüttler-21095023b
 activities:
   - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-12-11
+    dateTo: 2025-12-11
+    title: "Der Blaue Engel für Software – ein Erfahrungsbericht aus dem eigenen Unternehmen"
+    subtitle: The Blue Angel for Software - a field report from my own company
+    description: |
+     neuland hat seine Such-Software "Holmes" mit dem Blauen Engel für Software zertifizieren lassen.
+
+     In diesem Vortrag stellt Anita den Blauen Engel und seine Intention vor und berichtet von ihren Erfahrungen damit:
+     - Wieso hat neuland sich für die Zertifizierung entschieden?
+     - Wie lief der Zertifizierungsprozess ab, was war einfach und wo lagen Stolpersteine?
+     - Was für Auswirkungen hatte die Zertifizierung im und für das Unternehmen?
+    url: https://www.ittage.informatik-aktuell.de/programm/2025/der-blaue-engel-fuer-software-ein-erfahrungsbericht-aus-dem-eigenen-unternehmen.html
+    relatedEvent: IT-Tage
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-11-14
+    dateTo: 2025-11-14
+    title: Workshop "Green Mindshift in Software Development"
+    description: |
+     Sustainability in software development is not just about code. Decisions made throughout the entire software lifecycle—from requirements to UX and architecture to operations—shape the ecological footprint of digital systems.
+
+     This workshop provides practical examples of how sustainability can be integrated into everyday development work. It starts with a keynote speech featuring proven methods and examples for requirements, UX design, architecture, development, testing, and operations. Participants then work in small teams on micro-challenges, i.e., measures that can be applied immediately in software development (e.g., backlog management, reviews, UX design, build and deployment context, etc.). A special focus is placed on collaboration within the company: How can sales, product owners, developers, and management work together early on to develop software sustainably?
+
+     Those who wish to do so can then test the developed challenge in everyday project work for four weeks. The teams document their experiences internally or publicly, for example on LinkedIn, thereby creating visibility, involving other colleagues, and anchoring sustainable action in the organization.
+    url: https://www.eco-compute.io/workshop/2025/green-mindshift-in-software-development/
+    relatedEvent: ecoCompute
+  - contributionType: speaking
+    linkedGSFProject: Community WG
+    subtype: conference-talk
+    dateFrom: 2025-11-13
+    dateTo: 2025-11-13
+    title: Making spot instances work for sustainability
+    description: |
+     "Spot instances keep being put into the dirty “FinOps only” corner, even by prominent GreenOps players out there. This talks aims to get rid of that image and explain how spot instances can, in many ways, profit sustainability!
+
+     First, we’ll take a look at the bigger picture: what are spot instances, anyway? Why are they a GreenOps tool, although a slightly tricky one? What does the energy transition require from IT systems and how do spot instances support that?
+     Then we’ll talk about how to actually make spot instances work in a project without totally ruining your ops landscape, like they often do if you’re not careful. I’ll bring two examples:
+     - one where a team had huge problems with them, explaining what happened, what caused those problems and how their use had to be rolled back.
+     - one where spot instances usage was automated using Open Source tool Karpenter, showing how to do that in your project and how our customer hugely profited for over a year already. "
+    url: https://www.eco-compute.io/talk/2025/making-spot-instances-work-for-sustainability/
+    relatedEvent: ecoCompute
+  - contributionType: organizing
+    linkedGSFProject: Community WG
+    subtype: green-software-conference
+    dateFrom: 2025-11-13
+    dateTo: 2025-11-13
+    title: member of the program committee
+    description: picking talks for the 2025 ecoCompute conference, hosting one of six workshops
+    url: https://www.eco-compute.io/
+    relatedEvent: ecoCompute
+  - contributionType: speaking
     linkedGSFProject: Green AI
     subtype: meetup-talk
     dateFrom: 2025-09-16
