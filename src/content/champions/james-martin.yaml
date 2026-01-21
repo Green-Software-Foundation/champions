@@ -1,22 +1,46 @@
 firstName: James
 lastName: Martin
-role: Head of Content & Sustainability Communications
-organization: Scaleway
+role: Founder
+organization: BetterTech
 languages: 
   - English
   - French
+  - German
 pronoun: He/Him
 country: France
 city: Paris
 bio: |
- James is in charge of communications and editorial content for European cloud provider Scaleway (iliad Group), with a particular focus on sustainability. Recent publications include the white paper "How can engineers make IT more sustainable?", blogposts such as "How Sustainable is AI?" and Scaleway’s latest Impact Reports. 
+ "James is a digital responsibility and communications expert, recognised as one of the world’s foremost thought leaders on the impact of AI in particular. 
 
- Previously, James led content and social media strategy for world-leading event organiser RX France, and wrote about technology for titles such as A Nous Paris or ELLE. Passionate about how technology can be more responsible, he founded a blog on this topic, BetterTech.blog, in 2018.
+ He speaks frequently on such topics, notably at VivaTech (June 2025), Europe’s largest tech & startups event; at ChangeNOW, one of the world’s biggest climate conferences (April 2025); and prior to that, in a keynote at generative AI event XYZ Paris (Feb 2025), which explains the impact of AI in just 10 minutes.
+
+ Since September 2025, James hosts a 1-day training course, about “Frugal AI” - AI’s impact and how to limit it - with French green IT pioneers GreenIT.fr.
+
+ James was previously Head of Content and Sustainability Communications at Scaleway (iliad Group, 2021-25), where he put this French cloud provider on the responsible tech map, via a much-referenced Green IT white paper (“How can engineers make tech more sustainable?” - 2023), speaking opportunities (Green IO 2024, IT Partners 2025, VivaTech 2024) and bylines (Maddyness, 2024). He also wrote Scaleway’s annual Impact Reports and contributed to parent company iliad Group’s first CSRD report (2025). He was also instrumental in Scaleway’s obtaining EcoVadis Gold (2024).
+
+ James is also to Data for Good’s GenAI Impact/EcoLogits.ai project; and the founder of responsible tech-focused publication BetterTech.blog (2018)."
 type: normal
 social:
   github: jamesmartin75
   linkedin: jamesmartin75
 activities:
+  - contributionType: organizing
+    linkedGSFProject: Green AI
+    subtype: other
+    dateFrom: 2025-09-26
+    dateTo: 2025-09-26
+    title: "Frugal AI training, with GreenIT.fr"
+    description: "I launched in September 26 "Frugal AI", a one-day training course for tech practitioners looking to understand the true impacts of AI, and how to limit them. The course is held in partnership with French digital responsibility pioneers GreenIT.fr."
+    url: https://bit.ly/frugalaitrainingjrm
+  - contributionType: speaking
+    linkedGSFProject: Green AI
+    subtype: conference-talk
+    dateFrom: 2025-04-14
+    dateTo: 2025-04-14
+    title: Speaking about Green AI at ChangeNOW
+    description: I spoke at the 2025 edition of ChangeNOW, one of the world's leading climate conferences, about the true impacts of AI, alongside Axelle Lemaire, ESG Director at Sopra Steria
+    url: https://www.youtube.com/watch?app=desktop&v=aoATTtwgk_o&t=3433s
+    relatedEvent: ChangeNOW
   - contributionType: speaking
     linkedGSFProject: other/unlisted
     subtype: conference-talk
