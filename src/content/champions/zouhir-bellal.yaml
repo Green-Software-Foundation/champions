@@ -20,6 +20,15 @@ social:
   linkedin: bellal-zouhir-8644aa23b
 activities:
   - contributionType: writing
+    linkedGSFProject: Real-Time Cloud
+    subtype: 3rd-party-article
+    dateFrom: 2025-10-25
+    dateTo: 2025-10-25
+    title: "EC6: Enhancing energy efficiency in kubernetes through dynamic extension of CPU Deep Idle States (C6)"
+    description: Presentation of my research contribution at the 16th International Conference on Network of the Future (NoF)
+    url: https://ieeexplore.ieee.org/abstract/document/11223306
+    relatedEvent: presentation at  16th International Conference on Network of the Future (NoF)
+  - contributionType: writing
     linkedGSFProject: Standards WG
     subtype: 3rd-party-article
     dateFrom: 2024-07-09
