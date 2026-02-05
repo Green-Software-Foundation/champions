@@ -16,6 +16,24 @@ social:
   linkedin: jochen-joswig
 activities:
   - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2025-02-11
+    dateTo: 2025-02-11
+    title: "Changing The Climate - How Vienna Is Embracing Greenweb"
+    description: Embracing GreenWeb practices is a profound challenge currently tackled by the WienIT, which is the digital backbone of the Vienna city utilities company (Wiener Stadtwerke-Gruppe). In this presentation we will show how WienIT is improving the sustainability impact of the digital services, which they develop and operate for their clients, like municipal utilities and transportation companies. We will show the approach, the challenges and the lessons learned, so that you can take these ideas and implement them in your own Web Projects.
+    url: https://www.oop-konferenz.de/de/programm/konferenzprogramm/details/mi-74
+    relatedEvent: OOP conference
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2025-02-05
+    dateTo: 2025-02-05
+    title: "DevGreenOps – ideas and inspiration for the sustainability of your DevOps Cycle"
+    description: DevGreenOps is an approach, which takes inspiration form DevSecOps, GreenOps and agile development practices. It enables software developments to incorporate environmental sustainability into their projects and deliver solutions, which their users and planet will love. This session highlights concepts, research, tools and best-practices, which generate insights, inform decisions, help to take action, and ultimately allow you to create your own DevGreenOps-Cycle.
+    url: https://www.oop-konferenz.de/fileadmin/user_upload/1.0_OOP/OOP_2025/OOP_2025_Programm.pdf
+    relatedEvent: OOP conference
+  - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
     dateFrom: 2023-06-27
