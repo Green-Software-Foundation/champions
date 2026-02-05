@@ -14,6 +14,23 @@ social:
   github: fabiocicerchia
   linkedin: fabiocicerchia
 activities:
+  - contributionType: oss contribution
+    linkedGSFProject: Awesome Green Software
+    subtype: all
+    dateFrom: 2026-01-22
+    dateTo: 2026-01-22
+    title: Cloud Region Carbon-Intensity Ratings
+    description: Provides a simple, auditable dataset to support carbon-aware region selection.
+    url: https://github.com/fabiocicerchia/cloud-carbon-scorecard
+  - contributionType: oss contribution
+    linkedGSFProject: Awesome Green Software
+    subtype: all
+    dateFrom: 2026-01-15
+    dateTo: 2026-01-15
+    title: Terraform Module for GreenOps
+    subtitle: A comprehensive Terraform module for deploying a complete environmental impact monitoring and cost tracking stack on Kubernetes clusters.
+    description: Start measuring your infrastructure's energy consumption and cost in 5 minutes. This Terraform module deploys a complete green operations observability stack on Kubernetes, helping you make data-driven decisions about sustainability and efficiency.
+    url: https://github.com/fabiocicerchia/terraform-kubernetes-greenops
   - contributionType: writing
     linkedGSFProject: Green Software Patterns
     subtype: book
