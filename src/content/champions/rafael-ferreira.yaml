@@ -21,6 +21,24 @@ social:
   website: https://orafaelferreira.com/
 activities:
   - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2025-10-25
+    dateTo: 2025-10-25
+    title: GreenOps e Cloud Sustentável
+    description: On October 24th and 25th, 2025, I was present at MVP Conf Brasil, held at UNIP Campus Paraíso/Vergueiro, in São Paulo - SP. The event brought together more than 500 Microsoft experts from across the country — two intense days of learning, networking and sharing high-level technical knowledge.
+    url: https://www.orafaelferreira.com/artigos/mvp-conf-sp
+    relatedEvent: MVP Conf 2025
+  - contributionType: speaking
+    linkedGSFProject: Green Software Patterns
+    subtype: conference-talk
+    dateFrom: 2025-09-16
+    dateTo: 2025-09-16
+    title: "GreenOps na Cloud: Arquitetando um Futuro Sustentável"
+    description: On September 17, 2025, I participated as a speaker in the Cloud Architecture Trail at TDC São Paulo, one of the biggest technology events in Brazil, held at ProMagno, in São Paulo - SP.
+    url: https://www.orafaelferreira.com/artigos/tdc-greenops/
+    relatedEvent: TDC São Paulo 2025
+  - contributionType: speaking
     linkedGSFProject: Green Software Speakers
     subtype: meetup-talk
     dateFrom: 2024-12-17
