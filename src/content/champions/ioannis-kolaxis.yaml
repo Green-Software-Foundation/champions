@@ -16,6 +16,23 @@ social:
   twitter: IoannisKolaxis
   website: https://www.kolaxis.dev
 activities:
+  - contributionType: writing
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: personal-blog-post
+    dateFrom: 2026-02-24
+    dateTo: 2026-02-24
+    title: "Shift-Left Sustainability: How to develop green software by design"
+    description: How do we embed sustainability early in software development, rather than treating it as an afterthought?
+    url: https://www.kolaxis.dev/shift-sustainability-left-software-development-lifecycle
+  - contributionType: speaking
+    linkedGSFProject: Green Software Champions & Experts
+    subtype: conference-talk
+    dateFrom: 2025-09-24
+    dateTo: 2025-09-24
+    title: Speaker at a panel discussion at GreenIO London
+    description: Represented the GSF at a panel discussion with the topic of "Can networks keep up with the AI boom? A 2030 discussion"
+    url: https://greenio.tech/conference/15/london-2025-september
+    relatedEvent: GreenIO London, 23-24 September 2025
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
