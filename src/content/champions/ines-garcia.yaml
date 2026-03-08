@@ -24,6 +24,14 @@ activities:
   - contributionType: writing
     linkedGSFProject: Other/Unlisted
     subtype: personal-blog-post
+    dateFrom: 2026-02-25
+    dateTo: 2026-02-25
+    title: Circular Economy & Tech?!
+    description: Circular economy isn't a nice-to-have response to the surge of demand for new systems and new infrastructure (AI megatrends & quantum computing), it can be a great enabler while securing supply chains and unlocking whats needed.
+    url: https://www.linkedin.com/pulse/circular-economy-tech-ines-garcia-lgy3e/?trackingId=O4ugfY07S6OL9KoXPm4UQQ%3D%3D
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: personal-blog-post
     dateFrom: 2025-11-20
     dateTo: 2025-11-20
     title: " Biomimicry: book recommendation, what can tech learn? "
