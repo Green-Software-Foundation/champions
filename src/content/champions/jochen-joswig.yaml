@@ -15,6 +15,24 @@ social:
   github: all-green-dev
   linkedin: jochen-joswig
 activities:
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2025-10-20
+    dateTo: 2025-10-20
+    title: Developing and Deploying Software in a Sustainable Way
+    description: This is the second part from my interview with Ben Linders, which was published by InfoQ as articles. In this second part I provide an overview of best practices for the sustainability of APIs and I introduce a few tools, which a software development or operations team can use to measure or improve their softwares sustainability.
+    url: https://www.infoq.com/news/2025/11/sustainable-software/
+    relatedEvent: InfoQ
+  - contributionType: writing
+    linkedGSFProject: Other/Unlisted
+    subtype: 3rd-party-article
+    dateFrom: 2025-10-16
+    dateTo: 2025-10-16
+    title: "DevGreenOps: How to Design Sustainable Digital Services"
+    description: Ben Linders interviewed me. The interview results were transformed into articles for InfoQ. This is the first article to be published. I introduce the concept of DevGreenOps (aka. DevSusOps) as an extension of DevOps that weaves environmental sustainability into every step of the DevOps cycle. I argue that minimalism, transparency, efficiency and awareness are useful pillars, when developing and thinking about sustainable software.
+    url: https://www.infoq.com/news/2025/10/sustainable-digital-services/
+    relatedEvent: InfoQ
   - contributionType: speaking
     linkedGSFProject: Awesome Green Software
     subtype: conference-talk
@@ -33,6 +51,18 @@ activities:
     description: DevGreenOps is an approach, which takes inspiration form DevSecOps, GreenOps and agile development practices. It enables software developments to incorporate environmental sustainability into their projects and deliver solutions, which their users and planet will love. This session highlights concepts, research, tools and best-practices, which generate insights, inform decisions, help to take action, and ultimately allow you to create your own DevGreenOps-Cycle.
     url: https://www.oop-konferenz.de/fileadmin/user_upload/1.0_OOP/OOP_2025/OOP_2025_Programm.pdf
     relatedEvent: OOP conference
+  - contributionType: speaking
+    linkedGSFProject: Awesome Green Software
+    subtype: conference-talk
+    dateFrom: 2024-04-25
+    dateTo: 2024-04-25
+    title: DevSusOps
+    subtitle: integrate sustainability into every step of the DevOps-Cycle
+    description: |
+     DevSusOps is an approach, which takes inspiration form DevSecOps, GreenOps and agile development practices. It enables software development professionals to incorporate environmental sustainability into their projects and deliver solutions, which their users and planet will love.
+     I will introduce the DevSusOps concept as well as tools and ideas, which will help you implement your own DevSusOps approach in your software projects. Among other things these ideas and tools will help you create transparency, generate insights, inform decisions, help to take action, and ultimately allow you to create your own DevSusOps cycle and approach.
+    url: https://www.eco-compute.io/talk/2024/devsusops-integrating-sustainability/
+    relatedEvent: ecoCompute
   - contributionType: speaking
     linkedGSFProject: Community WG
     subtype: conference-talk
